@@ -53,6 +53,7 @@ hreflang absent, mention legale expirant sous 30 jours.
 | 2026-08-03 | Correctif de contraste dans le template : opacites pied de page `.45 -> .62` et `.30 -> .55` |
 | 2026-08-03 | hreflang reporte — cartographie des marches indisponible |
 | 2026-08-03 | Maillage interne par sous-nav ancree (modele Peugeot) |
+| 2026-08-03 | SPOTICAR, STELLANTIS &YOU, LANCIA et LEAPMOTOR sortis du scope (26 sites) |
 
 ## Dettes ouvertes
 
@@ -69,3 +70,79 @@ hreflang absent, mention legale expirant sous 30 jours.
 Le BO n'expose pas d'API : l'ecriture se fait par navigateur. Sequence imposee —
 `build` -> `qa` (exit 0) -> creation en **brouillon** par lots de 15-25 -> recette -> publication
 validee explicitement. Le registre est mis a jour apres chaque lot.
+
+## Extraction V1 (scripts/extract.py)
+
+Produit un **brouillon** `content/<site>/<page>.draft.json` a partir d'une page V1 en ligne.
+
+```bash
+pip install beautifulsoup4 requests
+python3 scripts/extract.py --batch sites.example.csv
+python3 scripts/extract.py --url <URL> --brand citroen --market FR
+python3 scripts/extract.py --file fixtures/page.html --url <URL> --brand citroen --market FR
+```
+
+Le brouillon n'est **jamais publiable tel quel**. Tout ce que la machine ne peut pas decider
+seule est marque `TODO_ARBITRAGE` : c'est volontaire, un trou visible vaut mieux qu'un texte
+invente. Workflow : extraire -> arbitrer les TODO -> renommer en `.json` -> `build` -> `qa`.
+
+Ce que l'extracteur fait automatiquement :
+
+- repare les concatenations cassees du V1 (fin de liste soudee au paragraphe suivant)
+- deduplique le fil d'Ariane et retire le lien de la page courante
+- exclut header / footer / nav du corpus, sinon les titres de pied de page remontent en blocs
+- classe les blocs (`two_col`, `etapes`, `faq`) d'apres leur contenu
+- **n'affecte jamais un visuel V1 au hero** : `TODO_HERO_STELLANTIS`, a servir dans `/Stellantis/`
+- ignore les plans de site et le signale dans le rapport
+- extrait la date d'expiration des mentions legales, que le QA Gate controle ensuite
+
+## Inventaire et decouverte
+
+`inventory/sites.csv` — 67 sites dans le scope. `inventory/hors-scope.csv` — 26 sites ecartes.
+
+```bash
+python3 scripts/discover.py --limit 5      # echantillon de test
+python3 scripts/discover.py --country FR
+python3 scripts/discover.py                # tout le parc (~2 min avec --delay 1)
+```
+
+Produit `inventory/pages.csv`, entree directe de `scripts/extract.py --batch`.
+La decouverte suit robots.txt -> sitemap.xml (index compris) -> liens de la page d'accueil.
+Les slugs de LP sont reconnus dans les 7 langues du parc ; les pages fonctionnelles
+(cookies, mentions, PDF, accessibilite) sont exclues. Un site sans resultat est marque
+`a_inspecter_manuellement` plutot que silencieusement ignore.
+
+## Etat du parc
+
+**67 sites, 9 pays, 9 marques — toutes couvertes par un theme.** Aucun site bloque.
+Le Portugal est deja en V2, absent du parc.
+
+Hors scope (decisions du 2026-08-03) : SPOTICAR (10), STELLANTIS &YOU (8), LANCIA (5),
+LEAPMOTOR (3), soit 26 sites conserves dans `inventory/hors-scope.csv` plutot que
+supprimes, pour pouvoir etre reintegres sans refaire l'inventaire.
+
+| Marque | Sites | | Cluster | Sites | Pays |
+|---|---|---|---|---|---|
+| Citroen | 9 | | fr | 26 | BE, FR, LU |
+| Opel | 9 | | nl | 9 | BE |
+| Peugeot | 9 | | es | 9 | ES |
+| Alfa Romeo | 8 | | de | 8 | AT, DE |
+| DS Automobiles | 8 | | it | 8 | IT |
+| Fiat | 7 | | pl | 6 | PL |
+| Jeep | 7 | | en | 1 | UK |
+| Abarth | 5 | | | | |
+| Fiat Professional | 5 | | | | |
+
+| Pays | BE | ES | LU | FR | IT | PL | DE | AT | UK |
+|---|---|---|---|---|---|---|---|---|---|
+| Sites | 18 | 9 | 9 | 8 | 8 | 6 | 5 | 3 | 1 |
+
+**Cluster francophone** : 26 sites en francais sur 3 pays. Avec un wording repris a
+l'identique et sans hreflang, les pages FR / BE-fr / LU d'une meme marque seront
+identiques. Arbitrage assume, consigne ici pour memoire.
+
+**Belgique** : 18 sites, chaque marque existant en `reprise.*` (fr) et `overname.*` (nl).
+C'est le marche le plus lourd du parc.
+
+**Volumetrie** : 8 marques sur le template partage, 1 sur le template Peugeot.
+Le nombre de pages par site sera connu apres `scripts/discover.py`.

@@ -1,0 +1,25 @@
+{
+  "maj": "2026-08-03",
+  "pages": [
+    {
+      "page_key": "citroen-fr__estimation-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/estimation-voiture",
+      "artefact": "dist/citroen-fr/estimation-voiture.html",
+      "octets": 47949,
+      "build": "2026-08-03",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr__vendez-votre-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/citroen-fr/vendez-votre-voiture.html",
+      "octets": 47381,
+      "build": "2026-08-03",
+      "bo_status": "non_pousse"
+    }
+  ]
+}
