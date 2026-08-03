@@ -1,0 +1,256 @@
+{
+  "page_key": "citroen-fr__estimation-voiture",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/estimation-voiture",
+  "source_v1": "https://www.reprise.citroen.fr/lp/estimation-voiture",
+
+  "meta": {
+    "title": "Estimation voiture en ligne | Reprise Citro\u00ebn",
+    "description": "Estimez gratuitement la valeur de votre voiture en ligne. Reprise Citro\u00ebn rapide et fiable, sans engagement.",
+    "site_name": "Reprise Citro\u00ebn",
+    "author": "Citro\u00ebn France",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "google_site_verification": "Q_Jd_oRv5kam4TqKld9Ek2FlO9p5yoWNKDYkpuLri2c",
+    "og_image_alt": "Citro\u00ebn \u00eb-C3 \u2014 estimez la valeur de reprise de votre voiture"
+  },
+
+  "header": {
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citro\u00ebn",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+
+  "breadcrumb": [
+    { "label": "Accueil", "href": "https://www.reprise.citroen.fr" },
+    { "label": "Estimation voiture", "href": null }
+  ],
+
+  "hero": {
+    "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Immersif_1_eC3.webp",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Estimez la valeur de reprise de votre voiture",
+    "lead": "Estimez gratuitement la valeur de votre voiture en ligne. Reprise Citro\u00ebn rapide et fiable, sans engagement.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+
+  "subnav": [
+    { "label": "Pourquoi Citro\u00ebn", "anchor": "#pourquoi" },
+    { "label": "Le simulateur", "anchor": "#simulateur" },
+    { "label": "\u00c9tapes", "anchor": "#etapes" },
+    { "label": "Avantages", "anchor": "#avantages" },
+    { "label": "FAQ", "anchor": "#faq" }
+  ],
+
+  "trust": [
+    { "icon": "check",  "label": "100% gratuit et en ligne", "sub": "Sans engagement" },
+    { "icon": "clock",  "label": "R\u00e9ception imm\u00e9diate", "sub": "Moins de 5 minutes" },
+    { "icon": "agenda", "label": "Valable 10 jours", "sub": "Prenez votre temps" },
+    { "icon": "pin",    "label": "Partout en France", "sub": "R\u00e9seau Citro\u00ebn" }
+  ],
+
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi",
+      "image_side": "left",
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/8b453a95-8eb9-4641-87e0-5681181a7f7f",
+      "image_alt": "Pourquoi \u00e9valuer votre voiture avec Citro\u00ebn ?",
+      "tag": "Pourquoi Citro\u00ebn",
+      "h2": "Pourquoi faire estimer sa voiture ?",
+      "paragraphs": [
+        { "text": "Aujourd'hui, au milieu de la quantit\u00e9 de sites internet d'\u00e9valuation en ligne, choisir la reprise Citro\u00ebn, c'est la garantie de&nbsp;:" }
+      ],
+      "bullets": [
+        "Une estimation totalement en ligne et sans frais&nbsp;: estimez votre voiture en quelques clics gratuitement",
+        "Une estimation de confiance, \u00e9tablie sur la base d'observations du march\u00e9 et des transactions r\u00e9centes",
+        "Les experts du r\u00e9seau Citro\u00ebn \u00e0 votre service pour reprendre votre v\u00e9hicule. Ce service est sans engagement, mais nous mettons tout notre r\u00e9seau \u00e0 votre service si vous souhaitez la revendre."
+      ]
+    },
+    {
+      "type": "cote",
+      "id": "simulateur",
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "tag": "Le simulateur",
+      "h2": "Comment fonctionne notre simulateur&nbsp;?",
+      "paragraphs": [
+        "Nous vous permettons de faire l'estimation de votre voiture sur la base d'observations du march\u00e9 et des transactions r\u00e9centes, par un professionnel de l'automobile. Afin de pouvoir \u00e9valuer et vous donner une estimation, nous avons besoin d'informations pr\u00e9cises. Saisissez les informations rapidement et facilement.",
+        "Pour cela, vous aurez besoin de&nbsp;:"
+      ],
+      "bullets": [
+        "La carte grise de votre voiture",
+        "Le kilom\u00e9trage de votre voiture",
+        "La liste des d\u00e9fauts de votre voiture"
+      ]
+    },
+    {
+      "type": "etapes",
+      "id": "etapes",
+      "dark": true,
+      "tag": "Comment \u00e7a marche",
+      "h2": "Recevez l'estimation de votre voiture en 3 \u00e9tapes seulement",
+      "steps": [
+        {
+          "h3": "\u00c9tape 1. Compl\u00e9tez toutes les informations n\u00e9cessaires \u00e0 l'\u00e9valuation de votre v\u00e9hicule",
+          "bg": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/8d353cef-d9d1-4f8b-ae15-5211fe2d7fa8",
+          "paragraphs": [
+            "Afin d'estimer votre voiture avec le plus de pr\u00e9cision possible, vous aurez simplement \u00e0 r\u00e9pondre aux quelques questions. Cela vous prendra moins de 5&nbsp;min \u00e0 renseigner&nbsp;!",
+            "En indiquant l'immatriculation de votre v\u00e9hicule, nous retrouvons la voiture que vous souhaitez \u00e9valuer. Votre mod\u00e8le est alors retrouv\u00e9 gr\u00e2ce \u00e0 votre immatriculation, et vous sautez plusieurs \u00e9tapes du parcours, vous gagnez donc du temps.",
+            "Si vous ne vous rappelez plus votre immatriculation, ce n'est pas grave&nbsp;! Vous pouvez r\u00e9pondre \u00e0 quelques questions pour nous permettre de retrouver votre voiture&nbsp;: version, ann\u00e9e de MEC, carburant, puissance moteur."
+          ]
+        },
+        {
+          "h3": "\u00c9tape 2&nbsp;: Obtenez l'estimation de votre voiture en ligne et par email",
+          "bg": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+          "paragraphs": ["Une fois ces informations renseign\u00e9es, nous analysons le march\u00e9 pour vous confirmer le prix juste qui vous est montr\u00e9 \u00e0 la fin du questionnaire. Cette estimation vous est aussi envoy\u00e9e directement par email. Vous avez le choix de continuer ou non le processus, car cette estimation est sans engagement&nbsp;!"],
+          "pill": "Sans engagement"
+        },
+        {
+          "h3": "\u00c9tape 3&nbsp;: Rendez-vous pr\u00e9sentiel avec un professionnel du r\u00e9seau Citro\u00ebn",
+          "bg": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+          "paragraphs": ["Vous serez recontact\u00e9 ensuite \u00e0 votre \u00e9valuation par le concessionnaire Citro\u00ebn que vous aurez choisi, pour convenir d'un rendez-vous et \u00e9tablir une estimation finale de votre v\u00e9hicule. Si cette \u00e9valuation vous satisfait, votre concessionnaire se chargera de la reprise de votre v\u00e9hicule et du processus administratif&nbsp;!"]
+        }
+      ]
+    },
+    {
+      "type": "two_col",
+      "id": "avantages",
+      "image_side": "right",
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d'estimation de voiture en ligne",
+      "tag": "Les avantages",
+      "h2": "Quels sont les avantages du service d'estimation de voiture en ligne&nbsp;?",
+      "bullets": [
+        "<strong>Estimation de votre voiture totalement gratuite et en ligne</strong>&nbsp;: pas d'inqui\u00e9tude \u00e0 avoir&nbsp;! Nous vous permettons d'\u00e9valuer votre voiture gratuitement et directement sur notre site internet&nbsp;! Avec notre exp\u00e9rience Citro\u00ebn, vous \u00eates certain d'obtenir une \u00e9valuation fiable et professionnelle.",
+        "<strong>Estimation valable pendant 10 jours</strong>&nbsp;: vous ne voulez pas vous d\u00e9cider imm\u00e9diatement&nbsp;? Pas de probl\u00e8me&nbsp;! Votre estimation est valable durant 10 jours.",
+        "<strong>Un r\u00e9seau large pour faire racheter votre voiture partout en France</strong>&nbsp;: avec plusieurs points de vente dans le r\u00e9seau Citro\u00ebn, faire reprendre votre voiture n'aura jamais \u00e9t\u00e9 aussi simple.",
+        "<strong>Estimation de voiture rapide \u2014 R\u00e9ception imm\u00e9diate du prix</strong>&nbsp;: pas besoin d'attendre&nbsp;! D\u00e8s que vous finissez de remplir le questionnaire, vous recevez l'estimation de votre voiture."
+      ]
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "tag": "Questions fr\u00e9quentes",
+      "h2": "Questions Fr\u00e9quentes",
+      "items": [
+        {
+          "q": "Comment est \u00e9valu\u00e9e l'estimation de reprise de ma voiture&nbsp;?",
+          "paragraphs": ["L'estimation est \u00e9tablie sur&nbsp;:"],
+          "bullets": [
+            "Les caract\u00e9ristiques de votre v\u00e9hicule&nbsp;: marque, mod\u00e8le, motorisation, finition, kilom\u00e9trage, date de mise en circulation.",
+            "Les observations du march\u00e9&nbsp;: transactions r\u00e9alis\u00e9es r\u00e9cemment par des professionnels sur des mod\u00e8les \u00e9quivalents.",
+            "Une d\u00e9duction de frais de remise en \u00e9tat standard. Ces frais peuvent \u00eatre ajust\u00e9s en fonction de l'\u00e9tat r\u00e9el du v\u00e9hicule."
+          ]
+        },
+        {
+          "q": "Comment fonctionne la reprise par Citro\u00ebn&nbsp;?",
+          "paragraphs": [
+            "<strong>Estimation gratuite en ligne&nbsp;:</strong> Obtenez une estimation gratuite en ligne en renseignant les informations concernant votre v\u00e9hicule avec notre questionnaire en ligne. En moins de 5&nbsp;min, vous obtenez une estimation pour votre v\u00e9hicule, qui vous sera \u00e9galement transmise par email.",
+            "<strong>Obtenez un rendez-vous&nbsp;:</strong> Vous serez recontact\u00e9 par le concessionnaire de votre choix sous 24&nbsp;h, une fois le formulaire renseign\u00e9.",
+            "<strong>L'estimation vous satisfait&nbsp;?</strong> Prenez rendez-vous en concession pour la reprise de votre voiture.",
+            "<strong>Profitez de l'expertise Citro\u00ebn&nbsp;:</strong> L'un de nos experts examine, lors du rendez-vous, et en votre pr\u00e9sence, l'\u00e9tat du v\u00e9hicule et vous propose un prix de reprise ferme. Une fois votre accord confirm\u00e9, nous rachetons votre voiture."
+          ]
+        },
+        {
+          "q": "Quels documents et informations sont n\u00e9cessaires pour \u00e9valuer ma voiture par Citro\u00ebn&nbsp;?",
+          "paragraphs": ["Pour \u00e9valuer votre voiture, vous aurez besoin de&nbsp;:"],
+          "bullets": [
+            "La carte grise de votre voiture pour indiquer l'immatriculation",
+            "Le kilom\u00e9trage de votre voiture"
+          ],
+          "paragraphs_after": ["Par ailleurs, vous devrez renseigner des informations sur l'\u00e9tat g\u00e9n\u00e9ral de la voiture&nbsp;: couleur, carrosserie, \u00e9quipements, etc."]
+        },
+        {
+          "q": "Quels sont les avantages \u00e0 utiliser le service Reprise Citro\u00ebn&nbsp;?",
+          "paragraphs": [
+            "<strong>Rapidit\u00e9&nbsp;:</strong> Recevez une estimation de la valeur de votre v\u00e9hicule par email, en seulement quelques clics. L'estimation de reprise est sans engagement.",
+            "<strong>S\u00e9r\u00e9nit\u00e9&nbsp;:</strong> En sollicitant le service de Reprise Citro\u00ebn, vous recevez une estimation par un professionnel de l'automobile bas\u00e9e sur les observations du march\u00e9 et des transactions r\u00e9centes.",
+            "<strong>S\u00e9curit\u00e9&nbsp;:</strong> Le paiement de votre v\u00e9hicule est garanti et s\u00e9curis\u00e9. Lors de la transaction, le paiement est assur\u00e9 par un concessionnaire Citro\u00ebn."
+          ]
+        },
+        {
+          "q": "\u00c0 quoi m'engage une estimation de reprise&nbsp;?",
+          "paragraphs": ["L'estimation de reprise propos\u00e9e par Reprise Citro\u00ebn est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvr\u00e9s. Vous \u00eates libre de prendre un rendez-vous avec nos experts Citro\u00ebn."]
+        }
+      ]
+    }
+  ],
+
+  "cta_final": {
+    "tag": "Pr\u00eat \u00e0 estimer ?",
+    "h2": "Estimez la valeur de reprise de votre voiture.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre v\u00e9hicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+
+  "footer": {
+    "tagline": "Estimez gratuitement la valeur de votre voiture en ligne. Reprise Citro\u00ebn rapide et fiable, sans engagement.",
+    "social": [
+      { "network": "facebook",  "href": "https://www.facebook.com/Citroen.France?fref=ts" },
+      { "network": "x",         "href": "https://twitter.com/CitroenFrance" },
+      { "network": "instagram", "href": "https://www.instagram.com/citroenfrance/" },
+      { "network": "youtube",   "href": "https://www.youtube.com/user/CitroenFrance" },
+      { "network": "linkedin",  "href": "https://www.linkedin.com/showcase/citroen_france/" }
+    ],
+    "columns": [
+      { "title": "Contact", "links": [
+        { "label": "Trouver un point de vente", "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html" },
+        { "label": "Configurer votre Citro\u00ebn", "href": "https://www.citroen.fr/outils/configurateur.html" },
+        { "label": "Contactez-nous", "href": "https://www.citroen.fr/contact/contactez-nous.html" }
+      ]},
+      { "title": "Mentions l\u00e9gales", "links": [
+        { "label": "Conditions G\u00e9n\u00e9rales d'Utilisation", "href": "https://www.reprise.citroen.fr/cgu.pdf" },
+        { "label": "D\u00e9claration de confidentialit\u00e9", "href": "https://www.reprise.citroen.fr/politique-confidentialite.pdf" },
+        { "label": "Consentement du cookie", "href": "https://www.citroen.fr/cookies" },
+        { "label": "D\u00e9claration d'accessibilit\u00e9", "href": "https://www.reprise.citroen.fr/page-accessibilite" }
+      ]},
+      { "title": "En savoir plus", "links": [
+        { "label": "Citro\u00ebn.fr", "href": "https://www.citroen.fr/accueil.html" },
+        { "label": "SPOTICAR", "href": "https://www.spoticar.fr/voitures-occasion/citroen" }
+      ]}
+    ],
+    "legal": "Offre r\u00e9serv\u00e9e aux particuliers, valable pour l'achat d'un v\u00e9hicule Citro\u00ebn neuf, pour une commande pass\u00e9e avant le 31 ao\u00fbt 2026 dans le r\u00e9seau Citro\u00ebn participant. Cette prime reprise est accord\u00e9e sous r\u00e9serve de la reprise d'un ancien v\u00e9hicule de plus de 8 ans. D\u00e9tails des conditions dans le r\u00e9seau Citro\u00ebn participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "Pour les trajets courts, privil\u00e9giez la marche ou le v\u00e9lo #SeD\u00e9placerMoinsPolluer.",
+    "eco_link_label": "Retrouver les consommations \u00e9nerg\u00e9tiques.",
+    "eco_link_href": "https://www.reprise.citroen.fr/lp/tableau-jauge-co2.pdf",
+    "year": "2026"
+  },
+
+  "jsonld": {
+    "service_name": "Estimation voiture Citro\u00ebn",
+    "service_alt": ["Cote voiture Citro\u00ebn", "Valeur de reprise voiture", "Estimation auto gratuite"],
+    "service_type": "Estimation automobile",
+    "service_description": "Service d'estimation gratuite en ligne de la valeur de reprise de votre voiture, \u00e9tablie sur la base d'observations du march\u00e9 et des transactions r\u00e9centes, sans engagement.",
+    "provider_name": "Citro\u00ebn France",
+    "provider_url": "https://www.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Estimation gratuite et sans engagement, valable pendant 10 jours",
+    "howto_name": "Recevez l'estimation de votre voiture en 3 \u00e9tapes",
+    "howto_description": "Proc\u00e9dure pour obtenir gratuitement en ligne l'estimation de reprise de votre voiture avec le r\u00e9seau Citro\u00ebn.",
+    "related": [
+      "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
+      "https://www.reprise.citroen.fr/lp/cote-voiture",
+      "https://www.reprise.citroen.fr/lp/rachat-voiture"
+    ]
+  },
+
+  "_migration": {
+    "generate": ["hero.tag", "trust[*].label", "trust[*].sub", "cta_final.tag", "subnav"],
+    "corrections_techniques": [
+      "'Si vous ne vous rappelez votre immatriculation' -> 'ne vous rappelez plus'",
+      "'(selon le pays)' retire : residu de templating multi-marche",
+      "Doublon 'Accueil' du fil d'Ariane supprime"
+    ],
+    "abandonne": ["plan_du_site"]
+  }
+}
