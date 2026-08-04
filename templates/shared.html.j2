@@ -76,7 +76,7 @@
 
     :root {
       --color-h1:{{ tokens.color_h1 }}; --color-text:{{ tokens.color_text }};
-      --color-accent:{{ theme.accent }}; --color-pastel:{{ tokens.color_pastel }};
+      --color-accent:{{ theme.accent }}; --accent-text:{{ theme.accent_text }}; --color-pastel:{{ tokens.color_pastel }};
       --glass-bg:rgba(255,255,255,0.85); --glass-blur:blur(40px);
       --shadow-diffuse:0 24px 48px rgba(17,24,39,0.04);
       --radius-card:{{ theme.radius_card }}; --radius-cta:{{ theme.radius_cta }};
@@ -101,8 +101,8 @@
     .section-tag { display:inline-flex; align-items:center; justify-content:center; width:fit-content; font-size:.75rem; font-weight:800; letter-spacing:.12em; text-transform:uppercase; color:var(--color-text); background:rgba(17,24,39,.05); padding:6px 14px; border-radius:var(--radius-cta); margin-bottom:24px !important; }
     .glass-card { background:var(--glass-bg); backdrop-filter:var(--glass-blur); -webkit-backdrop-filter:var(--glass-blur); border-radius:var(--radius-card); box-shadow:var(--shadow-diffuse); padding:40px; position:relative; overflow:hidden; }
     .callout-block { background:var(--color-pastel); border-radius:var(--radius-card); padding:32px; box-shadow:none !important; }
-    .btn-primary { display:inline-flex; align-items:center; justify-content:center; gap:12px; background:var(--color-h1); color:#fff; font-size:.9375rem; font-weight:700; padding:16px 32px; border-radius:var(--radius-cta); text-decoration:none; transition:transform .2s ease,background .2s ease; cursor:pointer; font-family:var(--font-main); }
-    .btn-primary:hover { background:#000; transform:translateY(-2px); }
+    .btn-primary { display:inline-flex; align-items:center; justify-content:center; gap:12px; background:var(--color-accent); color:var(--accent-text); font-size:.9375rem; font-weight:700; padding:16px 32px; border-radius:var(--radius-cta); text-decoration:none; transition:transform .2s ease,background .2s ease; cursor:pointer; font-family:var(--font-main); }
+    .btn-primary:hover { filter:brightness(0.88); transform:translateY(-2px); }
     .btn-primary svg { width:18px; height:18px; }
 
     .container { max-width:1280px; margin:0 auto; padding-left:24px; padding-right:24px; }
@@ -116,8 +116,8 @@
     .back-btn { background:rgba(17,24,39,.05); border-radius:10px; width:40px; height:40px; display:flex; align-items:center; justify-content:center; color:var(--color-h1); text-decoration:none; flex-shrink:0; }
     .back-btn:hover { background:rgba(17,24,39,.1); }
     .back-btn svg { width:18px; height:18px; }
-    .header-cta { display:inline-flex; align-items:center; background:var(--color-h1); color:#fff; font-size:.8125rem; font-weight:700; padding:12px 22px; border-radius:var(--radius-cta); white-space:nowrap; text-decoration:none; font-family:var(--font-main); flex-shrink:0; }
-    .header-cta:hover { background:var(--color-accent); }
+    .header-cta { display:inline-flex; align-items:center; background:var(--color-accent); color:var(--accent-text); font-size:.8125rem; font-weight:700; padding:12px 22px; border-radius:var(--radius-cta); white-space:nowrap; text-decoration:none; font-family:var(--font-main); flex-shrink:0; }
+    .header-cta:hover { filter:brightness(0.88); }
 
     /* BREADCRUMB */
     .breadcrumb-wrap { background:#fff; border-bottom:1px solid rgba(17,24,39,.05) !important; }
@@ -161,7 +161,7 @@
 
     /* COTE (fond image sombre) */
     .cote-section { position:relative; overflow:hidden; border-radius:var(--radius-card); }
-    .cote-bg { position:absolute; inset:0; z-index:0; }
+    .cote-bg { position:absolute; inset:0; z-index:0; background:var(--color-h1); }
     .cote-bg img { width:100%; height:100%; object-fit:cover; filter:grayscale(10%); }
     .cote-bg::after { content:''; position:absolute; inset:0; background:linear-gradient(to right,rgba(17,24,39,.95) 40%,rgba(17,24,39,.5) 70%,rgba(17,24,39,.1) 100%); }
     .cote-content { position:relative; z-index:1; padding:72px 64px; max-width:720px; }
@@ -356,7 +356,7 @@
 {%- elif b.type == 'cote' %}
   <section class="container" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
     <div class="cote-section">
-      <div class="cote-bg" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>
+      {%- if b.image %}<div class="cote-bg" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>{% endif %}
       <div class="cote-content">
         <div class="section-tag">{{ b.tag }}</div>
         <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
@@ -407,7 +407,7 @@
         </div>
         <p class="securite-closing">{{ b.closing }}</p>
       </div>
-      <div class="securite-visual"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>
+      {%- if b.image %}<div class="securite-visual"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>{% endif %}
     </div>
   </section>
 {%- elif b.type == 'faq' %}

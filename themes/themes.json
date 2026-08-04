@@ -6,50 +6,113 @@
   },
   "brands": {
     "ds-automobiles": {
-      "label": "DS Automobiles", "template": "shared",
-      "accent": "#846F66", "radius_card": "20px", "radius_cta": "100px",
-      "site_ids": { "FR": "35", "PT": "96" }
+      "label": "DS Automobiles",
+      "template": "shared",
+      "accent": "#846F66",
+      "radius_card": "20px",
+      "radius_cta": "100px",
+      "site_ids": {
+        "FR": "35",
+        "PT": "96"
+      },
+      "accent_text": "#fff"
     },
     "fiat": {
-      "label": "Fiat", "template": "shared",
-      "accent": "#9A172E", "radius_card": "20px", "radius_cta": "100px",
-      "site_ids": { "FR": "155", "PT": "160" }
+      "label": "Fiat",
+      "template": "shared",
+      "accent": "#9A172E",
+      "radius_card": "20px",
+      "radius_cta": "100px",
+      "site_ids": {
+        "FR": "155",
+        "PT": "160"
+      },
+      "accent_text": "#fff"
     },
     "fiat-professional": {
-      "label": "Fiat Professional", "template": "shared",
-      "accent": "#9A172E", "radius_card": "20px", "radius_cta": "100px",
-      "site_ids": { "FR": "158", "PT": "164" }
+      "label": "Fiat Professional",
+      "template": "shared",
+      "accent": "#9A172E",
+      "radius_card": "20px",
+      "radius_cta": "100px",
+      "site_ids": {
+        "FR": "158",
+        "PT": "164"
+      },
+      "accent_text": "#fff"
     },
     "jeep": {
-      "label": "Jeep", "template": "shared",
-      "accent": "#3D4F2F", "radius_card": "0px", "radius_cta": "0px",
-      "site_ids": { "FR": "156", "PT": "161" },
-      "warning": "Accent vert non confirme officiellement — a valider avant deploiement."
+      "label": "Jeep",
+      "template": "shared",
+      "accent": "#3D4F2F",
+      "radius_card": "0px",
+      "radius_cta": "0px",
+      "site_ids": {
+        "FR": "156",
+        "PT": "161"
+      },
+      "warning": "Accent vert non confirme officiellement — a valider avant deploiement.",
+      "accent_text": "#fff"
     },
     "alfa-romeo": {
-      "label": "Alfa Romeo", "template": "shared",
-      "accent": "#971B29", "radius_card": "0px", "radius_cta": "0px",
-      "site_ids": { "FR": "157", "PT": "163" }
+      "label": "Alfa Romeo",
+      "template": "shared",
+      "accent": "#971B29",
+      "radius_card": "0px",
+      "radius_cta": "0px",
+      "site_ids": {
+        "FR": "157",
+        "PT": "163"
+      },
+      "accent_text": "#fff"
     },
     "abarth": {
-      "label": "Abarth", "template": "shared",
-      "accent": "#E72020", "radius_card": "8px", "radius_cta": "0px",
-      "site_ids": { "FR": "154", "PT": "162" }
+      "label": "Abarth",
+      "template": "shared",
+      "accent": "#E72020",
+      "radius_card": "8px",
+      "radius_cta": "0px",
+      "site_ids": {
+        "FR": "154",
+        "PT": "162"
+      },
+      "accent_text": "#fff"
     },
     "citroen": {
-      "label": "Citro\u00ebn", "template": "shared",
-      "accent": "#57718A", "radius_card": "20px", "radius_cta": "100px",
-      "site_ids": { "FR": "33", "PT": "94" }
+      "label": "Citroën",
+      "template": "shared",
+      "accent": "#57718A",
+      "radius_card": "20px",
+      "radius_cta": "100px",
+      "site_ids": {
+        "FR": "33",
+        "PT": "94"
+      },
+      "accent_text": "#fff"
     },
     "peugeot": {
-      "label": "Peugeot", "template": "peugeot",
-      "accent": "#0074E8", "radius_card": "0px", "radius_cta": "0px",
-      "site_ids": { "FR": "21", "PT": "95" }
+      "label": "Peugeot",
+      "template": "peugeot",
+      "accent": "#0074E8",
+      "radius_card": "0px",
+      "radius_cta": "0px",
+      "site_ids": {
+        "FR": "21",
+        "PT": "95"
+      },
+      "accent_text": "#fff"
     },
     "opel": {
-      "label": "Opel", "template": "shared",
-      "accent": "#FCED00", "radius_card": "20px", "radius_cta": "100px",
-      "site_ids": { "FR": "15", "PT": "46" }
+      "label": "Opel",
+      "template": "shared",
+      "accent": "#FCED00",
+      "radius_card": "20px",
+      "radius_cta": "100px",
+      "site_ids": {
+        "FR": "15",
+        "PT": "46"
+      },
+      "accent_text": "#000"
     }
   },
   "tokens_communs": {

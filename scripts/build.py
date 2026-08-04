@@ -27,32 +27,55 @@ def strip_todo(value):
     return value
 
 
-BAD_IMAGE = re.compile(
-    r"logo|icon|sprite|pixel|chevron|arrow|caret|hamburger"
-    r"|close-|menu-|search-|star-|check-|plus-|minus-|-btn\b"
-    r"|\.svg(\?|$)",
-    re.I,
-)
+MEDIA_BRAND_MAP = {
+    "ds-automobiles": "DS Automobiles", "fiat": "Fiat",
+    "fiat-professional": "Fiat Professional", "jeep": "Jeep",
+    "alfa-romeo": "Alfa Romeo", "abarth": "Abarth",
+    "citroen": "Citroën", "peugeot": "Peugeot",
+    "opel": ["Opel FR", "Opel PT"],  # les deux feuilles alimentent le meme pool
+}
 
 
-def normalize_images(page):
-    """Nettoyage retroactif : le filtre d'extraction ne rejetait pas encore
-    les pictogrammes d'interface (chevron-up-home.svg etc.) quand ce corpus
-    a ete construit. On remplace toute image de bloc suspecte par une vraie
-    photo trouvee ailleurs sur la MEME page, sans recrawler. Si la page n'a
-    aucune photo propre, le bloc perd son image plutot que d'afficher un
-    pictogramme etire en plein cadre."""
-    propres = [b["image"] for b in page.get("blocks", [])
-               if b.get("image") and not BAD_IMAGE.search(b["image"])]
+def load_media_library(root):
+    p = root / "bibliotheque-medias-v2.json"
+    if not p.exists():
+        return {}
+    lib = json.loads(p.read_text(encoding="utf-8"))
+    pool = {}
+    for slug, cles in MEDIA_BRAND_MAP.items():
+        cles = cles if isinstance(cles, list) else [cles]
+        vus, urls = set(), []
+        for cle in cles:
+            m = lib["marques"].get(cle)
+            if not m:
+                continue
+            for a in m["assets"]:
+                if "logo" in a["roles"] or a["status"] != "OK_S3":
+                    continue
+                if a["url"] not in vus:
+                    vus.add(a["url"])
+                    urls.append(a["url"])
+        pool[slug] = urls
+    return pool
+
+
+def normalize_images(page, media_pool):
+    """Toute photo issue du V1 est retiree (decision du 2026-08-04). A la
+    place, chaque bloc pioche dans la bibliotheque S3 constituee par marque
+    (bibliotheque-medias-v2.json) -- un pool d'assets reutilisable quel que
+    soit le marche d'origine de la page, comme demande."""
+    pool = media_pool.get(page.get("brand"), [])
     i = 0
     for b in page.get("blocks", []):
-        if b.get("image") and BAD_IMAGE.search(b["image"]):
-            if propres:
-                b["image"] = propres[i % len(propres)]
-                b["image_alt"] = b.get("image_alt") or ""
-                i += 1
-            else:
-                b["image"] = None
+        if not b.get("image"):
+            continue
+        if pool:
+            b["image"] = pool[i % len(pool)]
+            b["image_alt"] = b.get("image_alt") or ""
+            i += 1
+        else:
+            b["image"] = None
+            b["image_alt"] = None
 
 
 def clean_todo(obj):
@@ -158,6 +181,9 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
                       finalize=strip_todo,
                       trim_blocks=False, lstrip_blocks=False, autoescape=False)
+    media_pool = load_media_library(ROOT)
+    print(f"Bibliotheque medias : {sum(len(v) for v in media_pool.values())} visuel(s) "
+          f"sur {len(media_pool)} marque(s)\n")
 
     dist_dir = ROOT / "dist"
     if dist_dir.exists():
@@ -188,7 +214,7 @@ def main():
                                       if c.get("label") and not c["label"].startswith("TODO")]
                 page["subnav"] = [n for n in page.get("subnav", [])
                                   if n.get("label") and not n["label"].startswith("TODO")]
-                normalize_images(page)
+                normalize_images(page, media_pool)
 
                 theme = themes["brands"][page["brand"]]
                 tpl = env.get_template(f"{theme['template']}.html.j2")

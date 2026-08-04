@@ -102,6 +102,16 @@ def audit(path, themes):
                 f"{name} : accent {m.group(1)} sur fond noir {ratio:.2f}:1 < 3:1",
                 blocking=False)
 
+    # --- CTA colore par la marque : le texte doit rester lisible dessus ---
+    ma = re.search(r"--color-accent:\s*(#[0-9A-Fa-f]{6})", s)
+    mt = re.search(r"--accent-text:\s*(#[0-9A-Fa-f a-fA-F]+)", s)
+    if ma and mt:
+        txt_hex = mt.group(1).strip()
+        txt_hex = {"#fff": "#ffffff", "#000": "#000000"}.get(txt_hex, txt_hex)
+        ratio = contrast(ma.group(1), txt_hex)
+        r.check(ratio >= 4.5,
+                f"{name} : CTA {ma.group(1)}/{txt_hex} {ratio:.2f}:1 < 4.5:1 (texte illisible sur bouton)")
+
     # --- SEO ---
     t = re.search(r"<title>(.*?)</title>", s)
     r.check(t is not None, f"{name} : <title> absent")

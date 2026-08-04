@@ -151,7 +151,7 @@
 
     /* BLOC SOMBRE (comparatif / cote) */
     .dark-block { position:relative; min-height:70vh; display:flex; align-items:center; }
-    .dark-media { position:absolute; inset:0; }
+    .dark-media { position:absolute; inset:0; background:#000; }
     .dark-media img { width:100%; height:100%; object-fit:cover; }
     .dark-media::after { content:''; position:absolute; inset:0; background:rgba(0,0,0,.78); }
     .dark-inner { position:relative; z-index:1; max-width:1280px; margin:0 auto; padding:64px 24px; display:grid; gap:40px; }
@@ -293,7 +293,7 @@
   </section>
 {%- elif b.type == 'cote' %}
   <section class="dark-block" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
-    <div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>
+    {%- if b.image %}<div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>{% endif %}
     <div class="dark-inner">
       <div>
         <div class="eyebrow">{{ b.tag }}</div>
@@ -326,7 +326,7 @@
   </section>
 {%- elif b.type == 'comparatif' %}
   <section class="dark-block" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
-    <div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>
+    {%- if b.image %}<div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>{% endif %}
     <div class="dark-inner">
       <div>
         <div class="eyebrow">{{ b.tag }}</div>

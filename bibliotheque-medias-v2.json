@@ -1,0 +1,3763 @@
+{
+  "_meta": {
+    "schema_version": "1.0",
+    "source_file": "Base_Medias_Retoma-def.xlsx",
+    "generated_at": "2026-08-03",
+    "canonical_s3_endpoint": "usine-a-sites.s3.eu-west-1.amazonaws.com",
+    "statuts": {
+      "OK_S3": "hébergé sur le bucket usine-a-sites",
+      "A_MIGRER": "encore hébergé hors S3, à rapatrier",
+      "BLOQUANT_PREPROD": "pointe vers le bucket de préproduction — à corriger en priorité"
+    },
+    "roles": {
+      "logo": "logo de marque",
+      "hero": "premier visuel de la page",
+      "content": "visuel de bloc"
+    },
+    "note_alt": "L'alt n'est pas un identifiant : plusieurs visuels partagent le même alt. Utiliser asset_id."
+  },
+  "marques": {
+    "DS Automobiles": {
+      "marque": "DS Automobiles",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#846F66",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "35",
+        "PT": "96"
+      },
+      "stats": {
+        "assets_uniques": 11,
+        "references": 20,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "ds-automobiles-001",
+          "ds-automobiles-002",
+          "ds-automobiles-003",
+          "ds-automobiles-004",
+          "ds-automobiles-005"
+        ],
+        "Como Funciona": [
+          "ds-automobiles-001",
+          "ds-automobiles-006",
+          "ds-automobiles-003",
+          "ds-automobiles-004",
+          "ds-automobiles-005"
+        ],
+        "Por Quê": [
+          "ds-automobiles-001",
+          "ds-automobiles-007",
+          "ds-automobiles-003",
+          "ds-automobiles-004",
+          "ds-automobiles-005"
+        ],
+        "Vender Carro": [
+          "ds-automobiles-001",
+          "ds-automobiles-008",
+          "ds-automobiles-009",
+          "ds-automobiles-010",
+          "ds-automobiles-011"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "ds-automobiles-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "96",
+          "alt": {
+            "pt": "DS Automobiles"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/96/Logo-DS.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/96/Logo-DS.png",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-002",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/2cars_sol.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/2cars_sol.webp",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-003",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede DS proximidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/0-0_99_ds_online_store_M88-35.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/0-0_99_ds_online_store_M88-35.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-004",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Avaliação da viatura"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-2-5_42_DS_workshop_S71-55.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-2-5_42_DS_workshop_S71-55.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-005",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Contacto do comercial DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-1-8_70-MyDS_app-4_3.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-1-8_70-MyDS_app-4_3.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-006",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Avaliação DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-1-8_104_range_tutorials_connected_services_S71-55.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/4-1-8_104_range_tutorials_connected_services_S71-55.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-007",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Retoma DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/DS-N4-MHEV-X-X-X-WEB-IMAG-X-3840X2160-0726-PT-DEJ21M.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/DS-N4-MHEV-X-X-X-WEB-IMAG-X-3840X2160-0726-PT-DEJ21M.webp",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-008",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Venda de Carro DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/N7-Desktop-XXL_16_9.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/N7-Desktop-XXL_16_9.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "35",
+          "alt": {
+            "pt": "Vantagens Retoma DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-010",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "35",
+          "alt": {
+            "pt": "Etapas retoma DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "ds-automobiles-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "35",
+          "alt": {
+            "pt": "Vender carro DS"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Fiat": {
+      "marque": "Fiat",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#9A172E",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "155",
+        "PT": "160"
+      },
+      "stats": {
+        "assets_uniques": 17,
+        "references": 26,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "fiat-001",
+          "fiat-002",
+          "fiat-003",
+          "fiat-004",
+          "fiat-005",
+          "fiat-006",
+          "fiat-007"
+        ],
+        "Como Funciona": [
+          "fiat-001",
+          "fiat-008",
+          "fiat-009",
+          "fiat-010",
+          "fiat-005",
+          "fiat-006",
+          "fiat-007"
+        ],
+        "Por Quê": [
+          "fiat-001",
+          "fiat-011",
+          "fiat-012",
+          "fiat-013",
+          "fiat-005",
+          "fiat-006",
+          "fiat-007"
+        ],
+        "Vender Carro": [
+          "fiat-001",
+          "fiat-014",
+          "fiat-015",
+          "fiat-016",
+          "fiat-017"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "fiat-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Fiat"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/logo-fiat.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/logo-fiat.png",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-002",
+          "roles": [
+            "hero"
+          ],
+          "format": "jpg",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede Fiat"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-500.jpg",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-500.jpg",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "Fiat ouve o cliente"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/915a797d-692a-4a59-a90f-99dd8d224696",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/915a797d-692a-4a59-a90f-99dd8d224696",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "Contacto e encontro com um vendedor"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/aa3e3702-4e8c-4e42-be9d-feb9c61ab3a6",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/aa3e3702-4e8c-4e42-be9d-feb9c61ab3a6",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-005",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-serenity-fiat.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-serenity-fiat.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-006",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-fast-fiat.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-fast-fiat.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-007",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-safe-fiat.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/content-safe-fiat.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-008",
+          "roles": [
+            "hero"
+          ],
+          "format": "jpg",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Como funciona a Retoma Fiat"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-600.jpg",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-600.jpg",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "Oferta de venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/8f76c72e-63e4-4cca-a74c-13cb2157445d",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/8f76c72e-63e4-4cca-a74c-13cb2157445d",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-010",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "Cálculo de valor de venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/ab380d2a-b987-4968-bccc-bc5d82eeec30",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/ab380d2a-b987-4968-bccc-bc5d82eeec30",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-011",
+          "roles": [
+            "hero"
+          ],
+          "format": "jpg",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Por quê Retoma Fiat"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-600-red.jpg",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-600-red.jpg",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "Uma retoma fácil e rápida"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/68ecdc6c-f14d-4d93-9cde-88ee52b772fe",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/68ecdc6c-f14d-4d93-9cde-88ee52b772fe",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "160",
+          "alt": {
+            "pt": "As etapas da venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/160/ff60297a-a4c1-43b2-8a21-7d6cd7ba27bb",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/160/ff60297a-a4c1-43b2-8a21-7d6cd7ba27bb",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-014",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Retoma Fiat vender carro"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-grizzly-hero.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-grizzly-hero.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-015",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "155",
+          "alt": {
+            "pt": "Benefícios vender carro Fiat"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/155/67c8bc7a-a372-4d48-b3ff-108cfedb7767",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/155/67c8bc7a-a372-4d48-b3ff-108cfedb7767",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-016",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "155",
+          "alt": {
+            "pt": "Etapas vender carro"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/155/9a1dea47-531b-4664-9815-e514fc04eaa6",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/155/9a1dea47-531b-4664-9815-e514fc04eaa6",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-017",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "155",
+          "alt": {
+            "pt": "Vender carro Fiat segura"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Fiat Professional": {
+      "marque": "Fiat Professional",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#9A172E",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "158",
+        "PT": "164"
+      },
+      "stats": {
+        "assets_uniques": 23,
+        "references": 26,
+        "pages": 4,
+        "a_migrer": 4,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "fiat-professional-001",
+          "fiat-professional-002",
+          "fiat-professional-003",
+          "fiat-professional-004",
+          "fiat-professional-005",
+          "fiat-professional-006",
+          "fiat-professional-007"
+        ],
+        "Como Funciona": [
+          "fiat-professional-001",
+          "fiat-professional-008",
+          "fiat-professional-009",
+          "fiat-professional-010",
+          "fiat-professional-011",
+          "fiat-professional-012",
+          "fiat-professional-013"
+        ],
+        "Por Quê": [
+          "fiat-professional-001",
+          "fiat-professional-014",
+          "fiat-professional-015",
+          "fiat-professional-016",
+          "fiat-professional-017",
+          "fiat-professional-018",
+          "fiat-professional-019"
+        ],
+        "Vender Carro": [
+          "fiat-professional-001",
+          "fiat-professional-020",
+          "fiat-professional-021",
+          "fiat-professional-022",
+          "fiat-professional-023"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "fiat-professional-001",
+          "roles": [
+            "hero"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/db8bec36-8181-4970-b3b6-72401d6cdad9",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/db8bec36-8181-4970-b3b6-72401d6cdad9",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-002",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Rede Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://www.fiat.pt/content/dam/cps/fiatprofessional/pt-pt/Promotions/scudo-new-website/new-site/Thumbnail.jpg",
+          "url_canonique": null,
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Rede Fiat Professional ao seu serviço"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/27186985-23fd-4975-93b6-1b20c0605949",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/27186985-23fd-4975-93b6-1b20c0605949",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Contacto e encontro com um vendedor"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/860c518b-f138-47ed-aa2e-aa17a458d7c2",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/860c518b-f138-47ed-aa2e-aa17a458d7c2",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-005",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/9dbcf039-4017-4167-ba99-16417f57f29f",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/9dbcf039-4017-4167-ba99-16417f57f29f",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-006",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/fbfaf628-c68b-4447-afc9-765c5e98dd8c",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/fbfaf628-c68b-4447-afc9-765c5e98dd8c",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/aca0f9b5-807a-4f59-beac-84c1975ab6fb",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/aca0f9b5-807a-4f59-beac-84c1975ab6fb",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-008",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Como funciona a Retoma Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://www.fiat.pt/content/dam/cps/fiatprofessional/pt-pt/Promotions/e-ducato-new-webiste/new-website/Thumbnail.jpg",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Oferta de retoma"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/fa93459a-480e-4d9d-ab43-c512db35e0c2",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/fa93459a-480e-4d9d-ab43-c512db35e0c2",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-010",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Cálculo de valor de venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/4bbb5fcd-0076-43e0-937f-054a06b34fec",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/4bbb5fcd-0076-43e0-937f-054a06b34fec",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/9b12997d-7362-48fa-9631-edb90df12678",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/9b12997d-7362-48fa-9631-edb90df12678",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/b002b1d6-e52a-491a-893b-af3683323cc1",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/b002b1d6-e52a-491a-893b-af3683323cc1",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/8f0b2010-db1c-4b44-a9c5-2611fbcfb240",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/8f0b2010-db1c-4b44-a9c5-2611fbcfb240",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-014",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Por quê Retoma Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://www.fiat.pt/content/dam/cps/fiatprofessional/pt-pt/Promotions/doblo/new-site/Thumbnail.jpg",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-015",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Estimativa do seu veículo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/30a93432-dc1d-484d-a677-5d01217453f6",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/30a93432-dc1d-484d-a677-5d01217453f6",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-016",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Etapas da venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/06ffb449-352c-4557-af5a-6bbd743ca504",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/06ffb449-352c-4557-af5a-6bbd743ca504",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-017",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/5548b4af-3fc3-4cb5-9fb8-7db88c03d042",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/5548b4af-3fc3-4cb5-9fb8-7db88c03d042",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-018",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/1687788f-7734-4c03-9561-e4816980c14b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/1687788f-7734-4c03-9561-e4816980c14b",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-019",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "164",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/164/aeeece81-c335-47dd-9972-5727ae54d2a3",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/164/aeeece81-c335-47dd-9972-5727ae54d2a3",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-020",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Vender carro Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://www.fiat.pt/content/dam/fiat2023/cross/model-range/wl/professional/banner-header/1-desktop.jpg",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-021",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "158",
+          "alt": {
+            "pt": "Benefícios vender carro Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/158/a118a046-8396-4e82-8550-85d7b8218e00",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/158/a118a046-8396-4e82-8550-85d7b8218e00",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-022",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "158",
+          "alt": {
+            "pt": "Etapas vender carro Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/158/150cf677-2597-4f16-85c9-f0056a339685",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/158/150cf677-2597-4f16-85c9-f0056a339685",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "fiat-professional-023",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "158",
+          "alt": {
+            "pt": "Venda segura Fiat Professional"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Jeep": {
+      "marque": "Jeep",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#3D4F2F",
+        "radius_card": "0px",
+        "radius_cta": "0px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "156",
+        "PT": "161"
+      },
+      "stats": {
+        "assets_uniques": 23,
+        "references": 26,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "jeep-001",
+          "jeep-002",
+          "jeep-003",
+          "jeep-004",
+          "jeep-005",
+          "jeep-006",
+          "jeep-007"
+        ],
+        "Como Funciona": [
+          "jeep-001",
+          "jeep-008",
+          "jeep-009",
+          "jeep-010",
+          "jeep-011",
+          "jeep-012",
+          "jeep-013"
+        ],
+        "Por Quê": [
+          "jeep-001",
+          "jeep-014",
+          "jeep-015",
+          "jeep-016",
+          "jeep-017",
+          "jeep-018",
+          "jeep-019"
+        ],
+        "Vender Carro": [
+          "jeep-001",
+          "jeep-020",
+          "jeep-021",
+          "jeep-022",
+          "jeep-023"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "jeep-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Jeep_Black.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Jeep_Black.png",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "jeep-002",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-COMPASS-J4U-BEV-MY26-2000x1000-EXTERIOR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-COMPASS-J4U-BEV-MY26-2000x1000-EXTERIOR.webp",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Rede Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/0356336d-5a7c-4c87-9920-5b61a6eb1326",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/0356336d-5a7c-4c87-9920-5b61a6eb1326",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Contacto e encontro com um vendedor"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/0e0d5dcc-6fe9-44f4-855a-1f2645297a7b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/0e0d5dcc-6fe9-44f4-855a-1f2645297a7b",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-005",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/509be49f-cb91-43fb-acea-cee20d0ac8d7",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/509be49f-cb91-43fb-acea-cee20d0ac8d7",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-006",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/293fbe6d-859f-4719-9b15-eadbe4bdfd93",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/293fbe6d-859f-4719-9b15-eadbe4bdfd93",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/a8f8dbb4-2027-424d-9566-11a74e8d17b3",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/a8f8dbb4-2027-424d-9566-11a74e8d17b3",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "jeep-008",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Como funciona a Retoma Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-MCA-85TH-ANNIVERSARY-BEV-MY26-1920x888-SLIDER-MP-DSK.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-MCA-85TH-ANNIVERSARY-BEV-MY26-1920x888-SLIDER-MP-DSK.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Oferta de retoma"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/d8fe5f6d-2325-424d-93ae-816a9fbfb575",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/d8fe5f6d-2325-424d-93ae-816a9fbfb575",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-010",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Cálculo de valor de venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/72ecefa0-1a50-43fc-bd83-ecf9abea9ce2",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/72ecefa0-1a50-43fc-bd83-ecf9abea9ce2",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/79c81086-1350-4f70-a0d4-e5c1bf98b545",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/79c81086-1350-4f70-a0d4-e5c1bf98b545",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/689c9b3f-46df-4d8d-8e74-ce5c380bb534",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/689c9b3f-46df-4d8d-8e74-ce5c380bb534",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/b1bd1b3f-8c4c-45e4-817e-6c2890f26b42",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/b1bd1b3f-8c4c-45e4-817e-6c2890f26b42",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "jeep-014",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Por quê Retoma Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-MCA-4XE-MHEV-MY26-1920x888-SLIDER-MP-DSK.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-MCA-4XE-MHEV-MY26-1920x888-SLIDER-MP-DSK.webp",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-015",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Uma estimativa do seu veículo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/1e963486-2d12-49c9-8452-9f2c2c035082",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/1e963486-2d12-49c9-8452-9f2c2c035082",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-016",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "As etapas da venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/ab9fbe8a-e5ae-44fb-8a1c-46b8e2951af2",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/ab9fbe8a-e5ae-44fb-8a1c-46b8e2951af2",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-017",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/474e6bff-7510-4a76-b601-c86b3ce62870",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/474e6bff-7510-4a76-b601-c86b3ce62870",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-018",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/4476ff01-161e-4b0e-935a-8833d4e86b5c",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/4476ff01-161e-4b0e-935a-8833d4e86b5c",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-019",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "161",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/161/9949f672-76a6-41ed-b1a4-43a4ad733cda",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/161/9949f672-76a6-41ed-b1a4-43a4ad733cda",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "jeep-020",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Vender carro online Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-85-MY26-1920x1080-TEXT-IMAGE-DSK.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-AVENGER-85-MY26-1920x1080-TEXT-IMAGE-DSK.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "jeep-021",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "156",
+          "alt": {
+            "pt": "Vantagens Retoma Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/156/3d8f412b-963a-4d2d-8529-dc35ef69a9ed",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/156/3d8f412b-963a-4d2d-8529-dc35ef69a9ed",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "jeep-022",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "156",
+          "alt": {
+            "pt": "Etapas vender carro Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/156/2e94a997-7ccb-4c62-be5b-0cb8f0a5c487",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/156/2e94a997-7ccb-4c62-be5b-0cb8f0a5c487",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "jeep-023",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "156",
+          "alt": {
+            "pt": "Venda segura Jeep"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Alfa Romeo": {
+      "marque": "Alfa Romeo",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#971B29",
+        "radius_card": "0px",
+        "radius_cta": "0px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "157",
+        "PT": "163"
+      },
+      "stats": {
+        "assets_uniques": 23,
+        "references": 27,
+        "pages": 5,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "alfa-romeo-001",
+          "alfa-romeo-002",
+          "alfa-romeo-003",
+          "alfa-romeo-004",
+          "alfa-romeo-005",
+          "alfa-romeo-006",
+          "alfa-romeo-007"
+        ],
+        "Como Funciona": [
+          "alfa-romeo-001",
+          "alfa-romeo-008",
+          "alfa-romeo-009",
+          "alfa-romeo-010",
+          "alfa-romeo-011",
+          "alfa-romeo-012",
+          "alfa-romeo-013"
+        ],
+        "FAQ": [
+          "alfa-romeo-001"
+        ],
+        "Por Quê": [
+          "alfa-romeo-001",
+          "alfa-romeo-014",
+          "alfa-romeo-015",
+          "alfa-romeo-016",
+          "alfa-romeo-017",
+          "alfa-romeo-018",
+          "alfa-romeo-019"
+        ],
+        "Vender Carro": [
+          "alfa-romeo-001",
+          "alfa-romeo-020",
+          "alfa-romeo-021",
+          "alfa-romeo-022",
+          "alfa-romeo-023"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "alfa-romeo-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/brand-logo-site.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/brand-logo-site.png",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "FAQ",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-002",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-03.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-03.webp",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Rede Alfa Romeo ao seu serviço"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/47a27bd8-8f5e-466a-a637-7f6f77bf039a",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/47a27bd8-8f5e-466a-a637-7f6f77bf039a",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Contacto e encontro com um vendedor"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/6cdbd2cd-db05-4d51-af44-eed52de25903",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/6cdbd2cd-db05-4d51-af44-eed52de25903",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-005",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/fe794fef-966d-4772-9055-2cae151a6a38",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/fe794fef-966d-4772-9055-2cae151a6a38",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-006",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/e298e92b-e744-45dd-992b-ff65be0f3436",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/e298e92b-e744-45dd-992b-ff65be0f3436",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/0f2adcdd-4e07-4bc1-aa9a-fa80b3e77e28",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/0f2adcdd-4e07-4bc1-aa9a-fa80b3e77e28",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-008",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Como funciona a Retoma Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-04.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-04.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Oferta de retoma"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/656432de-287f-419c-818b-ee5da5b3d5f6",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/656432de-287f-419c-818b-ee5da5b3d5f6",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-010",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Cálculo de valor de venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/14101f2e-af83-4e76-9abc-fdcf6b03d50e",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/14101f2e-af83-4e76-9abc-fdcf6b03d50e",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/2392b76b-6aab-4290-b801-370af1cb8521",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/2392b76b-6aab-4290-b801-370af1cb8521",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/aedaaddd-31dd-4371-a142-1f783a7ae522",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/aedaaddd-31dd-4371-a142-1f783a7ae522",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/f3861062-287e-4e19-bc88-4546190edb15",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/f3861062-287e-4e19-bc88-4546190edb15",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-014",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Porquê Retoma Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-02.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-02.webp",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-015",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Estimativa do seu veículo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/910ff2a4-7829-4d44-a5ab-ee6ddbb4db60",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/910ff2a4-7829-4d44-a5ab-ee6ddbb4db60",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-016",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Etapas da venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/df27da29-2417-4d29-a51e-677c6f3c55e1",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/df27da29-2417-4d29-a51e-677c6f3c55e1",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-017",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/0a913426-adc7-4d90-bc21-729ad2f1cf04",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/0a913426-adc7-4d90-bc21-729ad2f1cf04",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-018",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Rapidez"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/af3dc5bd-f607-4c37-a8ba-0e1ae00d5320",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/af3dc5bd-f607-4c37-a8ba-0e1ae00d5320",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-019",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "163",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/163/7c825133-54cd-42d1-bf38-8e8719259fb5",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/163/7c825133-54cd-42d1-bf38-8e8719259fb5",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-020",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Vender carro Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-01.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-01.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-021",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "157",
+          "alt": {
+            "pt": "Vantagens Retoma Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/157/11dbd34f-7e09-46c0-a371-d78094075820",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/157/11dbd34f-7e09-46c0-a371-d78094075820",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-022",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "157",
+          "alt": {
+            "pt": "Etapas vender carro Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/157/c00ebcb5-958a-4ead-b683-bfba2288ae4b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/157/c00ebcb5-958a-4ead-b683-bfba2288ae4b",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "alfa-romeo-023",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "157",
+          "alt": {
+            "pt": "Venda segura Alfa Romeo"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Abarth": {
+      "marque": "Abarth",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#E72020",
+        "radius_card": "8px",
+        "radius_cta": "0px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "154",
+        "PT": "162"
+      },
+      "stats": {
+        "assets_uniques": 13,
+        "references": 22,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "abarth-001",
+          "abarth-002",
+          "abarth-003",
+          "abarth-004",
+          "abarth-005"
+        ],
+        "Como Funciona": [
+          "abarth-001",
+          "abarth-006",
+          "abarth-007",
+          "abarth-008",
+          "abarth-003",
+          "abarth-004",
+          "abarth-005"
+        ],
+        "Por Quê": [
+          "abarth-001",
+          "abarth-009",
+          "abarth-003",
+          "abarth-004",
+          "abarth-005"
+        ],
+        "Vender Carro": [
+          "abarth-001",
+          "abarth-010",
+          "abarth-011",
+          "abarth-012",
+          "abarth-013"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "abarth-001",
+          "roles": [
+            "hero"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "162",
+          "alt": {
+            "pt": "Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/162/95d033dd-592a-4c84-8de0-6702d0fbc754",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/162/95d033dd-592a-4c84-8de0-6702d0fbc754",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "abarth-002",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/1_desktop_960x572.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/1_desktop_960x572.webp",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "abarth-003",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Serenidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_01_869x489.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_01_869x489.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "abarth-004",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Velocidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_03_869x489.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_03_869x489.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "abarth-005",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Segurança"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_02_869x489.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Content_Grid_Mix_small_immage_02_869x489.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "abarth-006",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Avaliamos a tua viatura"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Abarth-500e-home-page-stripe-DSK-960X572.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Abarth-500e-home-page-stripe-DSK-960X572.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "abarth-007",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Avaliação Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Abarth-BEV-Logo-Desktop-960x572.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Abarth-BEV-Logo-Desktop-960x572.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "abarth-008",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Etapas da venda"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/500eModelpage_a1_1534x774.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/500eModelpage_a1_1534x774.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "abarth-009",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Por quê Retoma Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/store-cut.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/store-cut.webp",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "abarth-010",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Vender carro Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/hero-banner-abarth-001.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/hero-banner-abarth-001.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "abarth-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "154",
+          "alt": {
+            "pt": "Vender o seu carro Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/154/86d1c507-2dec-42ea-a9d5-bf233d66cfe4",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/154/86d1c507-2dec-42ea-a9d5-bf233d66cfe4",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "abarth-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "154",
+          "alt": {
+            "pt": "Etapas vender carro Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "abarth-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "154",
+          "alt": {
+            "pt": "Venda segura Abarth"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Citroën": {
+      "marque": "Citroën",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#57718A",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "33",
+        "PT": "94"
+      },
+      "stats": {
+        "assets_uniques": 14,
+        "references": 22,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "citroen-001",
+          "citroen-002",
+          "citroen-003",
+          "citroen-004",
+          "citroen-005"
+        ],
+        "Como Funciona": [
+          "citroen-001",
+          "citroen-002",
+          "citroen-006",
+          "citroen-004",
+          "citroen-007",
+          "citroen-005"
+        ],
+        "Por Quê": [
+          "citroen-001",
+          "citroen-008",
+          "citroen-004",
+          "citroen-009",
+          "citroen-005"
+        ],
+        "Vender Carro": [
+          "citroen-001",
+          "citroen-010",
+          "citroen-011",
+          "citroen-012",
+          "citroen-013",
+          "citroen-014"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "citroen-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "94",
+          "alt": {
+            "pt": "Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/94/2767d309-399f-4eab-a226-bbaf43f49e72",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/94/2767d309-399f-4eab-a226-bbaf43f49e72",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "citroen-002",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Rede Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Immersif_1_eC3.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Immersif_1_eC3.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "citroen-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "94",
+          "alt": {
+            "pt": "Rede Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/94/de7c8b2c-a093-466b-aa19-120de7db943a",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/94/de7c8b2c-a093-466b-aa19-120de7db943a",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "citroen-004",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "À sua disposição"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Reason_to_Choose_3_eC3.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Reason_to_Choose_3_eC3.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "citroen-005",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Como marcar uma visita"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/services_safety.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/services_safety.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "citroen-006",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Peritagem Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/block-collection-C3.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/block-collection-C3.webp",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "citroen-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "94",
+          "alt": {
+            "pt": "Velocidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/94/01657395-8540-4d05-8265-0b04de9deb92",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/94/01657395-8540-4d05-8265-0b04de9deb92",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "citroen-008",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Porquê Retoma Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/CL%2B25.012.02A.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/CL%2B25.012.02A.webp",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "citroen-009",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "94",
+          "alt": {
+            "pt": "Velocidade"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/94/3956ad6d-8488-4042-a232-ea5bea49f3f1",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/94/3956ad6d-8488-4042-a232-ea5bea49f3f1",
+          "utilise_sur": [
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "citroen-010",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Vender carro Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/CL%2B25.012.06A.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/CL%2B25.012.06A.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "citroen-011",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "33",
+          "alt": {
+            "pt": "Vantagens vender carro Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/33/8b453a95-8eb9-4641-87e0-5681181a7f7f",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/8b453a95-8eb9-4641-87e0-5681181a7f7f",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "citroen-012",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "33",
+          "alt": {
+            "pt": "Benefícios especiais vender carro Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "citroen-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "33",
+          "alt": {
+            "pt": "Etapas vender carro Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/33/8d353cef-d9d1-4f8b-ae15-5211fe2d7fa8",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/8d353cef-d9d1-4f8b-ae15-5211fe2d7fa8",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "citroen-014",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "33",
+          "alt": {
+            "pt": "Venda segura Citroën"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Peugeot": {
+      "marque": "Peugeot",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#0074E8",
+        "radius_card": "0px",
+        "radius_cta": "0px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "21",
+        "PT": "95"
+      },
+      "stats": {
+        "assets_uniques": 11,
+        "references": 30,
+        "pages": 4,
+        "a_migrer": 0,
+        "bloquant_preprod": 0,
+        "alt_manquants": 0
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "peugeot-001",
+          "peugeot-002",
+          "peugeot-003",
+          "peugeot-004",
+          "peugeot-003",
+          "peugeot-005",
+          "peugeot-006",
+          "peugeot-007"
+        ],
+        "Como Funciona": [
+          "peugeot-001",
+          "peugeot-002",
+          "peugeot-004",
+          "peugeot-004",
+          "peugeot-006",
+          "peugeot-005",
+          "peugeot-006",
+          "peugeot-007"
+        ],
+        "Por Quê": [
+          "peugeot-001",
+          "peugeot-002",
+          "peugeot-008",
+          "peugeot-007",
+          "peugeot-005",
+          "peugeot-006",
+          "peugeot-007"
+        ],
+        "Vender Carro": [
+          "peugeot-001",
+          "peugeot-002",
+          "peugeot-009",
+          "peugeot-007",
+          "peugeot-010",
+          "peugeot-008",
+          "peugeot-011"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "peugeot-001",
+          "roles": [
+            "logo"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Peugeot"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/LOGO_PEUGEOT_RADICAL_DESKTOP.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/LOGO_PEUGEOT_RADICAL_DESKTOP.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-002",
+          "roles": [
+            "logo"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "Stellantis",
+          "alt": {
+            "pt": "Peugeot"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/PEUGEOT_LOGO_140_140.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/PEUGEOT_LOGO_140_140.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-003",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Concessionário Peugeot"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_125_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_125_FR.webp",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "peugeot-004",
+          "roles": [
+            "content",
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Profissionais Peugeot"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_503_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_503_FR.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "peugeot-005",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Gratuito e sem compromisso"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E3008_STD_RANGE_2603PJ_506_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E3008_STD_RANGE_2603PJ_506_FR.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "peugeot-006",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Rápido"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E3008_LONG_RANGE_2412PJ_519_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E3008_LONG_RANGE_2412PJ_519_FR.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "peugeot-007",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Sem complicações"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_GAM-E308-E308SW_2601TM_202_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_GAM-E308-E308SW_2601TM_202_FR.webp",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-008",
+          "roles": [
+            "content",
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Peugeot detalhe"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E408_2601STYP_300_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E408_2601STYP_300_FR.webp",
+          "utilise_sur": [
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-009",
+          "roles": [
+            "hero"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Peugeot na estrada à noite"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E208GTi_2606STYP_206_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E208GTi_2606STYP_206_FR.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-010",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Tablier Peugeot"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E2008_2511CV_014_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E2008_2511CV_014_FR.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "peugeot-011",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "95",
+          "alt": {
+            "pt": "Peugeot a carregar"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_502_FR.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_502_FR.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Opel PT": {
+      "marque": "Opel PT",
+      "marche_source": "PT",
+      "theme": {
+        "accent": "#FCED00",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "15",
+        "PT": "46"
+      },
+      "stats": {
+        "assets_uniques": 16,
+        "references": 43,
+        "pages": 6,
+        "a_migrer": 3,
+        "bloquant_preprod": 1,
+        "alt_manquants": 7
+      },
+      "slots_par_page": {
+        "A Rede": [
+          "opel-pt-001",
+          "opel-pt-002",
+          "opel-pt-003",
+          "opel-pt-004",
+          "opel-pt-005",
+          "opel-pt-006",
+          "opel-pt-007",
+          "opel-pt-008"
+        ],
+        "Bónus": [
+          "opel-pt-001",
+          "opel-pt-009",
+          "opel-pt-010",
+          "opel-pt-011",
+          "opel-pt-012",
+          "opel-pt-008"
+        ],
+        "Como Funciona": [
+          "opel-pt-001",
+          "opel-pt-013",
+          "opel-pt-003",
+          "opel-pt-004",
+          "opel-pt-005",
+          "opel-pt-006",
+          "opel-pt-007",
+          "opel-pt-005",
+          "opel-pt-008"
+        ],
+        "FAQ": [
+          "opel-pt-008"
+        ],
+        "Por Quê": [
+          "opel-pt-001",
+          "opel-pt-014",
+          "opel-pt-003",
+          "opel-pt-004",
+          "opel-pt-005",
+          "opel-pt-006",
+          "opel-pt-007",
+          "opel-pt-008"
+        ],
+        "Vender Carro": [
+          "opel-pt-001",
+          "opel-pt-015",
+          "opel-pt-016",
+          "opel-pt-014",
+          "opel-pt-009",
+          "opel-pt-015",
+          "opel-pt-016",
+          "opel-pt-014",
+          "opel-pt-009",
+          "opel-pt-009",
+          "opel-pt-008"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "opel-pt-001",
+          "roles": [
+            "hero"
+          ],
+          "format": "inconnu",
+          "status": "BLOQUANT_PREPROD",
+          "s3_folder": "358",
+          "alt": {
+            "pt": "Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites-preproduction.s3.amazonaws.com/358/d22dee19-2bff-4f53-a605-28ee1222df97",
+          "url_canonique": "https://usine-a-sites-preproduction.s3.amazonaws.com/358/d22dee19-2bff-4f53-a605-28ee1222df97",
+          "utilise_sur": [
+            "A Rede",
+            "Bónus",
+            "Como Funciona",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-002",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "46",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/46/540d1f91-da7b-4d58-b6c0-f75a28e4eb65",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/46/540d1f91-da7b-4d58-b6c0-f75a28e4eb65",
+          "utilise_sur": [
+            "A Rede"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": "Rede Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/259f625f-2f5e-4cea-98b6-b37888e81bf3",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/259f625f-2f5e-4cea-98b6-b37888e81bf3",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/16b913a8-31f6-4f8e-a1a1-1c9b46301bcd",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/16b913a8-31f6-4f8e-a1a1-1c9b46301bcd",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-005",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/91d6c45b-b23c-4726-9de4-d1045d923f7a",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/91d6c45b-b23c-4726-9de4-d1045d923f7a",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-006",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/328d9831-7c20-41e6-8510-01309243aacc",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/328d9831-7c20-41e6-8510-01309243aacc",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/3c4d8888-3b83-4c26-a146-aada4e898097",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/3c4d8888-3b83-4c26-a146-aada4e898097",
+          "utilise_sur": [
+            "A Rede",
+            "Como Funciona",
+            "Por Quê"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-008",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": "Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/logo-opel-white.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/logo-opel-white.png",
+          "utilise_sur": [
+            "A Rede",
+            "Bónus",
+            "Como Funciona",
+            "FAQ",
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-009",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": "Bónus Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-OV52-BEVX-MY26A-RE-X-DIA-IMAG-X-16X9-1125-IN-STPRJPG.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-OV52-BEVX-MY26A-RE-X-DIA-IMAG-X-16X9-1125-IN-STPRJPG.webp",
+          "utilise_sur": [
+            "Bónus",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-010",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Elétrico Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://mcprod.stellantis.com/media/wysiwyg/OV-FLEXCARE-BTOB-TC-2024-WEB-LANDING-PAGE-EN_BLOCK_02_2_.jpg",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Bónus"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-011",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Quer vender o seu carro Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://www.opel.ch/content/dam/opel/master/vehicles/grandland-2021/sol/opel_grandland-hybrid_connectivity_4x3_grsol22_e01_029.jpg?imwidth=768",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Bónus"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-012",
+          "roles": [
+            "content"
+          ],
+          "format": "jpg",
+          "status": "A_MIGRER",
+          "s3_folder": NaN,
+          "alt": {
+            "pt": "Vantagens Retoma Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://www.opel.fr/content/dam/opel/france/owners/aftersales-2024/offers/may-26/FR_THUMB_946x532.jpg?imwidth=1920",
+          "url_canonique": null,
+          "utilise_sur": [
+            "Bónus"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/02a77f9d-9773-44d0-9e72-72e1a076544b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/02a77f9d-9773-44d0-9e72-72e1a076544b",
+          "utilise_sur": [
+            "Como Funciona"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-014",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-P2JO-BEVX-MY25A-TA-YoC-DIA-KVXX-X-16X9-0125-IN-FPRSrgb.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-P2JO-BEVX-MY25A-TA-YoC-DIA-KVXX-X-16X9-0125-IN-FPRSrgb.webp",
+          "utilise_sur": [
+            "Por Quê",
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-015",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": "Vender carro Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/5_1_GAMME_BUSINESS_MOB_2880x1620.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/5_1_GAMME_BUSINESS_MOB_2880x1620.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        },
+        {
+          "asset_id": "opel-pt-016",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "pt": "Benefícios vender carro Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/012_Woman_Corsa_BEV_white.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/012_Woman_Corsa_BEV_white.webp",
+          "utilise_sur": [
+            "Vender Carro"
+          ]
+        }
+      ]
+    },
+    "Opel FR": {
+      "marque": "Opel FR",
+      "marche_source": "FR",
+      "theme": {
+        "accent": "#FCED00",
+        "radius_card": "20px",
+        "radius_cta": "100px",
+        "police": "StellantisUI"
+      },
+      "site_ids_s3": {
+        "FR": "15",
+        "PT": "46"
+      },
+      "stats": {
+        "assets_uniques": 18,
+        "references": 27,
+        "pages": 3,
+        "a_migrer": 0,
+        "bloquant_preprod": 1,
+        "alt_manquants": 5
+      },
+      "slots_par_page": {
+        "Estimez voiture (FR)": [
+          "opel-fr-001",
+          "opel-fr-002",
+          "opel-fr-003",
+          "opel-fr-004",
+          "opel-fr-005",
+          "opel-fr-006",
+          "opel-fr-003",
+          "opel-fr-007",
+          "opel-fr-006",
+          "opel-fr-008"
+        ],
+        "Vendre son Opel (FR)": [
+          "opel-fr-001",
+          "opel-fr-009",
+          "opel-fr-010",
+          "opel-fr-011",
+          "opel-fr-012",
+          "opel-fr-008"
+        ],
+        "Vendre votre voiture (FR)": [
+          "opel-fr-001",
+          "opel-fr-013",
+          "opel-fr-014",
+          "opel-fr-015",
+          "opel-fr-016",
+          "opel-fr-013",
+          "opel-fr-017",
+          "opel-fr-014",
+          "opel-fr-018",
+          "opel-fr-016",
+          "opel-fr-008"
+        ]
+      },
+      "assets": [
+        {
+          "asset_id": "opel-fr-001",
+          "roles": [
+            "hero"
+          ],
+          "format": "inconnu",
+          "status": "BLOQUANT_PREPROD",
+          "s3_folder": "358",
+          "alt": {
+            "fr": "Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites-preproduction.s3.amazonaws.com/358/d22dee19-2bff-4f53-a605-28ee1222df97",
+          "url_canonique": "https://usine-a-sites-preproduction.s3.amazonaws.com/358/d22dee19-2bff-4f53-a605-28ee1222df97",
+          "utilise_sur": [
+            "Estimez voiture (FR)",
+            "Vendre son Opel (FR)",
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-002",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/02a77f9d-9773-44d0-9e72-72e1a076544b",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/02a77f9d-9773-44d0-9e72-72e1a076544b",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-003",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Estimation voiture Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/259f625f-2f5e-4cea-98b6-b37888e81bf3",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/259f625f-2f5e-4cea-98b6-b37888e81bf3",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-004",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Estimation voiture en ligne avec Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/16b913a8-31f6-4f8e-a1a1-1c9b46301bcd",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/16b913a8-31f6-4f8e-a1a1-1c9b46301bcd",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-005",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/3c4d8888-3b83-4c26-a146-aada4e898097",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/3c4d8888-3b83-4c26-a146-aada4e898097",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-006",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/91d6c45b-b23c-4726-9de4-d1045d923f7a",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/91d6c45b-b23c-4726-9de4-d1045d923f7a",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-007",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/328d9831-7c20-41e6-8510-01309243aacc",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/328d9831-7c20-41e6-8510-01309243aacc",
+          "utilise_sur": [
+            "Estimez voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-008",
+          "roles": [
+            "logo"
+          ],
+          "format": "png",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/logo-opel-white.png",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/logo-opel-white.png",
+          "utilise_sur": [
+            "Estimez voiture (FR)",
+            "Vendre son Opel (FR)",
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-009",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Vendre son Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/5_1_GAMME_BUSINESS_MOB_2880x1620.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/5_1_GAMME_BUSINESS_MOB_2880x1620.webp",
+          "utilise_sur": [
+            "Vendre son Opel (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-010",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Vendre son Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/012_Woman_Corsa_BEV_white.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/012_Woman_Corsa_BEV_white.webp",
+          "utilise_sur": [
+            "Vendre son Opel (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-011",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Quelle est la meilleure solution pour vendre son Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-P2JO-BEVX-MY25A-TA-YoC-DIA-KVXX-X-16X9-0125-IN-FPRSrgb.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-P2JO-BEVX-MY25A-TA-YoC-DIA-KVXX-X-16X9-0125-IN-FPRSrgb.webp",
+          "utilise_sur": [
+            "Vendre son Opel (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-012",
+          "roles": [
+            "content"
+          ],
+          "format": "webp",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": NaN
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-OV52-BEVX-MY26A-RE-X-DIA-IMAG-X-16X9-1125-IN-STPRJPG.webp",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/OP-OV52-BEVX-MY26A-RE-X-DIA-IMAG-X-16X9-1125-IN-STPRJPG.webp",
+          "utilise_sur": [
+            "Vendre son Opel (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-013",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "46",
+          "alt": {
+            "fr": "Reprise Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/46/540d1f91-da7b-4d58-b6c0-f75a28e4eb65",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/46/540d1f91-da7b-4d58-b6c0-f75a28e4eb65",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-014",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Professionnel Opel"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/2e49d4f4-505c-4434-9ebe-04ed7fb2cce2",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/2e49d4f4-505c-4434-9ebe-04ed7fb2cce2",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-015",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Estimation en ligne"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/a6d0c546-10ad-4945-b9cb-9f6898f1c566",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/a6d0c546-10ad-4945-b9cb-9f6898f1c566",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-016",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Résultat par email"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/cbbb823d-9361-4148-8429-861a8f63fc93",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/cbbb823d-9361-4148-8429-861a8f63fc93",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-017",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Paiement sécurisé"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/dc697a32-6403-4cc7-95e6-f51d508a4064",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/dc697a32-6403-4cc7-95e6-f51d508a4064",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        },
+        {
+          "asset_id": "opel-fr-018",
+          "roles": [
+            "content"
+          ],
+          "format": "inconnu",
+          "status": "OK_S3",
+          "s3_folder": "15",
+          "alt": {
+            "fr": "Nouveau véhicule"
+          },
+          "alt_manquant": false,
+          "url": "https://usine-a-sites.s3.amazonaws.com/15/8e4f955d-b5c8-4d67-b58c-59ab02fcc860",
+          "url_canonique": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/15/8e4f955d-b5c8-4d67-b58c-59ab02fcc860",
+          "utilise_sur": [
+            "Vendre votre voiture (FR)"
+          ]
+        }
+      ]
+    }
+  }
+}
