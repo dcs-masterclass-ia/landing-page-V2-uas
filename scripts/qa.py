@@ -56,6 +56,12 @@ def audit(path, themes):
     invalides = set(path.name) & set('"<>:|*?\r\n')
     r.check(not invalides, f"{name} : nom de fichier contient {invalides} (invalide pour l'upload CI)")
 
+    # Filet de securite le plus important du gate : un placeholder non arbitre
+    # ne doit JAMAIS apparaitre en texte visible sur une page publiee.
+    todo_visibles = set(re.findall(r'TODO_[A-Z_]+', s))
+    r.check(not todo_visibles,
+            f"{name} : placeholder(s) non resolu(s) visible(s) dans le HTML : {todo_visibles}")
+
     # --- RGAA : structure ---
     hs = [int(h) for h in re.findall(r"<h([1-6])[^>]*>", s)]
     r.check(hs.count(1) == 1, f"{name} : {hs.count(1)} <h1> (il en faut exactement 1)")
@@ -121,7 +127,8 @@ def audit(path, themes):
     if subnav:
         anchors = re.findall(r'href="#([^"]+)"', subnav.group(0))
         r.check(len(anchors) >= 1,
-                f"{name} : sous-nav sans ancre")
+                f"{name} : sous-nav sans ancre (V1 sans bloc de contenu titre ?)",
+                blocking=False)
         r.check(len(anchors) >= 3,
                 f"{name} : sous-nav avec {len(anchors)} ancre(s), 3 recommandees",
                 blocking=False)

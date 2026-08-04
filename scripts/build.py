@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import sys
+import re
 """
 Build des LP V2 : content/<site>/<page>.json + themes/themes.json -> dist/<site>/<page>.html
 
@@ -14,6 +15,57 @@ from jinja2 import Environment, FileSystemLoader
 
 ROOT = Path(__file__).resolve().parent.parent
 BUILD_DATE = datetime.date.today().isoformat()
+
+
+def strip_todo(value):
+    """Filet de securite au niveau du moteur de rendu : intercepte TOUTE
+    variable Jinja avant impression. Un champ non arbitre (TODO_ARBITRAGE,
+    TODO_HERO_STELLANTIS...) ne doit jamais apparaitre en texte visible sur
+    une page publiee -- ni aujourd'hui, ni pour un champ ajoute plus tard."""
+    if isinstance(value, str) and value.startswith("TODO"):
+        return ""
+    return value
+
+
+BAD_IMAGE = re.compile(
+    r"logo|icon|sprite|pixel|chevron|arrow|caret|hamburger"
+    r"|close-|menu-|search-|star-|check-|plus-|minus-|-btn\b"
+    r"|\.svg(\?|$)",
+    re.I,
+)
+
+
+def normalize_images(page):
+    """Nettoyage retroactif : le filtre d'extraction ne rejetait pas encore
+    les pictogrammes d'interface (chevron-up-home.svg etc.) quand ce corpus
+    a ete construit. On remplace toute image de bloc suspecte par une vraie
+    photo trouvee ailleurs sur la MEME page, sans recrawler. Si la page n'a
+    aucune photo propre, le bloc perd son image plutot que d'afficher un
+    pictogramme etire en plein cadre."""
+    propres = [b["image"] for b in page.get("blocks", [])
+               if b.get("image") and not BAD_IMAGE.search(b["image"])]
+    i = 0
+    for b in page.get("blocks", []):
+        if b.get("image") and BAD_IMAGE.search(b["image"]):
+            if propres:
+                b["image"] = propres[i % len(propres)]
+                b["image_alt"] = b.get("image_alt") or ""
+                i += 1
+            else:
+                b["image"] = None
+
+
+def clean_todo(obj):
+    """Meme filet de securite, applique AVANT serialisation JSON : une fois
+    transforme en texte JSON-LD, un placeholder embarque n'est plus visible
+    par le filtre Jinja qui n'inspecte que la variable entiere."""
+    if isinstance(obj, str):
+        return "" if obj.startswith("TODO") else obj
+    if isinstance(obj, dict):
+        return {k: clean_todo(v) for k, v in obj.items()}
+    if isinstance(obj, list):
+        return [clean_todo(v) for v in obj]
+    return obj
 
 
 def load(p):
@@ -98,12 +150,13 @@ def build_jsonld(page, url):
         "relatedLink": j["related"],
     })
 
-    return [json.dumps(b, ensure_ascii=False, indent=2) for b in blocks]
+    return [json.dumps(clean_todo(b), ensure_ascii=False, indent=2) for b in blocks]
 
 
 def main():
     themes = load(ROOT / "themes/themes.json")
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
+                      finalize=strip_todo,
                       trim_blocks=False, lstrip_blocks=False, autoescape=False)
 
     dist_dir = ROOT / "dist"
@@ -129,6 +182,13 @@ def main():
                         b["type"] = "two_col"
                     if b.get("type") == "faq" and not isinstance(b.get("items"), list):
                         b["type"] = "two_col"
+                # Un lien de fil d'Ariane sans libellé resolu est un lien sans nom
+                # accessible (RGAA) : on l'omet plutot que de rendre <a></a> vide.
+                page["breadcrumb"] = [c for c in page.get("breadcrumb", [])
+                                      if c.get("label") and not c["label"].startswith("TODO")]
+                page["subnav"] = [n for n in page.get("subnav", [])
+                                  if n.get("label") and not n["label"].startswith("TODO")]
+                normalize_images(page)
 
                 theme = themes["brands"][page["brand"]]
                 tpl = env.get_template(f"{theme['template']}.html.j2")

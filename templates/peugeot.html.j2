@@ -281,7 +281,7 @@
 {%- for b in page.blocks %}
 {%- if b.type == 'two_col' %}
   <section class="split {{ 'reverse' if b.image_side != 'left' }}" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
-    <div class="split-media"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>
+    {%- if b.image %}<div class="split-media"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>{% endif %}
     <div class="split-content">
       <div class="eyebrow">{{ b.tag }}</div>
       <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
@@ -402,7 +402,7 @@
       {%- endfor %}
     </div>
     <div class="footer-legal">{{ page.footer.legal }}</div>
-    <div class="footer-eco">{{ page.footer.eco }} <a href="{{ page.footer.eco_link_href }}">{{ page.footer.eco_link_label }}</a></div>
+    {%- if page.footer.eco and not page.footer.eco.startswith('TODO') %}<div class="footer-eco">{{ page.footer.eco }}{%- if page.footer.eco_link_href and page.footer.eco_link_label and not page.footer.eco_link_href.startswith('TODO') and not page.footer.eco_link_label.startswith('TODO') %} <a href="{{ page.footer.eco_link_href }}">{{ page.footer.eco_link_label }}</a>{%- endif %}</div>{%- endif %}
     <div class="footer-year">{{ page.footer.year }}</div>
   </div>
 </footer>

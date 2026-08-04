@@ -171,7 +171,13 @@ def extract(html, url, brand, market, notes):
         if not src or src.startswith("data:"):
             continue
         src = urljoin(dom, src)
-        if re.search(r"logo|icon|sprite|pixel", src, re.I):
+        if re.search(r"logo|icon|sprite|pixel|chevron|arrow|caret|hamburger"
+                     r"|close-|menu-|search-|star-|check-|plus-|minus-|-btn\b",
+                     src, re.I):
+            continue
+        if re.search(r"\.svg(\?|$)", src, re.I):
+            # les photos de contenu V1 sont quasi toujours en raster (webp/jpg/png) ;
+            # un SVG est presque toujours un pictogramme d'interface, jamais une photo
             continue
         alt = clean(img.get("alt", ""))
         if not alt:
@@ -339,7 +345,7 @@ def extract(html, url, brand, market, notes):
             "lead": desc or TODO,
             "cta_label": cta_principal or TODO, "cta_href": f"{dom}/",
         },
-        "subnav": [{"label": b["h2"][:24], "anchor": "#" + b["id"]} for b in blocks[:5]],
+        "subnav": [{"label": b["h2"], "anchor": "#" + b["id"]} for b in blocks[:5]],
         "trust": [{"icon": "check", "label": TODO, "sub": TODO} for _ in range(4)],
         "blocks": blocks,
         "cta_final": {"tag": TODO, "h2": TODO, "lead": TODO,

@@ -329,7 +329,7 @@
   <section class="container" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
     <div class="two-col">
       {%- if b.image_side == 'left' %}
-      <div class="two-col-img left"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>
+      {%- if b.image %}<div class="two-col-img left"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>{% endif %}
       {%- endif %}
       <div>
         <div class="section-tag">{{ b.tag }}</div>
@@ -349,7 +349,7 @@
         {%- endif %}
       </div>
       {%- if b.image_side != 'left' %}
-      <div class="two-col-img"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>
+      {%- if b.image %}<div class="two-col-img"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>{% endif %}
       {%- endif %}
     </div>
   </section>
@@ -465,7 +465,7 @@
       {%- endfor %}
     </div>
     <div class="footer-legal"><p>{{ page.footer.legal }}</p></div>
-    <div class="footer-eco">{{ page.footer.eco }} <a href="{{ page.footer.eco_link_href }}">{{ page.footer.eco_link_label }}</a></div>
+    {%- if page.footer.eco and not page.footer.eco.startswith('TODO') %}<div class="footer-eco">{{ page.footer.eco }}{%- if page.footer.eco_link_href and page.footer.eco_link_label and not page.footer.eco_link_href.startswith('TODO') and not page.footer.eco_link_label.startswith('TODO') %} <a href="{{ page.footer.eco_link_href }}">{{ page.footer.eco_link_label }}</a>{%- endif %}</div>{%- endif %}
     <div class="footer-year">{{ page.footer.year }}</div>
   </div>
 </footer>
