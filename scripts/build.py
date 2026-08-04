@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 """
 Build des LP V2 : content/<site>/<page>.json + themes/themes.json -> dist/<site>/<page>.html
 
@@ -51,7 +52,7 @@ def build_jsonld(page, url):
     blocks.append(service)
 
     steps = next((b for b in page["blocks"] if b["type"] == "etapes"), None)
-    if steps:
+    if steps and isinstance(steps.get("steps"), list) and steps["steps"]:
         blocks.append({
             "@context": "https://schema.org", "@type": "HowTo",
             "name": j["howto_name"], "description": j["howto_description"],
@@ -66,7 +67,7 @@ def build_jsonld(page, url):
         })
 
     faq = next((b for b in page["blocks"] if b["type"] == "faq"), None)
-    if faq:
+    if faq and isinstance(faq.get("items"), list) and faq["items"]:
         entities = []
         for it in faq["items"]:
             parts = [strip_html(p) for p in it.get("paragraphs", [])]
@@ -105,34 +106,52 @@ def main():
     env = Environment(loader=FileSystemLoader(ROOT / "templates"),
                       trim_blocks=False, lstrip_blocks=False, autoescape=False)
 
+    dist_dir = ROOT / "dist"
+    if dist_dir.exists():
+        import shutil
+        shutil.rmtree(dist_dir)
     only = sys.argv[1] if len(sys.argv) > 1 else None
     sites = sorted(d for d in (ROOT / "content").iterdir() if d.is_dir())
-    built, registry = 0, []
+    built, registry, failed = 0, [], []
 
     for site in sites:
         if only and site.name != only:
             continue
         for f in sorted(site.glob("*.json")):
             page = load(f)
-            theme = themes["brands"][page["brand"]]
-            tpl = env.get_template(f"{theme['template']}.html.j2")
-            url = page["domain"] + page["slug"]
-            out_html = tpl.render(
-                page=page, theme=theme, tokens=themes["tokens_communs"],
-                url=url, jsonld=build_jsonld(page, url), build_date=BUILD_DATE,
-            )
-            out = ROOT / "dist" / site.name / (f.stem + ".html")
-            out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text(out_html, encoding="utf-8")
-            built += 1
-            registry.append({
-                "page_key": page["page_key"], "brand": page["brand"],
-                "market": page["market"], "url": url,
-                "artefact": str(out.relative_to(ROOT)),
-                "octets": len(out_html.encode()), "build": BUILD_DATE,
-                "bo_status": "non_pousse",
-            })
-            print(f"  OK  {out.relative_to(ROOT)}  ({len(out_html):,} car.)")
+            try:
+                # Les blocs "etapes" produits par l'extracteur automatique n'ont
+                # jamais de cle "steps" structuree (ils gardent paragraphs/bullets) :
+                # seules les pages pilotes ecrites a la main l'ont. On downgrade en
+                # "two_col" pour rendre le vrai contenu au lieu d'une section vide.
+                for b in page.get("blocks", []):
+                    if b.get("type") == "etapes" and not isinstance(b.get("steps"), list):
+                        b["type"] = "two_col"
+                    if b.get("type") == "faq" and not isinstance(b.get("items"), list):
+                        b["type"] = "two_col"
+
+                theme = themes["brands"][page["brand"]]
+                tpl = env.get_template(f"{theme['template']}.html.j2")
+                url = page["domain"] + page["slug"]
+                out_html = tpl.render(
+                    page=page, theme=theme, tokens=themes["tokens_communs"],
+                    url=url, jsonld=build_jsonld(page, url), build_date=BUILD_DATE,
+                )
+                out = ROOT / "dist" / site.name / (f.stem + ".html")
+                out.parent.mkdir(parents=True, exist_ok=True)
+                out.write_text(out_html, encoding="utf-8")
+                built += 1
+                registry.append({
+                    "page_key": page["page_key"], "brand": page["brand"],
+                    "market": page["market"], "url": url,
+                    "artefact": str(out.relative_to(ROOT)),
+                    "octets": len(out_html.encode()), "build": BUILD_DATE,
+                    "bo_status": "non_pousse",
+                })
+                print(f"  OK  {out.relative_to(ROOT)}  ({len(out_html):,} car.)")
+            except Exception as e:
+                failed.append(str(f.relative_to(ROOT)))
+                print(f"  ECHEC  {f.relative_to(ROOT)}  :  {type(e).__name__} {e}")
 
     reg_path = ROOT / "registry/registry.json"
     reg_path.parent.mkdir(parents=True, exist_ok=True)
@@ -147,6 +166,11 @@ def main():
         ensure_ascii=False, indent=2), encoding="utf-8")
 
     print(f"\n{built} page(s) construite(s). Registre : registry/registry.json")
+    if failed:
+        print(f"\n{len(failed)} page(s) en ECHEC (n'ont pas bloque les autres) :")
+        for f in failed:
+            print(f"  - {f}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
