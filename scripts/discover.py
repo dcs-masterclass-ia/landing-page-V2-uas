@@ -59,7 +59,8 @@ LP_HINTS = re.compile(
 EXCLUDE = re.compile(
     r"\.(pdf|jpg|jpeg|png|webp|svg|xml|zip)$"
     r"|/(cookies?|privacy|confidentialit|politica|datenschutz|mentions|legal|cgu|cgv)"
-    r"|accessibilit|sitemap|#|mailto:|tel:",
+    r"|accessibilit|sitemap|#|mailto:|tel:"
+    r"|/\*$|\*$",   # entrees joker (ex. sitemap IT declarant '/*') : pas une vraie page
     re.I,
 )
 

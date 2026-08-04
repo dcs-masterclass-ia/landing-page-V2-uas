@@ -51,6 +51,11 @@ def audit(path, themes):
     r = Report()
     name = path.relative_to(ROOT)
 
+    # Caracteres refuses par upload-artifact (NTFS notamment) : mieux vaut le
+    # detecter ici que decouvrir l'echec au moment de l'upload CI.
+    invalides = set(path.name) & set('"<>:|*?\r\n')
+    r.check(not invalides, f"{name} : nom de fichier contient {invalides} (invalide pour l'upload CI)")
+
     # --- RGAA : structure ---
     hs = [int(h) for h in re.findall(r"<h([1-6])[^>]*>", s)]
     r.check(hs.count(1) == 1, f"{name} : {hs.count(1)} <h1> (il en faut exactement 1)")
