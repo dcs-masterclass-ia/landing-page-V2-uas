@@ -238,6 +238,21 @@ def extract(html, url, brand, market, notes):
             courant = {"titre": TODO, "niveau": "none", "p": [u["texte"]], "li": []}
             segments.append(courant)
 
+    # Certains marches ecrivent leurs listes avec des puces textuelles brutes
+    # (•, ●, -) a l'interieur d'un seul <p>, plutot qu'en vraies balises <li>.
+    # Sans decoupage, tout finit compresse dans un unique paragraphe illisible.
+    PUCE = re.compile(r"\s*[•●▪]\s*")
+    for seg in segments:
+        nouveaux_p = []
+        for t in seg["p"]:
+            morceaux = [m.strip(" :") for m in PUCE.split(t) if m.strip(" :")]
+            if len(morceaux) >= 3:          # 1 intro + >=2 puces reelles, pas un artefact isole
+                nouveaux_p.append(morceaux[0])
+                seg["li"] += morceaux[1:]
+            else:
+                nouveaux_p.append(t)
+        seg["p"] = nouveaux_p
+
     blocks = []
     for i, seg in enumerate(segments):
         if not seg["p"] and not seg["li"]:
@@ -278,22 +293,52 @@ def extract(html, url, brand, market, notes):
                 if pat in a["href"]:
                     social.append({"network": net, "href": a["href"]})
                     break
-        for h in foot.find_all(["h2", "h3", "h4", "strong"]) + foot.find_all(
-                class_=re.compile(r"col-title|footer-title", re.I)):
-            label = txt(h)
-            # un vrai titre de colonne est court et ne contient pas de lien
-            if not label or len(label) > 32 or h.find("a"):
-                continue
-            if any(k in label.lower() for k in SITEMAP_HINTS):
-                sitemap_links += 1
-                continue
-            links = []
-            for sib in h.find_next_siblings():
-                links += [{"label": txt(a), "href": a["href"]}
-                          for a in sib.find_all("a", href=True) if txt(a)]
-                if len(links) > 8:
-                    break
-            if 1 <= len(links) <= 8:
+
+        # Detection structurelle : la plupart des footers V1 ne baliseent PAS
+        # leurs titres de colonne en h2/h3/strong, ce sont de simples <div>/<span>
+        # sans classe reconnaissable. On repere plutot les "groupes de liens"
+        # (1 a 8 <a> dans un conteneur feuille, pas le footer entier) puis on
+        # cherche un titre COURT juste avant, sans exiger de balise particuliere.
+        def est_groupe_feuille(tag):
+            liens = tag.find_all("a", href=True)
+            if not (1 <= len(liens) <= 8):
+                return False
+            # rejeter un conteneur qui englobe lui-meme un groupe plus petit
+            # (sinon on capture tout le footer comme un seul "groupe")
+            for enfant in tag.find_all(["div", "ul", "nav", "section"]):
+                if enfant is not tag and 1 <= len(enfant.find_all("a", href=True)) <= 8:
+                    return False
+            return True
+
+        groupes, vus_liens = [], set()
+        for tag in foot.find_all(["div", "ul", "nav", "section"]):
+            if est_groupe_feuille(tag):
+                cle = tuple(a.get("href") for a in tag.find_all("a", href=True))
+                if cle not in vus_liens:
+                    vus_liens.add(cle)
+                    groupes.append(tag)
+
+        for g in groupes:
+            liens_g = g.find_all("a", href=True)
+            if any(pat in a["href"] for a in liens_g for pat in SOCIAL_PATTERNS.values()):
+                continue  # deja capture comme reseaux sociaux
+            label = TODO
+            precedent = g.find_previous_sibling()
+            candidat = ""
+            if precedent and not precedent.find("a", href=True):
+                candidat = txt(precedent)
+            if not candidat:
+                # le titre peut aussi etre le tout premier enfant du groupe
+                premier = g.find(True, recursive=False)
+                if premier and not premier.find("a") and premier.name not in ("a",):
+                    candidat = txt(premier)
+            if candidat and len(candidat) <= 40 and not candidat.rstrip().endswith((".", "!", "?")):
+                if any(k in candidat.lower() for k in SITEMAP_HINTS):
+                    sitemap_links += 1
+                    continue
+                label = candidat
+            links = [{"label": txt(a), "href": a["href"]} for a in liens_g if txt(a)]
+            if links:
                 columns.append({"title": label, "links": links[:6]})
     else:
         notes.append("pied de page introuvable")

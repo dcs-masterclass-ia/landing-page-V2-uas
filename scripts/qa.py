@@ -161,14 +161,17 @@ def audit(path, themes):
             blocking=False)
 
     # --- medias ---
+    heros_cures = {t.get("hero") for t in themes.get("brands", {}).values() if t.get("hero")}
     hero = re.search(r'class="hero-(?:bg|media)"[^>]*><img src="([^"]+)"', s)
     if hero:
         u = hero.group(1)
         fichier = u.rsplit("/", 1)[-1].split("?")[0]
-        # un UUID nu = visuel de bloc, dimensionne pour un conteneur, pas pour du plein cadre
+        # un UUID nu = visuel de bloc, dimensionne pour un conteneur, pas pour du plein cadre --
+        # sauf si l'URL est explicitement designee comme hero dans themes.json (curation humaine,
+        # cf. Base_Medias_Retoma-V2-def.xlsx) : la curation prevaut sur l'heuristique de nommage
         uuid_nu = re.fullmatch(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}",
                                fichier, re.I)
-        r.check("/Stellantis/" in u or "/content/dam/" in u or not uuid_nu,
+        r.check("/Stellantis/" in u or "/content/dam/" in u or not uuid_nu or u in heros_cures,
                 f"{name} : hero servi depuis un visuel de bloc ({fichier[:20]}...) "
                 f"-> pixellisation en plein cadre. Servir dans /Stellantis/ ou un asset HD nomme.")
     r.check("usine-a-sites-preproduction" not in s,

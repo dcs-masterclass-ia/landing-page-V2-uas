@@ -1,14 +1,1294 @@
 {
-  "maj": "2026-08-03",
+  "maj": "2026-08-04",
   "pages": [
+    {
+      "page_key": "abarth-be-fr__code-qr",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/code-qr",
+      "artefact": "dist/abarth-be-fr/code-qr.html",
+      "octets": 25208,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-fr__comment-ca-marche",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/comment-ca-marche",
+      "artefact": "dist/abarth-be-fr/comment-ca-marche.html",
+      "octets": 30741,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-fr__le-reseau-abarth",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/le-reseau-abarth",
+      "artefact": "dist/abarth-be-fr/le-reseau-abarth.html",
+      "octets": 30678,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-fr__lp-estimation-voiture",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/lp/estimation-voiture",
+      "artefact": "dist/abarth-be-fr/estimation-voiture.html",
+      "octets": 33376,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-fr__lp-vendez-votre-voiture",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/lp/vendez-votre-voiture",
+      "artefact": "dist/abarth-be-fr/vendez-votre-voiture.html",
+      "octets": 36615,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-fr__questions-frequentes",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://reprise.abarthbelgium.be/questions-frequentes",
+      "artefact": "dist/abarth-be-fr/questions-frequentes.html",
+      "octets": 34693,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-nl__het-abarth-netwerk",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://overname.abarthbelgium.be/het-abarth-netwerk",
+      "artefact": "dist/abarth-be-nl/het-abarth-netwerk.html",
+      "octets": 29992,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-nl__hoe-werkt-het",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://overname.abarthbelgium.be/hoe-werkt-het",
+      "artefact": "dist/abarth-be-nl/hoe-werkt-het.html",
+      "octets": 30676,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-nl__lp-auto-verkopen",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://overname.abarthbelgium.be/lp/auto-verkopen",
+      "artefact": "dist/abarth-be-nl/auto-verkopen.html",
+      "octets": 35170,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-nl__qr-code",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://overname.abarthbelgium.be/qr-code",
+      "artefact": "dist/abarth-be-nl/qr-code.html",
+      "octets": 25303,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-be-nl__waarom-abarth-overname",
+      "brand": "abarth",
+      "market": "BE",
+      "url": "https://overname.abarthbelgium.be/waarom-abarth-overname",
+      "artefact": "dist/abarth-be-nl/waarom-abarth-overname.html",
+      "octets": 32035,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__funcionamiento",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/funcionamiento",
+      "artefact": "dist/abarth-es-es/funcionamiento.html",
+      "octets": 30071,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__la-red-abarth",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/la-red-abarth",
+      "artefact": "dist/abarth-es-es/la-red-abarth.html",
+      "octets": 29272,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__lp-Compramos-tu-coche",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/lp/Compramos-tu-coche",
+      "artefact": "dist/abarth-es-es/Compramos-tu-coche.html",
+      "octets": 36251,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__lp-tasar-coche",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/lp/tasar-coche",
+      "artefact": "dist/abarth-es-es/tasar-coche.html",
+      "octets": 37116,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__preguntas-frecuentes",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/preguntas-frecuentes",
+      "artefact": "dist/abarth-es-es/preguntas-frecuentes.html",
+      "octets": 29747,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-es-es__qr-code",
+      "brand": "abarth",
+      "market": "ES",
+      "url": "https://tasacion.abarth.es/qr-code",
+      "artefact": "dist/abarth-es-es/qr-code.html",
+      "octets": 24683,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__*",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/*",
+      "artefact": "dist/abarth-it-it/*.html",
+      "octets": 29069,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__come-funziona",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/come-funziona",
+      "artefact": "dist/abarth-it-it/come-funziona.html",
+      "octets": 30717,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__domande-frequenti",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/domande-frequenti",
+      "artefact": "dist/abarth-it-it/domande-frequenti.html",
+      "octets": 32327,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__lp-valutazione-auto-usate",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/lp/valutazione-auto-usate",
+      "artefact": "dist/abarth-it-it/valutazione-auto-usate.html",
+      "octets": 36261,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__lp-vendita-auto-usate",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/lp/vendita-auto-usate",
+      "artefact": "dist/abarth-it-it/vendita-auto-usate.html",
+      "octets": 36896,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__perche-abarth",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/perche-abarth",
+      "artefact": "dist/abarth-it-it/perche-abarth.html",
+      "octets": 30878,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__qr-code",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/qr-code",
+      "artefact": "dist/abarth-it-it/qr-code.html",
+      "octets": 24902,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-it-it__rete-abarth",
+      "brand": "abarth",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.abarth.it/rete-abarth",
+      "artefact": "dist/abarth-it-it/rete-abarth.html",
+      "octets": 30311,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-lu-fr__code-qr",
+      "brand": "abarth",
+      "market": "LU",
+      "url": "https://reprise.abarth.lu/code-qr",
+      "artefact": "dist/abarth-lu-fr/code-qr.html",
+      "octets": 25113,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-lu-fr__comment-ca-marche",
+      "brand": "abarth",
+      "market": "LU",
+      "url": "https://reprise.abarth.lu/comment-ca-marche",
+      "artefact": "dist/abarth-lu-fr/comment-ca-marche.html",
+      "octets": 30565,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-lu-fr__le-reseau-Abarth",
+      "brand": "abarth",
+      "market": "LU",
+      "url": "https://reprise.abarth.lu/le-reseau-Abarth",
+      "artefact": "dist/abarth-lu-fr/le-reseau-Abarth.html",
+      "octets": 30505,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-lu-fr__lp-vendez-votre-voiture",
+      "brand": "abarth",
+      "market": "LU",
+      "url": "https://reprise.abarth.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/abarth-lu-fr/vendez-votre-voiture.html",
+      "octets": 36086,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "abarth-lu-fr__questions-frequentes",
+      "brand": "abarth",
+      "market": "LU",
+      "url": "https://reprise.abarth.lu/questions-frequentes",
+      "artefact": "dist/abarth-lu-fr/questions-frequentes.html",
+      "octets": 34594,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__code-qr",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/code-qr",
+      "artefact": "dist/alfa-romeo-be-fr/code-qr.html",
+      "octets": 24974,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__comment-ca-marche",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/comment-ca-marche",
+      "artefact": "dist/alfa-romeo-be-fr/comment-ca-marche.html",
+      "octets": 30557,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__le-reseau-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/le-reseau-alfaromeo",
+      "artefact": "dist/alfa-romeo-be-fr/le-reseau-alfaromeo.html",
+      "octets": 30546,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__lp-estimation-voiture",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/lp/estimation-voiture",
+      "artefact": "dist/alfa-romeo-be-fr/estimation-voiture.html",
+      "octets": 33469,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__lp-vendez-votre-voiture",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/lp/vendez-votre-voiture",
+      "artefact": "dist/alfa-romeo-be-fr/vendez-votre-voiture.html",
+      "octets": 35086,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-fr__questions-frequentes",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://reprise.alfaromeo.be/questions-frequentes",
+      "artefact": "dist/alfa-romeo-be-fr/questions-frequentes.html",
+      "octets": 34732,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-nl__het-alfaromeo-netwerk",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://overname.alfaromeo.be/het-alfaromeo-netwerk",
+      "artefact": "dist/alfa-romeo-be-nl/het-alfaromeo-netwerk.html",
+      "octets": 29722,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-nl__hoe-werkt-het",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://overname.alfaromeo.be/hoe-werkt-het",
+      "artefact": "dist/alfa-romeo-be-nl/hoe-werkt-het.html",
+      "octets": 30299,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-nl__lp-auto-verkopen",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://overname.alfaromeo.be/lp/auto-verkopen",
+      "artefact": "dist/alfa-romeo-be-nl/auto-verkopen.html",
+      "octets": 34685,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-nl__qr-code",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://overname.alfaromeo.be/qr-code",
+      "artefact": "dist/alfa-romeo-be-nl/qr-code.html",
+      "octets": 24921,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-be-nl__waarom-alfaromeo-overname",
+      "brand": "alfa-romeo",
+      "market": "BE",
+      "url": "https://overname.alfaromeo.be/waarom-alfaromeo-overname",
+      "artefact": "dist/alfa-romeo-be-nl/waarom-alfaromeo-overname.html",
+      "octets": 31830,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-de-de__kostenlose-bewertung",
+      "brand": "alfa-romeo",
+      "market": "DE",
+      "url": "https://autoankauf.alfaromeo.de/kostenlose-bewertung",
+      "artefact": "dist/alfa-romeo-de-de/kostenlose-bewertung.html",
+      "octets": 31055,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-de-de__lp-Fahrzeugbewertung",
+      "brand": "alfa-romeo",
+      "market": "DE",
+      "url": "https://autoankauf.alfaromeo.de/lp/Fahrzeugbewertung",
+      "artefact": "dist/alfa-romeo-de-de/Fahrzeugbewertung.html",
+      "octets": 34575,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-de-de__lp-autoverkauf",
+      "brand": "alfa-romeo",
+      "market": "DE",
+      "url": "https://autoankauf.alfaromeo.de/lp/autoverkauf",
+      "artefact": "dist/alfa-romeo-de-de/autoverkauf.html",
+      "octets": 35570,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-de-de__qr-code",
+      "brand": "alfa-romeo",
+      "market": "DE",
+      "url": "https://autoankauf.alfaromeo.de/qr-code",
+      "artefact": "dist/alfa-romeo-de-de/qr-code.html",
+      "octets": 25248,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-de-de__weitere-informationen",
+      "brand": "alfa-romeo",
+      "market": "DE",
+      "url": "https://autoankauf.alfaromeo.de/weitere-informationen",
+      "artefact": "dist/alfa-romeo-de-de/weitere-informationen.html",
+      "octets": 36338,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__funcionamiento",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/funcionamiento",
+      "artefact": "dist/alfa-romeo-es-es/funcionamiento.html",
+      "octets": 30391,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__la-red-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/la-red-alfaromeo",
+      "artefact": "dist/alfa-romeo-es-es/la-red-alfaromeo.html",
+      "octets": 29689,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__lp-Compramos-tu-coche",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/lp/Compramos-tu-coche",
+      "artefact": "dist/alfa-romeo-es-es/Compramos-tu-coche.html",
+      "octets": 33990,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__lp-tasar-coche",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/lp/tasar-coche",
+      "artefact": "dist/alfa-romeo-es-es/tasar-coche.html",
+      "octets": 37330,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__preguntas-frecuentes",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/preguntas-frecuentes",
+      "artefact": "dist/alfa-romeo-es-es/preguntas-frecuentes.html",
+      "octets": 30085,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-es-es__qr-code",
+      "brand": "alfa-romeo",
+      "market": "ES",
+      "url": "https://tasacion.alfaromeo.es/qr-code",
+      "artefact": "dist/alfa-romeo-es-es/qr-code.html",
+      "octets": 24807,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__code-qr",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/code-qr",
+      "artefact": "dist/alfa-romeo-fr-fr/code-qr.html",
+      "octets": 24803,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__comment-ca-marche",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/comment-ca-marche",
+      "artefact": "dist/alfa-romeo-fr-fr/comment-ca-marche.html",
+      "octets": 30504,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__le-reseau-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/le-reseau-alfaromeo",
+      "artefact": "dist/alfa-romeo-fr-fr/le-reseau-alfaromeo.html",
+      "octets": 30501,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__lp-estimation-voiture",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/lp/estimation-voiture",
+      "artefact": "dist/alfa-romeo-fr-fr/estimation-voiture.html",
+      "octets": 38603,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__lp-vendez-votre-voiture",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/alfa-romeo-fr-fr/vendez-votre-voiture.html",
+      "octets": 35781,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-fr-fr__questions-frequentes",
+      "brand": "alfa-romeo",
+      "market": "FR",
+      "url": "https://reprise.alfaromeo.fr/questions-frequentes",
+      "artefact": "dist/alfa-romeo-fr-fr/questions-frequentes.html",
+      "octets": 34561,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__*",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/*",
+      "artefact": "dist/alfa-romeo-it-it/*.html",
+      "octets": 30158,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__come-funziona",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/come-funziona",
+      "artefact": "dist/alfa-romeo-it-it/come-funziona.html",
+      "octets": 30432,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__domande-frequenti",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/domande-frequenti",
+      "artefact": "dist/alfa-romeo-it-it/domande-frequenti.html",
+      "octets": 32519,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__lp-valutazione-auto-usate",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/lp/valutazione-auto-usate",
+      "artefact": "dist/alfa-romeo-it-it/valutazione-auto-usate.html",
+      "octets": 36372,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__lp-vendita-auto-usate",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/lp/vendita-auto-usate",
+      "artefact": "dist/alfa-romeo-it-it/vendita-auto-usate.html",
+      "octets": 37083,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__perche-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/perche-alfaromeo",
+      "artefact": "dist/alfa-romeo-it-it/perche-alfaromeo.html",
+      "octets": 30629,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__qr-code",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/qr-code",
+      "artefact": "dist/alfa-romeo-it-it/qr-code.html",
+      "octets": 24901,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-it-it__rete-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.alfaromeo.it/rete-alfaromeo",
+      "artefact": "dist/alfa-romeo-it-it/rete-alfaromeo.html",
+      "octets": 30052,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-lu-fr__code-qr",
+      "brand": "alfa-romeo",
+      "market": "LU",
+      "url": "https://reprise.alfaromeo.lu/code-qr",
+      "artefact": "dist/alfa-romeo-lu-fr/code-qr.html",
+      "octets": 24978,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-lu-fr__comment-ca-marche",
+      "brand": "alfa-romeo",
+      "market": "LU",
+      "url": "https://reprise.alfaromeo.lu/comment-ca-marche",
+      "artefact": "dist/alfa-romeo-lu-fr/comment-ca-marche.html",
+      "octets": 31011,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-lu-fr__le-reseau-alfaromeo",
+      "brand": "alfa-romeo",
+      "market": "LU",
+      "url": "https://reprise.alfaromeo.lu/le-reseau-alfaromeo",
+      "artefact": "dist/alfa-romeo-lu-fr/le-reseau-alfaromeo.html",
+      "octets": 30554,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-lu-fr__lp-vendez-votre-voiture",
+      "brand": "alfa-romeo",
+      "market": "LU",
+      "url": "https://reprise.alfaromeo.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/alfa-romeo-lu-fr/vendez-votre-voiture.html",
+      "octets": 36560,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-lu-fr__questions-frequentes",
+      "brand": "alfa-romeo",
+      "market": "LU",
+      "url": "https://reprise.alfaromeo.lu/questions-frequentes",
+      "artefact": "dist/alfa-romeo-lu-fr/questions-frequentes.html",
+      "octets": 34740,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/alfa-romeo-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 32219,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__lp-Wycena-pojazdu",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/alfa-romeo-pl-pl/Wycena-pojazdu.html",
+      "octets": 33249,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__qr-code",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/qr-code",
+      "artefact": "dist/alfa-romeo-pl-pl/qr-code.html",
+      "octets": 25422,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__strona-dzialanie",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/strona-dzialanie",
+      "artefact": "dist/alfa-romeo-pl-pl/strona-dzialanie.html",
+      "octets": 30353,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__strona-faq",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/strona-faq",
+      "artefact": "dist/alfa-romeo-pl-pl/strona-faq.html",
+      "octets": 32375,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "alfa-romeo-pl-pl__strona-jak",
+      "brand": "alfa-romeo",
+      "market": "PL",
+      "url": "https://odkup.alfaromeo.pl/strona-jak",
+      "artefact": "dist/alfa-romeo-pl-pl/strona-jak.html",
+      "octets": 30596,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-at-de__auto-bewerten",
+      "brand": "citroen",
+      "market": "AT",
+      "url": "https://www.citroen-kauft-ihr-auto.at/auto-bewerten",
+      "artefact": "dist/citroen-at-de/auto-bewerten.html",
+      "octets": 29533,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-at-de__auto-verkaufen",
+      "brand": "citroen",
+      "market": "AT",
+      "url": "https://www.citroen-kauft-ihr-auto.at/auto-verkaufen",
+      "artefact": "dist/citroen-at-de/auto-verkaufen.html",
+      "octets": 29771,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-at-de__was-ist-mein-auto-wert",
+      "brand": "citroen",
+      "market": "AT",
+      "url": "https://www.citroen-kauft-ihr-auto.at/was-ist-mein-auto-wert",
+      "artefact": "dist/citroen-at-de/was-ist-mein-auto-wert.html",
+      "octets": 29677,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__code-qr",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/code-qr",
+      "artefact": "dist/citroen-be-fr/code-qr.html",
+      "octets": 25138,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__comment-ca-marche",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/comment-ca-marche",
+      "artefact": "dist/citroen-be-fr/comment-ca-marche.html",
+      "octets": 28362,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__lp-estimation-voiture",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/lp/estimation-voiture",
+      "artefact": "dist/citroen-be-fr/estimation-voiture.html",
+      "octets": 33159,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__lp-vendez-votre-voiture",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/lp/vendez-votre-voiture",
+      "artefact": "dist/citroen-be-fr/vendez-votre-voiture.html",
+      "octets": 36201,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__page-comment",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/page-comment",
+      "artefact": "dist/citroen-be-fr/page-comment.html",
+      "octets": 32592,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-fr__questions-frequentes",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://reprise.citroen.be/questions-frequentes",
+      "artefact": "dist/citroen-be-fr/questions-frequentes.html",
+      "octets": 32439,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-nl__BerekeningVanDeSchatting",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://overname.citroen.be/BerekeningVanDeSchatting",
+      "artefact": "dist/citroen-be-nl/BerekeningVanDeSchatting.html",
+      "octets": 32897,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-nl__hoe-werkt-het",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://overname.citroen.be/hoe-werkt-het",
+      "artefact": "dist/citroen-be-nl/hoe-werkt-het.html",
+      "octets": 29299,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-nl__lp-auto-verkopen",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://overname.citroen.be/lp/auto-verkopen",
+      "artefact": "dist/citroen-be-nl/auto-verkopen.html",
+      "octets": 35775,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-nl__qr-code",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://overname.citroen.be/qr-code",
+      "artefact": "dist/citroen-be-nl/qr-code.html",
+      "octets": 25527,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-be-nl__waarom-citroen-overname",
+      "brand": "citroen",
+      "market": "BE",
+      "url": "https://overname.citroen.be/waarom-citroen-overname",
+      "artefact": "dist/citroen-be-nl/waarom-citroen-overname.html",
+      "octets": 29095,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-de-de__autoverkauf",
+      "brand": "citroen",
+      "market": "DE",
+      "url": "https://www.citroen-kauft-ihr-auto.de/autoverkauf",
+      "artefact": "dist/citroen-de-de/autoverkauf.html",
+      "octets": 29592,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-de-de__kostenlose-bewertung",
+      "brand": "citroen",
+      "market": "DE",
+      "url": "https://www.citroen-kauft-ihr-auto.de/kostenlose-bewertung",
+      "artefact": "dist/citroen-de-de/kostenlose-bewertung.html",
+      "octets": 29470,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-de-de__lp-auto-verkaufen",
+      "brand": "citroen",
+      "market": "DE",
+      "url": "https://www.citroen-kauft-ihr-auto.de/lp/auto-verkaufen",
+      "artefact": "dist/citroen-de-de/auto-verkaufen.html",
+      "octets": 32502,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-de-de__lp-fahrzeugbewertung",
+      "brand": "citroen",
+      "market": "DE",
+      "url": "https://www.citroen-kauft-ihr-auto.de/lp/fahrzeugbewertung",
+      "artefact": "dist/citroen-de-de/fahrzeugbewertung.html",
+      "octets": 33963,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-de-de__was-ist-mein-auto-wert",
+      "brand": "citroen",
+      "market": "DE",
+      "url": "https://www.citroen-kauft-ihr-auto.de/was-ist-mein-auto-wert",
+      "artefact": "dist/citroen-de-de/was-ist-mein-auto-wert.html",
+      "octets": 29541,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__comentario",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/comentario",
+      "artefact": "dist/citroen-es-es/comentario.html",
+      "octets": 31106,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__faq",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/faq",
+      "artefact": "dist/citroen-es-es/faq.html",
+      "octets": 31978,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__funcionamiento",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/funcionamiento",
+      "artefact": "dist/citroen-es-es/funcionamiento.html",
+      "octets": 31671,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__lp-Compramos-tu-coche",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/lp/Compramos-tu-coche",
+      "artefact": "dist/citroen-es-es/Compramos-tu-coche.html",
+      "octets": 34783,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__lp-tasar-coche",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/lp/tasar-coche",
+      "artefact": "dist/citroen-es-es/tasar-coche.html",
+      "octets": 36426,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__pagina-transicion",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/pagina-transicion",
+      "artefact": "dist/citroen-es-es/pagina-transicion.html",
+      "octets": 28456,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__porque",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/porque",
+      "artefact": "dist/citroen-es-es/porque.html",
+      "octets": 28822,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-es-es__qr-code",
+      "brand": "citroen",
+      "market": "ES",
+      "url": "https://www.tasacion.citroen.es/qr-code",
+      "artefact": "dist/citroen-es-es/qr-code.html",
+      "octets": 25035,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__code-qr",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/code-qr",
+      "artefact": "dist/citroen-fr-fr/code-qr.html",
+      "octets": 25712,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-achat-de-voiture-avec-reprise",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/achat-de-voiture-avec-reprise",
+      "artefact": "dist/citroen-fr-fr/achat-de-voiture-avec-reprise.html",
+      "octets": 36004,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-aide-a-la-reprise",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/aide-a-la-reprise",
+      "artefact": "dist/citroen-fr-fr/aide-a-la-reprise.html",
+      "octets": 36164,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-cotation-auto",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/cotation-auto",
+      "artefact": "dist/citroen-fr-fr/cotation-auto.html",
+      "octets": 35047,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-cote-auto",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/cote-auto",
+      "artefact": "dist/citroen-fr-fr/cote-auto.html",
+      "octets": 34670,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-cote-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/cote-voiture",
+      "artefact": "dist/citroen-fr-fr/cote-voiture.html",
+      "octets": 35040,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-estimation-prix-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/estimation-prix-voiture",
+      "artefact": "dist/citroen-fr-fr/estimation-prix-voiture.html",
+      "octets": 38585,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-estimation-vehicule-auto",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/estimation-vehicule-auto",
+      "artefact": "dist/citroen-fr-fr/estimation-vehicule-auto.html",
+      "octets": 35087,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-estimation-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/estimation-voiture",
+      "artefact": "dist/citroen-fr-fr/estimation-voiture.html",
+      "octets": 38550,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-leasing-social-voitures-electriques",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/leasing-social-voitures-electriques",
+      "artefact": "dist/citroen-fr-fr/leasing-social-voitures-electriques.html",
+      "octets": 40816,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-prime-conversion",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/prime-conversion",
+      "artefact": "dist/citroen-fr-fr/prime-conversion.html",
+      "octets": 36024,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-rachat-vehicule-occasion",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/rachat-vehicule-occasion",
+      "artefact": "dist/citroen-fr-fr/rachat-vehicule-occasion.html",
+      "octets": 35439,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-rachat-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/rachat-voiture",
+      "artefact": "dist/citroen-fr-fr/rachat-voiture.html",
+      "octets": 35369,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-rachat-voiture-cash",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/rachat-voiture-cash",
+      "artefact": "dist/citroen-fr-fr/rachat-voiture-cash.html",
+      "octets": 34108,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-auto-toutes-marques",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-auto-toutes-marques",
+      "artefact": "dist/citroen-fr-fr/reprise-auto-toutes-marques.html",
+      "octets": 45157,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-dacia",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-dacia",
+      "artefact": "dist/citroen-fr-fr/reprise-dacia.html",
+      "octets": 34222,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-diesel",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-diesel",
+      "artefact": "dist/citroen-fr-fr/reprise-diesel.html",
+      "octets": 35076,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-pour-achat-voiture-neuve",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-pour-achat-voiture-neuve",
+      "artefact": "dist/citroen-fr-fr/reprise-pour-achat-voiture-neuve.html",
+      "octets": 36025,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-renault",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-renault",
+      "artefact": "dist/citroen-fr-fr/reprise-renault.html",
+      "octets": 34205,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-toyota",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-toyota",
+      "artefact": "dist/citroen-fr-fr/reprise-toyota.html",
+      "octets": 34427,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-reprise-voiture-garage-citroen",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/reprise-voiture-garage-citroen",
+      "artefact": "dist/citroen-fr-fr/reprise-voiture-garage-citroen.html",
+      "octets": 45175,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-vendez-votre-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/citroen-fr-fr/vendez-votre-voiture.html",
+      "octets": 37809,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__lp-vendre-sa-voiture",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/lp/vendre-sa-voiture",
+      "artefact": "dist/citroen-fr-fr/vendre-sa-voiture.html",
+      "octets": 37788,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-fr-fr__page-transition",
+      "brand": "citroen",
+      "market": "FR",
+      "url": "https://www.reprise.citroen.fr/page-transition",
+      "artefact": "dist/citroen-fr-fr/page-transition.html",
+      "octets": 45067,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
     {
       "page_key": "citroen-fr__estimation-voiture",
       "brand": "citroen",
       "market": "FR",
       "url": "https://www.reprise.citroen.fr/lp/estimation-voiture",
       "artefact": "dist/citroen-fr/estimation-voiture.html",
-      "octets": 47949,
-      "build": "2026-08-03",
+      "octets": 48062,
+      "build": "2026-08-04",
       "bo_status": "non_pousse"
     },
     {
@@ -17,8 +1297,2898 @@
       "market": "FR",
       "url": "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
       "artefact": "dist/citroen-fr/vendez-votre-voiture.html",
-      "octets": 47381,
-      "build": "2026-08-03",
+      "octets": 47470,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__*",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/*",
+      "artefact": "dist/citroen-it-it/*.html",
+      "octets": 29497,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__come-funziona",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/come-funziona",
+      "artefact": "dist/citroen-it-it/come-funziona.html",
+      "octets": 29836,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__lp-valutazione-auto-usate",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/lp/valutazione-auto-usate",
+      "artefact": "dist/citroen-it-it/valutazione-auto-usate.html",
+      "octets": 33465,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__lp-vendita-auto-usate",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/lp/vendita-auto-usate",
+      "artefact": "dist/citroen-it-it/vendita-auto-usate.html",
+      "octets": 37786,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__perche-scegliere-citroen-valuta-il-tuo-usato",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/perche-scegliere-citroen-valuta-il-tuo-usato",
+      "artefact": "dist/citroen-it-it/perche-scegliere-citroen-valuta-il-tuo-usato.html",
+      "octets": 29934,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__qr-code",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/qr-code",
+      "artefact": "dist/citroen-it-it/qr-code.html",
+      "octets": 25182,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-it-it__rete-citroen",
+      "brand": "citroen",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.citroen.it/rete-citroen",
+      "artefact": "dist/citroen-it-it/rete-citroen.html",
+      "octets": 31320,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-lu-fr__code-qr",
+      "brand": "citroen",
+      "market": "LU",
+      "url": "https://reprise.citroen.lu/code-qr",
+      "artefact": "dist/citroen-lu-fr/code-qr.html",
+      "octets": 25141,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-lu-fr__comment-ca-marche",
+      "brand": "citroen",
+      "market": "LU",
+      "url": "https://reprise.citroen.lu/comment-ca-marche",
+      "artefact": "dist/citroen-lu-fr/comment-ca-marche.html",
+      "octets": 28364,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-lu-fr__lp-vendez-votre-voiture",
+      "brand": "citroen",
+      "market": "LU",
+      "url": "https://reprise.citroen.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/citroen-lu-fr/vendez-votre-voiture.html",
+      "octets": 36676,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-lu-fr__page-comment",
+      "brand": "citroen",
+      "market": "LU",
+      "url": "https://reprise.citroen.lu/page-comment",
+      "artefact": "dist/citroen-lu-fr/page-comment.html",
+      "octets": 32593,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-lu-fr__questions-frequentes",
+      "brand": "citroen",
+      "market": "LU",
+      "url": "https://reprise.citroen.lu/questions-frequentes",
+      "artefact": "dist/citroen-lu-fr/questions-frequentes.html",
+      "octets": 32469,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/citroen-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 32116,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__lp-Wycena-pojazdu",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/citroen-pl-pl/Wycena-pojazdu.html",
+      "octets": 33651,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__qr-code",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/qr-code",
+      "artefact": "dist/citroen-pl-pl/qr-code.html",
+      "octets": 24953,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__strona-dzialanie",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/strona-dzialanie",
+      "artefact": "dist/citroen-pl-pl/strona-dzialanie.html",
+      "octets": 30538,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__strona-faq",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/strona-faq",
+      "artefact": "dist/citroen-pl-pl/strona-faq.html",
+      "octets": 31718,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "citroen-pl-pl__strona-jak",
+      "brand": "citroen",
+      "market": "PL",
+      "url": "https://odkup.citroen.pl/strona-jak",
+      "artefact": "dist/citroen-pl-pl/strona-jak.html",
+      "octets": 30827,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__Pourquoi-DS",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/Pourquoi-DS",
+      "artefact": "dist/ds-automobiles-be-fr/Pourquoi-DS.html",
+      "octets": 30909,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__Reseau-DS",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/Reseau-DS",
+      "artefact": "dist/ds-automobiles-be-fr/Reseau-DS.html",
+      "octets": 30771,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__code-qr",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/code-qr",
+      "artefact": "dist/ds-automobiles-be-fr/code-qr.html",
+      "octets": 25710,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__fonctionnement-de-la-reprise-DS",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/fonctionnement-de-la-reprise-DS",
+      "artefact": "dist/ds-automobiles-be-fr/fonctionnement-de-la-reprise-DS.html",
+      "octets": 29922,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__lp-estimation-voiture",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/lp/estimation-voiture",
+      "artefact": "dist/ds-automobiles-be-fr/estimation-voiture.html",
+      "octets": 35366,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__lp-vendez-votre-voiture",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/lp/vendez-votre-voiture",
+      "artefact": "dist/ds-automobiles-be-fr/vendez-votre-voiture.html",
+      "octets": 37148,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-fr__page-faq",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://reprise.dsautomobiles.be/page-faq",
+      "artefact": "dist/ds-automobiles-be-fr/page-faq.html",
+      "octets": 31984,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-nl__DS-netwerk",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://overname.dsautomobiles.be/DS-netwerk",
+      "artefact": "dist/ds-automobiles-be-nl/DS-netwerk.html",
+      "octets": 30229,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-nl__Waarom-DS",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://overname.dsautomobiles.be/Waarom-DS",
+      "artefact": "dist/ds-automobiles-be-nl/Waarom-DS.html",
+      "octets": 30635,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-nl__lp-auto-verkopen",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://overname.dsautomobiles.be/lp/auto-verkopen",
+      "artefact": "dist/ds-automobiles-be-nl/auto-verkopen.html",
+      "octets": 34806,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-nl__pagina-faq",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://overname.dsautomobiles.be/pagina-faq",
+      "artefact": "dist/ds-automobiles-be-nl/pagina-faq.html",
+      "octets": 31887,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-be-nl__qr-code",
+      "brand": "ds-automobiles",
+      "market": "BE",
+      "url": "https://overname.dsautomobiles.be/qr-code",
+      "artefact": "dist/ds-automobiles-be-nl/qr-code.html",
+      "octets": 25653,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__autoverkauf",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/autoverkauf",
+      "artefact": "dist/ds-automobiles-de-de/autoverkauf.html",
+      "octets": 29280,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__kostenlose-bewertung",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/kostenlose-bewertung",
+      "artefact": "dist/ds-automobiles-de-de/kostenlose-bewertung.html",
+      "octets": 29110,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__lp-auto-verkaufen",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/lp/auto-verkaufen",
+      "artefact": "dist/ds-automobiles-de-de/auto-verkaufen.html",
+      "octets": 32318,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__lp-fahrzeugbewertung",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/lp/fahrzeugbewertung",
+      "artefact": "dist/ds-automobiles-de-de/fahrzeugbewertung.html",
+      "octets": 31446,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__qr-code",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/qr-code",
+      "artefact": "dist/ds-automobiles-de-de/qr-code.html",
+      "octets": 23861,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-de-de__weitere-informationen",
+      "brand": "ds-automobiles",
+      "market": "DE",
+      "url": "https://www.autoankauf.dsautomobiles.de/weitere-informationen",
+      "artefact": "dist/ds-automobiles-de-de/weitere-informationen.html",
+      "octets": 33886,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__como-funciona",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/como-funciona",
+      "artefact": "dist/ds-automobiles-es-es/como-funciona.html",
+      "octets": 30086,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__faq",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/faq",
+      "artefact": "dist/ds-automobiles-es-es/faq.html",
+      "octets": 28378,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__lp-Compramos-tu-coche",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/lp/Compramos-tu-coche",
+      "artefact": "dist/ds-automobiles-es-es/Compramos-tu-coche.html",
+      "octets": 35347,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__lp-plan-moves-3",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/lp/plan-moves-3",
+      "artefact": "dist/ds-automobiles-es-es/plan-moves-3.html",
+      "octets": 27456,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__lp-tasar-coche",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/lp/tasar-coche",
+      "artefact": "dist/ds-automobiles-es-es/tasar-coche.html",
+      "octets": 32890,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__porque-elegir-tasacion-ds",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/porque-elegir-tasacion-ds",
+      "artefact": "dist/ds-automobiles-es-es/porque-elegir-tasacion-ds.html",
+      "octets": 30982,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__qr-code",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/qr-code",
+      "artefact": "dist/ds-automobiles-es-es/qr-code.html",
+      "octets": 23803,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-es-es__saber-mas",
+      "brand": "ds-automobiles",
+      "market": "ES",
+      "url": "https://www.tasacion.dsautomobiles.es/saber-mas",
+      "artefact": "dist/ds-automobiles-es-es/saber-mas.html",
+      "octets": 29609,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__code-qr",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/code-qr",
+      "artefact": "dist/ds-automobiles-fr-fr/code-qr.html",
+      "octets": 25611,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__faq",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/faq",
+      "artefact": "dist/ds-automobiles-fr-fr/faq.html",
+      "octets": 32022,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__fonctionnement-reprise-ds",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/fonctionnement-reprise-ds",
+      "artefact": "dist/ds-automobiles-fr-fr/fonctionnement-reprise-ds.html",
+      "octets": 30766,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-prime-de-reprise",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-prime-de-reprise",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-prime-de-reprise.html",
+      "octets": 31934,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-rachat",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-rachat",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-rachat.html",
+      "octets": 31973,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise.html",
+      "octets": 32572,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-ancien-vehicule",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-ancien-vehicule",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-ancien-vehicule.html",
+      "octets": 32664,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-loa-ou-lld",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-loa-ou-lld",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-loa-ou-lld.html",
+      "octets": 31700,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-pour-un-vehicule-neuf",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-un-vehicule-neuf",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-pour-un-vehicule-neuf.html",
+      "octets": 31666,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-pour-une-occasion",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-une-occasion",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-pour-une-occasion.html",
+      "octets": 32523,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-simulation-en-ligne",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-simulation-en-ligne",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-simulation-en-ligne.html",
+      "octets": 32174,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-voiture-non-roulante",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-voiture-non-roulante",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-voiture-non-roulante.html",
+      "octets": 32124,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-voiture-sans-controle-technique",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-voiture-sans-controle-technique",
+      "artefact": "dist/ds-automobiles-fr-fr/ds-reprise-voiture-sans-controle-technique.html",
+      "octets": 32236,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-estimation-voiture",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/estimation-voiture",
+      "artefact": "dist/ds-automobiles-fr-fr/estimation-voiture.html",
+      "octets": 38959,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__lp-vendez-votre-voiture",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/ds-automobiles-fr-fr/vendez-votre-voiture.html",
+      "octets": 37319,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__nos-engagements",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/nos-engagements",
+      "artefact": "dist/ds-automobiles-fr-fr/nos-engagements.html",
+      "octets": 31172,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-fr-fr__reseau-ds-automobiles",
+      "brand": "ds-automobiles",
+      "market": "FR",
+      "url": "https://www.reprise.dsautomobiles.fr/reseau-ds-automobiles",
+      "artefact": "dist/ds-automobiles-fr-fr/reseau-ds-automobiles.html",
+      "octets": 30856,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__*",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/*",
+      "artefact": "dist/_exclus/ds-automobiles-it-it_wildcard.html",
+      "octets": 25256,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__come-funziona",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/come-funziona",
+      "artefact": "dist/ds-automobiles-it-it/come-funziona.html",
+      "octets": 28534,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__lp-valutazione-auto-usate",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/lp/valutazione-auto-usate",
+      "artefact": "dist/ds-automobiles-it-it/valutazione-auto-usate.html",
+      "octets": 33544,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__lp-vendita-auto-usate",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/lp/vendita-auto-usate",
+      "artefact": "dist/ds-automobiles-it-it/vendita-auto-usate.html",
+      "octets": 35795,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__perche-scegliere-ds-valuta-il-tuo-usato",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/perche-scegliere-ds-valuta-il-tuo-usato",
+      "artefact": "dist/ds-automobiles-it-it/perche-scegliere-ds-valuta-il-tuo-usato.html",
+      "octets": 27501,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__qr-code",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/qr-code",
+      "artefact": "dist/ds-automobiles-it-it/qr-code.html",
+      "octets": 23886,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-it-it__rete-ds",
+      "brand": "ds-automobiles",
+      "market": "IT",
+      "url": "https://valutazioneusato.dsautomobiles.it/rete-ds",
+      "artefact": "dist/ds-automobiles-it-it/rete-ds.html",
+      "octets": 30044,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__Pourquoi-DS",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/Pourquoi-DS",
+      "artefact": "dist/ds-automobiles-lu-fr/Pourquoi-DS.html",
+      "octets": 28999,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__Reseau-DS",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/Reseau-DS",
+      "artefact": "dist/ds-automobiles-lu-fr/Reseau-DS.html",
+      "octets": 28849,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__code-qr",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/code-qr",
+      "artefact": "dist/ds-automobiles-lu-fr/code-qr.html",
+      "octets": 23788,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__fonctionnement-de-la-reprise-DS",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/fonctionnement-de-la-reprise-DS",
+      "artefact": "dist/ds-automobiles-lu-fr/fonctionnement-de-la-reprise-DS.html",
+      "octets": 28000,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__lp-vendez-votre-voiture",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/ds-automobiles-lu-fr/vendez-votre-voiture.html",
+      "octets": 35458,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-lu-fr__page-faq",
+      "brand": "ds-automobiles",
+      "market": "LU",
+      "url": "https://reprise.dsautomobiles.lu/page-faq",
+      "artefact": "dist/ds-automobiles-lu-fr/page-faq.html",
+      "octets": 30221,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "ds-automobiles-uk-en__qr-code",
+      "brand": "ds-automobiles",
+      "market": "UK",
+      "url": "https://www.tradein.dsautomobiles.co.uk/qr-code",
+      "artefact": "dist/ds-automobiles-uk-en/qr-code.html",
+      "octets": 23824,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__code-qr",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/code-qr",
+      "artefact": "dist/fiat-be-fr/code-qr.html",
+      "octets": 24829,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__comment-ca-marche",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/comment-ca-marche",
+      "artefact": "dist/fiat-be-fr/comment-ca-marche.html",
+      "octets": 30213,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__le-reseau-fiat",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/le-reseau-fiat",
+      "artefact": "dist/fiat-be-fr/le-reseau-fiat.html",
+      "octets": 30118,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__lp-estimation-voiture",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/lp/estimation-voiture",
+      "artefact": "dist/fiat-be-fr/estimation-voiture.html",
+      "octets": 33261,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__lp-vendez-votre-voiture",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/lp/vendez-votre-voiture",
+      "artefact": "dist/fiat-be-fr/vendez-votre-voiture.html",
+      "octets": 36489,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-fr__questions-frequentes",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://reprise.fiat.be/questions-frequentes",
+      "artefact": "dist/fiat-be-fr/questions-frequentes.html",
+      "octets": 34209,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-nl__het-fiat-netwerk",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://overname.fiat.be/het-fiat-netwerk",
+      "artefact": "dist/fiat-be-nl/het-fiat-netwerk.html",
+      "octets": 29270,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-nl__hoe-werkt-het",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://overname.fiat.be/hoe-werkt-het",
+      "artefact": "dist/fiat-be-nl/hoe-werkt-het.html",
+      "octets": 29981,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-nl__lp-auto-verkopen",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://overname.fiat.be/lp/auto-verkopen",
+      "artefact": "dist/fiat-be-nl/auto-verkopen.html",
+      "octets": 33577,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-nl__qr-code",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://overname.fiat.be/qr-code",
+      "artefact": "dist/fiat-be-nl/qr-code.html",
+      "octets": 24779,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-be-nl__waarom-fiat-overname",
+      "brand": "fiat",
+      "market": "BE",
+      "url": "https://overname.fiat.be/waarom-fiat-overname",
+      "artefact": "dist/fiat-be-nl/waarom-fiat-overname.html",
+      "octets": 31204,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__funcionamiento",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/funcionamiento",
+      "artefact": "dist/fiat-es-es/funcionamiento.html",
+      "octets": 29963,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__la-red-fiat",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/la-red-fiat",
+      "artefact": "dist/fiat-es-es/la-red-fiat.html",
+      "octets": 29096,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__lp-Compramos-tu-coche",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/lp/Compramos-tu-coche",
+      "artefact": "dist/fiat-es-es/Compramos-tu-coche.html",
+      "octets": 36325,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__lp-tasar-coche",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/lp/tasar-coche",
+      "artefact": "dist/fiat-es-es/tasar-coche.html",
+      "octets": 37326,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__preguntas-frecuentes",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/preguntas-frecuentes",
+      "artefact": "dist/fiat-es-es/preguntas-frecuentes.html",
+      "octets": 29631,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-es-es__qr-code",
+      "brand": "fiat",
+      "market": "ES",
+      "url": "https://tasacion.fiat.es/qr-code",
+      "artefact": "dist/fiat-es-es/qr-code.html",
+      "octets": 24634,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-fr-fr__code-qr",
+      "brand": "fiat",
+      "market": "FR",
+      "url": "https://reprise.fiat.fr/code-qr",
+      "artefact": "dist/fiat-fr-fr/code-qr.html",
+      "octets": 24934,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-fr-fr__lp-estimation-voiture",
+      "brand": "fiat",
+      "market": "FR",
+      "url": "https://reprise.fiat.fr/lp/estimation-voiture",
+      "artefact": "dist/fiat-fr-fr/estimation-voiture.html",
+      "octets": 35413,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-fr-fr__lp-vendez-votre-voiture",
+      "brand": "fiat",
+      "market": "FR",
+      "url": "https://reprise.fiat.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/fiat-fr-fr/vendez-votre-voiture.html",
+      "octets": 35701,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__come-funziona",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/come-funziona",
+      "artefact": "dist/fiat-it-it/come-funziona.html",
+      "octets": 29521,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__domande-frequenti",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/domande-frequenti",
+      "artefact": "dist/fiat-it-it/domande-frequenti.html",
+      "octets": 30381,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__lp-valutazione-auto-usate",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/lp/valutazione-auto-usate",
+      "artefact": "dist/fiat-it-it/valutazione-auto-usate.html",
+      "octets": 33471,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__lp-vendita-auto-usate",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/lp/vendita-auto-usate",
+      "artefact": "dist/fiat-it-it/vendita-auto-usate.html",
+      "octets": 34370,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__perche-fiat",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/perche-fiat",
+      "artefact": "dist/fiat-it-it/perche-fiat.html",
+      "octets": 30606,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__qr-code",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/qr-code",
+      "artefact": "dist/fiat-it-it/qr-code.html",
+      "octets": 24815,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__rete-fiat",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/rete-fiat",
+      "artefact": "dist/fiat-it-it/rete-fiat.html",
+      "octets": 30021,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-it-it__valutazione-matriculo",
+      "brand": "fiat",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.fiat.it/valutazione-matriculo",
+      "artefact": "dist/fiat-it-it/valutazione-matriculo.html",
+      "octets": 28642,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-lu-fr__code-qr",
+      "brand": "fiat",
+      "market": "LU",
+      "url": "https://reprise.fiat.lu/code-qr",
+      "artefact": "dist/fiat-lu-fr/code-qr.html",
+      "octets": 24832,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-lu-fr__comment-ca-marche",
+      "brand": "fiat",
+      "market": "LU",
+      "url": "https://reprise.fiat.lu/comment-ca-marche",
+      "artefact": "dist/fiat-lu-fr/comment-ca-marche.html",
+      "octets": 30152,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-lu-fr__le-reseau-fiat",
+      "brand": "fiat",
+      "market": "LU",
+      "url": "https://reprise.fiat.lu/le-reseau-fiat",
+      "artefact": "dist/fiat-lu-fr/le-reseau-fiat.html",
+      "octets": 30050,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-lu-fr__lp-vendez-votre-voiture",
+      "brand": "fiat",
+      "market": "LU",
+      "url": "https://reprise.fiat.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/fiat-lu-fr/vendez-votre-voiture.html",
+      "octets": 35804,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-lu-fr__questions-frequentes",
+      "brand": "fiat",
+      "market": "LU",
+      "url": "https://reprise.fiat.lu/questions-frequentes",
+      "artefact": "dist/fiat-lu-fr/questions-frequentes.html",
+      "octets": 34212,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/fiat-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 31155,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__lp-Wycena-pojazdu",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/fiat-pl-pl/Wycena-pojazdu.html",
+      "octets": 32474,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__qr-code",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/qr-code",
+      "artefact": "dist/fiat-pl-pl/qr-code.html",
+      "octets": 24892,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__strona-dzialanie",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/strona-dzialanie",
+      "artefact": "dist/fiat-pl-pl/strona-dzialanie.html",
+      "octets": 29524,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__strona-faq",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/strona-faq",
+      "artefact": "dist/fiat-pl-pl/strona-faq.html",
+      "octets": 31322,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-pl-pl__strona-jak",
+      "brand": "fiat",
+      "market": "PL",
+      "url": "https://odkup.fiat.pl/strona-jak",
+      "artefact": "dist/fiat-pl-pl/strona-jak.html",
+      "octets": 29774,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-fr__code-qr",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://reprisebelgique.fiatprofessional.com/code-qr",
+      "artefact": "dist/fiat-professional-be-fr/code-qr.html",
+      "octets": 25098,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-fr__comment-ca-marche",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://reprisebelgique.fiatprofessional.com/comment-ca-marche",
+      "artefact": "dist/fiat-professional-be-fr/comment-ca-marche.html",
+      "octets": 30887,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-fr__le-reseau-fiatprofessional",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://reprisebelgique.fiatprofessional.com/le-reseau-fiatprofessional",
+      "artefact": "dist/fiat-professional-be-fr/le-reseau-fiatprofessional.html",
+      "octets": 31016,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-fr__lp-estimation-voiture",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://reprisebelgique.fiatprofessional.com/lp/estimation-voiture",
+      "artefact": "dist/fiat-professional-be-fr/estimation-voiture.html",
+      "octets": 37474,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-fr__questions-frequentes",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://reprisebelgique.fiatprofessional.com/questions-frequentes",
+      "artefact": "dist/fiat-professional-be-fr/questions-frequentes.html",
+      "octets": 34968,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-nl__het-fiatprofessional-netwerk",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://overname.fiatprofessional.com/het-fiatprofessional-netwerk",
+      "artefact": "dist/fiat-professional-be-nl/het-fiatprofessional-netwerk.html",
+      "octets": 30002,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-nl__hoe-werkt-het",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://overname.fiatprofessional.com/hoe-werkt-het",
+      "artefact": "dist/fiat-professional-be-nl/hoe-werkt-het.html",
+      "octets": 30443,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-nl__qr-code",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://overname.fiatprofessional.com/qr-code",
+      "artefact": "dist/fiat-professional-be-nl/qr-code.html",
+      "octets": 24948,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-nl__veelgestelde-vragen",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://overname.fiatprofessional.com/veelgestelde-vragen",
+      "artefact": "dist/fiat-professional-be-nl/veelgestelde-vragen.html",
+      "octets": 32688,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-be-nl__waarom-fiatprofessional-overname",
+      "brand": "fiat-professional",
+      "market": "BE",
+      "url": "https://overname.fiatprofessional.com/waarom-fiatprofessional-overname",
+      "artefact": "dist/fiat-professional-be-nl/waarom-fiatprofessional-overname.html",
+      "octets": 32075,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__funcionamiento",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/funcionamiento",
+      "artefact": "dist/fiat-professional-es-es/funcionamiento.html",
+      "octets": 30472,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__la-red-fiatprofessional",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/la-red-fiatprofessional",
+      "artefact": "dist/fiat-professional-es-es/la-red-fiatprofessional.html",
+      "octets": 29933,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__lp-compramos-tu-coche",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/lp/compramos-tu-coche",
+      "artefact": "dist/fiat-professional-es-es/compramos-tu-coche.html",
+      "octets": 36549,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__lp-tasar-coche",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/lp/tasar-coche",
+      "artefact": "dist/fiat-professional-es-es/tasar-coche.html",
+      "octets": 35723,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__preguntas-frecuentes",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/preguntas-frecuentes",
+      "artefact": "dist/fiat-professional-es-es/preguntas-frecuentes.html",
+      "octets": 30128,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-es-es__qr-code",
+      "brand": "fiat-professional",
+      "market": "ES",
+      "url": "https://tasacion.fiatprofessional.es/qr-code",
+      "artefact": "dist/fiat-professional-es-es/qr-code.html",
+      "octets": 24889,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__code-qr",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/code-qr",
+      "artefact": "dist/fiat-professional-fr-fr/code-qr.html",
+      "octets": 24820,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__comment-ca-marche",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/comment-ca-marche",
+      "artefact": "dist/fiat-professional-fr-fr/comment-ca-marche.html",
+      "octets": 30566,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__le-reseau-fiatprofessional",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/le-reseau-fiatprofessional",
+      "artefact": "dist/fiat-professional-fr-fr/le-reseau-fiatprofessional.html",
+      "octets": 30661,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__lp-estimation-voiture",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/lp/estimation-voiture",
+      "artefact": "dist/fiat-professional-fr-fr/estimation-voiture.html",
+      "octets": 37675,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__lp-vendez-votre-voiture",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/lp/vendez-votre-voiture",
+      "artefact": "dist/fiat-professional-fr-fr/vendez-votre-voiture.html",
+      "octets": 35992,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-fr-fr__questions-frequentes",
+      "brand": "fiat-professional",
+      "market": "FR",
+      "url": "https://reprise.fiatprofessional.com/questions-frequentes",
+      "artefact": "dist/fiat-professional-fr-fr/questions-frequentes.html",
+      "octets": 34663,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-lu-fr__code-qr",
+      "brand": "fiat-professional",
+      "market": "LU",
+      "url": "https://repriseluxembourg.fiatprofessional.com/code-qr",
+      "artefact": "dist/fiat-professional-lu-fr/code-qr.html",
+      "octets": 25130,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-lu-fr__comment-ca-marche",
+      "brand": "fiat-professional",
+      "market": "LU",
+      "url": "https://repriseluxembourg.fiatprofessional.com/comment-ca-marche",
+      "artefact": "dist/fiat-professional-lu-fr/comment-ca-marche.html",
+      "octets": 31193,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-lu-fr__le-reseau-fiatprofessional",
+      "brand": "fiat-professional",
+      "market": "LU",
+      "url": "https://repriseluxembourg.fiatprofessional.com/le-reseau-fiatprofessional",
+      "artefact": "dist/fiat-professional-lu-fr/le-reseau-fiatprofessional.html",
+      "octets": 30832,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-lu-fr__pourquoi-reprise-fiatprofessional",
+      "brand": "fiat-professional",
+      "market": "LU",
+      "url": "https://repriseluxembourg.fiatprofessional.com/pourquoi-reprise-fiatprofessional",
+      "artefact": "dist/fiat-professional-lu-fr/pourquoi-reprise-fiatprofessional.html",
+      "octets": 31637,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "fiat-professional-lu-fr__questions-frequentes",
+      "brand": "fiat-professional",
+      "market": "LU",
+      "url": "https://repriseluxembourg.fiatprofessional.com/questions-frequentes",
+      "artefact": "dist/fiat-professional-lu-fr/questions-frequentes.html",
+      "octets": 35022,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__code-qr",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/code-qr",
+      "artefact": "dist/jeep-be-fr/code-qr.html",
+      "octets": 24822,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__comment-ca-marche",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/comment-ca-marche",
+      "artefact": "dist/jeep-be-fr/comment-ca-marche.html",
+      "octets": 31245,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__le-reseau-Jeep",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/le-reseau-Jeep",
+      "artefact": "dist/jeep-be-fr/le-reseau-Jeep.html",
+      "octets": 31000,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__lp-estimation-voiture",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/lp/estimation-voiture",
+      "artefact": "dist/jeep-be-fr/estimation-voiture.html",
+      "octets": 33952,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__lp-vendez-votre-voiture",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/lp/vendez-votre-voiture",
+      "artefact": "dist/jeep-be-fr/vendez-votre-voiture.html",
+      "octets": 35668,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-fr__questions-frequentes",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://reprise.jeep.be/questions-frequentes",
+      "artefact": "dist/jeep-be-fr/questions-frequentes.html",
+      "octets": 33822,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-nl__het-Jeep-netwerk",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://overname.jeep.be/het-Jeep-netwerk",
+      "artefact": "dist/jeep-be-nl/het-Jeep-netwerk.html",
+      "octets": 30567,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-nl__hoe-werkt-het",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://overname.jeep.be/hoe-werkt-het",
+      "artefact": "dist/jeep-be-nl/hoe-werkt-het.html",
+      "octets": 31363,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-nl__lp-Auto-verkopen",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://overname.jeep.be/lp/Auto-verkopen",
+      "artefact": "dist/jeep-be-nl/Auto-verkopen.html",
+      "octets": 34196,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-nl__qr-code",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://overname.jeep.be/qr-code",
+      "artefact": "dist/jeep-be-nl/qr-code.html",
+      "octets": 24772,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-be-nl__waarom-Jeep-overname",
+      "brand": "jeep",
+      "market": "BE",
+      "url": "https://overname.jeep.be/waarom-Jeep-overname",
+      "artefact": "dist/jeep-be-nl/waarom-Jeep-overname.html",
+      "octets": 32214,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__funcionamiento",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/funcionamiento",
+      "artefact": "dist/jeep-es-es/funcionamiento.html",
+      "octets": 31134,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__la-red-jeep",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/la-red-jeep",
+      "artefact": "dist/jeep-es-es/la-red-jeep.html",
+      "octets": 30281,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__lp-Compramos-tu-coche",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/lp/Compramos-tu-coche",
+      "artefact": "dist/jeep-es-es/Compramos-tu-coche.html",
+      "octets": 35876,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__lp-tasar-coche",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/lp/tasar-coche",
+      "artefact": "dist/jeep-es-es/tasar-coche.html",
+      "octets": 37021,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__preguntas-frecuentes",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/preguntas-frecuentes",
+      "artefact": "dist/jeep-es-es/preguntas-frecuentes.html",
+      "octets": 29912,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-es-es__qr-code",
+      "brand": "jeep",
+      "market": "ES",
+      "url": "https://tasacion.jeep.es/qr-code",
+      "artefact": "dist/jeep-es-es/qr-code.html",
+      "octets": 24621,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__code-qr",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/code-qr",
+      "artefact": "dist/jeep-fr-fr/code-qr.html",
+      "octets": 24681,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__comment-ca-marche",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/comment-ca-marche",
+      "artefact": "dist/jeep-fr-fr/comment-ca-marche.html",
+      "octets": 31108,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__le-reseau-Jeep",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/le-reseau-Jeep",
+      "artefact": "dist/jeep-fr-fr/le-reseau-Jeep.html",
+      "octets": 30883,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__lp-estimation-voiture",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/lp/estimation-voiture",
+      "artefact": "dist/jeep-fr-fr/estimation-voiture.html",
+      "octets": 36101,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__lp-jeep-estimation-reprise",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/lp/jeep-estimation-reprise",
+      "artefact": "dist/jeep-fr-fr/jeep-estimation-reprise.html",
+      "octets": 29397,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__lp-vendez-votre-voiture",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/jeep-fr-fr/vendez-votre-voiture.html",
+      "octets": 35552,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-fr-fr__questions-frequentes",
+      "brand": "jeep",
+      "market": "FR",
+      "url": "https://reprise.jeep.fr/questions-frequentes",
+      "artefact": "dist/jeep-fr-fr/questions-frequentes.html",
+      "octets": 33659,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__*",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/*",
+      "artefact": "dist/jeep-it-it/*.html",
+      "octets": 30152,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__come-funziona",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/come-funziona",
+      "artefact": "dist/jeep-it-it/come-funziona.html",
+      "octets": 31022,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__domande-frequenti",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/domande-frequenti",
+      "artefact": "dist/jeep-it-it/domande-frequenti.html",
+      "octets": 32910,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__lp-valutazione-auto-usate",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/lp/valutazione-auto-usate",
+      "artefact": "dist/jeep-it-it/valutazione-auto-usate.html",
+      "octets": 34030,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__lp-vendita-auto-usate",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/lp/vendita-auto-usate",
+      "artefact": "dist/jeep-it-it/vendita-auto-usate.html",
+      "octets": 36371,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__perche-jeep",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/perche-jeep",
+      "artefact": "dist/jeep-it-it/perche-jeep.html",
+      "octets": 31163,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__qr-code",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/qr-code",
+      "artefact": "dist/jeep-it-it/qr-code.html",
+      "octets": 24954,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-it-it__rete-jeep",
+      "brand": "jeep",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.jeep-official.it/rete-jeep",
+      "artefact": "dist/jeep-it-it/rete-jeep.html",
+      "octets": 30578,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-lu-fr__code-qr",
+      "brand": "jeep",
+      "market": "LU",
+      "url": "https://reprise.jeep.lu/code-qr",
+      "artefact": "dist/jeep-lu-fr/code-qr.html",
+      "octets": 24825,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-lu-fr__comment-ca-marche",
+      "brand": "jeep",
+      "market": "LU",
+      "url": "https://reprise.jeep.lu/comment-ca-marche",
+      "artefact": "dist/jeep-lu-fr/comment-ca-marche.html",
+      "octets": 31248,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-lu-fr__le-reseau-Jeep",
+      "brand": "jeep",
+      "market": "LU",
+      "url": "https://reprise.jeep.lu/le-reseau-Jeep",
+      "artefact": "dist/jeep-lu-fr/le-reseau-Jeep.html",
+      "octets": 31003,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-lu-fr__lp-vendez-votre-voiture",
+      "brand": "jeep",
+      "market": "LU",
+      "url": "https://reprise.jeep.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/jeep-lu-fr/vendez-votre-voiture.html",
+      "octets": 36380,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-lu-fr__questions-frequentes",
+      "brand": "jeep",
+      "market": "LU",
+      "url": "https://reprise.jeep.lu/questions-frequentes",
+      "artefact": "dist/jeep-lu-fr/questions-frequentes.html",
+      "octets": 33823,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/jeep-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 32486,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__lp-Wycena-pojazdu",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/jeep-pl-pl/Wycena-pojazdu.html",
+      "octets": 34006,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__qr-code",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/qr-code",
+      "artefact": "dist/jeep-pl-pl/qr-code.html",
+      "octets": 25278,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__strona-dzialanie",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/strona-dzialanie",
+      "artefact": "dist/jeep-pl-pl/strona-dzialanie.html",
+      "octets": 30930,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__strona-faq",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/strona-faq",
+      "artefact": "dist/jeep-pl-pl/strona-faq.html",
+      "octets": 32107,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "jeep-pl-pl__strona-jak",
+      "brand": "jeep",
+      "market": "PL",
+      "url": "https://odkup.jeep.pl/strona-jak",
+      "artefact": "dist/jeep-pl-pl/strona-jak.html",
+      "octets": 31167,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-at-de__auto-bewerten",
+      "brand": "opel",
+      "market": "AT",
+      "url": "https://opel-kauft-dein-auto.opel.at/auto-bewerten",
+      "artefact": "dist/opel-at-de/auto-bewerten.html",
+      "octets": 28994,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-at-de__auto-verkaufen",
+      "brand": "opel",
+      "market": "AT",
+      "url": "https://opel-kauft-dein-auto.opel.at/auto-verkaufen",
+      "artefact": "dist/opel-at-de/auto-verkaufen.html",
+      "octets": 29261,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-at-de__was-ist-mein-auto-wert",
+      "brand": "opel",
+      "market": "AT",
+      "url": "https://opel-kauft-dein-auto.opel.at/was-ist-mein-auto-wert",
+      "artefact": "dist/opel-at-de/was-ist-mein-auto-wert.html",
+      "octets": 29157,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__code-qr",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/code-qr",
+      "artefact": "dist/opel-be-fr/code-qr.html",
+      "octets": 25636,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__comment-ca-marche",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/comment-ca-marche",
+      "artefact": "dist/opel-be-fr/comment-ca-marche.html",
+      "octets": 31210,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__lp-estimation-voiture",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/lp/estimation-voiture",
+      "artefact": "dist/opel-be-fr/estimation-voiture.html",
+      "octets": 34148,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__lp-vendez-votre-voiture",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/lp/vendez-votre-voiture",
+      "artefact": "dist/opel-be-fr/vendez-votre-voiture.html",
+      "octets": 36340,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__page-faq",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/page-faq",
+      "artefact": "dist/opel-be-fr/page-faq.html",
+      "octets": 32182,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-fr__reseau-opel",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.reprise.opel.be/reseau-opel",
+      "artefact": "dist/opel-be-fr/reseau-opel.html",
+      "octets": 30511,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-nl__faq",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.overname.opel.be/faq",
+      "artefact": "dist/opel-be-nl/faq.html",
+      "octets": 35590,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-nl__het-opel-net",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.overname.opel.be/het-opel-net",
+      "artefact": "dist/opel-be-nl/het-opel-net.html",
+      "octets": 30342,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-nl__hoe-werk-het",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.overname.opel.be/hoe-werk-het",
+      "artefact": "dist/opel-be-nl/hoe-werk-het.html",
+      "octets": 30795,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-nl__lp-auto-verkopen",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.overname.opel.be/lp/auto-verkopen",
+      "artefact": "dist/opel-be-nl/auto-verkopen.html",
+      "octets": 35295,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-be-nl__qr-code",
+      "brand": "opel",
+      "market": "BE",
+      "url": "https://www.overname.opel.be/qr-code",
+      "artefact": "dist/opel-be-nl/qr-code.html",
+      "octets": 25586,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-de-de__autoverkauf",
+      "brand": "opel",
+      "market": "DE",
+      "url": "https://www.opel-kauft-dein-auto.de/autoverkauf",
+      "artefact": "dist/opel-de-de/autoverkauf.html",
+      "octets": 30518,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-de-de__kostenlose-bewertung",
+      "brand": "opel",
+      "market": "DE",
+      "url": "https://www.opel-kauft-dein-auto.de/kostenlose-bewertung",
+      "artefact": "dist/opel-de-de/kostenlose-bewertung.html",
+      "octets": 30290,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-de-de__lp-auto-verkaufen",
+      "brand": "opel",
+      "market": "DE",
+      "url": "https://www.opel-kauft-dein-auto.de/lp/auto-verkaufen",
+      "artefact": "dist/opel-de-de/auto-verkaufen.html",
+      "octets": 32587,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-de-de__lp-fahrzeugbewertung",
+      "brand": "opel",
+      "market": "DE",
+      "url": "https://www.opel-kauft-dein-auto.de/lp/fahrzeugbewertung",
+      "artefact": "dist/opel-de-de/fahrzeugbewertung.html",
+      "octets": 31939,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-de-de__was-ist-mein-auto-wert",
+      "brand": "opel",
+      "market": "DE",
+      "url": "https://www.opel-kauft-dein-auto.de/was-ist-mein-auto-wert",
+      "artefact": "dist/opel-de-de/was-ist-mein-auto-wert.html",
+      "octets": 30425,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__Funcionamiento",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/Funcionamiento",
+      "artefact": "dist/opel-es-es/Funcionamiento.html",
+      "octets": 31297,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__comentario",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/comentario",
+      "artefact": "dist/opel-es-es/comentario.html",
+      "octets": 28048,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__faq",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/faq",
+      "artefact": "dist/opel-es-es/faq.html",
+      "octets": 31879,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__lp-Compramos-tu-coche",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/lp/Compramos-tu-coche",
+      "artefact": "dist/opel-es-es/Compramos-tu-coche.html",
+      "octets": 36724,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__lp-tasar-coche",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/lp/tasar-coche",
+      "artefact": "dist/opel-es-es/tasar-coche.html",
+      "octets": 35594,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__pagina-transicion",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/pagina-transicion",
+      "artefact": "dist/opel-es-es/pagina-transicion.html",
+      "octets": 28615,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__porque",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/porque",
+      "artefact": "dist/opel-es-es/porque.html",
+      "octets": 27949,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-es-es__qr-code",
+      "brand": "opel",
+      "market": "ES",
+      "url": "https://www.tasacion.opel.es/qr-code",
+      "artefact": "dist/opel-es-es/qr-code.html",
+      "octets": 24990,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__error",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/error",
+      "artefact": "dist/opel-fr-fr/error.html",
+      "octets": 26972,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__error_500",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/error_500",
+      "artefact": "dist/_exclus/opel-fr-fr_error_500.html",
+      "octets": 25098,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__estimation",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/estimation",
+      "artefact": "dist/opel-fr-fr/estimation.html",
+      "octets": 27002,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__estimez-voiture",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/estimez-voiture",
+      "artefact": "dist/opel-fr-fr/estimez-voiture.html",
+      "octets": 27032,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__faq",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/faq",
+      "artefact": "dist/opel-fr-fr/faq.html",
+      "octets": 26960,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__vendre-son-opel",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/vendre-son-opel",
+      "artefact": "dist/opel-fr-fr/vendre-son-opel.html",
+      "octets": 27032,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-fr-fr__vendre-votre-voiture",
+      "brand": "opel",
+      "market": "FR",
+      "url": "https://www.reprise.opel.fr/vendre-votre-voiture",
+      "artefact": "dist/_exclus/opel-fr-fr_vendre-votre-voiture_zero-bloc.html",
+      "octets": 25164,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__come-funziona",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/come-funziona",
+      "artefact": "dist/opel-it-it/come-funziona.html",
+      "octets": 30291,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__lp-valutazione-auto-usate",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/lp/valutazione-auto-usate",
+      "artefact": "dist/opel-it-it/valutazione-auto-usate.html",
+      "octets": 34540,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__lp-vendita-auto-usate",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/lp/vendita-auto-usate",
+      "artefact": "dist/opel-it-it/vendita-auto-usate.html",
+      "octets": 35533,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__perche-scegliere-opel-valuta-il-tuo-usato",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/perche-scegliere-opel-valuta-il-tuo-usato",
+      "artefact": "dist/opel-it-it/perche-scegliere-opel-valuta-il-tuo-usato.html",
+      "octets": 29384,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__qr-code",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/qr-code",
+      "artefact": "dist/opel-it-it/qr-code.html",
+      "octets": 25097,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-it-it__rete-Opel",
+      "brand": "opel",
+      "market": "IT",
+      "url": "https://www.valutazioneusato.opel.it/rete-Opel",
+      "artefact": "dist/opel-it-it/rete-Opel.html",
+      "octets": 30799,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-lu-fr__code-qr",
+      "brand": "opel",
+      "market": "LU",
+      "url": "https://www.reprise.opel.lu/code-qr",
+      "artefact": "dist/opel-lu-fr/code-qr.html",
+      "octets": 25637,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-lu-fr__comment-ca-marche",
+      "brand": "opel",
+      "market": "LU",
+      "url": "https://www.reprise.opel.lu/comment-ca-marche",
+      "artefact": "dist/opel-lu-fr/comment-ca-marche.html",
+      "octets": 31211,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-lu-fr__lp-vendez-votre-voiture",
+      "brand": "opel",
+      "market": "LU",
+      "url": "https://www.reprise.opel.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/opel-lu-fr/vendez-votre-voiture.html",
+      "octets": 36810,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-lu-fr__page-faq",
+      "brand": "opel",
+      "market": "LU",
+      "url": "https://www.reprise.opel.lu/page-faq",
+      "artefact": "dist/opel-lu-fr/page-faq.html",
+      "octets": 32195,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-lu-fr__reseau-opel",
+      "brand": "opel",
+      "market": "LU",
+      "url": "https://www.reprise.opel.lu/reseau-opel",
+      "artefact": "dist/opel-lu-fr/reseau-opel.html",
+      "octets": 30516,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/opel-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 31161,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__lp-Wycena-pojazdu",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/opel-pl-pl/Wycena-pojazdu.html",
+      "octets": 33299,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__qr-code",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/qr-code",
+      "artefact": "dist/opel-pl-pl/qr-code.html",
+      "octets": 24362,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__strona-dzialanie",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/strona-dzialanie",
+      "artefact": "dist/opel-pl-pl/strona-dzialanie.html",
+      "octets": 29759,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__strona-faq",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/strona-faq",
+      "artefact": "dist/opel-pl-pl/strona-faq.html",
+      "octets": 30999,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "opel-pl-pl__strona-jak",
+      "brand": "opel",
+      "market": "PL",
+      "url": "https://www.odkup.opel.pl/strona-jak",
+      "artefact": "dist/opel-pl-pl/strona-jak.html",
+      "octets": 30354,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-at-de__auto-bewerten",
+      "brand": "peugeot",
+      "market": "AT",
+      "url": "https://www.wir-kaufen-ihr-auto.peugeot.at/auto-bewerten",
+      "artefact": "dist/peugeot-at-de/auto-bewerten.html",
+      "octets": 24545,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-at-de__auto-verkaufen",
+      "brand": "peugeot",
+      "market": "AT",
+      "url": "https://www.wir-kaufen-ihr-auto.peugeot.at/auto-verkaufen",
+      "artefact": "dist/peugeot-at-de/auto-verkaufen.html",
+      "octets": 24937,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-at-de__was-ist-mein-auto-wert",
+      "brand": "peugeot",
+      "market": "AT",
+      "url": "https://www.wir-kaufen-ihr-auto.peugeot.at/was-ist-mein-auto-wert",
+      "artefact": "dist/peugeot-at-de/was-ist-mein-auto-wert.html",
+      "octets": 24777,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__code-qr",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/code-qr",
+      "artefact": "dist/peugeot-be-fr/code-qr.html",
+      "octets": 20583,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__comment-ca-marche",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/comment-ca-marche",
+      "artefact": "dist/peugeot-be-fr/comment-ca-marche.html",
+      "octets": 25834,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__le-reseau-peugeot",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/le-reseau-peugeot",
+      "artefact": "dist/peugeot-be-fr/le-reseau-peugeot.html",
+      "octets": 26448,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__lp-estimation-voiture",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/lp/estimation-voiture",
+      "artefact": "dist/peugeot-be-fr/estimation-voiture.html",
+      "octets": 29193,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__lp-vendez-votre-voiture",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/lp/vendez-votre-voiture",
+      "artefact": "dist/peugeot-be-fr/vendez-votre-voiture.html",
+      "octets": 33146,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-fr__questions-frequentes",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://reprise.peugeot.be/questions-frequentes",
+      "artefact": "dist/peugeot-be-fr/questions-frequentes.html",
+      "octets": 27547,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-nl__het-peugeot-netwerk",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://overname.peugeot.be/het-peugeot-netwerk",
+      "artefact": "dist/peugeot-be-nl/het-peugeot-netwerk.html",
+      "octets": 25864,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-nl__hoe-werkt-het",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://overname.peugeot.be/hoe-werkt-het",
+      "artefact": "dist/peugeot-be-nl/hoe-werkt-het.html",
+      "octets": 25670,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-nl__lp-auto-verkopen",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://overname.peugeot.be/lp/auto-verkopen",
+      "artefact": "dist/peugeot-be-nl/auto-verkopen.html",
+      "octets": 29398,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-nl__qr-code",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://overname.peugeot.be/qr-code",
+      "artefact": "dist/peugeot-be-nl/qr-code.html",
+      "octets": 20549,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-be-nl__waarom-peugeot-overname",
+      "brand": "peugeot",
+      "market": "BE",
+      "url": "https://overname.peugeot.be/waarom-peugeot-overname",
+      "artefact": "dist/peugeot-be-nl/waarom-peugeot-overname.html",
+      "octets": 25365,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__autoverkauf",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/autoverkauf",
+      "artefact": "dist/peugeot-de-de/autoverkauf.html",
+      "octets": 25088,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__kostenlose-bewertung",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/kostenlose-bewertung",
+      "artefact": "dist/peugeot-de-de/kostenlose-bewertung.html",
+      "octets": 24784,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__lp-auto-verkaufen",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/lp/auto-verkaufen",
+      "artefact": "dist/peugeot-de-de/auto-verkaufen.html",
+      "octets": 27982,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__lp-fahrzeugbewertung",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/lp/fahrzeugbewertung",
+      "artefact": "dist/peugeot-de-de/fahrzeugbewertung.html",
+      "octets": 29529,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__qr-code",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/qr-code",
+      "artefact": "dist/peugeot-de-de/qr-code.html",
+      "octets": 20432,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-de-de__weitere-informationen",
+      "brand": "peugeot",
+      "market": "DE",
+      "url": "https://www.autoankauf.peugeot.de/weitere-informationen",
+      "artefact": "dist/peugeot-de-de/weitere-informationen.html",
+      "octets": 31814,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__Funcionamiento",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/Funcionamiento",
+      "artefact": "dist/peugeot-es-es/Funcionamiento.html",
+      "octets": 23951,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__comentario",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/comentario",
+      "artefact": "dist/peugeot-es-es/comentario.html",
+      "octets": 23856,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__faq",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/faq",
+      "artefact": "dist/peugeot-es-es/faq.html",
+      "octets": 25443,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__lp-compramos-tu-coche",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/lp/compramos-tu-coche",
+      "artefact": "dist/peugeot-es-es/compramos-tu-coche.html",
+      "octets": 31890,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__lp-tasar-coche",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/lp/tasar-coche",
+      "artefact": "dist/peugeot-es-es/tasar-coche.html",
+      "octets": 31348,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__pagina-transicion",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/pagina-transicion",
+      "artefact": "dist/peugeot-es-es/pagina-transicion.html",
+      "octets": 23609,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__porque",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/porque",
+      "artefact": "dist/peugeot-es-es/porque.html",
+      "octets": 23224,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-es-es__qr-code",
+      "brand": "peugeot",
+      "market": "ES",
+      "url": "https://tasacion.peugeot.es/qr-code",
+      "artefact": "dist/peugeot-es-es/qr-code.html",
+      "octets": 20275,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__code-qr",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/code-qr",
+      "artefact": "dist/peugeot-fr-fr/code-qr.html",
+      "octets": 20535,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-combien-coute-ma-voiture",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/combien-coute-ma-voiture",
+      "artefact": "dist/peugeot-fr-fr/combien-coute-ma-voiture.html",
+      "octets": 27906,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-combien-vaut-ma-voiture-occasion",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/combien-vaut-ma-voiture-occasion",
+      "artefact": "dist/peugeot-fr-fr/combien-vaut-ma-voiture-occasion.html",
+      "octets": 29454,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-cotation-voiture",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/cotation-voiture",
+      "artefact": "dist/peugeot-fr-fr/cotation-voiture.html",
+      "octets": 28155,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-estimation-voiture",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/estimation-voiture",
+      "artefact": "dist/peugeot-fr-fr/estimation-voiture.html",
+      "octets": 33479,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-cote",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-cote",
+      "artefact": "dist/peugeot-fr-fr/peugeot-cote.html",
+      "octets": 28896,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-estimation",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-estimation",
+      "artefact": "dist/peugeot-fr-fr/peugeot-estimation.html",
+      "octets": 28791,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-estimation-reprise",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-estimation-reprise",
+      "artefact": "dist/peugeot-fr-fr/peugeot-estimation-reprise.html",
+      "octets": 26658,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-offre",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-offre",
+      "artefact": "dist/peugeot-fr-fr/peugeot-offre.html",
+      "octets": 28811,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-rachat",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-rachat",
+      "artefact": "dist/peugeot-fr-fr/peugeot-rachat.html",
+      "octets": 29339,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-reprise",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-reprise",
+      "artefact": "dist/peugeot-fr-fr/peugeot-reprise.html",
+      "octets": 29143,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-vendre",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-vendre",
+      "artefact": "dist/peugeot-fr-fr/peugeot-vendre.html",
+      "octets": 30364,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-vente",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-vente",
+      "artefact": "dist/peugeot-fr-fr/peugeot-vente.html",
+      "octets": 29056,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-peugeot-voiture",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/peugeot-voiture",
+      "artefact": "dist/peugeot-fr-fr/peugeot-voiture.html",
+      "octets": 28713,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-reprise-hybride",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/reprise-hybride",
+      "artefact": "dist/peugeot-fr-fr/reprise-hybride.html",
+      "octets": 29394,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-reprise-lyon",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/reprise-lyon",
+      "artefact": "dist/peugeot-fr-fr/reprise-lyon.html",
+      "octets": 29440,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-reprise-paris",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/reprise-paris",
+      "artefact": "dist/peugeot-fr-fr/reprise-paris.html",
+      "octets": 29644,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-reprise-utilitaire",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/reprise-utilitaire",
+      "artefact": "dist/peugeot-fr-fr/reprise-utilitaire.html",
+      "octets": 29267,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-service-reprise-peugeot",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/service-reprise-peugeot",
+      "artefact": "dist/peugeot-fr-fr/service-reprise-peugeot.html",
+      "octets": 27226,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-vendez-votre-voiture",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/vendez-votre-voiture",
+      "artefact": "dist/peugeot-fr-fr/vendez-votre-voiture.html",
+      "octets": 30142,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__lp-voiture-electrique",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/lp/voiture-electrique",
+      "artefact": "dist/peugeot-fr-fr/voiture-electrique.html",
+      "octets": 27389,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__page-comment",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/page-comment",
+      "artefact": "dist/peugeot-fr-fr/page-comment.html",
+      "octets": 26337,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__page-faq",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/page-faq",
+      "artefact": "dist/peugeot-fr-fr/page-faq.html",
+      "octets": 27258,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__page-fonctionnement",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/page-fonctionnement",
+      "artefact": "dist/peugeot-fr-fr/page-fonctionnement.html",
+      "octets": 25851,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__page-pourquoi",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/page-pourquoi",
+      "artefact": "dist/peugeot-fr-fr/page-pourquoi.html",
+      "octets": 25492,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-fr-fr__restitution-immat",
+      "brand": "peugeot",
+      "market": "FR",
+      "url": "https://www.reprise.peugeot.fr/restitution-immat",
+      "artefact": "dist/peugeot-fr-fr/restitution-immat.html",
+      "octets": 26082,
+      "build": "2026-08-04",
       "bo_status": "non_pousse"
     },
     {
@@ -27,8 +4197,188 @@
       "market": "FR",
       "url": "https://www.reprise.peugeot.fr/lp/vendez-votre-voiture",
       "artefact": "dist/peugeot-fr/vendez-votre-voiture.html",
-      "octets": 39081,
-      "build": "2026-08-03",
+      "octets": 39030,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__*",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/*",
+      "artefact": "dist/peugeot-it-it/*.html",
+      "octets": 24728,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__come-funziona",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/come-funziona",
+      "artefact": "dist/peugeot-it-it/come-funziona.html",
+      "octets": 24800,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__lp-valutazione-auto-usate",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/lp/valutazione-auto-usate",
+      "artefact": "dist/peugeot-it-it/valutazione-auto-usate.html",
+      "octets": 28736,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__lp-vendita-auto-usate",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/lp/vendita-auto-usate",
+      "artefact": "dist/peugeot-it-it/vendita-auto-usate.html",
+      "octets": 32784,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__perche-scegliere-peugeot-valuta-il-tuo-usato",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/perche-scegliere-peugeot-valuta-il-tuo-usato",
+      "artefact": "dist/peugeot-it-it/perche-scegliere-peugeot-valuta-il-tuo-usato.html",
+      "octets": 24982,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__qr-code",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/qr-code",
+      "artefact": "dist/peugeot-it-it/qr-code.html",
+      "octets": 20536,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-it-it__rete-peugeot",
+      "brand": "peugeot",
+      "market": "IT",
+      "url": "https://www.valutiamoiltuousato.peugeot.it/rete-peugeot",
+      "artefact": "dist/peugeot-it-it/rete-peugeot.html",
+      "octets": 26271,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-lu-fr__code-qr",
+      "brand": "peugeot",
+      "market": "LU",
+      "url": "https://reprise.peugeot.lu/code-qr",
+      "artefact": "dist/peugeot-lu-fr/code-qr.html",
+      "octets": 20586,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-lu-fr__comment-ca-marche",
+      "brand": "peugeot",
+      "market": "LU",
+      "url": "https://reprise.peugeot.lu/comment-ca-marche",
+      "artefact": "dist/peugeot-lu-fr/comment-ca-marche.html",
+      "octets": 25842,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-lu-fr__le-reseau-peugeot",
+      "brand": "peugeot",
+      "market": "LU",
+      "url": "https://reprise.peugeot.lu/le-reseau-peugeot",
+      "artefact": "dist/peugeot-lu-fr/le-reseau-peugeot.html",
+      "octets": 26451,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-lu-fr__lp-vendez-votre-voiture",
+      "brand": "peugeot",
+      "market": "LU",
+      "url": "https://reprise.peugeot.lu/lp/vendez-votre-voiture",
+      "artefact": "dist/peugeot-lu-fr/vendez-votre-voiture.html",
+      "octets": 30806,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-lu-fr__questions-frequentes",
+      "brand": "peugeot",
+      "market": "LU",
+      "url": "https://reprise.peugeot.lu/questions-frequentes",
+      "artefact": "dist/peugeot-lu-fr/questions-frequentes.html",
+      "octets": 27579,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__lp-Sprzedaj-swoj-samochod",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/lp/Sprzedaj-swoj-samochod",
+      "artefact": "dist/peugeot-pl-pl/Sprzedaj-swoj-samochod.html",
+      "octets": 27350,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__lp-Wycena-pojazdu",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/lp/Wycena-pojazdu",
+      "artefact": "dist/peugeot-pl-pl/Wycena-pojazdu.html",
+      "octets": 27447,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__qr-code",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/qr-code",
+      "artefact": "dist/peugeot-pl-pl/qr-code.html",
+      "octets": 20255,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__strona-dzialanie",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/strona-dzialanie",
+      "artefact": "dist/peugeot-pl-pl/strona-dzialanie.html",
+      "octets": 25399,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__strona-faq",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/strona-faq",
+      "artefact": "dist/peugeot-pl-pl/strona-faq.html",
+      "octets": 26704,
+      "build": "2026-08-04",
+      "bo_status": "non_pousse"
+    },
+    {
+      "page_key": "peugeot-pl-pl__strona-jak",
+      "brand": "peugeot",
+      "market": "PL",
+      "url": "https://odkup.peugeot.pl/strona-jak",
+      "artefact": "dist/peugeot-pl-pl/strona-jak.html",
+      "octets": 25655,
+      "build": "2026-08-04",
       "bo_status": "non_pousse"
     }
   ]

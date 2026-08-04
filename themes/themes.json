@@ -15,7 +15,8 @@
         "FR": "35",
         "PT": "96"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/2cars_sol.webp"
     },
     "fiat": {
       "label": "Fiat",
@@ -27,7 +28,8 @@
         "FR": "155",
         "PT": "160"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-500.jpg"
     },
     "fiat-professional": {
       "label": "Fiat Professional",
@@ -39,7 +41,8 @@
         "FR": "158",
         "PT": "164"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/fiat-500.jpg"
     },
     "jeep": {
       "label": "Jeep",
@@ -52,7 +55,8 @@
         "PT": "161"
       },
       "warning": "Accent vert non confirme officiellement — a valider avant deploiement.",
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/JEEP-COMPASS-MHEV-MY26-STATIC-1600X900-URBAN-x2.webp"
     },
     "alfa-romeo": {
       "label": "Alfa Romeo",
@@ -64,7 +68,8 @@
         "FR": "157",
         "PT": "163"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/AR-Tonale-PHEV-Gallery-Performance-2000X1000-DSK-03.webp"
     },
     "abarth": {
       "label": "Abarth",
@@ -76,7 +81,8 @@
         "FR": "154",
         "PT": "162"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.amazonaws.com/162/95d033dd-592a-4c84-8de0-6702d0fbc754"
     },
     "citroen": {
       "label": "Citroën",
@@ -88,7 +94,8 @@
         "FR": "33",
         "PT": "94"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/Immersif_1_eC3.webp"
     },
     "peugeot": {
       "label": "Peugeot",
@@ -100,7 +107,8 @@
         "FR": "21",
         "PT": "95"
       },
-      "accent_text": "#fff"
+      "accent_text": "#fff",
+      "hero": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/95/PEUGEOT_E_3008_2309PJ_125_FR.webp"
     },
     "opel": {
       "label": "Opel",
@@ -112,7 +120,8 @@
         "FR": "15",
         "PT": "46"
       },
-      "accent_text": "#000"
+      "accent_text": "#000",
+      "hero": "https://usine-a-sites.s3.amazonaws.com/46/540d1f91-da7b-4d58-b6c0-f75a28e4eb65"
     }
   },
   "tokens_communs": {
@@ -129,6 +138,6 @@
   },
   "hero_source": {
     "bucket": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/Stellantis/",
-    "regle": "Le slot hero se sert TOUJOURS dans /Stellantis/. Les visuels de marque (dossiers numeriques) sont reserves aux blocs de contenu : ils sont dimensionnes pour des conteneurs, pas pour du plein cadre."
+    "regle": "Un hero HD par marque, issu de Base_Medias_Retoma-V2-def.xlsx (lignes Type='Hero'). fiat-professional n'a pas de hero dedie dans le fichier source : repli explicite sur celui de fiat (meme famille, meme accent #9A172E). Le hero abarth provient d'un dossier S3 numerique (162/) plutot que /Stellantis/ -- conserve tel quel car explicitement etiquete 'Hero' dans le fichier source fourni, la curation humaine prevaut sur l'heuristique de nommage."
   }
 }

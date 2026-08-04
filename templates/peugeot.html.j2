@@ -283,7 +283,7 @@
   <section class="split {{ 'reverse' if b.image_side != 'left' }}" id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
     {%- if b.image %}<div class="split-media"><img src="{{ b.image }}" alt="{{ b.image_alt }}" loading="lazy" /></div>{% endif %}
     <div class="split-content">
-      <div class="eyebrow">{{ b.tag }}</div>
+      {%- if b.tag and not b.tag.startswith('TODO') %}<div class="eyebrow">{{ b.tag }}</div>{% endif %}
       <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
       {%- for p in b.paragraphs %}<p>{% if p.strong %}<strong>{{ p.text }}</strong>{% else %}{{ p.text }}{% endif %}</p>{% endfor %}
       {%- if b.bullets %}{{ bullets(b.bullets) }}{% endif %}
@@ -296,7 +296,7 @@
     {%- if b.image %}<div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>{% endif %}
     <div class="dark-inner">
       <div>
-        <div class="eyebrow">{{ b.tag }}</div>
+        {%- if b.tag and not b.tag.startswith('TODO') %}<div class="eyebrow">{{ b.tag }}</div>{% endif %}
         <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
       </div>
       <div class="dark-text">
@@ -309,7 +309,7 @@
   <section id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
     <div class="steps-section">
       <div class="steps-head">
-        <div class="eyebrow">{{ b.tag }}</div>
+        {%- if b.tag and not b.tag.startswith('TODO') %}<div class="eyebrow">{{ b.tag }}</div>{% endif %}
         <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
       </div>
       <div class="steps-grid">
@@ -329,7 +329,7 @@
     {%- if b.image %}<div class="dark-media" aria-hidden="true"><img src="{{ b.image }}" alt="" loading="lazy" /></div>{% endif %}
     <div class="dark-inner">
       <div>
-        <div class="eyebrow">{{ b.tag }}</div>
+        {%- if b.tag and not b.tag.startswith('TODO') %}<div class="eyebrow">{{ b.tag }}</div>{% endif %}
         <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
       </div>
       <div class="dark-text">
@@ -349,7 +349,7 @@
   <section id="{{ b.id }}" aria-labelledby="{{ b.id }}-h2">
     <div class="faq-section">
       <div class="faq-head">
-        <div class="eyebrow">{{ b.tag }}</div>
+        {%- if b.tag and not b.tag.startswith('TODO') %}<div class="eyebrow">{{ b.tag }}</div>{% endif %}
         <h2 id="{{ b.id }}-h2">{{ b.h2 }}</h2>
       </div>
       <div>
@@ -371,7 +371,7 @@
 
   <div class="final-cta-wrap">
     <div class="final-cta">
-      <div class="eyebrow">{{ page.cta_final.tag }}</div>
+      {%- if page.cta_final.tag and not page.cta_final.tag.startswith('TODO') %}<div class="eyebrow">{{ page.cta_final.tag }}</div>{% endif %}
       <h2>{{ page.cta_final.h2 }}</h2>
       <p>{{ page.cta_final.lead }}</p>
       <a href="{{ page.cta_final.cta_href }}" class="final-cta-btn">{{ page.cta_final.cta_label }}</a>

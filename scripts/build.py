@@ -215,6 +215,10 @@ def main():
                 page["subnav"] = [n for n in page.get("subnav", [])
                                   if n.get("label") and not n["label"].startswith("TODO")]
                 normalize_images(page, media_pool)
+                theme_hero = themes["brands"].get(page["brand"], {}).get("hero")
+                if theme_hero and (not page["hero"].get("image")
+                                    or page["hero"]["image"].startswith("TODO")):
+                    page["hero"]["image"] = theme_hero
 
                 theme = themes["brands"][page["brand"]]
                 tpl = env.get_template(f"{theme['template']}.html.j2")
