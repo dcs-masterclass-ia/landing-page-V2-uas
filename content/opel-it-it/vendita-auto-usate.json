@@ -18,8 +18,8 @@
     "og_image_alt": "Vendere un'auto usata con Opel : un processo facile, sicuro e gratuito"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.valutazioneusato.opel.it/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.opel.it/"
   },
@@ -39,15 +39,15 @@
   },
   "subnav": [
     {
-      "label": "Vendere la tua auto usat",
+      "label": "Vendere la tua auto usata senza preoccupazioni",
       "anchor": "#vendere-la-tua-auto-usata-senza-preoccup"
     },
     {
-      "label": "Vendita auto usate: Opel",
+      "label": "Vendita auto usate: Opel ti offre numerosi vantaggi",
       "anchor": "#vendita-auto-usate-opel-ti-offre-numeros"
     },
     {
-      "label": "Vendere la tua auto usat",
+      "label": "Vendere la tua auto usata al miglior prezzo",
       "anchor": "#vendere-la-tua-auto-usata-al-miglior-pre"
     },
     {
@@ -55,7 +55,7 @@
       "anchor": "#faq"
     },
     {
-      "label": "Quali sono i vantaggi de",
+      "label": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Opel",
       "anchor": "#quali-sono-i-vantaggi-dell-utilizzo-del-"
     }
   ],
@@ -117,8 +117,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Ottieni rapidamente un preventivo con Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -134,8 +134,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Ottieni rapidamente un preventivo con Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -163,8 +163,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Ottieni rapidamente un preventivo con Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -189,8 +189,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Ottieni rapidamente un preventivo con Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -222,7 +222,42 @@
         "href": "https://www.youtube.com/user/opelitalia"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "OPEL",
+        "links": [
+          {
+            "label": "OPEL.IT",
+            "href": "https://www.opel.it/"
+          },
+          {
+            "label": "SPOTICAR.IT",
+            "href": "https://www.spoticar.it"
+          },
+          {
+            "label": "Acquisto e noleggio",
+            "href": "https://www.opel.it/buy-now/perche-acquistare-online.html"
+          }
+        ]
+      },
+      {
+        "title": "NOTE LEGALI",
+        "links": [
+          {
+            "label": "NOTE LEGALI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/50/9b59c19a-6066-4864-9f58-7bca14057bcf"
+          },
+          {
+            "label": "INFORMATIVA PRIVACY",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "DICHIARAZIONE DI ACCESSIBILITA",
+            "href": "https://usine-a-sites.s3.amazonaws.com/50/3cd3eb07-1b15-45db-be93-c86956b03432"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -235,7 +270,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Per chi vuole vendere la propria auto usata, Opel offre uno strumento online gratuito per ottenere una stima di permuta.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.valutazioneusato.opel.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -246,11 +281,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.opel.it/lp/vendita-auto-usate",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

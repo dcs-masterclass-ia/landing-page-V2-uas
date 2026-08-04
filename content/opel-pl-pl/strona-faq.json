@@ -18,8 +18,8 @@
     "og_image_alt": "FAQ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/153/f9197cfb-506c-4f51-bb1c-6228240915e2",
+    "logo_alt": "Opel Logo",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://www.odkup.opel.pl/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Opel odpowiada na twoje ",
+      "label": "Opel odpowiada na twoje pytania:",
       "anchor": "#opel-odpowiada-na-twoje-pytania"
     },
     {
@@ -82,7 +82,7 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Usługa Opel z odkupem to internetowa usługa umożliwiająca uzyskanie bezpłatnej wyceny twojego aktualnie użytkowanego samochodu. Jeżeli przedstawiona wycena okaże się satysfakcjonująca, zapraszamy do umówienia się na spotkanie z wybranym dealerem Opel w celu uzyskania wiążącej oferty odkupu. Wycena oparta jest na następujących elementach: • Dane techniczne samochodu: marka, model, silnik, poziom wyposażenia, przebieg i data pierwszej rejestracji. • Obserwacja rynku: ostatnio zrealizowane w komisach samochodowych transakcje kupna-sprzedaży porównywalnych modeli. • Pomniejszenie wartości o koszty przywrócenia samochodu do standardowego stanu. Koszty te mogą się zmieniać w zależności od faktycznego stanu samochodu. Bezpłatnie wyceń samochód online. W celu otrzymania bezpłatnej wyceny mailem, wprowadź informacje dotyczące samochodu. Umów wizytę. Czy jesteś zadowolony z wyceny? Umów się na wizytę z wybranym dealerem Opel. Skorzystaj z doświadczenia Opel. Podczas wizyty w salonie nasz ekspert sprawdzi w twojej obecności stan samochodu i zaproponuje ostateczną cenę odkupu. Po uzyskaniu twojej akceptacji zobowiązujemy się odkupić samochód. • Szybkość. Wystarczy kilka kliknięć, aby otrzymać mailem wycenę wartości samochodu. Wycena nie wiąże się z żadnym zobowiązaniem. Komfort psychiczny • Zero nieprzyjemnych niespodzianek Usługa Opel z odkupem obejmuje profesjonalną wycenę wartości samochodu. Każdy samochód jest wyceniany na podstawie obserwacji cen rynkowych i ostatnich transakcji. • Bezpieczeństwo. Płatność za samochód jest gwarantowana i bezpieczna. W przypadku transakcji sprzedaży za samochód płaci dealer Opel. Wycena nie wiąże się z żadnym zobowiązaniem. Bezpłatną wycenę otrzymasz w ciągu 24 godzin w dni robocze. Wycena do niczego cię nie zobowiązuje. Możesz swobodnie zdecydować, czy umówić się na spotkanie z ekspertami z Opel. Usługa Opel z odkupem jest całkowicie bezpłatna. Jeśli nie możesz znaleźć swojego samochodu na naszej stronie internetowej, skontaktuj się z nami w celu przeprowadzenia spersonalizowanej wyceny. Uwaga: niektóre modele samochodów są zbyt stare lub zbyt rzadko spotykane na rynku, aby można je było precyzyjnie wycenić. Może się zdarzyć, że niektórzy dostawcy poczty elektronicznej w sposób nieuzasadniony potraktują wiadomości mailowe Opel z odkupem jako spam. W takim przypadku przejdź do folderu „Spam” i zmień ustawienia filtrowania. Jeśli mimo tego nie otrzymasz wiadomości e-mail z wyceną, skontaktuj się z nami i podaj swoje dane, abyśmy mogli wysłać wycenę twojego samochodu do odkupu To banalnie proste. Przy zgłaszaniu prośby o wycenę online, wybierz odpowiadający ci punkt sprzedaży Opel. Możesz poczekać, aż ktoś z salonu skontaktuje się z tobą lub zadzwonić w celu umówienia wizyty. W przypadku wizyty w salonie należy przyjechać samochodem do wyceny, zabierając z sobą następujące dokumenty: • Dowód rejestracyjny • Dowód tożsamości (prawo jazdy, dowód osobisty lub paszport) • Dokument potwierdzający aktualne miejsce zamieszkania (np. rachunek za telefon lub prąd z ostatnich 3 miesięcy) • Wyciąg z rachunku bankowego • Książkę serwisową oraz faktury za wszystkie przeglądy i naprawy samochodu. • Dwa komplety kluczy do samochodu oraz kod zabezpieczający do uzyskania nowych kluczy • Klucz do śrub przeciwkradzieżowych kół, jeśli samochód jest w nie wyposażony W przypadku transakcji sprzedaży za samochód płaci dealer Opel. W zależności od wybranego dealera, płatność za samochód może być dokonana czekiem lub przelewem bankowym. Jeśli nie znalazłeś odpowiedzi na swoje pytanie, skontaktuj się z nami"
+          "text": "Usługa Opel z odkupem to internetowa usługa umożliwiająca uzyskanie bezpłatnej wyceny twojego aktualnie użytkowanego samochodu. Jeżeli przedstawiona wycena okaże się satysfakcjonująca, zapraszamy do umówienia się na spotkanie z wybranym dealerem Opel w celu uzyskania wiążącej oferty odkupu. Wycena oparta jest na następujących elementach"
         },
         {
           "text": "JAK SPRZEDAĆ SAMOCHÓD?"
@@ -103,9 +103,23 @@
           "text": "CZY TA USŁUGA JEST PŁATNA?"
         }
       ],
-      "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Dane techniczne samochodu: marka, model, silnik, poziom wyposażenia, przebieg i data pierwszej rejestracji.",
+        "Obserwacja rynku: ostatnio zrealizowane w komisach samochodowych transakcje kupna-sprzedaży porównywalnych modeli.",
+        "Pomniejszenie wartości o koszty przywrócenia samochodu do standardowego stanu. Koszty te mogą się zmieniać w zależności od faktycznego stanu samochodu. Bezpłatnie wyceń samochód online. W celu otrzymania bezpłatnej wyceny mailem, wprowadź informacje dotyczące samochodu. Umów wizytę. Czy jesteś zadowolony z wyceny? Umów się na wizytę z wybranym dealerem Opel. Skorzystaj z doświadczenia Opel. Podczas wizyty w salonie nasz ekspert sprawdzi w twojej obecności stan samochodu i zaproponuje ostateczną cenę odkupu. Po uzyskaniu twojej akceptacji zobowiązujemy się odkupić samochód.",
+        "Szybkość. Wystarczy kilka kliknięć, aby otrzymać mailem wycenę wartości samochodu. Wycena nie wiąże się z żadnym zobowiązaniem. Komfort psychiczny",
+        "Zero nieprzyjemnych niespodzianek Usługa Opel z odkupem obejmuje profesjonalną wycenę wartości samochodu. Każdy samochód jest wyceniany na podstawie obserwacji cen rynkowych i ostatnich transakcji.",
+        "Bezpieczeństwo. Płatność za samochód jest gwarantowana i bezpieczna. W przypadku transakcji sprzedaży za samochód płaci dealer Opel. Wycena nie wiąże się z żadnym zobowiązaniem. Bezpłatną wycenę otrzymasz w ciągu 24 godzin w dni robocze. Wycena do niczego cię nie zobowiązuje. Możesz swobodnie zdecydować, czy umówić się na spotkanie z ekspertami z Opel. Usługa Opel z odkupem jest całkowicie bezpłatna. Jeśli nie możesz znaleźć swojego samochodu na naszej stronie internetowej, skontaktuj się z nami w celu przeprowadzenia spersonalizowanej wyceny. Uwaga: niektóre modele samochodów są zbyt stare lub zbyt rzadko spotykane na rynku, aby można je było precyzyjnie wycenić. Może się zdarzyć, że niektórzy dostawcy poczty elektronicznej w sposób nieuzasadniony potraktują wiadomości mailowe Opel z odkupem jako spam. W takim przypadku przejdź do folderu „Spam” i zmień ustawienia filtrowania. Jeśli mimo tego nie otrzymasz wiadomości e-mail z wyceną, skontaktuj się z nami i podaj swoje dane, abyśmy mogli wysłać wycenę twojego samochodu do odkupu To banalnie proste. Przy zgłaszaniu prośby o wycenę online, wybierz odpowiadający ci punkt sprzedaży Opel. Możesz poczekać, aż ktoś z salonu skontaktuje się z tobą lub zadzwonić w celu umówienia wizyty. W przypadku wizyty w salonie należy przyjechać samochodem do wyceny, zabierając z sobą następujące dokumenty",
+        "Dowód rejestracyjny",
+        "Dowód tożsamości (prawo jazdy, dowód osobisty lub paszport)",
+        "Dokument potwierdzający aktualne miejsce zamieszkania (np. rachunek za telefon lub prąd z ostatnich 3 miesięcy)",
+        "Wyciąg z rachunku bankowego",
+        "Książkę serwisową oraz faktury za wszystkie przeglądy i naprawy samochodu.",
+        "Dwa komplety kluczy do samochodu oraz kod zabezpieczający do uzyskania nowych kluczy",
+        "Klucz do śrub przeciwkradzieżowych kół, jeśli samochód jest w nie wyposażony W przypadku transakcji sprzedaży za samochód płaci dealer Opel. W zależności od wybranego dealera, płatność za samochód może być dokonana czekiem lub przelewem bankowym. Jeśli nie znalazłeś odpowiedzi na swoje pytanie, skontaktuj się z nami"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/f9197cfb-506c-4f51-bb1c-6228240915e2",
+      "image_alt": "Opel Logo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -127,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/f9197cfb-506c-4f51-bb1c-6228240915e2",
+      "image_alt": "Opel Logo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -152,7 +166,91 @@
         "href": "https://www.youtube.com/watch?v=LzKK4t0aMNs&list=PL-ycsZq2mnvzsrx9Q3peDW7nx7lYkKxMy"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDŹ DEALERA",
+            "href": "https://www.opel.pl/tools/opel-szukanie-dealera.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=pl#1"
+          },
+          {
+            "label": "ZNAK TOWAROWY I PRAWA AUTORSKIE",
+            "href": "https://www.opel.pl/tools/opel-prawa-autorskie.html"
+          },
+          {
+            "label": "NOWE WYNIKI SPALANIA",
+            "href": "https://www.opel.pl/tools/spalanie.html"
+          },
+          {
+            "label": "EFEKTYWNOŚĆ ENERGETYCZNA OPON",
+            "href": "https://www.opel.pl/content/dam/opel/poland/owners/parts-and-repairs/pdf/Opel-Zestawienie-efektywnosci-energetycznej-opon_04-2022.pdf"
+          }
+        ]
+      },
+      {
+        "title": "OPEL",
+        "links": [
+          {
+            "label": "OPEL.PL",
+            "href": "https://www.opel.pl/"
+          },
+          {
+            "label": "OPEL SAMOCHODY UŻYWANE",
+            "href": "https://www.opel.pl/samochody-uzywane.html"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.opel.pl/promocje/"
+          },
+          {
+            "label": "RECYKLING",
+            "href": "https://www.opel.pl/tools/recykling.html"
+          },
+          {
+            "label": "DEKLARACJA ZGODNOŚCI",
+            "href": "https://www.opel.pl/deklaracje-zgodnosci/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/153/dfa8a662-60b6-47e2-a54c-b402b81e2a7c"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.opel.pl/tools/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "https://www.opel.pl/tools/polityka-cookies.html "
+          },
+          {
+            "label": "INFORMACJE PRAWNE",
+            "href": "https://www.opel.pl/tools/opel-poufnosc-kwestie-prawne-nota-prawna.html"
+          },
+          {
+            "label": "DEKLARACJA ZGODY",
+            "href": "https://www.opel.pl/tools/deklaracja-zgody.html"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -165,7 +263,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Opel odpowie na wszystkie pytania dotyczące sprzedaży lub przyjęcia samochodu w rozliczeniu.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Opel Logo",
     "provider_url": "https://www.odkup.opel.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -176,11 +274,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.opel.pl/strona-faq",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

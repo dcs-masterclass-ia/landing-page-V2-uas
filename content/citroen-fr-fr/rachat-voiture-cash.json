@@ -18,8 +18,8 @@
     "og_image_alt": "RACHAT DE VOITURE CASH : VENDEZ SANS ATTENDRE AVEC CITROËN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
@@ -39,19 +39,19 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi choisir le rach",
+      "label": "Pourquoi choisir le rachat cash ?",
       "anchor": "#pourquoi-choisir-le-rachat-cash"
     },
     {
-      "label": "Comment fonctionne notre",
+      "label": "Comment fonctionne notre service de rachat cash ?",
       "anchor": "#comment-fonctionne-notre-service-de-rach"
     },
     {
-      "label": "Tout savoir sur le leasi",
+      "label": "Tout savoir sur le leasing social : roulez électrique à petit prix",
       "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
     },
     {
-      "label": "Estimez la valeur de rep",
+      "label": "Estimez la valeur de reprise de votre voiture",
       "anchor": "#estimez-la-valeur-de-reprise-de-votre-vo"
     }
   ],
@@ -149,8 +149,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -181,8 +181,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -210,8 +210,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -247,7 +247,63 @@
         "href": "https://www.linkedin.com/showcase/citroen_france/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html"
+          },
+          {
+            "label": "Configurer votre Citroën",
+            "href": "https://www.citroen.fr/outils/configurateur.html"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.citroen.fr/contact/contactez-nous.html"
+          },
+          {
+            "label": "Citroën.fr",
+            "href": "https://www.citroen.fr/accueil.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/citroen"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -260,7 +316,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.reprise.citroen.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -271,11 +327,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.fr/lp/rachat-voiture-cash",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

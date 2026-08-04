@@ -18,8 +18,8 @@
     "og_image_alt": "Auto verkopen aan een professionele partij"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
+    "logo_alt": "Abarth",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.abarthbelgium.be/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Mijn overnamewaarde bere",
+      "label": "Mijn overnamewaarde berekenen",
       "anchor": "#mijn-overnamewaarde-berekenen"
     },
     {
-      "label": "De voordelen van onze di",
+      "label": "De voordelen van onze dienst",
       "anchor": "#de-voordelen-van-onze-dienst"
     },
     {
-      "label": "Stap 1: Vul uw autogegev",
+      "label": "Stap 1: Vul uw autogegevens in",
       "anchor": "#stap-1-vul-uw-autogegevens-in"
     },
     {
-      "label": "Stap 3: Maak een afspraa",
+      "label": "Stap 3: Maak een afspraak met een professional van het Abarth-netwerk",
       "anchor": "#stap-3-maak-een-afspraak-met-een-profess"
     },
     {
-      "label": "Verkoop uw auto veilig e",
+      "label": "Verkoop uw auto veilig en gemakkelijk",
       "anchor": "#verkoop-uw-auto-veilig-en-gemakkelijk"
     }
   ],
@@ -97,10 +97,14 @@
           "text": "Bij het verkopen van uw auto wilt u zekerheid en een veilige transactie. Overname Abarth biedt u de oplossing met hun gratis online inruilwaardeschatting, zonder enige verplichtingen. Kies voor een professionele en veilige optie met het Abarth-netwerk en geniet van gegarandeerde betaling. Zo vermijdt u eventuele nare verrassingen die kunnen voorkomen bij de verkoop tussen particulieren."
         },
         {
-          "text": "● Onze offerte is 100% gratis en vrijblijvend. ● Ontvang online en per e-mail een schatting van uw auto, en beslis zelf wat voor u geschikt is. ● Een dealer in uw buurt neemt contact met u op om een afspraak te maken wanneer het u uitkomt. ● Verkoop uw auto veilig en betrouwbaar aan een professional van het Abarth-netwerk met gegarandeerde betaling."
+          "text": "Onze offerte is 100% gratis en vrijblijvend."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Ontvang online en per e-mail een schatting van uw auto, en beslis zelf wat voor u geschikt is.",
+        "Een dealer in uw buurt neemt contact met u op om een afspraak te maken wanneer het u uitkomt.",
+        "Verkoop uw auto veilig en betrouwbaar aan een professional van het Abarth-netwerk met gegarandeerde betaling."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
       "image_alt": "Uw auto verkopen in enkele stappen abarth",
       "tag": "TODO_ARBITRAGE",
@@ -135,8 +139,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "Verkoop uw auto veilig en gemakkelijk abarth",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -148,12 +152,20 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Als u uw auto verkoopt aan een particulier: ● Geen garanties. ● Administratieve processen zijn ingewikkeld. Als u uw auto aan ons verkoopt: ● Snelle online evaluatie. ● Geen verplichting. ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk. ● Veilige betaling. ● Wij helpen u met de administratieve procedures."
+          "text": "Als u uw auto verkoopt aan een particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Geen garanties.",
+        "Administratieve processen zijn ingewikkeld. Als u uw auto aan ons verkoopt",
+        "Snelle online evaluatie.",
+        "Geen verplichting.",
+        "Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk.",
+        "Veilige betaling.",
+        "Wij helpen u met de administratieve procedures."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "Verkoop uw auto veilig en gemakkelijk abarth",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -169,8 +181,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "Verkoop uw auto veilig en gemakkelijk abarth",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -185,13 +197,13 @@
           "text": "Hoe verkoop ik mijn auto?"
         },
         {
-          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Abarth: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+          "text": "Verkoop uw auto gemakkelijk"
         },
         {
           "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
         },
         {
-          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+          "text": "De schatting houdt rekening met"
         },
         {
           "text": "Hoe maak ik een afspraak?"
@@ -206,9 +218,16 @@
           "text": "Met het Abarth-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Abarth-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
         }
       ],
-      "bullets": [],
-      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden.",
+        "Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto.",
+        "Profiteer van de expertise van Abarth: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug.",
+        "De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname.",
+        "Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen.",
+        "Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "Verkoop uw auto veilig en gemakkelijk abarth",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -240,7 +259,59 @@
         "href": "https://www.linkedin.com/company/abarth/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERKOOPPUNTEN",
+            "href": "https://www.abarthbelgium.be/nl/dealer"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.abarthbelgium.be/nl/klantendienst"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.BE.NL",
+            "href": "https://www.abarthbelgium.be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.abarthbelgium.be/nl/promoties"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.abarthbelgium.be/nl/tweedehands-auto#!/search"
+          },
+          {
+            "label": "CONFIGUREREN",
+            "href": "https://www.abarthbelgium.be/nl/configurator/"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites.s3.amazonaws.com/136/955b8162-27ff-4faa-9ab7-d4b8c91e5ecf"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -253,7 +324,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Abarth begeleidt u bij het verkopen van uw auto, heel eenvoudig. Verkoop uw auto aan onze professionals, het is gratis en zonder verplichtingen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Abarth",
     "provider_url": "https://overname.abarthbelgium.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -264,13 +335,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.abarthbelgium.be/lp/auto-verkopen",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
-      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

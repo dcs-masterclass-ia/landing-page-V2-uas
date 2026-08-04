@@ -18,8 +18,8 @@
     "og_image_alt": "Foire aux questions"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/140/e3470942-ff05-4864-80aa-7703f9fbdc99",
+    "logo_alt": "logo Fiat Professionnal",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprisebelgique.fiatprofessional.com/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "JE N’AI PAS REÇU MON EST",
+      "label": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
       "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
     }
   ],
@@ -111,8 +111,8 @@
         "Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Fiat Professional vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.",
         "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Fiat Professional."
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/e3470942-ff05-4864-80aa-7703f9fbdc99",
+      "image_alt": "logo Fiat Professionnal",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -145,8 +145,8 @@
         "Les 2 jeux de clés de votre véhicule ainsi que le code de sécurité pour en obtenir de nouvelles",
         "Le cas échéant, la clé des écrous antivol de vos roues"
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/e3470942-ff05-4864-80aa-7703f9fbdc99",
+      "image_alt": "logo Fiat Professionnal",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -174,7 +174,63 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "TROUVER UN DISTRIBUTEUR",
+            "href": "https://www.fiatprofessional.com/be/fr/trouver-distributeur"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiatprofessional.com/be/fr/demander-informations"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.BE",
+            "href": "https://www.fiatprofessional.com/be/fr"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.fiatprofessional.com/be/fr/test-drive"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiatprofessional.com/be/fr/offres"
+          },
+          {
+            "label": "CONFIGURATEUR FIAT PROFESSIONAL",
+            "href": "https://www.fiatprofessional.com/be/fr/configurateur-v1"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/131/02fe9007-82ff-42c8-8223-2793f005d654"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/140/103c2ae0-7869-4b27-bb7d-135f750ed814"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -187,7 +243,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat Professional répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "logo Fiat Professionnal",
     "provider_url": "https://reprisebelgique.fiatprofessional.com",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -198,11 +254,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprisebelgique.fiatprofessional.com/questions-frequentes",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
-      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

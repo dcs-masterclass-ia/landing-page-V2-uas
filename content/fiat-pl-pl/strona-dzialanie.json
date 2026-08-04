@@ -18,8 +18,8 @@
     "og_image_alt": "JAK TO DZIAŁA?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/149/56d84238-38a5-4122-85d1-fd51dd911d17",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.fiat.pl/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Usługa Fiatz odkupem to ",
+      "label": "Usługa Fiatz odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
       "anchor": "#usuga-fiatz-odkupem-to-usuga-umozliwiaja"
     },
     {
@@ -190,7 +190,63 @@
         "href": "https://www.youtube.com/channel/UCnSwTzF-yGl9-fkd_vheG4A"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.fiat.pl/dealerzy"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.fiat.pl/kontakt "
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.PL",
+            "href": "https://www.fiat.pl/"
+          },
+          {
+            "label": "FIAT SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.fiat.pl/promocje"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/149/a556d013-a9e0-446f-b936-5e241e04ded6"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -203,7 +259,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Fiat- możemy odkupić Twój samochód.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://odkup.fiat.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -214,15 +270,13 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.fiat.pl/strona-dzialanie",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/banner-comment.jpg",
       "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/content-serenity.jpg",
       "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/content-fast.jpg",
       "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/content-safe.jpg",
-      "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

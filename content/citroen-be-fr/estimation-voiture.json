@@ -18,8 +18,8 @@
     "og_image_alt": "Pourquoi choisir Reprise Citroën pour l'estimation de votre voiture ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.citroen.be/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.citroen.be/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Comment fonctionne l'est",
+      "label": "Comment fonctionne l'estimation de votre voiture ?",
       "anchor": "#comment-fonctionne-l-estimation-de-votre"
     },
     {
-      "label": "Estimer votre Voiture : ",
+      "label": "Estimer votre Voiture : les 3 étapes à suivre",
       "anchor": "#estimer-votre-voiture-les-3-etapes-a-sui"
     },
     {
-      "label": "Les avantage de la Repri",
+      "label": "Les avantage de la Reprise Citroën pour estimer votre voiture ?",
       "anchor": "#les-avantage-de-la-reprise-citroen-pour-"
     },
     {
@@ -107,7 +107,7 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Estimez votre voiture en en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes : ● La carte grise de votre voiture ● Le kilométrage de votre voiture"
+          "text": "Estimez votre voiture en en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes"
         },
         {
           "text": "Renseignez l’immatriculation de votre véhicule et nous pourrons identifier les caractéristiques essentielles de votre véhicule rapidement ! Si vous n’avez pas votre immatriculation, pas de problème ! Remplissez simplement les informations principales de votre véhicule : marque, modèle, version, année de mise en circulation, motorisation, etc. Grâce à ces informations, nous procédons à une analyse du marché et vous retournons une estimation précise et raisonnable de votre voiture en ligne ou par e-mail. Vous pourrez ainsi prendre votre temps pour décider si vous souhaitez poursuivre le processus de reprise de votre voiture. À la suite de votre estimation, le concessionnaire Citroën choisi vous recontactera pour convenir d'un rendez-vous et établir une estimation finale. Si cette dernière vous convient, votre concessionnaire s'occupera de reprendre votre voiture en toute simplicité !"
@@ -116,9 +116,12 @@
           "text": "Étape 1 : Renseignez toutes les caractéristiques de votre véhicule nécessaires à son estimation."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "La carte grise de votre voiture",
+        "Le kilométrage de votre voiture"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantage de la Reprise Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -130,12 +133,16 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Choisir Citroën, c'est la garantie de : ● Une estimation 100% en ligne et gratuite ● Une estimation fiable et rapide, valable 10 jours si vous souhaitez y réfléchir. ● L’étendue du réseau Citroën; avec plusieurs points de vente, vous avez forcément un concessionnaire Citroën près de chez vous !"
+          "text": "Choisir Citroën, c'est la garantie de"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Une estimation 100% en ligne et gratuite",
+        "Une estimation fiable et rapide, valable 10 jours si vous souhaitez y réfléchir.",
+        "L’étendue du réseau Citroën; avec plusieurs points de vente, vous avez forcément un concessionnaire Citroën près de chez vous !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantage de la Reprise Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -172,8 +179,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantage de la Reprise Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -205,7 +212,67 @@
         "href": "https://www.youtube.com/user/citroenbelux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Liens utiles",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.be/fr/citroen-vous/trouver-un-point-de-vente-citroen.html?_ga=2.246821452.913555265.1603207878-1584891280.1582808863"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://citroen.my-customerportal.com/citroen/s/case-webform?language=fr_BE#1"
+          },
+          {
+            "label": "Réserver un essai",
+            "href": "https://www.citroen.be/fr/tools/book-a-test-drive.html"
+          }
+        ]
+      },
+      {
+        "title": "Trouver ma voiture",
+        "links": [
+          {
+            "label": "Citroen.be",
+            "href": "https://www.citroen.be/fr/"
+          },
+          {
+            "label": "Les offres du moment",
+            "href": "https://www.citroen.be/fr/acheter/offres.html#offres-aux-particuliers"
+          },
+          {
+            "label": "Configurez et commandez",
+            "href": "https://www.citroen.be/fr/outils/configurer-votre-vehicule.html"
+          },
+          {
+            "label": "Voitures en stock",
+            "href": "https://stock.citroen.be/fr/stock"
+          },
+          {
+            "label": "Voiture d'occasion et Spoticar",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions générales d'utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Politique de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -218,7 +285,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "► Avec Reprise Citroën, obtenez une estimation professionnelle de la valeur de votre voiture en ligne. Nous vous offrons une estimation fiable et gratuite",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://reprise.citroen.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -229,11 +296,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.citroen.be/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"
     ]

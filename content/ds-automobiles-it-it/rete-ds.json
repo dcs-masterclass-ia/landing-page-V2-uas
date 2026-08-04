@@ -18,8 +18,8 @@
     "og_image_alt": "I NOSTRI DS STORE"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/77/4c5f4b12-3353-4be3-bc4e-410229e656aa",
+    "logo_alt": "Logo DS",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://valutazioneusato.dsautomobiles.it/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "I NOSTRI DS STORE SONO A",
+      "label": "I NOSTRI DS STORE SONO A TUA DISPOSIZIONE",
       "anchor": "#i-nostri-ds-store-sono-a-tua-disposizion"
     },
     {
-      "label": "COME FISSARE UN APPUNTAM",
+      "label": "COME FISSARE UN APPUNTAMENTO ?",
       "anchor": "#come-fissare-un-appuntamento"
     },
     {
@@ -179,7 +179,42 @@
   "footer": {
     "tagline": "Scopri il concessionario auto DS più vicino a te per fissare un appuntamento senza impegno. Richiedi una valutazione gratuita.",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DSautomobiles.it",
+            "href": "https://www.dsautomobiles.it/"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.it/?_ga=2.80165655.1256968239.1606137962-218564678.1603096870"
+          },
+          {
+            "label": "DS Online Store",
+            "href": "https://store.dsautomobiles.it/configurable"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Note legali",
+            "href": "https://usine-a-sites.s3.amazonaws.com/77/89ed85ce-7a3f-4c05-854f-98e582dfd2c5"
+          },
+          {
+            "label": "Informativa privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Dichiarazione di accessibilità",
+            "href": "https://usine-a-sites.s3.amazonaws.com/77/22c535bb-76d5-4364-a7bc-22082d5d4ed1"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -192,7 +227,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Scopri il concessionario auto DS più vicino a te per fissare un appuntamento senza impegno. Richiedi una valutazione gratuita.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo DS",
     "provider_url": "https://valutazioneusato.dsautomobiles.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",

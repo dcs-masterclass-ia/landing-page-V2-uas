@@ -18,8 +18,8 @@
     "og_image_alt": "FAQ - DOMANDE FREQUENTI"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.jeep-official.it/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Jeep risponde alle tue d",
+      "label": "Jeep risponde alle tue domande",
       "anchor": "#jeep-risponde-alle-tue-domande"
     },
     {
-      "label": "NON HO RICEVUTO IL MIO P",
+      "label": "NON HO RICEVUTO IL MIO PREVENTIVO VIA E-MAIL",
       "anchor": "#non-ho-ricevuto-il-mio-preventivo-via-e-"
     }
   ],
@@ -108,7 +108,7 @@
         "Tranquillità. Evitare spiacevoli sorprese. Utilizzando il servizio Jeep, riceverete una stima del valore del vostro veicolo da parte di un professionista del settore automobilistico. Ogni veicolo viene valutato sulla base di osservazioni di mercato e di transazioni recenti.",
         "Sicurezza. Il pagamento del veicolo è garantito e sicuro. Durante la transazione, il pagamento del veicolo è gestito da un concessionario Jeep ."
       ],
-      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -141,7 +141,7 @@
         "Il libretto di manutenzione e le fatture di manutenzione e riparazione per tutte le riparazioni effettuate su questa vettura",
         "I 2 mazzi di chiavi dell'auto e il codice di sicurezza per ottenerne di nuovi"
       ],
-      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -170,7 +170,42 @@
         "href": "https://www.youtube.com/@JeepItalia"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Jeep ®",
+        "links": [
+          {
+            "label": "Sito Jeep ®",
+            "href": "https://www.jeep-official.it/"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.it/trova-veicoli-usati/jeep"
+          },
+          {
+            "label": "Acquista online",
+            "href": "https://www.jeep-official.it/e-shop"
+          }
+        ]
+      },
+      {
+        "title": "NOTE LEGALI",
+        "links": [
+          {
+            "label": "Condizioni uso",
+            "href": "https://usine-a-sites.s3.amazonaws.com/167/c975acde-e459-44e9-82f4-5ae64031d48d"
+          },
+          {
+            "label": "Privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Cookies",
+            "href": "javascript:getCookieOpenModal()"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -183,7 +218,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Domande frequenti sulla valutazione de auto usato",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://www.valutazioneusato.jeep-official.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -194,11 +229,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.jeep-official.it/domande-frequenti",
-    "medias_trouves": 2,
+    "medias_trouves": 0,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

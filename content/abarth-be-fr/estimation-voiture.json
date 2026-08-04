@@ -18,8 +18,8 @@
     "og_image_alt": "Estimez gratuitement votre voiture avec Abarth"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
+    "logo_alt": "Abarth",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.abarthbelgium.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Pourquoi choisir Reprise",
+      "label": "Pourquoi choisir Reprise Abarth pour estimer votre voiture ?",
       "anchor": "#pourquoi-choisir-reprise-abarth-pour-est"
     },
     {
-      "label": "Comment obtenir une esti",
+      "label": "Comment obtenir une estimation pour votre voiture : 3 étapes simples",
       "anchor": "#comment-obtenir-une-estimation-pour-votr"
     },
     {
-      "label": "Les trois étapes pour ob",
+      "label": "Les trois étapes pour obtenir une estimation pour votre voiture",
       "anchor": "#les-trois-etapes-pour-obtenir-une-estima"
     },
     {
@@ -111,12 +111,15 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "L'estimation de votre voiture est basée sur les transactions récentes réalisées par les professionnels de l'automobile et les observations du marché. Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre véhicule. Obtenez l'estimation de votre voiture en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes : ● La carte grise de votre voiture ● Le kilométrage de votre voiture"
+          "text": "L'estimation de votre voiture est basée sur les transactions récentes réalisées par les professionnels de l'automobile et les observations du marché. Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre véhicule. Obtenez l'estimation de votre voiture en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "La carte grise de votre voiture",
+        "Le kilométrage de votre voiture"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+      "image_alt": "Les trois étapes estimation pour votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -132,8 +135,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+      "image_alt": "Les trois étapes estimation pour votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -149,8 +152,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+      "image_alt": "Les trois étapes estimation pour votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -187,8 +190,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+      "image_alt": "Les trois étapes estimation pour votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -220,7 +223,63 @@
         "href": "https://www.youtube.com/user/teamabarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "POINTS DE VENTE ABARTH",
+            "href": "https://www.abarthbelgium.be/fr/distributeur-abarth"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.abarth.be/fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.BE",
+            "href": "https://www.abarthbelgium.be/fr"
+          },
+          {
+            "label": "CONFIGURATEUR",
+            "href": "https://www.abarthbelgium.be/fr/configurateur/#/"
+          },
+          {
+            "label": "PROMOTIONS",
+            "href": "https://www.abarthbelgium.be/fr/promotions"
+          },
+          {
+            "label": "ABARTH OCCASIONS",
+            "href": "https://www.spoticar.be/fr/voitures-occasion?page=1&filters%5B0%5D%5Bbrand%5D=abarth"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/134/72d57d62-9efa-4701-a62f-1cd3a4d3d4de"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -233,7 +292,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Obtenez une estimation professionnelle. Nous vous offrons une estimation fiable et gratuite de la valeur de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Abarth",
     "provider_url": "https://reprise.abarthbelgium.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -244,13 +303,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.abarthbelgium.be/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
       "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
-      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

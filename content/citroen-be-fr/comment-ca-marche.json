@@ -18,8 +18,8 @@
     "og_image_alt": "MODALITÉS DE REPRISE AUTO"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.citroen.be/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.citroen.be/"
   },
@@ -106,7 +106,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image": "https://reprise.citroen.be/build/img/citroen/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -139,7 +139,67 @@
         "href": "https://www.youtube.com/user/citroenbelux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Liens utiles",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.be/fr/citroen-vous/trouver-un-point-de-vente-citroen.html?_ga=2.246821452.913555265.1603207878-1584891280.1582808863"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://citroen.my-customerportal.com/citroen/s/case-webform?language=fr_BE#1"
+          },
+          {
+            "label": "Réserver un essai",
+            "href": "https://www.citroen.be/fr/tools/book-a-test-drive.html"
+          }
+        ]
+      },
+      {
+        "title": "Trouver ma voiture",
+        "links": [
+          {
+            "label": "Citroen.be",
+            "href": "https://www.citroen.be/fr/"
+          },
+          {
+            "label": "Les offres du moment",
+            "href": "https://www.citroen.be/fr/acheter/offres.html#offres-aux-particuliers"
+          },
+          {
+            "label": "Configurez et commandez",
+            "href": "https://www.citroen.be/fr/outils/configurer-votre-vehicule.html"
+          },
+          {
+            "label": "Voitures en stock",
+            "href": "https://stock.citroen.be/fr/stock"
+          },
+          {
+            "label": "Voiture d'occasion et Spoticar",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions générales d'utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Politique de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -152,7 +212,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://reprise.citroen.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -163,14 +223,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.citroen.be/comment-ca-marche",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-serenity.jpg",
       "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-fast.jpg",
       "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

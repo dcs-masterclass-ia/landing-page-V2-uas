@@ -18,8 +18,8 @@
     "og_image_alt": ""
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://autoankauf.alfaromeo.de/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "WAS IST ALFA ROMEO KAUFT",
+      "label": "WAS IST ALFA ROMEO KAUFT IHR AUTO?​",
       "anchor": "#was-ist-alfa-romeo-kauft-ihr-auto"
     },
     {
-      "label": "WIE FUNKTIONIERT DER SER",
+      "label": "WIE FUNKTIONIERT DER SERVICE?​",
       "anchor": "#wie-funktioniert-der-service"
     },
     {
-      "label": "WIE WIRD DER WERT IHRES ",
+      "label": "WIE WIRD DER WERT IHRES AUTOS GESCHÄTZT?​",
       "anchor": "#wie-wird-der-wert-ihres-autos-geschatzt"
     },
     {
-      "label": "WELCHE VORTEILE BIETET D",
+      "label": "WELCHE VORTEILE BIETET DIE NUTZUNG VON ALFA ROMEO KAUFT IHR AUTO?​",
       "anchor": "#welche-vorteile-bietet-die-nutzung-von-a"
     },
     {
-      "label": "WOZU VERPFLICHTET MICH D",
+      "label": "WOZU VERPFLICHTET MICH DIE ONLINE-BEWERTUNG?​",
       "anchor": "#wozu-verpflichtet-mich-die-online-bewert"
     }
   ],
@@ -98,7 +98,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -121,7 +121,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -141,7 +141,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -158,7 +158,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -175,7 +175,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -192,7 +192,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -209,7 +209,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -226,7 +226,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -261,7 +261,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -278,7 +278,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -295,7 +295,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -328,7 +328,83 @@
         "href": "https://www.linkedin.com/company/alfa-romeo/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KAUFINTERESSE",
+        "links": [
+          {
+            "label": "MODELLE FINDEN",
+            "href": "https://www.alfaromeo.de/downloadcenter"
+          },
+          {
+            "label": "KONFIGURATOR",
+            "href": "https://www.alfaromeo.de/konfigurator/#/"
+          },
+          {
+            "label": "ANGEBOTE",
+            "href": "https://www.alfaromeo.de/angebote"
+          },
+          {
+            "label": "PROBEFAHRT",
+            "href": "https://www.alfaromeo.de/probefahrt-angebot"
+          },
+          {
+            "label": "GEBRAUCHTWAGEN",
+            "href": "https://www.certified.alfaromeo.de/"
+          },
+          {
+            "label": "COOKIE-ZUSTIMMUNG",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "NÜTZLICHE LINKS",
+        "links": [
+          {
+            "label": "ALFA ROMEO MODELLE",
+            "href": "https://www.alfaromeo.de/downloadcenter"
+          },
+          {
+            "label": "BOUTIQUE",
+            "href": ""
+          },
+          {
+            "label": "HÄNDLERSUCHE",
+            "href": "https://www.alfaromeo.de/haendler"
+          },
+          {
+            "label": "NEWSLETTER",
+            "href": "https://www.alfaromeo.de/newsletter"
+          },
+          {
+            "label": "FINANZDIENSTLEISTUNEN",
+            "href": "https://www.alfaromeo.de/finanzdienstleistungen"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliche Hinweise",
+        "links": [
+          {
+            "label": "DATENSCHUTZ",
+            "href": "https://www.alfaromeo.de/datenschutz"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE",
+            "href": "https://www.alfaromeo.de/rechtliche-hinweise"
+          },
+          {
+            "label": "Professionelle Marke",
+            "href": "#"
+          },
+          {
+            "label": "Marke aus zweiter Hand",
+            "href": "#"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -341,7 +417,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://autoankauf.alfaromeo.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -352,11 +428,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://autoankauf.alfaromeo.de/weitere-informationen",
-    "medias_trouves": 2,
+    "medias_trouves": 0,
     "blocs_detectes": 11,
     "notes": [
-      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
       "11 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

@@ -18,8 +18,8 @@
     "og_image_alt": "JAK TO DZIAŁA?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.jeep.pl/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.jeep.pl/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Usługa Jeep z odkupem to",
+      "label": "Usługa Jeep z odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
       "anchor": "#usuga-jeep-z-odkupem-to-usuga-umozliwiaj"
     },
     {
@@ -128,7 +128,7 @@
         "Kilkoma kliknięciami wprowadź dane techniczne samochodu.",
         "Otrzymaj natychmiastową wycenę jego wartości."
       ],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image": "https://odkup.jeep.pl/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -145,7 +145,7 @@
         "Jeśli samochód okaże się zgodny z wyceną dokonaną online, dealer zajmie się całą procedurą odkupu.",
         "Gwarantowana szybka płatność"
       ],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image": "https://odkup.jeep.pl/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -182,7 +182,67 @@
         "href": "https://www.linkedin.com/company/fca-fleet-&-business/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.jeep.pl/znajdz-dealera"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.jeep.pl/kontakt"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.PL",
+            "href": "https://www.jeep.pl/"
+          },
+          {
+            "label": "JEEP SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.jeep.pl/promocje"
+          },
+          {
+            "label": "JEEP SALON",
+            "href": "https://salon.jeep.pl/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/152/2fb85abf-7829-4ae1-b91f-d6aacdcd98d7"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -195,7 +255,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Jeep - możemy odkupić Twój samochód.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://odkup.jeep.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -206,14 +266,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.jeep.pl/strona-dzialanie",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/content-serenity.jpg",
       "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/content-fast.jpg",
       "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/content-safe.jpg",
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

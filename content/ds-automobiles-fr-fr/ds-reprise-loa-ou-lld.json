@@ -18,8 +18,8 @@
     "og_image_alt": "Reprise pour une LOA ou LLD"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.dsautomobiles.fr/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.dsautomobiles.fr/"
   },
@@ -39,11 +39,11 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi louer plutôt qu",
+      "label": "Pourquoi louer plutôt que d'acheter?",
       "anchor": "#pourquoi-louer-plutot-que-d-acheter"
     },
     {
-      "label": "DS Automobiles reprend é",
+      "label": "DS Automobiles reprend également votre ancien véhicule si vous optez pour une location",
       "anchor": "#ds-automobiles-reprend-egalement-votre-a"
     }
   ],
@@ -139,7 +139,67 @@
         "href": "https://www.linkedin.com/company/ds-France"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS AUTOMOBILES",
+            "href": "https://www.dsautomobiles.fr"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.fr/ds-store/configurateur.html"
+          },
+          {
+            "label": "Nos véhicules neufs",
+            "href": "https://dsonlinestore.dsautomobiles.fr"
+          },
+          {
+            "label": "DS CERTIFIED",
+            "href": "https://www.dscertified.dsautomobiles.fr/"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.dsautomobiles.fr/contact.html"
+          },
+          {
+            "label": "Trouvez votre point de vente",
+            "href": "https://www.dsautomobiles.fr/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "2026",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -152,7 +212,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.reprise.dsautomobiles.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",

@@ -18,8 +18,8 @@
     "og_image_alt": "Uw auto veilig verkopen aan een professional"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/92/9006c8c9-b42b-44c5-9474-7bfc848aca64",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.peugeot.be/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Mijn overnamewaarde bere",
+      "label": "Mijn overnamewaarde berekenen",
       "anchor": "#mijn-overnamewaarde-berekenen"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#stap-1"
     },
     {
-      "label": "Verkoop veilig uw auto m",
+      "label": "Verkoop veilig uw auto met gemak",
       "anchor": "#verkoop-veilig-uw-auto-met-gemak"
     },
     {
-      "label": "Wij helpen u met de admi",
+      "label": "Wij helpen u met de administratieve procedures",
       "anchor": "#wij-helpen-u-met-de-administratieve-proc"
     }
   ],
@@ -115,8 +115,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Verkoop veilig uw auto met gemak",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -138,8 +138,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Verkoop veilig uw auto met gemak",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -155,8 +155,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Verkoop veilig uw auto met gemak",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -172,8 +172,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Verkoop veilig uw auto met gemak",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -188,13 +188,13 @@
           "text": "1. Auto verkopen?"
         },
         {
-          "text": "Verkoop uw auto gemakkelijk: ● Ontvang uw gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, wordt u binnen 24 uur gecontacteerd door de door u gekozen dealer. Bevalt de schatting u? Onze Peugeot-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Peugeot: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+          "text": "Verkoop uw auto gemakkelijk"
         },
         {
           "text": "2. Auto verkopen - Hoe wordt de waarde geschat?"
         },
         {
-          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+          "text": "De schatting houdt rekening met"
         },
         {
           "text": "Auto verkopen - Hoe maak ik een afspraak?"
@@ -209,9 +209,16 @@
           "text": "● Met het Peugeot-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Peugeot-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
         }
       ],
-      "bullets": [],
-      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Ontvang uw gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden.",
+        "Maak een afspraak: Zodra het formulier is ingevuld, wordt u binnen 24 uur gecontacteerd door de door u gekozen dealer. Bevalt de schatting u? Onze Peugeot-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto.",
+        "Profiteer van de expertise van Peugeot: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug.",
+        "De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname.",
+        "Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen.",
+        "Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Verkoop veilig uw auto met gemak",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -243,7 +250,50 @@
         "href": "https://www.linkedin.com/company/automobiles-peugeot/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "DE PEUGEOT ERVARING",
+        "links": [
+          {
+            "label": "Kies je Peugeot",
+            "href": "https://www.peugeot.be/nl/gamma/configureer-je-nieuwe-peugeot.html"
+          },
+          {
+            "label": "Gelegenheden Peugeot",
+            "href": "https://www.peugeot.be/nl/spoticar.html"
+          },
+          {
+            "label": "Peugeot.be",
+            "href": "https://www.peugeot.be/nl/"
+          },
+          {
+            "label": "Contacteer ons",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=nl_BE"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites.s3.amazonaws.com/92/7edf4708-9cdc-4543-a2a4-ed0dd028b64b"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "https://www.peugeot.be/nl/wettelijke-bepalingen"
+          },
+          {
+            "label": "PRIVACY BELEID",
+            "href": "/privacybeleid.pdf"
+          },
+          {
+            "label": "TOEGANKELIJKHEIDSVERKLARING",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-6-30 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -256,7 +306,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Peugeot begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://overname.peugeot.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -267,12 +317,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.peugeot.be/lp/auto-verkopen",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/21/851094ca-b38f-4e55-8d56-1d01df021980",
-      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

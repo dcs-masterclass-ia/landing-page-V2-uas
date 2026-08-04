@@ -18,8 +18,8 @@
     "og_image_alt": "ILE JEST WART MÓJ SAMOCHÓD? W JEEP MAMY DLA CIEBIE ODPOWIEDŹ."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.jeep.pl/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.jeep.pl/"
   },
@@ -39,19 +39,19 @@
   },
   "subnav": [
     {
-      "label": "DLACZEGO WARTO WYCENIĆ S",
+      "label": "DLACZEGO WARTO WYCENIĆ SWÓJ SAMOCHÓD NA NASZEJ STRONIE?",
       "anchor": "#dlaczego-warto-wycenic-swoj-samochod-na-"
     },
     {
-      "label": "JAK DZIAŁA WYCENA SAMOCH",
+      "label": "JAK DZIAŁA WYCENA SAMOCHODU?",
       "anchor": "#jak-dziaa-wycena-samochodu"
     },
     {
-      "label": "WYCENA POJAZDU: JAK TO D",
+      "label": "WYCENA POJAZDU: JAK TO DZIAŁA?",
       "anchor": "#wycena-pojazdu-jak-to-dziaa"
     },
     {
-      "label": "ZALETY WYCENY SAMOCHODU ",
+      "label": "ZALETY WYCENY SAMOCHODU ONLINE",
       "anchor": "#zalety-wyceny-samochodu-online"
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/50d7e3cf-ba71-46ca-b64f-53639c7961a2",
+      "image_alt": "Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/50d7e3cf-ba71-46ca-b64f-53639c7961a2",
+      "image_alt": "Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/50d7e3cf-ba71-46ca-b64f-53639c7961a2",
+      "image_alt": "Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/50d7e3cf-ba71-46ca-b64f-53639c7961a2",
+      "image_alt": "Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -183,8 +183,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/50d7e3cf-ba71-46ca-b64f-53639c7961a2",
+      "image_alt": "Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -220,7 +220,67 @@
         "href": "https://www.linkedin.com/company/fca-fleet-&-business/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.jeep.pl/znajdz-dealera"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.jeep.pl/kontakt"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.PL",
+            "href": "https://www.jeep.pl/"
+          },
+          {
+            "label": "JEEP SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.jeep.pl/promocje"
+          },
+          {
+            "label": "JEEP SALON",
+            "href": "https://salon.jeep.pl/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/152/2fb85abf-7829-4ae1-b91f-d6aacdcd98d7"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -233,7 +293,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://odkup.jeep.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -244,11 +304,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.jeep.pl/lp/wycena-pojazdu",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

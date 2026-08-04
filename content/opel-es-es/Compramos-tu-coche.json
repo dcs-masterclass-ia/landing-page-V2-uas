@@ -18,8 +18,8 @@
     "og_image_alt": "Compramos tu coche en solamente 24 horas - Pago asegurado"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+    "logo_alt": "Logo Opel",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.opel.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "İAl contar con la Red Ta",
+      "label": "İAl contar con la Red Tasacion Opel,",
       "anchor": "#ial-contar-con-la-red-tasacion-opel"
     },
     {
-      "label": "Compramos tu coche sin m",
+      "label": "Compramos tu coche sin muchas complicaciones",
       "anchor": "#compramos-tu-coche-sin-muchas-complicaci"
     },
     {
-      "label": "Podrás recibir la tasaci",
+      "label": "Podrás recibir la tasación de tu coche por correo electrónico o en línea",
       "anchor": "#podras-recibir-la-tasacion-de-tu-coche-p"
     },
     {
-      "label": "Compramos tu coche con a",
+      "label": "Compramos tu coche con alto nivel de profesionalismo",
       "anchor": "#compramos-tu-coche-con-alto-nivel-de-pro"
     },
     {
-      "label": "Inmediatamente tendrás u",
+      "label": "Inmediatamente tendrás una oferta de recuperación",
       "anchor": "#inmediatamente-tendras-una-oferta-de-rec"
     }
   ],
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -115,8 +115,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -141,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -161,8 +161,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -193,8 +193,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -210,8 +210,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -230,8 +230,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -252,7 +252,7 @@
           "text": "2. ¿Cómo hacer el cálculo del valor de adquisición de mi auto?"
         },
         {
-          "text": "La tasación se hace así: • kilometraje, versión, motor, fecha de matriculación, marca y el modelo. • Si hay transacciones recientes realizadas por los profesionales sobre los modelos parecidos. • Estas tarifas se ajustan de acuerdo a la condición real que el coche tenga en ese momento."
+          "text": "La tasación se hace así"
         },
         {
           "text": "Características de tu coche:"
@@ -291,9 +291,13 @@
           "text": "A través de la red Opel, solo así garantizamos un pago fiable y fácil, sin sorpresas de última hora En el momento del proceso de transacción, el pago del coche se hace con el concesionario Opel. Todo depende del concesionario que escojas, el pago del coche se puede hacer por medio de un cheque o de una transferencia bancaria."
         }
       ],
-      "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "kilometraje, versión, motor, fecha de matriculación, marca y el modelo.",
+        "Si hay transacciones recientes realizadas por los profesionales sobre los modelos parecidos.",
+        "Estas tarifas se ajustan de acuerdo a la condición real que el coche tenga en ese momento."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/84d777b1-dbd5-4973-82a6-d6b8a7d46aed",
+      "image_alt": "Compramos tu coche Opel de forma segura",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -325,7 +329,59 @@
         "href": "https://www.youtube.com/user/OpelspainGM"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTOS",
+        "links": [
+          {
+            "label": "OPEL.ES",
+            "href": "https://www.opel.es/"
+          },
+          {
+            "label": "Contacta con nosotros",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=es"
+          },
+          {
+            "label": "Red Opel",
+            "href": "https://www.opel.es/tools/concesionarios-opel.html "
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Información legal",
+            "href": " https://www.opel.es/tools/aviso-legal.html"
+          },
+          {
+            "label": "Política de cookies",
+            "href": "https://www.opel.es/tools/politica-de-cookies.html"
+          },
+          {
+            "label": "Política de Privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "SABER MÁS",
+        "links": [
+          {
+            "label": "Configurador",
+            "href": "https://www.opel.es/tools/configurador.html "
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/opel"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -338,7 +394,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Opel",
     "provider_url": "https://www.tasacion.opel.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -349,11 +405,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.opel.es/lp/Compramos-tu-coche",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 8,
     "notes": [
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
       "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

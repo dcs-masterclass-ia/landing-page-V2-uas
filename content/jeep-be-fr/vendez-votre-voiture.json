@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture : simple et professionnel"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.jeep.be/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.jeep.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Les avantages de la repr",
+      "label": "Les avantages de la reprise pour la vente de votre voiture",
       "anchor": "#les-avantages-de-la-reprise-pour-la-vent"
     },
     {
-      "label": "Les avantages de notre s",
+      "label": "Les avantages de notre service de vente de voiture",
       "anchor": "#les-avantages-de-notre-service-de-vente-"
     },
     {
-      "label": "Les étapes faciles pour ",
+      "label": "Les étapes faciles pour vendre votre voiture",
       "anchor": "#les-etapes-faciles-pour-vendre-votre-voi"
     },
     {
-      "label": "b. Recevez votre estimat",
+      "label": "b. Recevez votre estimation en ligne et par email",
       "anchor": "#b-recevez-votre-estimation-en-ligne-et-p"
     },
     {
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -111,12 +111,17 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Nous vous proposons les avantages suivants : ● Une estimation gratuite et sans engagement ● Une estimation envoyée par voie électronique ● Un rendez-vous avec un concessionnaire près de chez vous, à votre convenance ● La possibilité de sécuriser votre transaction grâce à un paiement rapide"
+          "text": "Nous vous proposons les avantages suivants"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Une estimation gratuite et sans engagement",
+        "Une estimation envoyée par voie électronique",
+        "Un rendez-vous avec un concessionnaire près de chez vous, à votre convenance",
+        "La possibilité de sécuriser votre transaction grâce à un paiement rapide"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -132,8 +137,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -149,8 +154,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -162,12 +167,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives Obtenez une estimation pour votre voiture en quelques minutes !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives Obtenez une estimation pour votre voiture en quelques minutes !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -213,8 +225,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -239,8 +251,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "La sécurité Vendez votre voiture avec Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -268,7 +280,63 @@
         "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.jeep.be/fr/distributeurs"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.jeep.be/fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "JEEP ®",
+        "links": [
+          {
+            "label": "JEEP ® .BE",
+            "href": "https://www.jeep.be/fr"
+          },
+          {
+            "label": "CONFIGURATEUR JEEP ®",
+            "href": "https://www.jeep.be/fr/configurateur/#/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.jeep.be/fr/offres"
+          },
+          {
+            "label": "JEEP ® OCCASIONS",
+            "href": "https://www.spoticar.be/fr/voitures-occasion/jeep"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites.s3.amazonaws.com/127/447f2de8-05f7-4046-8c39-31b2b3958b40"
+          },
+          {
+            "label": "POLITIQUE DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/127/44743af0-42b4-48cd-a215-9315d0f67744"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -281,7 +349,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Chez Jeep, nous simplifions la vente de votre voiture avec une estimation gratuite et sans engagement de votre part.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://reprise.jeep.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -292,12 +360,10 @@
   },
   "_extraction": {
     "canonical_v1": "   ",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/156/b4389a1a-d582-4f4f-bf5e-36c20c2b48ed",
-      "image sans alt en V1 : https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

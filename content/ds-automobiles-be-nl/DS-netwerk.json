@@ -18,8 +18,8 @@
     "og_image_alt": "Een netwerk dat naar u luistert"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://overname.dsautomobiles.be/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.dsautomobiles.be/"
   },
@@ -182,7 +182,46 @@
         "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles",
+            "href": "https://www.dsautomobiles.be/nl"
+          },
+          {
+            "label": "Configureer uw DS",
+            "href": "https://www.dsautomobiles.be/nl/configurator.html"
+          },
+          {
+            "label": "Onze nieuwe voertuigen",
+            "href": "https://dsonlinestore.dsautomobiles.be/nl/home"
+          },
+          {
+            "label": "Onze gebruikte voertuigen",
+            "href": "https://www.dscertified.dsautomobiles.be/nl"
+          },
+          {
+            "label": "Vind een verkooppunt",
+            "href": "https://www.dsautomobiles.be/nl/verkooppunt-vinden.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Wettelijke bepalingen",
+            "href": "https://www.dsautomobiles.be/nl/wettelijke-bepalingen"
+          },
+          {
+            "label": "Privacy beleid",
+            "href": "/privacybeleid.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "© 2024 DS *Bonus geldig bij de aankoop van een nieuwe DS 7 tot 2026-7-31 in deelnemende netwerken.",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -195,7 +234,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://overname.dsautomobiles.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",

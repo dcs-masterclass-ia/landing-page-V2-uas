@@ -18,8 +18,8 @@
     "og_image_alt": "Faites estimer gratuitement la valeur de votre voiture par Opel"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.opel.be/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.opel.be/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi choisir Reprise",
+      "label": "Pourquoi choisir Reprise Opel pour estimer votre voiture ?",
       "anchor": "#pourquoi-choisir-reprise-opel-pour-estim"
     },
     {
@@ -51,7 +51,7 @@
       "anchor": "#les-3-etapes-a-suivre"
     },
     {
-      "label": "Étape 3 : Votre rendez-v",
+      "label": "Étape 3 : Votre rendez-vous avec un professionnel du réseau Opel",
       "anchor": "#etape-3-votre-rendez-vous-avec-un-profes"
     },
     {
@@ -93,12 +93,15 @@
           "text": "Reprise Opel vous offre une estimation 100% en ligne et gratuite en moins de 5 minutes.Nous vous garantissons une estimation fiable et raisonnable pour votre voiture.Rapidité : obtenez votre estimation en seulement quelques clics, directement en ligne et par email également.Sérénité : Notre service d’estimation de voiture est gratuit et sans engagement. Si l’offre vous convient, vous pouvez finaliser la transaction avec un professionnel du réseau Opel.Sécurité. Si l’offre vous convient, le professionnel Opel finalise avec vous la vente de la voiture et vous délivre alors un paiement garanti et sécurisé."
         },
         {
-          "text": "L'estimation de votre voiture est basée sur les transactions récentes réalisées par les professionnels de l'automobile et les observations du marché.Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre voiture.Estimez votre voiture en moins de 5 minutes !Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes :● La carte grise de votre voiture● Le kilométrage de votre voiture"
+          "text": "L'estimation de votre voiture est basée sur les transactions récentes réalisées par les professionnels de l'automobile et les observations du marché.Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre voiture.Estimez votre voiture en moins de 5 minutes !Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes"
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "La carte grise de votre voiture",
+        "Le kilométrage de votre voiture"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/15/a6592962-a4f2-4c8d-887e-98a8c6c6b73e",
+      "image_alt": "Les avantages de l'estimation d'Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -117,8 +120,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/15/a6592962-a4f2-4c8d-887e-98a8c6c6b73e",
+      "image_alt": "Les avantages de l'estimation d'Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -130,12 +133,16 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "● Obtenez une estimation entièrement gratuite et en ligne pour votre voiture : évaluez-la en toute confiance ! Sur notre site internet, estimez la valeur de votre voiture sans frais. Chez Opel, nous vous garantissons une estimation fiable et professionnelle.● Obtenez une estimation rapide pour votre voiture - obtenez une estimation instantanée ! Une fois que nous avons identifié votre voiture, vous recevrez votre estimation.● Obtenez une estimation valable pendant 10 jours : vous souhaitez prendre votre temps ? Pas de problème ! Votre estimation sera valable pour les 10 prochains jours.● Nous avons un réseau étendu de reprise de voitures Opel : on vous assure qu'il y aura un point de vente Opel près de chez vous !"
+          "text": "Obtenez une estimation entièrement gratuite et en ligne pour votre voiture : évaluez-la en toute confiance ! Sur notre site internet, estimez la valeur de votre voiture sans frais. Chez Opel, nous vous garantissons une estimation fiable et professionnelle."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Obtenez une estimation rapide pour votre voiture - obtenez une estimation instantanée ! Une fois que nous avons identifié votre voiture, vous recevrez votre estimation.",
+        "Obtenez une estimation valable pendant 10 jours : vous souhaitez prendre votre temps ? Pas de problème ! Votre estimation sera valable pour les 10 prochains jours.",
+        "Nous avons un réseau étendu de reprise de voitures Opel : on vous assure qu'il y aura un point de vente Opel près de chez vous !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/15/a6592962-a4f2-4c8d-887e-98a8c6c6b73e",
+      "image_alt": "Les avantages de l'estimation d'Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -172,8 +179,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/15/a6592962-a4f2-4c8d-887e-98a8c6c6b73e",
+      "image_alt": "Les avantages de l'estimation d'Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -205,7 +212,67 @@
         "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "L'expérience Opel",
+        "links": [
+          {
+            "label": "Choisissez votre Opel",
+            "href": "https://www.opel.be/fr/choisissez-votre-opel/gamme-opel.html"
+          },
+          {
+            "label": "Les offres du moment",
+            "href": "https://www.opel.be/fr/offers/offers-overview/private.html"
+          },
+          {
+            "label": "Voitures neuves en stock",
+            "href": "https://store.opel.fr/stock"
+          },
+          {
+            "label": "Voitures d'occasion Spoticar",
+            "href": "https://www.spoticar.be/fr/voitures-occasion/opel"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Opel.be",
+            "href": "https://www.opel.be/fr/"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.opel.be/fr/tools/contact.html"
+          },
+          {
+            "label": "Réserver un essai",
+            "href": "https://www.opel.be/fr/tools/request-test-drive.html"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Mentions légales",
+            "href": "https://usine-a-sites.s3.amazonaws.com/63/47dd60e2-aca4-4eb8-b20b-0428072e5022"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Politiques en matière de Cookies",
+            "href": "https://www.opel.be/fr/tools/cookies-policy.html"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -218,7 +285,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Avec Reprise Opel, obtenez une estimation professionnelle de la valeur de votre voiture en ligne, rapidement et gratuitement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.reprise.opel.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -229,11 +296,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.opel.be/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

@@ -18,8 +18,8 @@
     "og_image_alt": "AUTO VERKAUFEN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/88/c9ec2213-6a53-4dcb-b631-85b4fd1487e5",
+    "logo_alt": "Opel Logo",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.opel-kauft-dein-auto.de/"
   },
@@ -145,7 +145,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/88/6fa396fe-db6e-4573-91f3-1b9854b13025",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -178,7 +178,87 @@
         "href": "https://www.youtube.com/user/OpelDe"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "MEHR ENTDECKEN",
+        "links": [
+          {
+            "label": "© Opel%current Year%",
+            "href": "https://www.opel.de/index.html"
+          },
+          {
+            "label": "Opel Store",
+            "href": "https://www.opelstore.de/"
+          },
+          {
+            "label": "Auto kaufen",
+            "href": "https://www.opel.de/kaufen.html"
+          },
+          {
+            "label": "Konfigurator",
+            "href": "https://www.opel.de/tools/konfigurator.html"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.de/"
+          }
+        ]
+      },
+      {
+        "title": "RECHTLICHES",
+        "links": [
+          {
+            "label": "Impressum",
+            "href": "https://www.opel.de/tools/impressum.html"
+          },
+          {
+            "label": "Datenschutz-Richtlinie",
+            "href": "https://usine-a-sites.s3.amazonaws.com/88/dc586898-13af-41cf-b4a2-d32e4da9d312"
+          },
+          {
+            "label": "Cookie-Richtlinie",
+            "href": "https://www.opel.de/tools/cookies.html"
+          },
+          {
+            "label": "Rechtliche Hinweise",
+            "href": "https://www.opel.de/tools/rechtlich-hinweise.html"
+          },
+          {
+            "label": "Cookie-Zustimmung",
+            "href": "#"
+          },
+          {
+            "label": "Allgemeine Geschäftsbedingungen",
+            "href": "https://www.opel-kauft-dein-auto.de/allgemeine-geschaftsbedingungen.pdf"
+          }
+        ]
+      },
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "Kontakt",
+            "href": "https://opel.my-customerportal.com/opel/s/?language=de"
+          },
+          {
+            "label": "Newsletter",
+            "href": "https://www.opel.de/tools/newsletter.html"
+          },
+          {
+            "label": "Angebotsanfrage",
+            "href": "https://www.opel.de/tools/angebotsanfrage.html"
+          },
+          {
+            "label": "Probefahrt",
+            "href": "https://www.opel.de/tools/probefahrt.html"
+          },
+          {
+            "label": "Händlersuche",
+            "href": "https://www.opel.de/tools/haendlersuche.html"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -191,7 +271,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Opel hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Opel Logo",
     "provider_url": "https://www.opel-kauft-dein-auto.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -202,14 +282,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.opel-kauft-dein-auto.de/autoverkauf",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/9e7dd65d-6893-4c76-821b-234ee51edc41",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/a42ab338-f068-4eca-94df-00413a457c1a",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/6fa396fe-db6e-4573-91f3-1b9854b13025",
-      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

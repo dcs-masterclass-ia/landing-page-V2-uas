@@ -18,8 +18,8 @@
     "og_image_alt": "RENUEVA TU COCHE CON DESCUENTOS EXCLUSIVOS"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.citroen.es/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.citroen.es/"
   },
@@ -39,15 +39,15 @@
   },
   "subnav": [
     {
-      "label": "Una alternativa que te e",
+      "label": "Una alternativa que te evitará sorpresas y te ahorrará tiempo cuando quieras calcular el valor de tu coche.",
       "anchor": "#una-alternativa-que-te-evitara-sorpresas"
     },
     {
-      "label": "La tasación del coche se",
+      "label": "La tasación del coche se estima en euros, IVA incluido, en base a las observaciones del mercado",
       "anchor": "#la-tasacion-del-coche-se-estima-en-euros"
     },
     {
-      "label": "Nuestros expertos te esc",
+      "label": "Nuestros expertos te escuchan",
       "anchor": "#nuestros-expertos-te-escuchan"
     }
   ],
@@ -86,8 +86,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/733ec165-798f-4246-8c8a-ff4f2d51bd3e",
+      "image_alt": "Retoma Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -103,8 +103,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/733ec165-798f-4246-8c8a-ff4f2d51bd3e",
+      "image_alt": "Retoma Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -120,8 +120,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/733ec165-798f-4246-8c8a-ff4f2d51bd3e",
+      "image_alt": "Retoma Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -153,7 +153,63 @@
         "href": "https://www.youtube.com/user/CitroenEspana"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contacto",
+        "links": [
+          {
+            "label": "Citroën.es",
+            "href": "https://www.citroen.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/citroen"
+          },
+          {
+            "label": "Contacte con nosotros",
+            "href": "https://www.citroen.es/contacto/atencion-al-cliente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Condiciones Generales",
+            "href": "/condiciones-generales-de-uso.pdf"
+          },
+          {
+            "label": "Configuración De Cookies",
+            "href": "#"
+          },
+          {
+            "label": "Política de privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "Enlaces",
+        "links": [
+          {
+            "label": "Encontrar un punto de venta",
+            "href": "https://www.citroen.es/citroen-y-tu/red-oficial-citroen.html?_ga=2.19987384.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Solicitar una cita",
+            "href": "https://cita-taller.citroen.es/dealerlocator.aspx?o=cpp&p=i&c=es-ES&b=c&_ga=2.254882312.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Configurar un vehículo",
+            "href": "https://www.citroen.es/vehiculos/citroen.html#content"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -166,7 +222,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Citroën te ofrece la tasación de tu coche, sea cual sea su marca. Obtén su tasación online en unos minutos.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.tasacion.citroen.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -177,11 +233,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.citroen.es/",
-    "medias_trouves": 5,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
       "fil d'Ariane introuvable",
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

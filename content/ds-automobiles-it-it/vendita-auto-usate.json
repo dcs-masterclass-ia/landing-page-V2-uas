@@ -18,8 +18,8 @@
     "og_image_alt": "La permuta DS Automobiles offre numerosi vantaggi"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/77/4c5f4b12-3353-4be3-bc4e-410229e656aa",
+    "logo_alt": "Logo DS",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://valutazioneusato.dsautomobiles.it/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Vendere la tua auto usat",
+      "label": "Vendere la tua auto usata senza inconvenienti, appuntamenti mancati o pagamenti in ritardo è possibile.",
       "anchor": "#vendere-la-tua-auto-usata-senza-inconven"
     },
     {
-      "label": "Vendita auto usate offre",
+      "label": "Vendita auto usate offre numerosi vantaggi",
       "anchor": "#vendita-auto-usate-offre-numerosi-vantag"
     },
     {
-      "label": "Valutazione auto usate: ",
+      "label": "Valutazione auto usate: come fare?",
       "anchor": "#valutazione-auto-usate-come-fare"
     },
     {
-      "label": "Vuoi vendere la tua auto",
+      "label": "Vuoi vendere la tua auto usata al miglior prezzo possibile?",
       "anchor": "#vuoi-vendere-la-tua-auto-usata-al-miglio"
     },
     {
@@ -209,7 +209,42 @@
   "footer": {
     "tagline": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DSautomobiles.it",
+            "href": "https://www.dsautomobiles.it/"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.it/?_ga=2.80165655.1256968239.1606137962-218564678.1603096870"
+          },
+          {
+            "label": "DS Online Store",
+            "href": "https://store.dsautomobiles.it/configurable"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Note legali",
+            "href": "https://usine-a-sites.s3.amazonaws.com/77/89ed85ce-7a3f-4c05-854f-98e582dfd2c5"
+          },
+          {
+            "label": "Informativa privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Dichiarazione di accessibilità",
+            "href": "https://usine-a-sites.s3.amazonaws.com/77/22c535bb-76d5-4364-a7bc-22082d5d4ed1"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -222,7 +257,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo DS",
     "provider_url": "https://valutazioneusato.dsautomobiles.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",

@@ -18,8 +18,8 @@
     "og_image_alt": "Estimez gratuitement votre voiture avec Reprise Peugeot"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/91/fea1e016-6d54-44a6-8f98-8ba810bed555",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.peugeot.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Pourquoi Reprise Peugeot",
+      "label": "Pourquoi Reprise Peugeot?",
       "anchor": "#pourquoi-reprise-peugeot"
     },
     {
-      "label": "Estimer votre Voiture : ",
+      "label": "Estimer votre Voiture : les étapes à suivre",
       "anchor": "#estimer-votre-voiture-les-etapes-a-suivr"
     },
     {
-      "label": "Étape 3 : Votre rendez-v",
+      "label": "Étape 3 : Votre rendez-vous avec un professionnel du réseau Peugeot",
       "anchor": "#etape-3-votre-rendez-vous-avec-un-profes"
     },
     {
@@ -94,10 +94,13 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Reprise Peugeot, c’est la garantie d'obtenir la bonne estimation basée sur les observations actuelles du marché. ● Une estimation 100% en ligne et gratuite: Recevez une estimation en quelques clics, en moins de 5 minutes ! ● Une estimation fiable et raisonnable."
+          "text": "Reprise Peugeot, c’est la garantie d'obtenir la bonne estimation basée sur les observations actuelles du marché."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation 100% en ligne et gratuite: Recevez une estimation en quelques clics, en moins de 5 minutes !",
+        "Une estimation fiable et raisonnable."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/21/c0f25d1a-a0a3-44df-94f2-736156209eb6",
       "image_alt": "les étapes à suivre",
       "tag": "TODO_ARBITRAGE",
@@ -111,10 +114,13 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "L'estimation de votre voiture est basée sur les observations du marché et les transactions récentes réalisées par les professionnels de l'automobile. Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre véhicule. Vous pouvez renseigner le profil de votre voiture en répondant à quelques questions simples. Si vous connaissez l'immatriculation de votre véhicule, vous pouvez la renseigner pour identifier ses principales caractéristiques en un clic. Sinon, il suffit de répondre à quelques questions pour identifier votre voiture. Estimez votre voiture en 3 étapes simples, en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes : ● La carte grise de votre voiture ● Le kilométrage de votre voiture"
+          "text": "L'estimation de votre voiture est basée sur les observations du marché et les transactions récentes réalisées par les professionnels de l'automobile. Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre véhicule. Vous pouvez renseigner le profil de votre voiture en répondant à quelques questions simples. Si vous connaissez l'immatriculation de votre véhicule, vous pouvez la renseigner pour identifier ses principales caractéristiques en un clic. Sinon, il suffit de répondre à quelques questions pour identifier votre voiture. Estimez votre voiture en 3 étapes simples, en moins de 5 minutes ! Pour obtenir l'estimation de votre voiture en ligne, vous aurez besoin des informations suivantes"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "La carte grise de votre voiture",
+        "Le kilométrage de votre voiture"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
       "image_alt": "Pourquoi choisir Peugeot",
       "tag": "TODO_ARBITRAGE",
@@ -135,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Pourquoi choisir Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,12 +154,16 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Choisir Peugeot pour estimer votre voiture plutôt que tout autre site d'estimation de véhicule, c'est la garantie de : ● Une estimation 100% en ligne et gratuite ● Une estimation fiable et rapide, valable 10 jours si vous souhaitez y réfléchir. ● L’étendue du réseau Peugeot ; avec ses nombreux points de vente, vous avez forcément un concessionnaire Peugeot près de chez vous !"
+          "text": "Choisir Peugeot pour estimer votre voiture plutôt que tout autre site d'estimation de véhicule, c'est la garantie de"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Une estimation 100% en ligne et gratuite",
+        "Une estimation fiable et rapide, valable 10 jours si vous souhaitez y réfléchir.",
+        "L’étendue du réseau Peugeot ; avec ses nombreux points de vente, vous avez forcément un concessionnaire Peugeot près de chez vous !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Pourquoi choisir Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -190,8 +200,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Pourquoi choisir Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -223,7 +233,71 @@
         "href": "https://be.linkedin.com/company/peugeot_belux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.be/fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=fr_BE"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.BE",
+            "href": "https://www.peugeot.be/fr/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.peugeot.be/fr/acheter/offres-du-moment.html"
+          },
+          {
+            "label": "CONFIGUREZ ET COMMANDEZ",
+            "href": "https://www.peugeot.be/fr/tools/configurer.html"
+          },
+          {
+            "label": "STOCKS DISPONIBLES",
+            "href": "https://stock.peugeot.be/fr/stock"
+          },
+          {
+            "label": "VOITURES D'OCCASION SPOTICAR",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites.s3.amazonaws.com/91/6f083d93-798a-40a2-8ad0-db6d3c8615f9"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "COOKIES",
+            "href": "#"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-6-30, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -236,7 +310,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez gratuitement la valeur de votre voiture grâce au service de reprise Peugeot. Estimation fiable et professionnelle en moins de 5 minutes.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://reprise.peugeot.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -247,11 +321,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.peugeot.be/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

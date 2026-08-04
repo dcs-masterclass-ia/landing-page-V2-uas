@@ -18,8 +18,8 @@
     "og_image_alt": "Comment ça marche"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.lu/"
   },
@@ -47,11 +47,11 @@
       "anchor": "#todo-arbitrage"
     },
     {
-      "label": "Obtenez une offre de rep",
+      "label": "Obtenez une offre de reprise en 6 étapes :",
       "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
     },
     {
-      "label": "Calcul de la valeur de r",
+      "label": "Calcul de la valeur de reprise :",
       "anchor": "#calcul-de-la-valeur-de-reprise"
     },
     {
@@ -149,7 +149,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -166,7 +166,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -183,7 +183,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -212,7 +212,59 @@
         "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.lu/guide-d-achat/choisir-une-alfa-romeo/distributeurr-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.lu/mopar/assistance-client"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.LU",
+            "href": "https://www.alfaromeo.lu/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.alfaromeo.lu/catalogue-essai-offre#devis"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.lu/configurateur/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CONDITIONS GENERALES D'UTILISATION",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -225,7 +277,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -236,15 +288,13 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.alfaromeo.lu/comment-ca-marche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/131/9a29843c-168e-49ee-8021-1bf4e20b8741",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/131/434d84c5-7c64-4679-a94c-5f25f0483c93",
       "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/content-fast.jpg",
       "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

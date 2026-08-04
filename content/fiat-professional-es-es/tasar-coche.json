@@ -18,8 +18,8 @@
     "og_image_alt": "¿Como tasar coche online sin costo?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/158/f463be27-4527-46c4-9cff-fd03b3c613f7",
+    "logo_alt": "Fiat Pro logo",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.fiatprofessional.es/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "¿Le gustaría saber el va",
+      "label": "¿Le gustaría saber el valor de su coche?",
       "anchor": "#le-gustaria-saber-el-valor-de-su-coche"
     },
     {
-      "label": "¿Cómo puedes tasar tu co",
+      "label": "¿Cómo puedes tasar tu coche?",
       "anchor": "#como-puedes-tasar-tu-coche"
     },
     {
@@ -97,10 +97,14 @@
           "text": "¿Quiere saber por qué tasar su coche con nosotros es ideal? Si bien hay muchas opciones en línea de tasación, elegir a Fiat Professional garantiza que: La tasación es en la web y es completamente sin costo alguno con un par de clics. La experiencia de Fiat Professional hace que esta tasación sea un proceso rápido y fácil y no hay compromisos ni obligaciones al recibir la tasación. Solo vende su coche si así lo desea."
         },
         {
-          "text": "Si quieres tasar tu coche, ¡Nosotros lo hacemos muy sencillo! Que se necesita: • La documentación de registro del coche • Una lista de daños si los tiene • El kilometraje exacto del coche Rellenar todo los datos necesarios para poder iniciar la tasación de tu vehículo Dar inicio al proceso de tasar tu coche no es complicado ya que solo se trata de rellenar datos muy rápidos y sencillos relacionados con el coche. Esto es realmente fácil y se puede lograr en no más de 5 minutos. Solo debes brindarnos los siguientes datos: La identificación del coche es fácil cuando se ingresa el registro del mismo. Así se tendrá información del modelo y se podrá saltar varias secciones del cuestionario y de esta manera ahorrar tiempo en el proceso. Si tiene problemas recordando el registro, no lo veas como un obstáculo. Puedes responder varias preguntas que nos ayudaran a identificar el tipo de coche que tienes. Cosas como el modelo, el año de matriculación, la potencia del motor, el tipo de combustible, el color externo e interno, etc."
+          "text": "Si quieres tasar tu coche, ¡Nosotros lo hacemos muy sencillo! Que se necesita"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "La documentación de registro del coche",
+        "Una lista de daños si los tiene",
+        "El kilometraje exacto del coche Rellenar todo los datos necesarios para poder iniciar la tasación de tu vehículo Dar inicio al proceso de tasar tu coche no es complicado ya que solo se trata de rellenar datos muy rápidos y sencillos relacionados con el coche. Esto es realmente fácil y se puede lograr en no más de 5 minutos. Solo debes brindarnos los siguientes datos: La identificación del coche es fácil cuando se ingresa el registro del mismo. Así se tendrá información del modelo y se podrá saltar varias secciones del cuestionario y de esta manera ahorrar tiempo en el proceso. Si tiene problemas recordando el registro, no lo veas como un obstáculo. Puedes responder varias preguntas que nos ayudaran a identificar el tipo de coche que tienes. Cosas como el modelo, el año de matriculación, la potencia del motor, el tipo de combustible, el color externo e interno, etc."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
       "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
@@ -118,8 +122,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -135,8 +139,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -152,8 +156,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -169,8 +173,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -187,8 +191,8 @@
         "Una vez que tiene la tasación, es válida por 10 días para que decida si quiere vendernos su coche. Venderlo con Fiat Professional es mucho más fácil con más de 100 locales en la red.",
         "El proceso de tasación es rápido y esto significa que obtendrá un precio para el coche rápidamente."
       ],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -204,8 +208,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -248,8 +252,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/5e5f27db-6b21-4655-9a9d-ef484001b240",
+      "image_alt": "descubra tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -277,7 +281,59 @@
         "href": "https://www.youtube.com/user/ProFiat"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.fiatprofessional.com/es/localiza-tu-concesionario"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.fiatprofessional.com/es/contactos"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.ES",
+            "href": "https://www.fiatprofessional.com/es"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/comercial/fiat"
+          },
+          {
+            "label": "FIAT PROFESSIONAL CONFIGURADOR",
+            "href": "https://www.fiatprofessional.com/es/configuradores"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-fiatprofessional.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -290,7 +346,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Le gustaría saber el valor de su coche? ¡Si es así, tenemos el mejor servicio de tasación!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Fiat Pro logo",
     "provider_url": "https://tasacion.fiatprofessional.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -301,12 +357,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.fiatprofessional.es/lp/tasar-coche",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 8,
     "notes": [
       "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/separator-breadcrumb.png",
-      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

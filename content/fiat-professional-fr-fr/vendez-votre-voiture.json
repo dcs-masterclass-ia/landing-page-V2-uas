@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture avec le réseau Fiat Pro"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/144/1ccd59e6-8a6d-4147-a571-f7a436582c6b",
+    "logo_alt": "Logo Fiat Professional",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiatprofessional.com/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi opter pour la r",
+      "label": "Pourquoi opter pour la reprise pour vendre votre voiture",
       "anchor": "#pourquoi-opter-pour-la-reprise-pour-vend"
     },
     {
-      "label": "Vendez votre voiture en ",
+      "label": "Vendez votre voiture en quelques étapes simples",
       "anchor": "#vendez-votre-voiture-en-quelques-etapes-"
     },
     {
-      "label": "Étape 2: Obtenez l’estim",
+      "label": "Étape 2: Obtenez l’estimation de votre utilitaire en ligne et par email",
       "anchor": "#etape-2-obtenez-lestimation-de-votre-uti"
     },
     {
-      "label": "Vendez votre voiture de ",
+      "label": "Vendez votre voiture de manière sûre",
       "anchor": "#vendez-votre-voiture-de-maniere-sure"
     },
     {
@@ -118,8 +118,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -135,8 +135,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -152,8 +152,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -175,8 +175,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -197,7 +197,7 @@
           "text": "2.Comment est calculée l’estimation de reprise de mon véhicule utilitaire ?"
         },
         {
-          "text": "L’estimation est établie sur : • Les caractéristiques de votre véhicule utilitaire : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. • Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule utilitaire."
+          "text": "L’estimation est établie sur"
         },
         {
           "text": "3. Comment fonctionne la reprise par Fiat Professional ?"
@@ -209,9 +209,13 @@
           "text": "Estimation gratuite en ligne :"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule utilitaire : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule utilitaire."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -236,8 +240,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -261,7 +265,51 @@
         "href": "https://www.linkedin.com/company/fiat-professional-france"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "TROUVER UN DISTRIBUTEUR",
+            "href": "https://www.fiatprofessional.com/fr/trouver-distributeur"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiatprofessional.com/fr/contactez-nous"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.FR",
+            "href": "https://www.fiatprofessional.com/fr"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.fiatprofessional.com/fr/essai-de-conduite"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiatprofessional.com/fr/offres"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Pour les trajets courts, privilégiez la marche ou le vélo #Se Déplacer Moins Polluer. 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -274,7 +322,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat Professional",
     "provider_url": "https://reprise.fiatprofessional.com",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -285,12 +333,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiatprofessional.com/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/separator-breadcrumb.png",
-      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

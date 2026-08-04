@@ -18,8 +18,8 @@
     "og_image_alt": "Tasación en Opel"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+    "logo_alt": "Logo Opel",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.opel.es/"
   },
@@ -104,8 +104,8 @@
         "Una transacción segura y rápida",
         "Oferta ajustada"
       ],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/c436c28e-00f0-4820-9a7e-77db80f1a0b2",
+      "image_alt": "opel3",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -137,7 +137,59 @@
         "href": "https://www.youtube.com/user/OpelspainGM"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTOS",
+        "links": [
+          {
+            "label": "OPEL.ES",
+            "href": "https://www.opel.es/"
+          },
+          {
+            "label": "Contacta con nosotros",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=es"
+          },
+          {
+            "label": "Red Opel",
+            "href": "https://www.opel.es/tools/concesionarios-opel.html "
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Información legal",
+            "href": " https://www.opel.es/tools/aviso-legal.html"
+          },
+          {
+            "label": "Política de cookies",
+            "href": "https://www.opel.es/tools/politica-de-cookies.html"
+          },
+          {
+            "label": "Política de Privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "SABER MÁS",
+        "links": [
+          {
+            "label": "Configurador",
+            "href": "https://www.opel.es/tools/configurador.html "
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/opel"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -150,7 +202,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Cómo se calcula el precio de mi coche?",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Opel",
     "provider_url": "https://www.tasacion.opel.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -161,13 +213,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.opel.es/comentario",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/46/8211ac1a-52ee-4db8-8fea-6e80ddbd6fb3",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/46/498a597a-2475-4380-bb5c-c6c8548d538b",
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

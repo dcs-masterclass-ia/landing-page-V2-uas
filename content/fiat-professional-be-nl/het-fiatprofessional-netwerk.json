@@ -18,8 +18,8 @@
     "og_image_alt": "Fiat Professional netwerk"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/142/e07db304-e4ff-49a9-a077-1bd7f9b0e796",
+    "logo_alt": "Logo Fiat Professional",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.fiatprofessional.com/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Het Fiat Professional ne",
+      "label": "Het Fiat Professional netwerk",
       "anchor": "#het-fiat-professional-netwerk"
     },
     {
-      "label": "Hoe maakt je een afspraa",
+      "label": "Hoe maakt je een afspraak?",
       "anchor": "#hoe-maakt-je-een-afspraak"
     },
     {
@@ -181,8 +181,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/e6cd5123-5c39-4b58-9de0-756ca24b56dd",
+      "image_alt": "Een hand in witte handschoen presenteert een autosleutel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -210,7 +210,55 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERDELERS",
+            "href": "https://www.fiatprofessional.com/be/nl/dealers"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.fiatprofessional.com/be/nl/informatie"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.BE.NL",
+            "href": "https://www.fiatprofessional.com/be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.fiatprofessional.com/be/nl/offerte"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.fiatprofessional.com/be/nl/occasie-bestelwagen#!/search"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/134/ec2b05a8-04ce-4fcc-9040-1aab9ca3bab0"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -223,7 +271,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat Professional",
     "provider_url": "https://overname.fiatprofessional.com",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -234,12 +282,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.fiatprofessional.com/het-fiatprofessional-netwerk",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/content-serenity.jpg",
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

@@ -18,8 +18,8 @@
     "og_image_alt": "L’estimation de votre voiture sans engagement et en ligne. C’est possible et simple à faire !"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.dsautomobiles.fr/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.dsautomobiles.fr/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Optez pour la reprise DS",
+      "label": "Optez pour la reprise DS AUTOMOBILES",
       "anchor": "#optez-pour-la-reprise-ds-automobiles"
     },
     {
-      "label": "Comment est calculée l’e",
+      "label": "Comment est calculée l’estimation de ma voiture ?",
       "anchor": "#comment-est-calculee-lestimation-de-ma-v"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#pas-a-pas"
     },
     {
-      "label": "La liste des défauts de ",
+      "label": "La liste des défauts de votre voiture",
       "anchor": "#la-liste-des-defauts-de-votre-voiture"
     },
     {
-      "label": "Informez-nous toutes les",
+      "label": "Informez-nous toutes les caractéristiques de votre véhicule",
       "anchor": "#informez-nous-toutes-les-caracteristique"
     }
   ],
@@ -344,7 +344,67 @@
         "href": "https://www.linkedin.com/company/ds-France"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS AUTOMOBILES",
+            "href": "https://www.dsautomobiles.fr"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.fr/ds-store/configurateur.html"
+          },
+          {
+            "label": "Nos véhicules neufs",
+            "href": "https://dsonlinestore.dsautomobiles.fr"
+          },
+          {
+            "label": "DS CERTIFIED",
+            "href": "https://www.dscertified.dsautomobiles.fr/"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.dsautomobiles.fr/contact.html"
+          },
+          {
+            "label": "Trouvez votre point de vente",
+            "href": "https://www.dsautomobiles.fr/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "2026",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -357,7 +417,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.reprise.dsautomobiles.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",

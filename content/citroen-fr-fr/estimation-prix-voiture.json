@@ -18,8 +18,8 @@
     "og_image_alt": "Estimez la valeur de reprise de votre voiture"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi faire estimer s",
+      "label": "Pourquoi faire estimer sa voiture ?",
       "anchor": "#pourquoi-faire-estimer-sa-voiture"
     },
     {
-      "label": "Comment fonctionne notre",
+      "label": "Comment fonctionne notre simulateur ?",
       "anchor": "#comment-fonctionne-notre-simulateur"
     },
     {
-      "label": "Quels sont les avantages",
+      "label": "Quels sont les avantages du service d’estimation de voiture en ligne ?",
       "anchor": "#quels-sont-les-avantages-du-service-dest"
     },
     {
@@ -59,7 +59,7 @@
       "anchor": "#questions-frequentes"
     },
     {
-      "label": "Tout savoir sur le leasi",
+      "label": "Tout savoir sur le leasing social : roulez électrique à petit prix",
       "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
     }
   ],
@@ -102,8 +102,8 @@
         "Une estimation de confiance, établie sur la base d’observations du marché et des transactions récentes",
         "Les experts du réseau Citroën à votre service pour reprendre votre véhicule. Ce service est sans engagement, mais nous mettons tout notre réseau à votre service si vous souhaitez la revendre."
       ],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d’estimation de voiture en ligne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -138,8 +138,8 @@
         "Le kilométrage de votre voiture",
         "La liste des défauts de votre voiture (selon le pays)"
       ],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d’estimation de voiture en ligne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -156,8 +156,8 @@
         "Un réseau large pour faire racheter votre voiture partout en France : Avec plusieurs points de vente dans le réseau Citroën, faire reprendre votre voiture n'aura jamais été aussi simple.",
         "Estimation de voiture rapide — Réception immédiate du prix : pas besoin d'attendre ! Dès que vous finissez de remplir le questionnaire, vous recevez l'estimation de votre voiture."
       ],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d’estimation de voiture en ligne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -172,7 +172,7 @@
           "text": "COMMENT EST ÉVALUÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
         },
         {
-          "text": "L’estimation est établie sur :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions réalisées récemment par des professionnels sur des modèles équivalents.• Une déduction de frais de remise en état standard. Ces frais peuvent être ajustés en fonction de l'état réel du véhicule."
+          "text": "L’estimation est établie sur"
         },
         {
           "text": "COMMENT FONCTIONNE LA REPRISE PAR CITROËN ?"
@@ -202,7 +202,7 @@
           "text": "QUELS SONT LES AVANTAGES À UTILISER LE SERVICE REPRISE CITROËN ?"
         },
         {
-          "text": "• Recevez une estimation de la valeur de votre véhicule par email, en seulement quelques clics. L’estimation de reprise est sans engagement.• En sollicitant le service de Reprise Citroën, vous recevez une estimation par un professionnel de l’automobile basée sur les observations du marché et des transactions récentes.• Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement est assuré par un concessionnaire Citroën."
+          "text": "Recevez une estimation de la valeur de votre véhicule par email, en seulement quelques clics. L’estimation de reprise est sans engagement."
         },
         {
           "text": "Rapidité :"
@@ -220,9 +220,15 @@
           "text": "L’estimation de reprise proposée par Reprise Citroën est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Vous êtes libre de prendre un rendez-vous avec nos experts Citroën."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions réalisées récemment par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais peuvent être ajustés en fonction de l'état réel du véhicule.",
+        "En sollicitant le service de Reprise Citroën, vous recevez une estimation par un professionnel de l’automobile basée sur les observations du marché et des transactions récentes.",
+        "Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement est assuré par un concessionnaire Citroën."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d’estimation de voiture en ligne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -268,8 +274,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Les avantages du service d’estimation de voiture en ligne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -305,7 +311,63 @@
         "href": "https://www.linkedin.com/showcase/citroen_france/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html"
+          },
+          {
+            "label": "Configurer votre Citroën",
+            "href": "https://www.citroen.fr/outils/configurateur.html"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.citroen.fr/contact/contactez-nous.html"
+          },
+          {
+            "label": "Citroën.fr",
+            "href": "https://www.citroen.fr/accueil.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/citroen"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -318,7 +380,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez gratuitement la valeur de votre voiture en ligne. Reprise Citroën rapide et fiable, sans engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.reprise.citroen.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -329,11 +391,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.fr/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

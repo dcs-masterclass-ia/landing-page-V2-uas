@@ -18,8 +18,8 @@
     "og_image_alt": "Achat d'une voiture Citroën avec reprise de votre ancienne voiture"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
@@ -39,7 +39,7 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi acheter une voi",
+      "label": "Pourquoi acheter une voiture avec reprise chez Citroën ?",
       "anchor": "#pourquoi-acheter-une-voiture-avec-repris"
     },
     {
@@ -47,15 +47,15 @@
       "anchor": "#et-sans-engagement"
     },
     {
-      "label": "Nous vous faisons une of",
+      "label": "Nous vous faisons une offre de reprise selon sa cote",
       "anchor": "#nous-vous-faisons-une-offre-de-reprise-s"
     },
     {
-      "label": "Comment fonctionne la re",
+      "label": "Comment fonctionne la reprise de votre voiture ?",
       "anchor": "#comment-fonctionne-la-reprise-de-votre-v"
     },
     {
-      "label": "prime à la conversion go",
+      "label": "prime à la conversion gouvernementale",
       "anchor": "#prime-a-la-conversion-gouvernementale"
     }
   ],
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -134,8 +134,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -160,8 +160,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -177,8 +177,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -194,8 +194,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -223,8 +223,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -255,8 +255,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -284,8 +284,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -321,7 +321,63 @@
         "href": "https://www.linkedin.com/showcase/citroen_france/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html"
+          },
+          {
+            "label": "Configurer votre Citroën",
+            "href": "https://www.citroen.fr/outils/configurateur.html"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.citroen.fr/contact/contactez-nous.html"
+          },
+          {
+            "label": "Citroën.fr",
+            "href": "https://www.citroen.fr/accueil.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/citroen"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -334,7 +390,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.reprise.citroen.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -345,11 +401,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.fr/lp/reprise-pour-achat-voiture-neuve",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 9,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
       "7 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

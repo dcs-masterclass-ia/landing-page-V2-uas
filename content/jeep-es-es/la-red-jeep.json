@@ -18,9 +18,9 @@
     "og_image_alt": "Tasación en JEEP"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
-    "cta_label": "Calcular mi oferta de recompra",
+    "logo": "https://tasacion.jeep.es/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
+    "cta_label": "¿Por qué elegir Tasación Jeep?",
     "cta_href": "https://tasacion.jeep.es/"
   },
   "breadcrumb": [
@@ -38,7 +38,7 @@
     "tag": "Tasacion gratuita en linea",
     "h1": "Tasación en JEEP",
     "lead": "La red Jeep está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
-    "cta_label": "Calcular mi oferta de recompra",
+    "cta_label": "¿Por qué elegir Tasación Jeep?",
     "cta_href": "https://tasacion.jeep.es/"
   },
   "subnav": [
@@ -47,7 +47,7 @@
       "anchor": "#jeep-te-escucha"
     },
     {
-      "label": "Contacto y cita con un e",
+      "label": "Contacto y cita con un experto Jeep",
       "anchor": "#contacto-y-cita-con-un-experto-jeep"
     },
     {
@@ -135,8 +135,8 @@
         "Sin compromiso",
         "De manera ágil y sencilla"
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/3653aeb5-7785-4e96-8390-171b4dc27891",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -151,8 +151,8 @@
         "Elige un punto de venta",
         "Una tasación fácil y rápida en Jeep"
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/3653aeb5-7785-4e96-8390-171b4dc27891",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -168,8 +168,8 @@
         "Una transación rápida y segura",
         "Oferta competitiva"
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/3653aeb5-7785-4e96-8390-171b4dc27891",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -197,7 +197,59 @@
         "href": "https://www.youtube.com/user/JeepEsp"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.jeep.es/concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.jeep.es/contactos"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.ES",
+            "href": "https://www.jeep.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/jeep"
+          },
+          {
+            "label": "JEEP CONFIGURADOR",
+            "href": "https://www.jeep.es/configurador/#/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-jeep.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -210,7 +262,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "La red Jeep está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://tasacion.jeep.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -221,11 +273,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.jeep.es/la-red-jeep",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

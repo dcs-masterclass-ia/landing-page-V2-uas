@@ -18,8 +18,8 @@
     "og_image_alt": "Kostenvoranschlag für Ihr Auto unverbindlich und 100 % kostenlos"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://autoankauf.alfaromeo.de/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Warum sollten Sie Ihr Au",
+      "label": "Warum sollten Sie Ihr Auto auf unserer Website bewerten lassen?",
       "anchor": "#warum-sollten-sie-ihr-auto-auf-unserer-w"
     },
     {
-      "label": "Holen Sie sich einen Kos",
+      "label": "Holen Sie sich einen Kostenvoranschlag für Ihr Auto über das Alfa Romeo-Händlernetz: So funktioniert es",
       "anchor": "#holen-sie-sich-einen-kostenvoranschlag-f"
     },
     {
@@ -99,8 +99,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/211/8036529b-8663-465f-9be0-bbcd8d264b94",
+      "image_alt": "Die Vorteile der Autobewertung",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -134,8 +134,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/211/8036529b-8663-465f-9be0-bbcd8d264b94",
+      "image_alt": "Die Vorteile der Autobewertung",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -172,8 +172,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/211/8036529b-8663-465f-9be0-bbcd8d264b94",
+      "image_alt": "Die Vorteile der Autobewertung",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -205,7 +205,83 @@
         "href": "https://www.linkedin.com/company/alfa-romeo/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KAUFINTERESSE",
+        "links": [
+          {
+            "label": "MODELLE FINDEN",
+            "href": "https://www.alfaromeo.de/downloadcenter"
+          },
+          {
+            "label": "KONFIGURATOR",
+            "href": "https://www.alfaromeo.de/konfigurator/#/"
+          },
+          {
+            "label": "ANGEBOTE",
+            "href": "https://www.alfaromeo.de/angebote"
+          },
+          {
+            "label": "PROBEFAHRT",
+            "href": "https://www.alfaromeo.de/probefahrt-angebot"
+          },
+          {
+            "label": "GEBRAUCHTWAGEN",
+            "href": "https://www.certified.alfaromeo.de/"
+          },
+          {
+            "label": "COOKIE-ZUSTIMMUNG",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "NÜTZLICHE LINKS",
+        "links": [
+          {
+            "label": "ALFA ROMEO MODELLE",
+            "href": "https://www.alfaromeo.de/downloadcenter"
+          },
+          {
+            "label": "BOUTIQUE",
+            "href": ""
+          },
+          {
+            "label": "HÄNDLERSUCHE",
+            "href": "https://www.alfaromeo.de/haendler"
+          },
+          {
+            "label": "NEWSLETTER",
+            "href": "https://www.alfaromeo.de/newsletter"
+          },
+          {
+            "label": "FINANZDIENSTLEISTUNEN",
+            "href": "https://www.alfaromeo.de/finanzdienstleistungen"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliche Hinweise",
+        "links": [
+          {
+            "label": "DATENSCHUTZ",
+            "href": "https://www.alfaromeo.de/datenschutz"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE",
+            "href": "https://www.alfaromeo.de/rechtliche-hinweise"
+          },
+          {
+            "label": "Professionelle Marke",
+            "href": "#"
+          },
+          {
+            "label": "Marke aus zweiter Hand",
+            "href": "#"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -218,7 +294,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://autoankauf.alfaromeo.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -229,11 +305,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.autoankauf.peugeot.de//lp/auto-Schtzung",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
-      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

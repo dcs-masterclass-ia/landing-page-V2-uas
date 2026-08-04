@@ -18,8 +18,8 @@
     "og_image_alt": "Plan Moves III"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.dsautomobiles.es/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.dsautomobiles.es/"
   },
@@ -136,7 +136,54 @@
   "footer": {
     "tagline": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Cookies",
+            "href": "http://info.evidon.com/pub_info/6937?v=1"
+          },
+          {
+            "label": "Newsletter",
+            "href": "http://www.dsautomobiles.es/contacto/inscripcion-newsletter.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Transformación DS Automobiles España",
+            "href": "http://www.dsautomobiles.es/transformacion-ds-automobiles-espana.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Consentimiento de cookies",
+            "href": "#"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles.ES",
+            "href": "https://www.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.es/"
+          },
+          {
+            "label": "Vehículos en stock",
+            "href": "https://dsonlinestore.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Store Online",
+            "href": "https://store.dsautomobiles.es/configurable"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -149,7 +196,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.tasacion.dsautomobiles.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",

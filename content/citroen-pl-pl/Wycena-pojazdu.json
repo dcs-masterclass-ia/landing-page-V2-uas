@@ -18,8 +18,8 @@
     "og_image_alt": "ILE JEST WART MÓJ SAMOCHÓD? W OPEL MAMY DLA CIEBIE ODPOWIEDŹ."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.citroen.pl/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.citroen.pl/"
   },
@@ -39,19 +39,19 @@
   },
   "subnav": [
     {
-      "label": "DLACZEGO WARTO WYCENIĆ S",
+      "label": "DLACZEGO WARTO WYCENIĆ SWÓJ SAMOCHÓD NA NASZEJ STRONIE?",
       "anchor": "#dlaczego-warto-wycenic-swoj-samochod-na-"
     },
     {
-      "label": "JAK DZIAŁA WYCENA SAMOCH",
+      "label": "JAK DZIAŁA WYCENA SAMOCHODU?",
       "anchor": "#jak-dziaa-wycena-samochodu"
     },
     {
-      "label": "WYCENA POJAZDU: JAK TO D",
+      "label": "WYCENA POJAZDU: JAK TO DZIAŁA?",
       "anchor": "#wycena-pojazdu-jak-to-dziaa"
     },
     {
-      "label": "ZALETY WYCENY SAMOCHODU ",
+      "label": "ZALETY WYCENY SAMOCHODU ONLINE",
       "anchor": "#zalety-wyceny-samochodu-online"
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/148/e06ecc75-54c3-4e8e-8729-733c90768ef6",
+      "image_alt": "Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/148/e06ecc75-54c3-4e8e-8729-733c90768ef6",
+      "image_alt": "Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/148/e06ecc75-54c3-4e8e-8729-733c90768ef6",
+      "image_alt": "Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/148/e06ecc75-54c3-4e8e-8729-733c90768ef6",
+      "image_alt": "Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -183,8 +183,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/148/e06ecc75-54c3-4e8e-8729-733c90768ef6",
+      "image_alt": "Citroën",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -216,7 +216,63 @@
         "href": "https://www.youtube.com/user/CitroenPolska"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.citroen.pl/citroen-dla-ciebie/punkty-sprzedazy.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://citroen.my-customerportal.com/citroen/s/case-webform?language=pl#1"
+          }
+        ]
+      },
+      {
+        "title": "CITROËN",
+        "links": [
+          {
+            "label": "CITROËN.PL",
+            "href": "https://www.citroen.pl"
+          },
+          {
+            "label": "CITROËN SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/znajdz-uzywany-samochod?page=1&filters%5B0%5D%5Bbrand%5D=citro%C3%ABn"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.citroen.pl/zakup/oferty.html"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/148/adde0c6b-7228-439e-bebd-be343e8436bd"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.citroen.pl/citroen-dla-ciebie/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "https://www.citroen.pl/citroen-dla-ciebie/polityka-cookies.html"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -229,7 +285,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Określ wartość swojego samochodu za pomocą narzędzia online Citroën → w 100% bezpiecznie, szybko i bezpłatnie",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://odkup.citroen.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -240,11 +296,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.citroen.pl/lp/wycena-pojazdu",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

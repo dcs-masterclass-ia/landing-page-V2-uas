@@ -18,8 +18,8 @@
     "og_image_alt": "JAK TO DZIAŁA?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.alfaromeo.pl/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Usługa Alfa Romeo z odku",
+      "label": "Usługa Alfa Romeo z odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
       "anchor": "#usuga-alfa-romeo-z-odkupem-to-usuga-umoz"
     },
     {
@@ -134,7 +134,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -157,7 +157,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -194,7 +194,67 @@
         "href": "https://www.linkedin.com/company/alfa-romeo"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.alfaromeo.pl/dealerzy-alfa-romeo"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.alfaromeo.pl/kontakt"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.PL",
+            "href": "https://www.alfaromeo.pl/"
+          },
+          {
+            "label": "ALFA ROMEO SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.alfaromeo.pl/promocje"
+          },
+          {
+            "label": "ALFA ROMEO SALON",
+            "href": "https://salon.alfaromeo.pl/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/150/b8d90320-3fdc-4b63-8e2a-f84d65607579"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -207,7 +267,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Alfa Romeo - możemy odkupić Twój samochód.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://odkup.alfaromeo.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -218,13 +278,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.alfaromeo.pl/strona-dzialanie",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/content-serenity.jpg",
       "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/content-safe.jpg",
-      "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

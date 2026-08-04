@@ -18,9 +18,9 @@
     "og_image_alt": "Reprise voiture Citroën : estimation rapide et rachat immédiat"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
-    "cta_label": "Calculer mon offre de reprise",
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citroen",
+    "cta_label": "Offres proposées par Citroën",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
   "breadcrumb": [
@@ -34,12 +34,12 @@
     "tag": "Estimation gratuite en ligne",
     "h1": "Reprise voiture Citroën : estimation rapide et rachat immédiat",
     "lead": "Faites estimer votre voiture en 2 min avec Citroën. Reprise simple, rapide et sécurisée partout en France. Estimation gratuite et sans engagement.",
-    "cta_label": "Calculer mon offre de reprise",
+    "cta_label": "Offres proposées par Citroën",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
   "subnav": [
     {
-      "label": "Citroën reprend votre vo",
+      "label": "Citroën reprend votre voiture, quelle que soit sa marque.Une estimation immédiate, gratuite et sans engagement.",
       "anchor": "#citroen-reprend-votre-voiture-quelle-que"
     },
     {
@@ -47,15 +47,15 @@
       "anchor": "#actualites-2026"
     },
     {
-      "label": "Estimation rapide et fac",
+      "label": "Estimation rapide et facile",
       "anchor": "#estimation-rapide-et-facile"
     },
     {
-      "label": "La sécurité du réseau Ci",
+      "label": "La sécurité du réseau Citroën",
       "anchor": "#la-securite-du-reseau-citroen"
     },
     {
-      "label": "Pas de démarches adminis",
+      "label": "Pas de démarches administratives",
       "anchor": "#pas-de-demarches-administratives"
     }
   ],
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -162,8 +162,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -179,8 +179,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -199,8 +199,8 @@
         "Après votre accord, nous nous engageons à une reprise immédiate.",
         "Le paiement est immédiat, garanti et sécurisé."
       ],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -222,8 +222,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -239,8 +239,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -256,8 +256,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -273,8 +273,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -290,8 +290,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -312,7 +312,7 @@
           "text": "2. Comment est calculée l’estimation de reprise de ma voiture ?"
         },
         {
-          "text": "L’estimation est basée sur :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.• Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+          "text": "L’estimation est basée sur"
         },
         {
           "text": "3. Comment fonctionne la reprise par Citroën ?"
@@ -324,7 +324,7 @@
           "text": "4. Quels sont les avantages à utiliser le service de reprise par Citroën ?"
         },
         {
-          "text": "Rapidité• En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.Sérénité• Evitez les mauvaises surprises. En sollicitant le service de Reprise Citroën vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.Sécurité• Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Citroën."
+          "text": "Rapidité"
         },
         {
           "text": "5. A quoi m’engage une estimation de reprise ?"
@@ -339,9 +339,16 @@
           "text": "Reprise Citroën est un service totalement gratuit pour vous."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule.",
+        "En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.Sérénité",
+        "Evitez les mauvaises surprises. En sollicitant le service de Reprise Citroën vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.Sécurité",
+        "Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Citroën."
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -357,8 +364,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -382,7 +389,7 @@
           "text": "10. Quels sont les documents à apporter lors du rendez-vous ?"
         },
         {
-          "text": "Lors de votre rendez-vous en concession, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants :• La carte de grise de votre voiture• Une pièce d’identité (permis de conduire, carte d’identité ou passeport)• Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)• Un RIB (Relevé d’Identité Bancaire)• Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture• Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles• Le cas échéant, la clé des écrous antivol de vos roues"
+          "text": "Lors de votre rendez-vous en concession, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants"
         },
         {
           "text": "11. Comment serai-je payé ?"
@@ -391,9 +398,17 @@
           "text": "Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Citroën. Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "La carte de grise de votre voiture",
+        "Une pièce d’identité (permis de conduire, carte d’identité ou passeport)",
+        "Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)",
+        "Un RIB (Relevé d’Identité Bancaire)",
+        "Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture",
+        "Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles",
+        "Le cas échéant, la clé des écrous antivol de vos roues"
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -424,8 +439,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -453,8 +468,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/network-bg.png",
+      "image_alt": "Citroën Point de Vente",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -490,7 +505,63 @@
         "href": "https://www.linkedin.com/showcase/citroen_france/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html"
+          },
+          {
+            "label": "Configurer votre Citroën",
+            "href": "https://www.citroen.fr/outils/configurateur.html"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.citroen.fr/contact/contactez-nous.html"
+          },
+          {
+            "label": "Citroën.fr",
+            "href": "https://www.citroen.fr/accueil.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/citroen"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -503,7 +574,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Faites estimer votre voiture en 2 min avec Citroën. Reprise simple, rapide et sécurisée partout en France. Estimation gratuite et sans engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.reprise.citroen.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -514,7 +585,7 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.fr",
-    "medias_trouves": 12,
+    "medias_trouves": 11,
     "blocs_detectes": 17,
     "notes": [
       "fil d'Ariane introuvable",
@@ -522,7 +593,6 @@
       "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/serenity.png",
       "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/rapidity.png",
       "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/security.png",
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
       "11 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

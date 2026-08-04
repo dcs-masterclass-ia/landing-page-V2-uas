@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche en línea"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.alfaromeo.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Tasación de coche gratis",
+      "label": "Tasación de coche gratis y sin ningún compromiso",
       "anchor": "#tasacion-de-coche-gratis-y-sin-ningun-co"
     },
     {
-      "label": "¿Cómo se logra tasar tu ",
+      "label": "¿Cómo se logra tasar tu coche?",
       "anchor": "#como-se-logra-tasar-tu-coche"
     },
     {
-      "label": "Tus ventajas con la tasa",
+      "label": "Tus ventajas con la tasación de su coche online",
       "anchor": "#tus-ventajas-con-la-tasacion-de-su-coche"
     },
     {
-      "label": "¡Sabrás el valor de tu c",
+      "label": "¡Sabrás el valor de tu coche en menos de 5 minutos!",
       "anchor": "#sabras-el-valor-de-tu-coche-en-menos-de-"
     },
     {
-      "label": "Tasar coche: Preguntas c",
+      "label": "Tasar coche: Preguntas comunes",
       "anchor": "#tasar-coche-preguntas-comunes"
     }
   ],
@@ -105,8 +105,8 @@
         "Una tasación que es fiable y la tendrás gracias a la experiencia de Alfa Romeo",
         "La experiencia que posee la red Alfa Romeo a tu servicio para recuperar tu vehículo si así lo quieres: no tendrás compromiso alguno, aún así, ponemos toda la red con que contamos a tu servicio si quieres venderlo."
       ],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -138,8 +138,8 @@
         "Kilometraje de tu coche",
         "La lista de cualquier daño que tenga tu coche"
       ],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -156,8 +156,8 @@
         "Tasación válida por 10 días: ¿Te cuesta decidir de inmediato? ¡Tampoco hay problema! Tu tasación continua válida por 10 días. Tenemos una red amplia para vender tu coche en cualquier parte de España: Tenemos más de 100 puntos de ventas con la red Alfa Romeo, vender tu coche jamas ha sido más fácil antes.",
         "Tasación rápida - Recibes el precio al instante: ¡No tendrás que esperar nada! Apenas termines de llenar el formulario, vas a recibir una tasación para tu coche."
       ],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -173,8 +173,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -189,7 +189,7 @@
           "text": "¿COMO SE CALCULA LA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación se rige por: • Características de tu vehículo: motor, fecha de entrada del servicio, marca, modelo, kilometraje. • Observaciones del mercado: cualquier transacción reciente realizada por profesionales sobre cualquier modelo equivalente. • La deducción del costo de rehabilitación al estado normal. Estos costos se ajustan dependiendo de la condición que presente el vehículo."
+          "text": "La tasación se rige por"
         },
         {
           "text": "¿CÓMO TRABAJA LA TASACIÓN POR ALFA ROMEO?"
@@ -207,12 +207,18 @@
           "text": "¿CUALES SON LAS PRINCIPALES VENTAJAS EN USAR EL SERVICIO TASACIÓN ALFA ROMEO?"
         },
         {
-          "text": "• . Luego de unos cuantos clics, recibe una tasación con el valor de tu vehículo por medio de correo electrónico. La tasación viene sin compromiso. • No tendrás sorpresas desagradables. Cuando pides el servicio Tasación Alfa Romeo, tendrás una tasación del valor total de tu vehículo realizada por un profesional automotriz. Cada vehículo se valora de acuerdo a las observaciones del mercado y a todas las transacciones recientes. • El pago de tu vehículo es seguro y 100% garantizado. En la transacción, el pago del vehículo lo hace un concesionario Alfa Romeo."
+          "text": ". Luego de unos cuantos clics, recibe una tasación con el valor de tu vehículo por medio de correo electrónico. La tasación viene sin compromiso."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Características de tu vehículo: motor, fecha de entrada del servicio, marca, modelo, kilometraje.",
+        "Observaciones del mercado: cualquier transacción reciente realizada por profesionales sobre cualquier modelo equivalente.",
+        "La deducción del costo de rehabilitación al estado normal. Estos costos se ajustan dependiendo de la condición que presente el vehículo.",
+        "No tendrás sorpresas desagradables. Cuando pides el servicio Tasación Alfa Romeo, tendrás una tasación del valor total de tu vehículo realizada por un profesional automotriz. Cada vehículo se valora de acuerdo a las observaciones del mercado y a todas las transacciones recientes.",
+        "El pago de tu vehículo es seguro y 100% garantizado. En la transacción, el pago del vehículo lo hace un concesionario Alfa Romeo."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -237,8 +243,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "valor de la tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -266,7 +272,59 @@
         "href": "https://www.youtube.com/user/alfaromeooficial"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.alfaromeo.es/localizador-de-concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.alfaromeo.es/mopar/asistencia-al-cliente-alfa-romeo"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.ES",
+            "href": "https://www.alfaromeo.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion"
+          },
+          {
+            "label": "ALFA ROMEO CONFIGURADOR",
+            "href": "https://www.alfaromeo.es/configurador/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-alfaromeo.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -279,7 +337,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://tasacion.alfaromeo.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -290,11 +348,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.alfaromeo.es/lp/tasar-coche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

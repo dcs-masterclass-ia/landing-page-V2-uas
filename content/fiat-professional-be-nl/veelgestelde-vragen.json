@@ -18,8 +18,8 @@
     "og_image_alt": "FAQ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/142/e07db304-e4ff-49a9-a077-1bd7f9b0e796",
+    "logo_alt": "Logo Fiat Professional",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.fiatprofessional.com/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#skip-to-main-content"
     },
     {
-      "label": "IK HEB MIJN SCHATTING NI",
+      "label": "IK HEB MIJN SCHATTING NIET PER E-MAIL ONTVANGEN",
       "anchor": "#ik-heb-mijn-schatting-niet-per-e-mail-on"
     }
   ],
@@ -82,7 +82,7 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Fiat Professional Overname is een online service waarmee je een gratis een schatting van de overnamewaarde van je wagen kan krijgen. Als je tevreden bent met de verzonden schatting, nodigen wij je uit om een afspraak te maken met de door jou gekozen Fiat Professional-verdeler om een expertise van de wagen te doen. Vervolgens kan de verdeler je dan een exacte overnamewaarde geven en de wagen overnemen als je dat wenst. De schatting is gebaseerd op: • De kenmerken van je wagen: merk, model, motor, afwerking, kilometerstand, datum van ingebruikname. • Marktobservaties: recente transacties uitgevoerd door professionals op gelijkwaardige modellen. • Een aftrek van standaard terugwinningskosten. Deze vergoedingen zijn aanpasbaar op basis van de werkelijke staat van de wagen. Ontvang een gratis schatting online: Vul de informatie over je wagen in via het online Overname-platform. Vervolgens ontvang je onmiddellijk deze schatting per e-mail. Is de schatting geschikt voor jou? Je maakt een afspraak met de door jou geselecteerde Fiat Professional-verdeler. Geniet van de expertise van Fiat Professional. Tijdens de afspraak onderzoekt één van onze experts in je bijzijn de staat van de wagen en biedt je een correcte inruilprijs aan. Na de expertise én met jouw akkoord, nemen wij je wagen graag over. • Snelheid: Ontvang in een paar klikken per e-mail een schatting van de waarde van je wagen. Deze schatting is niet bindend. • Gemoedsrust: Voorkom onaangename verrassingen. Via Fiat Professional Overname, ontvang je een schatting van de waarde van je wagen door een expert. Elke wagen wordt gewaardeerd op basis van de gegevens die je ingeeft, marktobservaties en recente transacties. • Veiligheid: De betaling van je wagen is gegarandeerd en veilig. Tijdens de transactie wordt de wagen betaald door een Fiat Professional-verdeler. De door Fiat Professional Overname voorgestelde schatting van het herstel is niet bindend. Op werkdagen ontvang je binnen 24 uur kosteloos ons voorstel. Vrijblijvende schatting voor jou. Je kan vrijblijvend een afspraak maken met onze Fiat Professional-experts. Overname Fiat Professional is voor jou een geheel gratis dienst. Als je jouw wagen niet op onze site kunt vinden, aarzel dan niet om contact met ons op te nemen zodat we je een persoonlijke schatting van het herstel kunnen geven. Opgemerkt moet worden dat sommige wagens te oud of te weinig gebruikt zijn op de markt om op hun reële waarde te kunnen worden geschat. Sommige e-mailadressen kunnen e-mails van Fiat Professional overname ten onrechte als spam identificeren. In dat geval nodigen we je uit om jouw map 'Ongewenste mail / Spam' te raadplegen en je mailbox anders in te stellen. Als je echter geen e-mail voor je schatting ontvangt, aarzel dan niet om contact met ons op te nemen met je contactgegevens, zodat we je een schatting van je overname kunnen sturen. Niets is gemakkelijker. Als je online een offerte aanvraagt, kies je jouw Fiat Professional-verdeler. Deze laatste neemt contact met je op, of je kan hem bellen om een afspraak te maken. Als je naar de dealer gaat, moet je met je wagen komen, met de volgende documenten: • De registratiekaart van je wagen • Identiteitsbewijs (rijbewijs, identiteitskaart of paspoort) • Bewijs van adres (telefoon- of elektriciteitsrekening minder dan 3 maanden oud) • Een RIB (Bank Identity Statement) • Het onderhoudslogboek en de onderhouds- en reparatiefacturen voor alle reparaties aan deze auto • De 2 sleutelsets van je wagen en de beveiligingscode om nieuwe te verkrijgen • Indien van toepassing, de sleutel van de antidiefstalmoeren van je banden Tijdens de transactie wordt de wagen betaald door een Fiat Professional-verdeler. Afhankelijk van de gekozen verdeler, wordt de betaling voor de wagen gedaan per cheque of via overschrijving. Mocht je het antwoord op je vraag niet hebben gevonden, neem dan gerust contact met ons op."
+          "text": "Fiat Professional Overname is een online service waarmee je een gratis een schatting van de overnamewaarde van je wagen kan krijgen. Als je tevreden bent met de verzonden schatting, nodigen wij je uit om een afspraak te maken met de door jou gekozen Fiat Professional-verdeler om een expertise van de wagen te doen. Vervolgens kan de verdeler je dan een exacte overnamewaarde geven en de wagen overnemen als je dat wenst. De schatting is gebaseerd op"
         },
         {
           "text": "HOE VERKOOP IK MIJN WAGEN?"
@@ -103,9 +103,23 @@
           "text": "IS DEZE SERVICE BETAALBAAR?"
         }
       ],
-      "bullets": [],
-      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "De kenmerken van je wagen: merk, model, motor, afwerking, kilometerstand, datum van ingebruikname.",
+        "Marktobservaties: recente transacties uitgevoerd door professionals op gelijkwaardige modellen.",
+        "Een aftrek van standaard terugwinningskosten. Deze vergoedingen zijn aanpasbaar op basis van de werkelijke staat van de wagen. Ontvang een gratis schatting online: Vul de informatie over je wagen in via het online Overname-platform. Vervolgens ontvang je onmiddellijk deze schatting per e-mail. Is de schatting geschikt voor jou? Je maakt een afspraak met de door jou geselecteerde Fiat Professional-verdeler. Geniet van de expertise van Fiat Professional. Tijdens de afspraak onderzoekt één van onze experts in je bijzijn de staat van de wagen en biedt je een correcte inruilprijs aan. Na de expertise én met jouw akkoord, nemen wij je wagen graag over.",
+        "Snelheid: Ontvang in een paar klikken per e-mail een schatting van de waarde van je wagen. Deze schatting is niet bindend.",
+        "Gemoedsrust: Voorkom onaangename verrassingen. Via Fiat Professional Overname, ontvang je een schatting van de waarde van je wagen door een expert. Elke wagen wordt gewaardeerd op basis van de gegevens die je ingeeft, marktobservaties en recente transacties.",
+        "Veiligheid: De betaling van je wagen is gegarandeerd en veilig. Tijdens de transactie wordt de wagen betaald door een Fiat Professional-verdeler. De door Fiat Professional Overname voorgestelde schatting van het herstel is niet bindend. Op werkdagen ontvang je binnen 24 uur kosteloos ons voorstel. Vrijblijvende schatting voor jou. Je kan vrijblijvend een afspraak maken met onze Fiat Professional-experts. Overname Fiat Professional is voor jou een geheel gratis dienst. Als je jouw wagen niet op onze site kunt vinden, aarzel dan niet om contact met ons op te nemen zodat we je een persoonlijke schatting van het herstel kunnen geven. Opgemerkt moet worden dat sommige wagens te oud of te weinig gebruikt zijn op de markt om op hun reële waarde te kunnen worden geschat. Sommige e-mailadressen kunnen e-mails van Fiat Professional overname ten onrechte als spam identificeren. In dat geval nodigen we je uit om jouw map 'Ongewenste mail / Spam' te raadplegen en je mailbox anders in te stellen. Als je echter geen e-mail voor je schatting ontvangt, aarzel dan niet om contact met ons op te nemen met je contactgegevens, zodat we je een schatting van je overname kunnen sturen. Niets is gemakkelijker. Als je online een offerte aanvraagt, kies je jouw Fiat Professional-verdeler. Deze laatste neemt contact met je op, of je kan hem bellen om een afspraak te maken. Als je naar de dealer gaat, moet je met je wagen komen, met de volgende documenten",
+        "De registratiekaart van je wagen",
+        "Identiteitsbewijs (rijbewijs, identiteitskaart of paspoort)",
+        "Bewijs van adres (telefoon- of elektriciteitsrekening minder dan 3 maanden oud)",
+        "Een RIB (Bank Identity Statement)",
+        "Het onderhoudslogboek en de onderhouds- en reparatiefacturen voor alle reparaties aan deze auto",
+        "De 2 sleutelsets van je wagen en de beveiligingscode om nieuwe te verkrijgen",
+        "Indien van toepassing, de sleutel van de antidiefstalmoeren van je banden Tijdens de transactie wordt de wagen betaald door een Fiat Professional-verdeler. Afhankelijk van de gekozen verdeler, wordt de betaling voor de wagen gedaan per cheque of via overschrijving. Mocht je het antwoord op je vraag niet hebben gevonden, neem dan gerust contact met ons op."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/e07db304-e4ff-49a9-a077-1bd7f9b0e796",
+      "image_alt": "Logo Fiat Professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -130,8 +144,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/e07db304-e4ff-49a9-a077-1bd7f9b0e796",
+      "image_alt": "Logo Fiat Professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -159,7 +173,55 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERDELERS",
+            "href": "https://www.fiatprofessional.com/be/nl/dealers"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.fiatprofessional.com/be/nl/informatie"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.BE.NL",
+            "href": "https://www.fiatprofessional.com/be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.fiatprofessional.com/be/nl/offerte"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.fiatprofessional.com/be/nl/occasie-bestelwagen#!/search"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/134/ec2b05a8-04ce-4fcc-9040-1aab9ca3bab0"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -172,7 +234,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat Professional beantwoordt al je vragen over de verkoop of inruilwaarde van je huidige wagen, ongeacht het merk. Fiat Professional Overname geeft je een gratis schatting online.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat Professional",
     "provider_url": "https://overname.fiatprofessional.com",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -183,11 +245,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.fiatprofessional.com/veelgestelde-vragen",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

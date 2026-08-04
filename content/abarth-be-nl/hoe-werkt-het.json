@@ -18,8 +18,8 @@
     "og_image_alt": "HOE WERKT HET ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
+    "logo_alt": "Abarth",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.abarthbelgium.be/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#todo-arbitrage"
     },
     {
-      "label": "Berekening van de overna",
+      "label": "Berekening van de overnamewaarde",
       "anchor": "#berekening-van-de-overnamewaarde"
     },
     {
@@ -184,7 +184,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image": "https://overname.abarthbelgium.be/build/img/abarth/content-safe.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -217,7 +217,59 @@
         "href": "https://www.linkedin.com/company/abarth/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERKOOPPUNTEN",
+            "href": "https://www.abarthbelgium.be/nl/dealer"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.abarthbelgium.be/nl/klantendienst"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.BE.NL",
+            "href": "https://www.abarthbelgium.be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.abarthbelgium.be/nl/promoties"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.abarthbelgium.be/nl/tweedehands-auto#!/search"
+          },
+          {
+            "label": "CONFIGUREREN",
+            "href": "https://www.abarthbelgium.be/nl/configurator/"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites.s3.amazonaws.com/136/955b8162-27ff-4faa-9ab7-d4b8c91e5ecf"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -230,7 +282,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Abarth",
     "provider_url": "https://overname.abarthbelgium.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -241,7 +293,7 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.abarthbelgium.be/hoe-werkt-het",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
@@ -249,8 +301,6 @@
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-serenity.png",
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-fast.png",
       "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-safe.png",
-      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

@@ -18,8 +18,8 @@
     "og_image_alt": "Estimation gratuite et sans engagement de votre voiture en ligne !"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.jeep.be/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.jeep.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi utiliser notre ",
+      "label": "Pourquoi utiliser notre service pour estimer votre voiture ?",
       "anchor": "#pourquoi-utiliser-notre-service-pour-est"
     },
     {
-      "label": "Comment faire pour estim",
+      "label": "Comment faire pour estimer votre voiture ?",
       "anchor": "#comment-faire-pour-estimer-votre-voiture"
     },
     {
-      "label": "Obtenez l'estimation de ",
+      "label": "Obtenez l'estimation de votre voiture en 3 étapes :",
       "anchor": "#obtenez-l-estimation-de-votre-voiture-en"
     },
     {
-      "label": "Les avantages de l'estim",
+      "label": "Les avantages de l'estimation de votre voiture en ligne",
       "anchor": "#les-avantages-de-l-estimation-de-votre-v"
     },
     {
@@ -94,12 +94,16 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Optez pour Reprise Jeep pour l’estimation de votre voiture, et bénéficiez de : ● Une estimation 100% en ligne et gratuite : évaluez votre voiture depuis chez vous en moins de 5 minutes sans frais. ● Une estimation fiable, calculée sur la base des observations actuelles du marché et des transactions récentes. ● La possibilité de vendre votre voiture aux professionnels du réseau Jeep sans engagement."
+          "text": "Optez pour Reprise Jeep pour l’estimation de votre voiture, et bénéficiez de"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Une estimation 100% en ligne et gratuite : évaluez votre voiture depuis chez vous en moins de 5 minutes sans frais.",
+        "Une estimation fiable, calculée sur la base des observations actuelles du marché et des transactions récentes.",
+        "La possibilité de vendre votre voiture aux professionnels du réseau Jeep sans engagement."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Les avantages de l'estimation de votre voiture en ligne jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -111,12 +115,15 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "L’estimation de votre voiture est réalisée à partir d’observations du marché et des transactions récentes effectuées par les professionnels de l'automobile. Pour obtenir une estimation précise, nous avons besoin d'informations détaillées sur votre véhicule. Remplissez simplement le formulaire en quelques minutes. Avant de commencer, munissez-vous de : ● La carte grise de votre voiture. ● Le kilométrage de votre voiture."
+          "text": "L’estimation de votre voiture est réalisée à partir d’observations du marché et des transactions récentes effectuées par les professionnels de l'automobile. Pour obtenir une estimation précise, nous avons besoin d'informations détaillées sur votre véhicule. Remplissez simplement le formulaire en quelques minutes. Avant de commencer, munissez-vous de"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "La carte grise de votre voiture.",
+        "Le kilométrage de votre voiture."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Les avantages de l'estimation de votre voiture en ligne jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -135,8 +142,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Les avantages de l'estimation de votre voiture en ligne jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,12 +155,16 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "● Estimation de votre voiture gratuite et entièrement en ligne : évaluez la valeur de votre voiture directement sur notre site internet. C'est gratuit et fiable avec Jeep. ● Estimation rapide de votre voiture : dès que l'identification de votre voiture est terminée, vous recevez votre estimation. ● Estimation valable pendant 10 jours : prenez le temps de réfléchir. ● L'étendue du réseau Jeep pour la reprise de votre voiture partout en Belgique: avec plusieurs points de vente, il y a forcément une concession Jeep près de chez vous !"
+          "text": "Estimation de votre voiture gratuite et entièrement en ligne : évaluez la valeur de votre voiture directement sur notre site internet. C'est gratuit et fiable avec Jeep."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Estimation rapide de votre voiture : dès que l'identification de votre voiture est terminée, vous recevez votre estimation.",
+        "Estimation valable pendant 10 jours : prenez le temps de réfléchir.",
+        "L'étendue du réseau Jeep pour la reprise de votre voiture partout en Belgique: avec plusieurs points de vente, il y a forcément une concession Jeep près de chez vous !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Les avantages de l'estimation de votre voiture en ligne jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -190,8 +201,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Les avantages de l'estimation de votre voiture en ligne jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -219,7 +230,63 @@
         "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.jeep.be/fr/distributeurs"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.jeep.be/fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "JEEP ®",
+        "links": [
+          {
+            "label": "JEEP ® .BE",
+            "href": "https://www.jeep.be/fr"
+          },
+          {
+            "label": "CONFIGURATEUR JEEP ®",
+            "href": "https://www.jeep.be/fr/configurateur/#/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.jeep.be/fr/offres"
+          },
+          {
+            "label": "JEEP ® OCCASIONS",
+            "href": "https://www.spoticar.be/fr/voitures-occasion/jeep"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites.s3.amazonaws.com/127/447f2de8-05f7-4046-8c39-31b2b3958b40"
+          },
+          {
+            "label": "POLITIQUE DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/127/44743af0-42b4-48cd-a215-9315d0f67744"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -232,7 +299,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez gratuitement en quelques clics la valeur de votre voiture avec le service Reprise Jeep. Recevez une offre de reprise sans engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://reprise.jeep.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -243,11 +310,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.jeep.be/lp/estimation-voiture",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.jeep.be/build/img/jeep/chevron-up-home.svg",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"
     ]

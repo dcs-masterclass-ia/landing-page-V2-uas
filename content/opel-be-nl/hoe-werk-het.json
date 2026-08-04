@@ -18,8 +18,8 @@
     "og_image_alt": "Verkoop uw wagen via OPEL OVERNAME"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.overname.opel.be/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://www.overname.opel.be/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#opel-overname"
     },
     {
-      "label": "Berekening van de OVERNA",
+      "label": "Berekening van de OVERNAMEWAARDE",
       "anchor": "#berekening-van-de-overnamewaarde"
     },
     {
@@ -118,7 +118,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image": "https://www.overname.opel.be/build/img/opel/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -135,7 +135,7 @@
         "Geen engagement van uw kant",
         "Minder administratieve formaliteiten"
       ],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image": "https://www.overname.opel.be/build/img/opel/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -151,7 +151,7 @@
         "Kies uw verkooppunt",
         "Een vlotte en snelle overname in Brussel"
       ],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image": "https://www.overname.opel.be/build/img/opel/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -168,7 +168,7 @@
         "Een veilige en snelle transactie",
         "Een aangepast overnameaanbod"
       ],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image": "https://www.overname.opel.be/build/img/opel/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -201,7 +201,54 @@
         "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "DE OPELERVARING",
+        "links": [
+          {
+            "label": "Kies uw Opel",
+            "href": "https://www.opel.be/nl/kies-uw-opel/alle.html"
+          },
+          {
+            "label": "Opel Certified Used Cars",
+            "href": "https://www.opel.be/nl/tweedehandswagens.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.be/nl#psa.search_home.anchor.sell"
+          },
+          {
+            "label": "Opel.be",
+            "href": "https://www.opel.be/nl/index.html"
+          },
+          {
+            "label": "Contacteer ons",
+            "href": "https://www.opel.be/nl/tools/contact.html"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "Terms & Conditions",
+            "href": "https://usine-a-sites.s3.amazonaws.com/64/68502da9-8a90-43d5-bb38-a66ecf1d7f30"
+          },
+          {
+            "label": "Privacybeleid",
+            "href": "/privacybeleid.pdf"
+          },
+          {
+            "label": "Cookievoorkeuren",
+            "href": "#"
+          },
+          {
+            "label": "Cookiebeleid",
+            "href": "https://www.opel.be/nl/tools/cookies-policy.html"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -214,7 +261,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Werking",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.overname.opel.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -225,13 +272,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.overname.opel.be/hoe-werk-het",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/content-serenity.jpg",
       "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/content-safe.jpg",
-      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

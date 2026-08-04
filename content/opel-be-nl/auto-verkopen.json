@@ -18,8 +18,8 @@
     "og_image_alt": "Een auto verkopen: de voordelen van inruil"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.overname.opel.be/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://www.overname.opel.be/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Mijn overnamebod bereken",
+      "label": "Mijn overnamebod berekenen",
       "anchor": "#mijn-overnamebod-berekenen"
     },
     {
-      "label": "3 stappen om je auto te ",
+      "label": "3 stappen om je auto te verkopen",
       "anchor": "#3-stappen-om-je-auto-te-verkopen"
     },
     {
-      "label": "Stap 1: Voer uw voertuig",
+      "label": "Stap 1: Voer uw voertuigprofiel in",
       "anchor": "#stap-1-voer-uw-voertuigprofiel-in"
     },
     {
-      "label": "Stap 2: Ontvang uw prijs",
+      "label": "Stap 2: Ontvang uw prijsopgave",
       "anchor": "#stap-2-ontvang-uw-prijsopgave"
     },
     {
-      "label": "Stap 3: Uw afspraak met ",
+      "label": "Stap 3: Uw afspraak met een Opel -professional",
       "anchor": "#stap-3-uw-afspraak-met-een-opel-professi"
     }
   ],
@@ -97,10 +97,13 @@
           "text": "Bij Overname Opel kunt u gratis en vrijblijvend de inruilwaarde van uw voertuig laten schatten. Dit is een veiligere methode dan verkoop tussen particulieren, omdat u wordt begeleid door een professional uit het Opel -netwerk en u kunt genieten van een betalingsgarantie."
         },
         {
-          "text": "● U ontvangt direct online of per e-mail een 100% gratis en vrijblijvende offerte. ● Als u akkoord gaat, zal een dealer bij u in de buurt u bellen om een afspraak te maken op een tijdstip dat u uitkomt. ● Profiteer van een snelle en gegarandeerde betaling."
+          "text": "U ontvangt direct online of per e-mail een 100% gratis en vrijblijvende offerte."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Als u akkoord gaat, zal een dealer bij u in de buurt u bellen om een afspraak te maken op een tijdstip dat u uitkomt.",
+        "Profiteer van een snelle en gegarandeerde betaling."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/15/a6592962-a4f2-4c8d-887e-98a8c6c6b73e",
       "image_alt": "3 stappen om je auto te verkopen",
       "tag": "TODO_ARBITRAGE",
@@ -118,8 +121,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -138,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -158,8 +161,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -175,8 +178,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -188,12 +191,20 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Als u uw auto aan een particulier verkoopt: ● Geen enkele garantie ● Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt: ● Een snelle online evaluatie. ● Geen verplichting. ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk. ● Veilige betaling. ● Wij helpen u bij de administratieve procedures. Binnen 5 minuten weet u hoeveel uw auto waard is!"
+          "text": "Als u uw auto aan een particulier verkoopt"
         }
       ],
-      "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Geen enkele garantie",
+        "Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt",
+        "Een snelle online evaluatie.",
+        "Geen verplichting.",
+        "Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk.",
+        "Veilige betaling.",
+        "Wij helpen u bij de administratieve procedures. Binnen 5 minuten weet u hoeveel uw auto waard is!"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -208,13 +219,13 @@
           "text": "Hoe verkoop ik mijn auto?"
         },
         {
-          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze Opel-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Opel: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+          "text": "Verkoop uw auto gemakkelijk"
         },
         {
           "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
         },
         {
-          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+          "text": "De schatting houdt rekening met"
         },
         {
           "text": "Hoe maak ik een afspraak?"
@@ -229,9 +240,16 @@
           "text": "Met het Opel-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Opel-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
         }
       ],
-      "bullets": [],
-      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden.",
+        "Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze Opel-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto.",
+        "Profiteer van de expertise van Opel: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug.",
+        "De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname.",
+        "Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen.",
+        "Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -263,7 +281,54 @@
         "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "DE OPELERVARING",
+        "links": [
+          {
+            "label": "Kies uw Opel",
+            "href": "https://www.opel.be/nl/kies-uw-opel/alle.html"
+          },
+          {
+            "label": "Opel Certified Used Cars",
+            "href": "https://www.opel.be/nl/tweedehandswagens.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.be/nl#psa.search_home.anchor.sell"
+          },
+          {
+            "label": "Opel.be",
+            "href": "https://www.opel.be/nl/index.html"
+          },
+          {
+            "label": "Contacteer ons",
+            "href": "https://www.opel.be/nl/tools/contact.html"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "Terms & Conditions",
+            "href": "https://usine-a-sites.s3.amazonaws.com/64/68502da9-8a90-43d5-bb38-a66ecf1d7f30"
+          },
+          {
+            "label": "Privacybeleid",
+            "href": "/privacybeleid.pdf"
+          },
+          {
+            "label": "Cookievoorkeuren",
+            "href": "#"
+          },
+          {
+            "label": "Cookiebeleid",
+            "href": "https://www.opel.be/nl/tools/cookies-policy.html"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -276,7 +341,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Opel begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.overname.opel.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -287,11 +352,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.overname.opel.be/lp/auto-verkopen",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 7,
     "notes": [
-      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

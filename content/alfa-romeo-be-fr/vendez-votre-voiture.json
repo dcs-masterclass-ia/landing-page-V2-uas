@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture : Nos professionnels vous expliquent comment"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.be/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.be/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi opter pour la v",
+      "label": "Pourquoi opter pour la vente de votre voiture avec Alfa Romeo ?",
       "anchor": "#pourquoi-opter-pour-la-vente-de-votre-vo"
     },
     {
-      "label": "Recevez votre estimation",
+      "label": "Recevez votre estimation en ligne et par e-mail",
       "anchor": "#recevez-votre-estimation-en-ligne-et-par"
     },
     {
-      "label": "Obtenez un rendez-vous a",
+      "label": "Obtenez un rendez-vous avec un professionnel",
       "anchor": "#obtenez-un-rendez-vous-avec-un-professio"
     },
     {
@@ -59,7 +59,7 @@
       "anchor": "#faq"
     },
     {
-      "label": "L'expérience Alfa Romeo ",
+      "label": "L'expérience Alfa Romeo est à votre portée",
       "anchor": "#l-experience-alfa-romeo-est-a-votre-port"
     }
   ],
@@ -94,15 +94,20 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Vous souhaitez vendre votre voiture ? La vente avec reprise est une solution sûre et facile, vous évitant les désagréments liés aux ventes de particulier à particulier. Nos avantages pour la vente de votre voiture. Profitez des avantages suivants : ● Obtenez une estimation gratuite et sans engagement ● Recevez votre estimation en ligne et par e-mail ● Choisissez le concessionnaire le plus proche de chez vous pour fixer un rendez-vous à votre convenance ● Assurez la sécurité de votre transaction grâce à un paiement rapide."
+          "text": "Vous souhaitez vendre votre voiture ? La vente avec reprise est une solution sûre et facile, vous évitant les désagréments liés aux ventes de particulier à particulier. Nos avantages pour la vente de votre voiture. Profitez des avantages suivants"
         },
         {
           "text": "Pour vendre votre voiture, suivez les étapes suivantes : Pour obtenir une estimation précise, notre questionnaire facile à remplir vous permet de fournir toutes les informations essentielles sur votre véhicule. Vous pouvez débuter le questionnaire en renseignant simplement votre numéro de plaque d'immatriculation. Cette étape est rapide et simple et permet d'identifier facilement les principales caractéristiques de votre voiture. Une fois que vous avez renseigné les informations sur votre voiture, nous analysons le marché pour vous offrir une estimation juste de sa valeur. Cette estimation vous est envoyée en ligne et par e-mail."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Obtenez une estimation gratuite et sans engagement",
+        "Recevez votre estimation en ligne et par e-mail",
+        "Choisissez le concessionnaire le plus proche de chez vous pour fixer un rendez-vous à votre convenance",
+        "Assurez la sécurité de votre transaction grâce à un paiement rapide."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Vendez votre voiture sans prise de tête avec Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -118,8 +123,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Vendez votre voiture sans prise de tête avec Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -131,12 +136,19 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous ne bénéficiez d'aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En seulement 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous ne bénéficiez d'aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives En seulement 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Vendez votre voiture sans prise de tête avec Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -182,8 +194,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Vendez votre voiture sans prise de tête avec Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -208,8 +220,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Vendez votre voiture sans prise de tête avec Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -237,7 +249,67 @@
         "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.be/fr/choisir-une-alfa-romeo/distributeur-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.be/fr/mopar/assistance-client"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFAROMEO.BE",
+            "href": "https://www.alfaromeo.be/fr"
+          },
+          {
+            "label": "ALFA ROMEO OCCASIONS",
+            "href": "https://www.alfaromeo.be/fr/voitures-occasion#!/search"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.alfaromeo.be/fr/offres"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.be/fr/configurateur/"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.alfaromeo.be/fr/catalogue-essai-offre"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CONDITIONS GENERALES D'UTILISATION",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/123/55b2cc3b-31cf-457d-b337-3b83875a2c4c"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/130/795399d8-b76a-4c54-a555-92f7ff720aea"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -250,7 +322,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Chez Alfa Romeo, vendre votre voiture est devenu plus facile grâce à nos professionnels qui vous offrent une estimation gratuite",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -261,11 +333,9 @@
   },
   "_extraction": {
     "canonical_v1": "  ",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

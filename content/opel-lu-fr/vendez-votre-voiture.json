@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture facilement avec Opel"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.opel.lu/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.opel.lu/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "La reprise Opel : une so",
+      "label": "La reprise Opel : une solution avantageuse pour vendre votre voiture",
       "anchor": "#la-reprise-opel-une-solution-avantageuse"
     },
     {
-      "label": "Vendre votre voiture fac",
+      "label": "Vendre votre voiture facilement : étape par étape",
       "anchor": "#vendre-votre-voiture-facilement-etape-pa"
     },
     {
-      "label": "Vendre votre voiture en ",
+      "label": "Vendre votre voiture en toute sécurité",
       "anchor": "#vendre-votre-voiture-en-toute-securite"
     },
     {
-      "label": "Vendre sa voiture: Quest",
+      "label": "Vendre sa voiture: Questions Fréquentes",
       "anchor": "#vendre-sa-voiture-questions-frequentes"
     },
     {
-      "label": "L'expérience Opel est à ",
+      "label": "L'expérience Opel est à votre portée",
       "anchor": "#l-experience-opel-est-a-votre-portee"
     }
   ],
@@ -97,10 +97,15 @@
           "text": "Vous souhaitez vendre votre voiture en toute sécurité ? La reprise Opel est une solution idéale pour vous. Nous vous offrons la possibilité d'estimer la valeur de reprise de votre voiture gratuitement et sans obligation d'achat. De plus, notre service vous permet d'éviter les inconvénients liés à la vente entre particuliers et de bénéficier d'un paiement garanti."
         },
         {
-          "text": "Nous vous proposons les avantages suivants :● Une estimation gratuite de votre voiture sans obligation d'achat● Recevez une estimation en ligne et par e-mail, et décidez ensuite si cela vous convient● Nous vous mettons en contact avec un point de vente local, qui vous rappellera pour convenir d'un rendez-vous qui vous convient● Si vous acceptez notre offre, nous garantissons un paiement rapide et sécurisé"
+          "text": "Nous vous proposons les avantages suivants"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation gratuite de votre voiture sans obligation d'achat",
+        "Recevez une estimation en ligne et par e-mail, et décidez ensuite si cela vous convient",
+        "Nous vous mettons en contact avec un point de vente local, qui vous rappellera pour convenir d'un rendez-vous qui vous convient",
+        "Si vous acceptez notre offre, nous garantissons un paiement rapide et sécurisé"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
       "image_alt": "Vendre votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
@@ -121,8 +126,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Vendre votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -134,12 +139,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier :● Vous n'avez aucune garantie● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants :● Une évaluation rapide et en ligne● Pas d'obligation● Une transaction sécurisée● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Vendre votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -185,8 +197,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Vendre votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -211,8 +223,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Vendre votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -244,7 +256,67 @@
         "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "L'expérience Opel",
+        "links": [
+          {
+            "label": "Véhicules neufs",
+            "href": "https://www.opel.lu/promos/offers-overview.html"
+          },
+          {
+            "label": "Occasions",
+            "href": "https://www.opel.lu/occasions.html"
+          },
+          {
+            "label": "Configurateur",
+            "href": "https://www.opel.lu/tools/configurateur.html"
+          }
+        ]
+      },
+      {
+        "title": "Mentions Légales",
+        "links": [
+          {
+            "label": "Mentions légales",
+            "href": "https://usine-a-sites.s3.amazonaws.com/89/f0a3c0ae-1f38-4cc9-bb54-9c2d8c0645d9"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Politiques en matière de Cookies",
+            "href": "https://www.opel.lu/tools/cookies-policy.html"
+          },
+          {
+            "label": "Préférences Cookies",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "Contacts",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.opel.lu/tools/trouver-un-concessionnaire.html"
+          },
+          {
+            "label": "Prendre rendez-vous",
+            "href": "https://www.opel.lu/tools/demandez-un-essai.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.opel.lu/tools/contact.html"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -257,7 +329,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Si vous cherchez à vendre votre voiture, Opel vous propose une solution simple, rapide et efficace. Vendez votre voiture sans frais ni engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.reprise.opel.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -268,11 +340,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.opel.lu/lp/vendez-votre-voiture",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

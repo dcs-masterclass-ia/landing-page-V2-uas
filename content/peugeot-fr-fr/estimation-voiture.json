@@ -18,8 +18,8 @@
     "og_image_alt": "ESTIMATION POUR CONNAITRE LA VALEUR DE VOTRE VOITURE"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+    "logo_alt": "Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.peugeot.fr/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Pourquoi faire estimer v",
+      "label": "Pourquoi faire estimer votre voiture sur notre site ?",
       "anchor": "#pourquoi-faire-estimer-votre-voiture-sur"
     },
     {
-      "label": "Comment fonctionne l’est",
+      "label": "Comment fonctionne l’estimation de ma voiture ?",
       "anchor": "#comment-fonctionne-lestimation-de-ma-voi"
     },
     {
-      "label": "Les avantages d’obtenir ",
+      "label": "Les avantages d’obtenir l’estimation de votre voiture en ligne",
       "anchor": "#les-avantages-dobtenir-lestimation-de-vo"
     },
     {
-      "label": "Estimation de votre voit",
+      "label": "Estimation de votre voiture 100 % gratuite et en ligne",
       "anchor": "#estimation-de-votre-voiture-100-gratuite"
     }
   ],
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -111,16 +111,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Nous vous permettons de faire l'estimation de votre voiture par un professionnel de l’automobile en fonction des observations du marché et des transactions récentes.Pour pouvoir vous donner une évaluation et une estimation, nous avons besoin d'informations précises. La saisie des informations est simple et rapide.Avant tout, vous aurez besoin de :• La carte grise de votre voiture• Le kilométrage de votre voiture• La liste des défauts de votre voiture (selon le pays) Renseignez toutes les informations nécessaires à l'estimation de votre véhicule. Pour pouvoir estimer votre voiture avec le plus de précision possible, vous aurez simplement à répondre aux questions.Le questionnaire vous prendra moins de 5 min à compléter !Les informations pour retrouver le modèle de votre voiture : en renseignant l’immatriculation de votre véhicule, nous identifions la voiture que vous souhaitez estimer. Votre modèle est alors identifié grâce à votre immatriculation, et plusieurs étapes du parcours seront sautées, et donc vous gagnez du temps.Si vous ne vous rappelez pas de votre immatriculation, pas de soucis ! Vos réponses à quelques questions nous permettront d’identifier votre voiture : version, année de MEC, carburant, puissance moteur;"
+          "text": "Nous vous permettons de faire l'estimation de votre voiture par un professionnel de l’automobile en fonction des observations du marché et des transactions récentes.Pour pouvoir vous donner une évaluation et une estimation, nous avons besoin d'informations précises. La saisie des informations est simple et rapide.Avant tout, vous aurez besoin de"
         }
       ],
       "bullets": [
         "Une estimation complètement en ligne et gratuite : estimez votre voiture en quelques clics sans frais",
         "Une estimation fiable, calculée sur la base d’observations du marché et des transactions récentes",
-        "L'expertise du réseau Peugeot à votre service pour racheter votre véhicule. Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre disposition si vous souhaitez la revendre."
+        "L'expertise du réseau Peugeot à votre service pour racheter votre véhicule. Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre disposition si vous souhaitez la revendre.",
+        "La carte grise de votre voiture",
+        "Le kilométrage de votre voiture",
+        "La liste des défauts de votre voiture (selon le pays) Renseignez toutes les informations nécessaires à l'estimation de votre véhicule. Pour pouvoir estimer votre voiture avec le plus de précision possible, vous aurez simplement à répondre aux questions.Le questionnaire vous prendra moins de 5 min à compléter !Les informations pour retrouver le modèle de votre voiture : en renseignant l’immatriculation de votre véhicule, nous identifions la voiture que vous souhaitez estimer. Votre modèle est alors identifié grâce à votre immatriculation, et plusieurs étapes du parcours seront sautées, et donc vous gagnez du temps.Si vous ne vous rappelez pas de votre immatriculation, pas de soucis ! Vos réponses à quelques questions nous permettront d’identifier votre voiture : version, année de MEC, carburant, puissance moteur;"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,8 +151,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -163,8 +166,8 @@
       "bullets": [
         ": ne vous inquiétez pas! Nous vous permettons d'évaluer votre voiture directement et gratuitement sur notre site internet! Vous avez la certitude d'obtenir une évaluation professionnelle et fiable avec notre expérience Peugeot."
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -178,8 +181,8 @@
       "bullets": [
         ": vous avez mal à vous décider maintenant ? Aucun problème ! Votre estimation est valable durant 10 jours."
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -193,8 +196,8 @@
       "bullets": [
         "pour faire reprendre votre voiture partout en France : Avec le réseau Peugeot et ses nombreux points de vente, faire reprendre votre voiture n'aura jamais été aussi facile."
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -208,8 +211,8 @@
       "bullets": [
         "Réception du prix instantanément : vous n’avez pas besoin d'attendre ! Vous obtenez l'estimation de votre voiture aussitôt que vous finissez de remplir le formulaire."
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -224,7 +227,7 @@
           "text": "1. COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
         },
         {
-          "text": "L’estimation est établie sur :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles similaires.• Une déduction pour les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+          "text": "L’estimation est établie sur"
         },
         {
           "text": "2. COMMENT FONCTIONNE LA REPRISE PAR PEUGEOT ?"
@@ -242,7 +245,7 @@
           "text": "4. QUELS SONT LES AVANTAGES À UTILISER LE SERVICE REPRISE PEUGEOT ?"
         },
         {
-          "text": "• Rapidité. En seulement quelques clics, obtenez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.• Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Reprise Peugeot vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. L’évaluation de chaque véhicule se fait sur la base d’observations du marché et des transactions récentes.• Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Le paiement du véhicule est assuré par un concessionnaire Peugeot, lors de la transaction."
+          "text": "Rapidité. En seulement quelques clics, obtenez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement."
         },
         {
           "text": "5. À QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
@@ -251,9 +254,15 @@
           "text": "L’estimation de reprise proposée par Reprise Peugeot est sans engagement. Sous 24h les jours ouvrés, vous recevrez gratuitement notre proposition. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Peugeot."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles similaires.",
+        "Une déduction pour les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule.",
+        "Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Reprise Peugeot vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. L’évaluation de chaque véhicule se fait sur la base d’observations du marché et des transactions récentes.",
+        "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Le paiement du véhicule est assuré par un concessionnaire Peugeot, lors de la transaction."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les avantages d’obtenir l’estimation",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -285,7 +294,71 @@
         "href": "https://www.youtube.com/PeugeotFrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.reprise.peugeot.fr/page-faq"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.peugeot.fr/tools/nous-contacter.html"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.FR",
+            "href": "https://www.peugeot.fr/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/peugeot"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://offres.peugeot.fr/"
+          },
+          {
+            "label": "PEUGEOT STOCK",
+            "href": "https://store.peugeot.fr/stock"
+          },
+          {
+            "label": "LE RESEAU PEUGEOT",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/conditions-generales.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -298,7 +371,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez gratuitement la valeur de votre voiture en ligne. Obtenez une évaluation précise et rapide pour votre véhicule avec notre service d'estimation.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://www.reprise.peugeot.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -309,12 +382,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.peugeot.fr/lp/estimation-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 8,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

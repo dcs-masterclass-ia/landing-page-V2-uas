@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche desde internet y sin costo – un servicio que no requiere obligaciones"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+    "logo_alt": "Logo Opel",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.opel.es/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Tasación de coche sin co",
+      "label": "Tasación de coche sin costo y sin ningún tipo de compromiso para ti",
       "anchor": "#tasacion-de-coche-sin-costo-y-sin-ningun"
     },
     {
-      "label": "¿Cómo es que puedes reci",
+      "label": "¿Cómo es que puedes recibir nuestra ayuda para tasar tu coche?",
       "anchor": "#como-es-que-puedes-recibir-nuestra-ayuda"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#el-paso-1"
     },
     {
-      "label": "La numerosas ventajas de",
+      "label": "La numerosas ventajas de la tasación de su coche en la web",
       "anchor": "#la-numerosas-ventajas-de-la-tasacion-de-"
     },
     {
-      "label": "Tasar coche: Las pregunt",
+      "label": "Tasar coche: Las preguntas más comúnmente vistas",
       "anchor": "#tasar-coche-las-preguntas-mas-comunmente"
     }
   ],
@@ -101,8 +101,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/18aa183a-bbc2-40fd-928b-2af230124cca",
+      "image_alt": "las ventahjas tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -125,8 +125,8 @@
         "El kilometraje actual que tiene",
         "Los daños y detalles que pueda tener"
       ],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/18aa183a-bbc2-40fd-928b-2af230124cca",
+      "image_alt": "las ventahjas tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -154,8 +154,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/18aa183a-bbc2-40fd-928b-2af230124cca",
+      "image_alt": "las ventahjas tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -171,8 +171,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/18aa183a-bbc2-40fd-928b-2af230124cca",
+      "image_alt": "las ventahjas tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -187,7 +187,7 @@
           "text": "¿COMO ES EL PROCESO PARA QUE CALCULEN LA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación se hace con determinados factores como: • Los datos básicos del carro: su marca, el modelo de vehículo, el tipo de motor y su poder, el kilometraje que este tiene, y la fecha en que comenzó su uso. • Se observa cómo se mueve el mercado: Se revisan transacciones de modelos equivalentes. • Se deducen los costos de rehabilitación y estará en dependencia de cómo se encuentra el vehículo en ese momento."
+          "text": "La tasación se hace con determinados factores como"
         },
         {
           "text": "¿EXACTAMENTE COMO FUNCIONA LA TASACIÓN CON OPEL?"
@@ -205,7 +205,7 @@
           "text": "¿Y LAS VENTAJAS DE USAR LA TASACIÓN DE OPEL?"
         },
         {
-          "text": "• Todo se hace con mucha facilidad y rápidamente con unos cuantos clics y listo. • No tienes que preocuparte por nada ya que todo esto es sin ninguna obligación y esto significa que tu decides. • Todo es seguro y el pago de tu vehículo una vez que lo tasamos será algo que brindaremos rápidamente."
+          "text": "Todo se hace con mucha facilidad y rápidamente con unos cuantos clics y listo."
         },
         {
           "text": "¿EN QUE ME COMPROMETO CON UNA TASACIÓN?"
@@ -214,9 +214,15 @@
           "text": "No hay compromiso alguno con la tasación de Opel y tú decides si quieres venderlo o no. Tampoco hay costo y es muy rápido obtenerla de un representante de Opel."
         }
       ],
-      "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Los datos básicos del carro: su marca, el modelo de vehículo, el tipo de motor y su poder, el kilometraje que este tiene, y la fecha en que comenzó su uso.",
+        "Se observa cómo se mueve el mercado: Se revisan transacciones de modelos equivalentes.",
+        "Se deducen los costos de rehabilitación y estará en dependencia de cómo se encuentra el vehículo en ese momento.",
+        "No tienes que preocuparte por nada ya que todo esto es sin ninguna obligación y esto significa que tu decides.",
+        "Todo es seguro y el pago de tu vehículo una vez que lo tasamos será algo que brindaremos rápidamente."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/18aa183a-bbc2-40fd-928b-2af230124cca",
+      "image_alt": "las ventahjas tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -248,7 +254,59 @@
         "href": "https://www.youtube.com/user/OpelspainGM"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTOS",
+        "links": [
+          {
+            "label": "OPEL.ES",
+            "href": "https://www.opel.es/"
+          },
+          {
+            "label": "Contacta con nosotros",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=es"
+          },
+          {
+            "label": "Red Opel",
+            "href": "https://www.opel.es/tools/concesionarios-opel.html "
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Información legal",
+            "href": " https://www.opel.es/tools/aviso-legal.html"
+          },
+          {
+            "label": "Política de cookies",
+            "href": "https://www.opel.es/tools/politica-de-cookies.html"
+          },
+          {
+            "label": "Política de Privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "SABER MÁS",
+        "links": [
+          {
+            "label": "Configurador",
+            "href": "https://www.opel.es/tools/configurador.html "
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/opel"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -261,7 +319,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Opel",
     "provider_url": "https://www.tasacion.opel.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -272,11 +330,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.opel.es/lp/tasar-coche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

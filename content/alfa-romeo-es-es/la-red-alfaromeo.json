@@ -18,8 +18,8 @@
     "og_image_alt": "Tasación en ALFA ROMEO"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.alfaromeo.es/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#alfa-romeo-te-escucha"
     },
     {
-      "label": "Contacto y cita con un e",
+      "label": "Contacto y cita con un experto Alfa Romeo",
       "anchor": "#contacto-y-cita-con-un-experto-alfa-rome"
     },
     {
@@ -141,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/b798c1be-9ce9-45a1-af9c-4075966a8b04",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -161,8 +161,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/b798c1be-9ce9-45a1-af9c-4075966a8b04",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -184,8 +184,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/b798c1be-9ce9-45a1-af9c-4075966a8b04",
+      "image_alt": "tasa tu coche con seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -213,7 +213,59 @@
         "href": "https://www.youtube.com/user/alfaromeooficial"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.alfaromeo.es/localizador-de-concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.alfaromeo.es/mopar/asistencia-al-cliente-alfa-romeo"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.ES",
+            "href": "https://www.alfaromeo.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion"
+          },
+          {
+            "label": "ALFA ROMEO CONFIGURADOR",
+            "href": "https://www.alfaromeo.es/configurador/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-alfaromeo.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -226,7 +278,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "La red Alfa Romeo está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://tasacion.alfaromeo.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -237,11 +289,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.alfaromeo.es/la-red-alfaromeo",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

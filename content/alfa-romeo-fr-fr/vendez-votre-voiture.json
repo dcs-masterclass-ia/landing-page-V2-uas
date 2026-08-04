@@ -18,8 +18,8 @@
     "og_image_alt": "Êtes-vous prêts pour vendre votre voiture ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.fr/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "La reprise Alfa Romeo, u",
+      "label": "La reprise Alfa Romeo, une option si vous vendez votre voiture ?",
       "anchor": "#la-reprise-alfa-romeo-une-option-si-vous"
     },
     {
-      "label": "Vendre votre voiture : p",
+      "label": "Vendre votre voiture : pourquoi le faire avec Alfa Romeo ?",
       "anchor": "#vendre-votre-voiture-pourquoi-le-faire-a"
     },
     {
-      "label": "Etape 1: Les information",
+      "label": "Etape 1: Les informations clés",
       "anchor": "#etape-1-les-informations-cles"
     },
     {
-      "label": "Les processus administra",
+      "label": "Les processus administratifs sont plus rapides",
       "anchor": "#les-processus-administratifs-sont-plus-r"
     },
     {
-      "label": "Vendre sa voiture: Quest",
+      "label": "Vendre sa voiture: Questions Fréquentes",
       "anchor": "#vendre-sa-voiture-questions-frequentes"
     }
   ],
@@ -101,8 +101,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/f6d88894-b535-4a8d-b583-91a766847992",
+      "image_alt": "poignée de main pour vendre sa voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -124,8 +124,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/f6d88894-b535-4a8d-b583-91a766847992",
+      "image_alt": "poignée de main pour vendre sa voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -150,8 +150,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/f6d88894-b535-4a8d-b583-91a766847992",
+      "image_alt": "poignée de main pour vendre sa voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -167,8 +167,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/f6d88894-b535-4a8d-b583-91a766847992",
+      "image_alt": "poignée de main pour vendre sa voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -189,7 +189,7 @@
           "text": "2. Comment est calculée l’estimation de reprise de ma voiture ?"
         },
         {
-          "text": "L’estimation est établie sur : • Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. • Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+          "text": "L’estimation est établie sur"
         },
         {
           "text": "3. Comment fonctionne la reprise par Alfa Romeo ?"
@@ -219,9 +219,13 @@
           "text": "Avec le réseau Alfa Romeo, vous avez la garantie d’un paiement rapide et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Alfa Romeo. Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/f6d88894-b535-4a8d-b583-91a766847992",
+      "image_alt": "poignée de main pour vendre sa voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -249,7 +253,63 @@
         "href": "https://www.youtube.com/user/alfaromeofrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.fr/distributeur-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.fr/contacts#form"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFAROMEO.FR",
+            "href": "https://www.alfaromeo.fr"
+          },
+          {
+            "label": "ALFA ROMEO CERTIFIED",
+            "href": "https://www.certified.alfaromeo.fr"
+          },
+          {
+            "label": "STOCK ALFA ROMEO",
+            "href": "https://www.alfaromeo.fr/voitures-neuves-en-stock"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.fr/configurateur/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/declarationdeconfidentialite.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -262,7 +322,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Avec Alfa Romeo, vendez votre voiture facilement ✓ sans démarches compliquées ✓ et en toute sécurité grâce au réseau Alfa Romeo France ✓.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -273,11 +333,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.alfaromeo.fr/lp/vendez-votre-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

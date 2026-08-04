@@ -18,8 +18,8 @@
     "og_image_alt": "Obtenez une estimation gratuite pour la vente de votre voiture"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/124/4d8f97dd-8caf-4a74-81f7-82523573b750",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiat.lu/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Obtenez une estimation g",
+      "label": "Obtenez une estimation gratuite et précise pour vendre votre voiture",
       "anchor": "#obtenez-une-estimation-gratuite-et-preci"
     },
     {
-      "label": "Comment vendre votre voi",
+      "label": "Comment vendre votre voiture en toute simplicité ?",
       "anchor": "#comment-vendre-votre-voiture-en-toute-si"
     },
     {
-      "label": "Vendre votre voiture en ",
+      "label": "Vendre votre voiture en toute sécurité",
       "anchor": "#vendre-votre-voiture-en-toute-securite"
     },
     {
-      "label": "Vendre sa voiture: Quest",
+      "label": "Vendre sa voiture: Questions Fréquentes",
       "anchor": "#vendre-sa-voiture-questions-frequentes"
     },
     {
-      "label": "L'expérience Fiat est à ",
+      "label": "L'expérience Fiat est à votre portée",
       "anchor": "#l-experience-fiat-est-a-votre-portee"
     }
   ],
@@ -97,10 +97,14 @@
           "text": "Vous cherchez à vendre votre voiture ? Avec notre solution de reprise Peugeot en ligne, vous pouvez obtenir une estimation gratuite et précise de la valeur de votre véhicule en seulement quelques minutes. Pas besoin de vous déplacer ou de vous embêter avec les négociations ennuyeuses. Optez pour la simplicité en choisissant notre service professionnel et fiable."
         },
         {
-          "text": "Avec notre service de reprise, vous pouvez vendre votre voiture en toute sécurité et sans tracas. Nos professionnels du réseau Peugeot vous garantissent une transaction sécurisée et rapide, sans que vous ayez à vous soucier des démarches administratives. De plus, notre service de reprise vous offre : ● Une estimation gratuite et précise de la valeur de votre véhicule ● Un rendez-vous en concession à votre convenance avec un de nos professionnels ● Un paiement garanti rapide et sécurisé Alors, pourquoi attendre ? Optez pour la simplicité et la tranquillité d'esprit en choisissant notre service de reprise."
+          "text": "Avec notre service de reprise, vous pouvez vendre votre voiture en toute sécurité et sans tracas. Nos professionnels du réseau Peugeot vous garantissent une transaction sécurisée et rapide, sans que vous ayez à vous soucier des démarches administratives. De plus, notre service de reprise vous offre"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation gratuite et précise de la valeur de votre véhicule",
+        "Un rendez-vous en concession à votre convenance avec un de nos professionnels",
+        "Un paiement garanti rapide et sécurisé Alors, pourquoi attendre ? Optez pour la simplicité et la tranquillité d'esprit en choisissant notre service de reprise."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
       "image_alt": "Les avantages de vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
@@ -121,8 +125,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/124/d865984e-162f-4e35-abf1-e95435f4e7a2",
+      "image_alt": "étapes vendre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -134,12 +138,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/124/d865984e-162f-4e35-abf1-e95435f4e7a2",
+      "image_alt": "étapes vendre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -185,8 +196,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/124/d865984e-162f-4e35-abf1-e95435f4e7a2",
+      "image_alt": "étapes vendre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -211,8 +222,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/124/d865984e-162f-4e35-abf1-e95435f4e7a2",
+      "image_alt": "étapes vendre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -240,7 +251,59 @@
         "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.fiat.lu/concessionnaires"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiat.lu/contacts"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.LU",
+            "href": "https://www.fiat.lu/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiat.lu/offres"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.fiat.lu/essai-voiture-neuve"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -253,7 +316,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://reprise.fiat.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -264,12 +327,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiat.lu/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

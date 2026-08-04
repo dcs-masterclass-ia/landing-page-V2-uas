@@ -18,8 +18,8 @@
     "og_image_alt": "Compramos tu coche! Solo 24 horas y tendrás asegurado tu pago"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.alfaromeo.es/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Compramos tu coche rápid",
+      "label": "Compramos tu coche rápidamente",
       "anchor": "#compramos-tu-coche-rapidamente"
     },
     {
@@ -51,15 +51,15 @@
       "anchor": "#no-mas-de-5-minutos"
     },
     {
-      "label": "Obtienes una oferta para",
+      "label": "Obtienes una oferta para recuperación la cual es prácticamente inmediata",
       "anchor": "#obtienes-una-oferta-para-recuperacion-la"
     },
     {
-      "label": "Proceso administrativos ",
+      "label": "Proceso administrativos más rápidos",
       "anchor": "#proceso-administrativos-mas-rapidos"
     },
     {
-      "label": "Compramos tu coche: Las ",
+      "label": "Compramos tu coche: Las preguntas comunes",
       "anchor": "#compramos-tu-coche-las-preguntas-comunes"
     }
   ],
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/403d697f-5ebf-421b-b7aa-579886beca66",
+      "image_alt": "compramos tu coche Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -124,8 +124,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/403d697f-5ebf-421b-b7aa-579886beca66",
+      "image_alt": "compramos tu coche Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -153,8 +153,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/403d697f-5ebf-421b-b7aa-579886beca66",
+      "image_alt": "compramos tu coche Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -170,8 +170,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/403d697f-5ebf-421b-b7aa-579886beca66",
+      "image_alt": "compramos tu coche Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -192,7 +192,7 @@
           "text": "2. ¿Cómo es que se calcula el valor de mi vehículo?"
         },
         {
-          "text": "Esto se establece de la siguiente manera: • Con los datos básicos del vehículo como la marca, el tipo de modelo, el poder del motor, su versión, el kilometraje del carro, y también la fecha de matriculación. • Hay también apreciación de modelos equivalentes al que tú tienes para así poder tener una idea de su valor • Se hace deducción de costos para cualquier reparación necesaria para restauración. Esto dependerá de la condición del vehículo."
+          "text": "Esto se establece de la siguiente manera"
         },
         {
           "text": "3. ¿Cómo funciona exactamente este proceso de tasación de ALFA ROMEO?"
@@ -213,9 +213,13 @@
           "text": "La garantía de la red Alfa Romeo es que tendrás los mejores resultados sin complicaciones. Si decides que deseas vender el vehículo, el pago será por cheque o transferencia dependiendo del concesionario de Alfa Romeo que tu visites."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Con los datos básicos del vehículo como la marca, el tipo de modelo, el poder del motor, su versión, el kilometraje del carro, y también la fecha de matriculación.",
+        "Hay también apreciación de modelos equivalentes al que tú tienes para así poder tener una idea de su valor",
+        "Se hace deducción de costos para cualquier reparación necesaria para restauración. Esto dependerá de la condición del vehículo."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/403d697f-5ebf-421b-b7aa-579886beca66",
+      "image_alt": "compramos tu coche Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -243,7 +247,59 @@
         "href": "https://www.youtube.com/user/alfaromeooficial"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.alfaromeo.es/localizador-de-concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.alfaromeo.es/mopar/asistencia-al-cliente-alfa-romeo"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.ES",
+            "href": "https://www.alfaromeo.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion"
+          },
+          {
+            "label": "ALFA ROMEO CONFIGURADOR",
+            "href": "https://www.alfaromeo.es/configurador/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-alfaromeo.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -256,7 +312,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://tasacion.alfaromeo.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -267,11 +323,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.alfaromeo.es/lp/Compramos-tu-coche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

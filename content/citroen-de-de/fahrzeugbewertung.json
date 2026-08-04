@@ -18,8 +18,8 @@
     "og_image_alt": "Was ist mein Auto Wert? Wir bei Citroen haben die Antwort für Sie."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
   },
@@ -39,19 +39,19 @@
   },
   "subnav": [
     {
-      "label": "Warum lohnt sich die Fah",
+      "label": "Warum lohnt sich die Fahrzeugbewertung bei Citroen?",
       "anchor": "#warum-lohnt-sich-die-fahrzeugbewertung-b"
     },
     {
-      "label": "Ermitteln Sie den geschä",
+      "label": "Ermitteln Sie den geschätzten Wert Ihres Autos.",
       "anchor": "#ermitteln-sie-den-geschatzten-wert-ihres"
     },
     {
-      "label": "Holen Sie ein Sachverstä",
+      "label": "Holen Sie ein Sachverständigengutachten ein.",
       "anchor": "#holen-sie-ein-sachverstandigengutachten-"
     },
     {
-      "label": "Wieso es sich für Sie lo",
+      "label": "Wieso es sich für Sie lohnt, Ihr Auto online bewerten zu lassen:",
       "anchor": "#wieso-es-sich-fur-sie-lohnt-ihr-auto-onl"
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "image_alt": "bewerten",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "image_alt": "bewerten",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "image_alt": "bewerten",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "image_alt": "bewerten",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -183,8 +183,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/54d6d5fa-c622-436e-9491-2b5cff57eb12",
+      "image_alt": "bewerten",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -216,7 +216,71 @@
         "href": "https://www.youtube.com/user/CitroenDeutschland"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "Händlersuche",
+            "href": "https://www.citroen.de/kontakt-hilfe/citroen-haendler-kontaktieren.html?_ga=2.183092198.1303523992.1604408399-217823654.1603896943"
+          },
+          {
+            "label": "Konfigurator",
+            "href": "https://www.citroen.de/konfigurator.html?_ga=2.178373220.1303523992.1604408399-217823654.1603896943"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.de/"
+          }
+        ]
+      },
+      {
+        "title": "Nützliche Links",
+        "links": [
+          {
+            "label": "Teile & Zubehör",
+            "href": "https://www.citroen.de/aktuelle-angebote/service-zubehoer.html"
+          },
+          {
+            "label": "Finanzierung",
+            "href": "https://www.citroen.de/finanzierung-service/finanzieren-und-versichern.html"
+          },
+          {
+            "label": "Digitale Fahrzeugbörse",
+            "href": "https://carstore.citroen.de/startseite?_gl=1*2m0aa1*_ga*MTU3NzQ3NDgyNy4xNzA5NjUwMzEw*_ga_GVZBY4QPS0*MTcwOTY1MDMwOS4xLjEuMTcwOTY1MDU5OS4wLjAuMA.."
+          },
+          {
+            "label": "Citroën Online Leasing",
+            "href": "https://financing.citroen.store/konfigurator?utm_source=CPP&utm_content=MTO&utm_campaign=Footer::TextLink&utm_medium=referral"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliche Hinweise",
+        "links": [
+          {
+            "label": "Impressum",
+            "href": "https://www.citroen.de/impressum.html"
+          },
+          {
+            "label": "Datenschutzrichtlinie",
+            "href": "https://www.citroen.de/datenschutzrichtlinie.html"
+          },
+          {
+            "label": "Rechtliche Hinweise",
+            "href": "https://www.citroen.de/rechtliche-hinweise.html"
+          },
+          {
+            "label": "Nutzungsbedingungen",
+            "href": "https://usine-a-sites.s3.amazonaws.com/87/e0e1f80a-3303-45b6-a375-fca315e4bbaf"
+          },
+          {
+            "label": "Erklärung Barrierefreiheit",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -229,7 +293,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.citroen-kauft-ihr-auto.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -240,11 +304,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.citroen-kauft-ihr-auto.de/lp/fahrzeugbewertung",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

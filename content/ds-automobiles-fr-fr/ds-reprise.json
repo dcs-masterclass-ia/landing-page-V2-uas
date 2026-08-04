@@ -18,8 +18,8 @@
     "og_image_alt": "Offre de reprise"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.dsautomobiles.fr/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.dsautomobiles.fr/"
   },
@@ -39,7 +39,7 @@
   },
   "subnav": [
     {
-      "label": "Comment estimer la valeu",
+      "label": "Comment estimer la valeur de votre véhicule ?",
       "anchor": "#comment-estimer-la-valeur-de-votre-vehic"
     },
     {
@@ -47,7 +47,7 @@
       "anchor": "#simulateur-en-ligne"
     },
     {
-      "label": "Comment est calculée vot",
+      "label": "Comment est calculée votre offre de reprise ?",
       "anchor": "#comment-est-calculee-votre-offre-de-repr"
     },
     {
@@ -184,7 +184,67 @@
         "href": "https://www.linkedin.com/company/ds-France"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS AUTOMOBILES",
+            "href": "https://www.dsautomobiles.fr"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.fr/ds-store/configurateur.html"
+          },
+          {
+            "label": "Nos véhicules neufs",
+            "href": "https://dsonlinestore.dsautomobiles.fr"
+          },
+          {
+            "label": "DS CERTIFIED",
+            "href": "https://www.dscertified.dsautomobiles.fr/"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.dsautomobiles.fr/contact.html"
+          },
+          {
+            "label": "Trouvez votre point de vente",
+            "href": "https://www.dsautomobiles.fr/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "2026",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -197,7 +257,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.reprise.dsautomobiles.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",

@@ -18,8 +18,8 @@
     "og_image_alt": "FOIRE AUX QUESTIONS"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.citroen.be/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.citroen.be/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "JE N’AI PAS REÇU MON EST",
+      "label": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
       "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
     }
   ],
@@ -82,7 +82,7 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Reprise Citroën est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le point de vente Citroën que vous avez choisi pour obtenir une offre de reprise ferme.L’estimation est basée sur :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.• Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule.Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre véhicule.Prenez-rendez-vous. L'estimation vous convient ? Vous prenez-rendez-vous avec le point de vente Citroën que vous avez sélectionné.Profitez de l’expertise Citroën. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule.Rapidité• En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.Sérénité• Évitez les mauvaises surprises. En sollicitant le service de Reprise Citroën vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.Sécurité• Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un point de vente Citroën.L’estimation de reprise proposée par Reprise Citroën est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Citroën.Reprise Citroën est un service totalement gratuit pour vous.Si vous ne trouvez pas votre véhicule sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur.Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de Reprise Citroën comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise.Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Citroën. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous.Lors de votre rendez-vous en point de vente, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants :• La carte de grise de votre voiture• Une pièce d’identité (permis de conduire, carte d’identité ou passeport)• Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)• Un RIB (Relevé d’Identité Bancaire)• Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture• Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles• Le cas échéant, la clé des écrous antivol de vos roues Lors de la transaction, le paiement du véhicule est assuré par un point de vente Citroën. Selon le point de vente choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire.Si vous n'avez pas trouvé la réponse à votre question, n'hésitez pas à nous contacter."
+          "text": "Reprise Citroën est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le point de vente Citroën que vous avez choisi pour obtenir une offre de reprise ferme.L’estimation est basée sur"
         },
         {
           "text": "COMMENT VENDRE MA VOITURE ?"
@@ -103,8 +103,22 @@
           "text": "EST-CE QUE CE SERVICE EST PAYANT ?"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule.Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre véhicule.Prenez-rendez-vous. L'estimation vous convient ? Vous prenez-rendez-vous avec le point de vente Citroën que vous avez sélectionné.Profitez de l’expertise Citroën. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule.Rapidité",
+        "En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.Sérénité",
+        "Évitez les mauvaises surprises. En sollicitant le service de Reprise Citroën vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.Sécurité",
+        "Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un point de vente Citroën.L’estimation de reprise proposée par Reprise Citroën est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Citroën.Reprise Citroën est un service totalement gratuit pour vous.Si vous ne trouvez pas votre véhicule sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur.Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de Reprise Citroën comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise.Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Citroën. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous.Lors de votre rendez-vous en point de vente, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants",
+        "La carte de grise de votre voiture",
+        "Une pièce d’identité (permis de conduire, carte d’identité ou passeport)",
+        "Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)",
+        "Un RIB (Relevé d’Identité Bancaire)",
+        "Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture",
+        "Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles",
+        "Le cas échéant, la clé des écrous antivol de vos roues Lors de la transaction, le paiement du véhicule est assuré par un point de vente Citroën. Selon le point de vente choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire.Si vous n'avez pas trouvé la réponse à votre question, n'hésitez pas à nous contacter."
+      ],
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -130,7 +144,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -163,7 +177,67 @@
         "href": "https://www.youtube.com/user/citroenbelux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Liens utiles",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.be/fr/citroen-vous/trouver-un-point-de-vente-citroen.html?_ga=2.246821452.913555265.1603207878-1584891280.1582808863"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://citroen.my-customerportal.com/citroen/s/case-webform?language=fr_BE#1"
+          },
+          {
+            "label": "Réserver un essai",
+            "href": "https://www.citroen.be/fr/tools/book-a-test-drive.html"
+          }
+        ]
+      },
+      {
+        "title": "Trouver ma voiture",
+        "links": [
+          {
+            "label": "Citroen.be",
+            "href": "https://www.citroen.be/fr/"
+          },
+          {
+            "label": "Les offres du moment",
+            "href": "https://www.citroen.be/fr/acheter/offres.html#offres-aux-particuliers"
+          },
+          {
+            "label": "Configurez et commandez",
+            "href": "https://www.citroen.be/fr/outils/configurer-votre-vehicule.html"
+          },
+          {
+            "label": "Voitures en stock",
+            "href": "https://stock.citroen.be/fr/stock"
+          },
+          {
+            "label": "Voiture d'occasion et Spoticar",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions générales d'utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Politique de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -176,7 +250,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Citroën répond à toutes vos questions concernant la vente ou la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://reprise.citroen.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -187,11 +261,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.citroen.be/questions-frequentes",
-    "medias_trouves": 2,
+    "medias_trouves": 0,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

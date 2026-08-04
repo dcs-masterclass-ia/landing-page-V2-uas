@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture en toute simplicité avec Citroën"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.citroen.fr/build/img/citroen/brand-logo-site.png",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.citroen.fr/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi vendre votre vo",
+      "label": "Pourquoi vendre votre voiture avec reprise Citroën ?",
       "anchor": "#pourquoi-vendre-votre-voiture-avec-repri"
     },
     {
-      "label": "Étape 1: Renseigner les ",
+      "label": "Étape 1: Renseigner les informations de votre véhicule",
       "anchor": "#etape-1-renseigner-les-informations-de-v"
     },
     {
-      "label": "Étape 2: Recevez l’estim",
+      "label": "Étape 2: Recevez l’estimation de votre voiture en ligne et par email",
       "anchor": "#etape-2-recevez-lestimation-de-votre-voi"
     },
     {
-      "label": "1 c’est plus simple: vot",
+      "label": "1 c’est plus simple: votre modèle est identifié grâce à votre immatriculation,",
       "anchor": "#1-cest-plus-simple-votre-modele-est-iden"
     },
     {
-      "label": "Étape 3: Rendez-vous ave",
+      "label": "Étape 3: Rendez-vous avec un professionnel du réseau Citroën",
       "anchor": "#etape-3-rendez-vous-avec-un-professionne"
     }
   ],
@@ -121,8 +121,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -144,8 +144,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -164,8 +164,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -181,8 +181,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -198,8 +198,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -220,7 +220,7 @@
           "text": "Comment est calculée la valeur de ma voiture ?"
         },
         {
-          "text": "Celle-ci prendra en compte les éléments suivants :• Les caractéristiques les plus pertinentes telles que le modèle, le type de moteur, la marque, la date d'immatriculation et le kilométrage.• Le marché et les professionnels qui effectuent ce type de transactions en permanence.• Les déductions de coûts seront enfin effectuées en fonction de l'état de la voiture."
+          "text": "Celle-ci prendra en compte les éléments suivants"
         },
         {
           "text": "Comment fonctionne le processus de reprise Citroën ?"
@@ -241,9 +241,13 @@
           "text": "Avec le réseau Citroën, vous avez la garantie d’un paiement rapide et sécurisé.Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Citroën.Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire."
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques les plus pertinentes telles que le modèle, le type de moteur, la marque, la date d'immatriculation et le kilométrage.",
+        "Le marché et les professionnels qui effectuent ce type de transactions en permanence.",
+        "Les déductions de coûts seront enfin effectuées en fonction de l'état de la voiture."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -274,8 +278,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -303,8 +307,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -340,7 +344,63 @@
         "href": "https://www.linkedin.com/showcase/citroen_france/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contact",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.citroen.fr/rechercher-un-point-de-vente.html"
+          },
+          {
+            "label": "Configurer votre Citroën",
+            "href": "https://www.citroen.fr/outils/configurateur.html"
+          },
+          {
+            "label": "Contactez-nous",
+            "href": "https://www.citroen.fr/contact/contactez-nous.html"
+          },
+          {
+            "label": "Citroën.fr",
+            "href": "https://www.citroen.fr/accueil.html"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/citroen"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Conditions Générales d'Utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Retrouver les consommations énergétiques.",
+            "href": "tableau-jauge-co2.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -353,7 +413,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.reprise.citroen.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -364,11 +424,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 9,
     "notes": [
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
       "7 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

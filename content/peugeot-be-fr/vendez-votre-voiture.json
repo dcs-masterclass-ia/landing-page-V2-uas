@@ -18,8 +18,8 @@
     "og_image_alt": "Comment vendre votre voiture avec l'accompagnement de Peugeot"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/91/fea1e016-6d54-44a6-8f98-8ba810bed555",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.peugeot.be/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Vendre votre voiture : p",
+      "label": "Vendre votre voiture : pourquoi opter pour notre service professionnel de reprise ?",
       "anchor": "#vendre-votre-voiture-pourquoi-opter-pour"
     },
     {
-      "label": "Les avantages de notre s",
+      "label": "Les avantages de notre service de reprise pour vendre votre voiture",
       "anchor": "#les-avantages-de-notre-service-de-repris"
     },
     {
-      "label": "1 : Renseignez les carac",
+      "label": "1 : Renseignez les caractéristiques de votre véhicule",
       "anchor": "#1-renseignez-les-caracteristiques-de-vot"
     },
     {
-      "label": "3 : Prenez rendez-vous a",
+      "label": "3 : Prenez rendez-vous avec un professionnel",
       "anchor": "#3-prenez-rendez-vous-avec-un-professionn"
     }
   ],
@@ -111,10 +111,14 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "● Notre estimation est 100% gratuite et sans engagement. ● Recevez une estimation de votre véhicule en ligne et par email. Vous pourrez ensuite décider si celle-ci vous convient. ● Un concessionnaire de notre réseau, situé près de chez vous, vous contactera pour fixer un rendez-vous à votre convenance. ● Si vous êtes satisfait de l'offre, vous pourrez conclure la transaction rapidement et en toute sécurité grâce à un paiement rapide."
+          "text": "Notre estimation est 100% gratuite et sans engagement."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Recevez une estimation de votre véhicule en ligne et par email. Vous pourrez ensuite décider si celle-ci vous convient.",
+        "Un concessionnaire de notre réseau, situé près de chez vous, vous contactera pour fixer un rendez-vous à votre convenance.",
+        "Si vous êtes satisfait de l'offre, vous pourrez conclure la transaction rapidement et en toute sécurité grâce à un paiement rapide."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/21/90e2b2e0-d91a-4a72-aa59-264e6be0cc0c",
       "image_alt": "Vendez votre voiture peugeot paiement",
       "tag": "TODO_ARBITRAGE",
@@ -149,8 +153,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -166,8 +170,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -179,12 +183,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués. En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives. En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués. En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives. En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -230,8 +241,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -256,8 +267,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -289,7 +300,71 @@
         "href": "https://be.linkedin.com/company/peugeot_belux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.be/fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=fr_BE"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.BE",
+            "href": "https://www.peugeot.be/fr/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.peugeot.be/fr/acheter/offres-du-moment.html"
+          },
+          {
+            "label": "CONFIGUREZ ET COMMANDEZ",
+            "href": "https://www.peugeot.be/fr/tools/configurer.html"
+          },
+          {
+            "label": "STOCKS DISPONIBLES",
+            "href": "https://stock.peugeot.be/fr/stock"
+          },
+          {
+            "label": "VOITURES D'OCCASION SPOTICAR",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites.s3.amazonaws.com/91/6f083d93-798a-40a2-8ad0-db6d3c8615f9"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "COOKIES",
+            "href": "#"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-6-30, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -302,7 +377,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://reprise.peugeot.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -313,11 +388,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.peugeot.be/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 8,
     "notes": [
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

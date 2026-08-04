@@ -18,8 +18,8 @@
     "og_image_alt": "Was ist mein Auto Wert? Wir bei Opel haben die Antwort für Sie."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/88/c9ec2213-6a53-4dcb-b631-85b4fd1487e5",
+    "logo_alt": "Opel Logo",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.opel-kauft-dein-auto.de/"
   },
@@ -39,11 +39,11 @@
   },
   "subnav": [
     {
-      "label": "Warum solltest du dein A",
+      "label": "Warum solltest du dein Auto bei Opel bewerten lassen?",
       "anchor": "#warum-solltest-du-dein-auto-bei-opel-bew"
     },
     {
-      "label": "Das Ergebnis & Terminver",
+      "label": "Das Ergebnis & Terminvereinbarung",
       "anchor": "#das-ergebnis-terminvereinbarung"
     },
     {
@@ -89,8 +89,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/63d417f5-4374-41d0-a0e4-d2b1aea6d13f",
+      "image_alt": "auto-wert-opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -106,8 +106,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/63d417f5-4374-41d0-a0e4-d2b1aea6d13f",
+      "image_alt": "auto-wert-opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -144,8 +144,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/63d417f5-4374-41d0-a0e4-d2b1aea6d13f",
+      "image_alt": "auto-wert-opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -177,7 +177,87 @@
         "href": "https://www.youtube.com/user/OpelDe"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "MEHR ENTDECKEN",
+        "links": [
+          {
+            "label": "© Opel%current Year%",
+            "href": "https://www.opel.de/index.html"
+          },
+          {
+            "label": "Opel Store",
+            "href": "https://www.opelstore.de/"
+          },
+          {
+            "label": "Auto kaufen",
+            "href": "https://www.opel.de/kaufen.html"
+          },
+          {
+            "label": "Konfigurator",
+            "href": "https://www.opel.de/tools/konfigurator.html"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.de/"
+          }
+        ]
+      },
+      {
+        "title": "RECHTLICHES",
+        "links": [
+          {
+            "label": "Impressum",
+            "href": "https://www.opel.de/tools/impressum.html"
+          },
+          {
+            "label": "Datenschutz-Richtlinie",
+            "href": "https://usine-a-sites.s3.amazonaws.com/88/dc586898-13af-41cf-b4a2-d32e4da9d312"
+          },
+          {
+            "label": "Cookie-Richtlinie",
+            "href": "https://www.opel.de/tools/cookies.html"
+          },
+          {
+            "label": "Rechtliche Hinweise",
+            "href": "https://www.opel.de/tools/rechtlich-hinweise.html"
+          },
+          {
+            "label": "Cookie-Zustimmung",
+            "href": "#"
+          },
+          {
+            "label": "Allgemeine Geschäftsbedingungen",
+            "href": "https://www.opel-kauft-dein-auto.de/allgemeine-geschaftsbedingungen.pdf"
+          }
+        ]
+      },
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "Kontakt",
+            "href": "https://opel.my-customerportal.com/opel/s/?language=de"
+          },
+          {
+            "label": "Newsletter",
+            "href": "https://www.opel.de/tools/newsletter.html"
+          },
+          {
+            "label": "Angebotsanfrage",
+            "href": "https://www.opel.de/tools/angebotsanfrage.html"
+          },
+          {
+            "label": "Probefahrt",
+            "href": "https://www.opel.de/tools/probefahrt.html"
+          },
+          {
+            "label": "Händlersuche",
+            "href": "https://www.opel.de/tools/haendlersuche.html"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -190,7 +270,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Opel Logo",
     "provider_url": "https://www.opel-kauft-dein-auto.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -201,11 +281,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.opel-kauft-dein-auto.de/lp/fahrzeugbewertung",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
-      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

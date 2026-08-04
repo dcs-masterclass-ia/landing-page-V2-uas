@@ -18,8 +18,8 @@
     "og_image_alt": "Perché scegliere Abarth ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/170/f3e757b5-9503-4d09-8825-ac4dcf5c997a",
+    "logo_alt": "Logo Abarth",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.abarth.it/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Valuta il tuo veicolo co",
+      "label": "Valuta il tuo veicolo con Abarth VALUTAZIONE:",
       "anchor": "#valuta-il-tuo-veicolo-con-abarth-valutaz"
     },
     {
-      "label": "Le fasi della permuta co",
+      "label": "Le fasi della permuta con il concessionario Abarth selezionato:",
       "anchor": "#le-fasi-della-permuta-con-il-concessiona"
     },
     {
@@ -132,7 +132,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -149,7 +149,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -166,7 +166,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -183,7 +183,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -212,7 +212,42 @@
         "href": "https://www.youtube.com/user/teamabarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Abarth",
+        "links": [
+          {
+            "label": "Sito Abarth",
+            "href": "https://www.abarth.it/"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.it/trova-veicoli-usati/abarth"
+          },
+          {
+            "label": "Abarth Online Store",
+            "href": "https://www.abarth.it/e-shop"
+          }
+        ]
+      },
+      {
+        "title": "Note legali",
+        "links": [
+          {
+            "label": "Condizioni uso",
+            "href": "https://usine-a-sites.s3.amazonaws.com/167/c975acde-e459-44e9-82f4-5ae64031d48d"
+          },
+          {
+            "label": "Privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Cookies",
+            "href": "javascript:getCookieOpenModal()"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -225,7 +260,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Scopri perché conviene scegliere Abarth per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Abarth",
     "provider_url": "https://www.valutazioneusato.abarth.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -236,14 +271,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.abarth.it/perche-abarth",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-serenity.png",
       "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-fast.png",
       "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
-      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

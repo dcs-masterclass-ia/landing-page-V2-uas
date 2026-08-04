@@ -18,8 +18,8 @@
     "og_image_alt": "Le réseau Opel"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.reprise.opel.be/build/img/opel/brand_opel.png",
+    "logo_alt": "opel",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.opel.be/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#comment-ca-marche"
     },
     {
-      "label": "Comment prendre rendez-v",
+      "label": "Comment prendre rendez-vous ?",
       "anchor": "#comment-prendre-rendez-vous"
     },
     {
@@ -166,7 +166,7 @@
         "Une transaction sécurisée et rapide",
         "Une offre de reprise ajustée"
       ],
-      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/63/20f1d263-ab7a-4db2-abf0-a28c0e921782",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -199,7 +199,67 @@
         "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "L'expérience Opel",
+        "links": [
+          {
+            "label": "Choisissez votre Opel",
+            "href": "https://www.opel.be/fr/choisissez-votre-opel/gamme-opel.html"
+          },
+          {
+            "label": "Les offres du moment",
+            "href": "https://www.opel.be/fr/offers/offers-overview/private.html"
+          },
+          {
+            "label": "Voitures neuves en stock",
+            "href": "https://store.opel.fr/stock"
+          },
+          {
+            "label": "Voitures d'occasion Spoticar",
+            "href": "https://www.spoticar.be/fr/voitures-occasion/opel"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Opel.be",
+            "href": "https://www.opel.be/fr/"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.opel.be/fr/tools/contact.html"
+          },
+          {
+            "label": "Réserver un essai",
+            "href": "https://www.opel.be/fr/tools/request-test-drive.html"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Mentions légales",
+            "href": "https://usine-a-sites.s3.amazonaws.com/63/47dd60e2-aca4-4eb8-b20b-0428072e5022"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Politiques en matière de Cookies",
+            "href": "https://www.opel.be/fr/tools/cookies-policy.html"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -212,7 +272,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Le réseau Opel Reprise",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "opel",
     "provider_url": "https://www.reprise.opel.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -223,7 +283,7 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.opel.be/reseau-opel",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/150e4bf7-7ef7-42ab-97c0-18b4eb27d95a",
@@ -231,8 +291,6 @@
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/bb074b4f-a9d3-465c-84d1-422d20f28f9d",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/d6b9957b-be18-4abd-81ab-3ce9937fffe1",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/20f1d263-ab7a-4db2-abf0-a28c0e921782",
-      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

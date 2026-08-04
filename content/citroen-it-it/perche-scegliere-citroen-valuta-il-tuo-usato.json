@@ -18,8 +18,8 @@
     "og_image_alt": "Perché scegliere Citroën?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.valutazioneusato.citroen.it/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.citroen.it/"
   },
@@ -104,8 +104,8 @@
         "In pochi click riceverai una stima del valore del tuo veicolo.",
         "La nostra offerta di permuta è completamente gratuita e senza impegno."
       ],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/72/b880e3e5-ad90-4492-afda-33fd8fd1e3d4",
+      "image_alt": "Valuta in sicurezza",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -121,8 +121,8 @@
         "Se il tuo veicolo è conforme al preventivo effettuato online, il concessionario procederà al ritiro.",
         "Pagamento rapido garantito"
       ],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/72/b880e3e5-ad90-4492-afda-33fd8fd1e3d4",
+      "image_alt": "Valuta in sicurezza",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -154,7 +154,42 @@
         "href": "https://www.youtube.com/user/citroenit"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Citroën",
+        "links": [
+          {
+            "label": "Citroen.it",
+            "href": "https://www.citroen.it/"
+          },
+          {
+            "label": "Citroën Carstore",
+            "href": "https://carstore.citroen.it/Home?_ga=2.89120283.169274050.1599743687-1579432252.1594635163"
+          },
+          {
+            "label": "Spoticar.it",
+            "href": "https://www.spoticar.it/"
+          }
+        ]
+      },
+      {
+        "title": "Note legali",
+        "links": [
+          {
+            "label": "Note legali",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Informativa privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "DICHIARAZIONE DI ACCESSIBILITA",
+            "href": "https://usine-a-sites.s3.amazonaws.com/72/72968a48-e3af-428f-b51d-97252a63c67e"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -167,7 +202,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Scegli Citroën per la vendita della tua auto usata. È gratuito, veloce e senza impegno. Scopri di più sul sito Citroën",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.valutazioneusato.citroen.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -178,11 +213,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.citroen.it/perche-scegliere-citroen-valuta-il-tuo-usato",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 3,
     "notes": [
-      "image sans alt en V1 : https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

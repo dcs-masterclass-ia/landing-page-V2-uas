@@ -18,8 +18,8 @@
     "og_image_alt": "AUTO BEWERTEN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/45/7d3a2751-ff2d-4dec-98d8-fc5e75101284",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.wir-kaufen-ihr-auto.peugeot.at/"
   },
@@ -153,7 +153,54 @@
         "href": "https://www.youtube.com/user/PeugeotAustriaGmbH"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "KONTAKTIEREN SIE UNS",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=de"
+          },
+          {
+            "label": "COOKIE-RICHTLINIE",
+            "href": "https://www.peugeot.at/tools/cookie-richtlinie.html"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE",
+            "href": "https://www.peugeot.at/tools/rechtliche-hinweise.html"
+          },
+          {
+            "label": "IMPRESSUM",
+            "href": "https://www.peugeot.at/tools/impressum.html"
+          },
+          {
+            "label": "DATENSCHUTZRICHTLINIE",
+            "href": "/new-consent-declaration.pdf"
+          },
+          {
+            "label": "Barrierefreiheitserklärung",
+            "href": "/page-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "DIE MARKE PEUGEOT",
+            "href": "https://www.peugeot.at/peugeot-universe/markenwelt.html"
+          },
+          {
+            "label": "GEBRAUCHTWAGEN",
+            "href": "https://www.peugeot.at/kaufen/spoticar-gebrauchtwagen.html"
+          },
+          {
+            "label": "KONFIGURIEREN",
+            "href": "https://www.peugeot.at/auswahlhilfe/alle-modelle.html"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -166,7 +213,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Mit der professionellen Auto-Bewertung von PEUGEOT erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://www.wir-kaufen-ihr-auto.peugeot.at",
     "area_served": "Autriche",
     "area_wikidata": "https://www.wikidata.org/wiki/Q40",
@@ -177,14 +224,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.wir-kaufen-ihr-auto.peugeot.at/auto-bewerten",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
       "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-serenity.jp",
       "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-fast.jpg",
       "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-safe.jpg",
-      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

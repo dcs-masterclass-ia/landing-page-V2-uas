@@ -18,8 +18,8 @@
     "og_image_alt": "Compramos tu coche en solo 24 horas"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.citroen.es/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.citroen.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Olvida las complicacione",
+      "label": "Olvida las complicaciones si nosotros compramos tu coche",
       "anchor": "#olvida-las-complicaciones-si-nosotros-co"
     },
     {
-      "label": "recibe tu tasación por m",
+      "label": "recibe tu tasación por medio de correo electrónico online",
       "anchor": "#recibe-tu-tasacion-por-medio-de-correo-e"
     },
     {
-      "label": "1. Es realmente sencillo",
+      "label": "1. Es realmente sencillo ya que tu modelo se identifica con tu registro",
       "anchor": "#1-es-realmente-sencillo-ya-que-tu-modelo"
     },
     {
-      "label": "compraremos el coche en ",
+      "label": "compraremos el coche en 24 horas",
       "anchor": "#compraremos-el-coche-en-24-horas"
     },
     {
-      "label": "El pago se hace de forma",
+      "label": "El pago se hace de forma segura y rápida",
       "anchor": "#el-pago-se-hace-de-forma-segura-y-rapida"
     }
   ],
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -118,8 +118,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -141,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -164,8 +164,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -181,8 +181,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -207,8 +207,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -239,8 +239,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "compamos tu coche Citroen en seguridad",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -272,7 +272,63 @@
         "href": "https://www.youtube.com/user/CitroenEspana"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contacto",
+        "links": [
+          {
+            "label": "Citroën.es",
+            "href": "https://www.citroen.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/citroen"
+          },
+          {
+            "label": "Contacte con nosotros",
+            "href": "https://www.citroen.es/contacto/atencion-al-cliente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Condiciones Generales",
+            "href": "/condiciones-generales-de-uso.pdf"
+          },
+          {
+            "label": "Configuración De Cookies",
+            "href": "#"
+          },
+          {
+            "label": "Política de privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "Enlaces",
+        "links": [
+          {
+            "label": "Encontrar un punto de venta",
+            "href": "https://www.citroen.es/citroen-y-tu/red-oficial-citroen.html?_ga=2.19987384.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Solicitar una cita",
+            "href": "https://cita-taller.citroen.es/dealerlocator.aspx?o=cpp&p=i&c=es-ES&b=c&_ga=2.254882312.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Configurar un vehículo",
+            "href": "https://www.citroen.es/vehiculos/citroen.html#content"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -285,7 +341,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Comprar tu coche rápidamente y de forma sencilla es la prioridad para nosotros - !no dude más, pida aquí más información sobre la venta de su coche",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.tasacion.citroen.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -296,11 +352,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.citroen.es/lp/Compramos-tu-coche",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 7,
     "notes": [
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
       "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

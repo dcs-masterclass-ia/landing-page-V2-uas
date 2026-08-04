@@ -18,8 +18,8 @@
     "og_image_alt": "Tasación en Abarth"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/154/a835c908-19fe-47ec-a43a-ce919149b66e",
+    "logo_alt": "Logo Abarth",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.abarth.es/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Obtén una oferta de vent",
+      "label": "Obtén una oferta de venta en 6 pasos:",
       "anchor": "#obten-una-oferta-de-venta-en-6-pasos"
     },
     {
-      "label": "Cálculo del valor de ven",
+      "label": "Cálculo del valor de venta",
       "anchor": "#calculo-del-valor-de-venta"
     },
     {
@@ -141,7 +141,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/6a0744b0-d6d3-4319-be46-6046d60489dd",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -161,7 +161,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/6a0744b0-d6d3-4319-be46-6046d60489dd",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -184,7 +184,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/6a0744b0-d6d3-4319-be46-6046d60489dd",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -213,7 +213,59 @@
         "href": "https://www.youtube.com/user/teamabarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.abarth.es/buscador-concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.abarth.es/servicio-al-cliente"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.ES",
+            "href": "https://www.abarth.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/abarth"
+          },
+          {
+            "label": "ABARTH CONFIGURADOR",
+            "href": "https://www.abarth.es/configurador-abarth/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "condiciones-de-uso-tasacion-abarth.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -226,7 +278,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Abarth para la recompra de tu vehículo.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Abarth",
     "provider_url": "https://tasacion.abarth.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -237,7 +289,7 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.abarth.es/funcionamiento",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/eaedf25f-e498-4b23-b2e1-75bf2de4d71a",
@@ -245,8 +297,6 @@
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/4ee1ac7e-9a2c-43c6-8571-3956f81e90f5",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/03fc1544-1690-40ce-97ab-510c0c7ce573",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/6a0744b0-d6d3-4319-be46-6046d60489dd",
-      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

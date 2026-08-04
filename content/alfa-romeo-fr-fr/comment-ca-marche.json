@@ -18,8 +18,8 @@
     "og_image_alt": "Comment ça marche ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.fr/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Obtenez une offre de rep",
+      "label": "Obtenez une offre de reprise en 6 étapes :",
       "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
     },
     {
-      "label": "Calcul de la valeur de r",
+      "label": "Calcul de la valeur de reprise :",
       "anchor": "#calcul-de-la-valeur-de-reprise"
     },
     {
@@ -132,8 +132,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/d5e45553-1ea5-4948-84ed-dfa6372a1f82",
+      "image_alt": "Homme adossé à une Alfa Romeo entre les arbres",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -149,8 +149,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/d5e45553-1ea5-4948-84ed-dfa6372a1f82",
+      "image_alt": "Homme adossé à une Alfa Romeo entre les arbres",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -166,8 +166,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/143/d5e45553-1ea5-4948-84ed-dfa6372a1f82",
+      "image_alt": "Homme adossé à une Alfa Romeo entre les arbres",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -195,7 +195,63 @@
         "href": "https://www.youtube.com/user/alfaromeofrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.fr/distributeur-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.fr/contacts#form"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFAROMEO.FR",
+            "href": "https://www.alfaromeo.fr"
+          },
+          {
+            "label": "ALFA ROMEO CERTIFIED",
+            "href": "https://www.certified.alfaromeo.fr"
+          },
+          {
+            "label": "STOCK ALFA ROMEO",
+            "href": "https://www.alfaromeo.fr/voitures-neuves-en-stock"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.fr/configurateur/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/declarationdeconfidentialite.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -208,7 +264,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -219,11 +275,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.alfaromeo.fr/comment-ca-marche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

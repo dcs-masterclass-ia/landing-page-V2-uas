@@ -18,8 +18,8 @@
     "og_image_alt": "AUTO VERKAUFEN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+    "logo_alt": "Logo von Peugeot Deutschland",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.autoankauf.peugeot.de/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Ihr Auto erfolgreich ver",
+      "label": "Ihr Auto erfolgreich verkaufen",
       "anchor": "#ihr-auto-erfolgreich-verkaufen"
     },
     {
@@ -124,7 +124,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -157,7 +157,50 @@
         "href": "https://www.youtube.com/user/PEUGEOTdeutschland"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.autoankauf.peugeot.de/weitere-informationen"
+          },
+          {
+            "label": "KONTAKTIEREN SIE UNS",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=de"
+          },
+          {
+            "label": "ALLGEMEINE GESCHÄFTSBEDINGUNGEN",
+            "href": "https://media.peugeot.de/file/75/1/allgemeine-geschaeftsbedingungen-peugeot-kauft-ihr-auto.644751.pdf#_ga=2.185162666.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE / DATENSCHUTZ",
+            "href": "https://www.peugeot.de/nutzliche-links/rechtliche-hinweise.html#_ga=2.185162666.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "IMPRESSUM",
+            "href": "https://www.peugeot.de/impressum.html#_ga=2.139598768.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "Erklärung Barrierefreiheit",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "DIE MARKE PEUGEOT",
+            "href": "https://www.peugeot.de/#_ga=2.243478534.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.de/"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -170,7 +213,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von PEUGEOT hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo von Peugeot Deutschland",
     "provider_url": "https://www.autoankauf.peugeot.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -181,14 +224,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.autoankauf.peugeot.de/autoverkauf",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
       "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/content-serenity.jpg",
       "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/content-fast.jpg",
       "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/content-safe.jpg",
-      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

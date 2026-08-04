@@ -18,8 +18,8 @@
     "og_image_alt": "AUTO BEWERTEN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.autoankauf.dsautomobiles.de/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.autoankauf.dsautomobiles.de/"
   },
@@ -161,7 +161,51 @@
   "footer": {
     "tagline": "Mit der professionellen Auto-Bewertung von DS erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Impressum",
+            "href": "https://www.dsautomobiles.de/impressum.html"
+          },
+          {
+            "label": "Rechtliche Hinweise",
+            "href": "https://www.dsautomobiles.de/rechtliche-hinweise.html"
+          },
+          {
+            "label": "Erklärung Barrierefreiheit",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Datenschutzrichtlinie",
+            "href": "https://www.dsautomobiles.de/datenschutzrichtlinie.html"
+          },
+          {
+            "label": "Cookie-Einwilligung",
+            "href": "#"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Nutzungsbedingungen",
+            "href": "/nutzungsbedingungen-ds-kauft-ihr-auto.pdf"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.de/"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -174,7 +218,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Mit der professionellen Auto-Bewertung von DS erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.autoankauf.dsautomobiles.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",

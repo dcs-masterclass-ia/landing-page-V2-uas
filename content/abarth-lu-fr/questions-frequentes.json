@@ -18,8 +18,8 @@
     "og_image_alt": "Foire aux questions"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
+    "logo_alt": "Abarth",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.abarth.lu/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "JE N’AI PAS REÇU MON EST",
+      "label": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
       "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
     }
   ],
@@ -145,7 +145,7 @@
         "Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles",
         "Le cas échéant, la clé des écrous antivol de vos roues"
       ],
-      "image": "https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
+      "image": "https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -178,7 +178,59 @@
         "href": "https://www.youtube.com/user/teamAbarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.Abarth.lu/distributeur-Abarth"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.Abarth.lu/service-clientele"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.LU",
+            "href": "https://www.Abarth.lu/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.Abarth.lu/devis"
+          },
+          {
+            "label": "CONFIGURER",
+            "href": "https://www.Abarth.lu/configurateur/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -191,7 +243,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Abarth",
     "provider_url": "https://reprise.abarth.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -202,13 +254,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.abarth.lu/questions-frequentes",
-    "medias_trouves": 4,
+    "medias_trouves": 2,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
       "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
-      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

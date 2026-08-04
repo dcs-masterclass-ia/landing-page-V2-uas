@@ -18,8 +18,8 @@
     "og_image_alt": "ESTIMATION DE VOTRE VOITURE SANS ENGAGEMENT ET 100% Gratuite"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.fr/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi évaluer votre v",
+      "label": "Pourquoi évaluer votre voiture sur notre site ?",
       "anchor": "#pourquoi-evaluer-votre-voiture-sur-notre"
     },
     {
-      "label": "Obtenir l’estimation de ",
+      "label": "Obtenir l’estimation de ma voiture avec le réseau ALFA ROMEO: Fonctionnement",
       "anchor": "#obtenir-lestimation-de-ma-voiture-avec-l"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#alfa-romeoalfa-romeo"
     },
     {
-      "label": "Les atouts de l’estimati",
+      "label": "Les atouts de l’estimation de voiture en ligne avec le réseau ALFA ROMEO",
       "anchor": "#les-atouts-de-lestimation-de-voiture-en-"
     },
     {
-      "label": "Estimation de votre voit",
+      "label": "Estimation de votre voiture 100 % gratuite et en ligne",
       "anchor": "#estimation-de-votre-voiture-100-gratuite"
     }
   ],
@@ -105,8 +105,8 @@
         "Une estimation parfaitement fiable, basé sur des données robustes observées sur le marché",
         "L'expertise du réseau Alfa Romeo à votre service pour reprendre votre véhicule. Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre service si vous souhaitez la revendre."
       ],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -125,8 +125,8 @@
         "La carte grise de votre voiture",
         "Le kilométrage de votre voiture"
       ],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -163,8 +163,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -178,8 +178,8 @@
       "bullets": [
         ": Vous pouvez évaluer la valeur de reprise de votre véhicule rapidement et sans aucun frais grâce aux compétences du réseau Alfa Romeo, vous êtes sûrs de recevoir une estimation professionnelle et fiable."
       ],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -193,8 +193,8 @@
       "bullets": [
         ": vous souhaitez prendre le temps de la réflexion ? Soyez rassuré! Votre estimation reste valable durant 10 jours."
       ],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -213,8 +213,8 @@
         "Fort de plusieurs points de vente, le réseau Alfa Romeo est le meilleur moyen de faire reprendre votre voiture facilement.",
         "Recevez votre valeur de reprise instantanément! Dès lors que vous aurez rempli le questionnaire lié à votre véhicule, vous connaitrez l’évaluation de son prix."
       ],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -229,7 +229,7 @@
           "text": "1. COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
         },
         {
-          "text": "L’estimation se base sur :• Les attributs de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• L’analyse du marché automobile : transactions récentes faites par des professionnels sur des véhicules similaires.• Un calcul des frais de remise en état de votre auto. Ces frais sont évolutifs en fonction de l'état réel constaté du véhicule."
+          "text": "L’estimation se base sur"
         },
         {
           "text": "2. COMMENT FONCTIONNE LA REPRISE PAR ALFA ROMEO?"
@@ -247,7 +247,7 @@
           "text": "4. QUELS SONT LES AVANTAGES À UTILISER LE SERVICE REPRISE ALFA ROMEO?"
         },
         {
-          "text": "• Rapidité. Quelques clics suffisent pour obtenir l’estimation de la valeur de votre véhicule par email. Cette estimation de reprise est sans engagement.• Sérénité. Pas mauvaises surprises. En sollicitant le service de Reprise ALFA ROMEO vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.• Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire ALFA ROMEO."
+          "text": "Rapidité. Quelques clics suffisent pour obtenir l’estimation de la valeur de votre véhicule par email. Cette estimation de reprise est sans engagement."
         },
         {
           "text": "5. A QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
@@ -256,9 +256,15 @@
           "text": "L’estimation de reprise proposée par Reprise ALFA ROMEO est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Cela ne vous engage en rien. Libre à vous de prendre un rendez-vous avec nos experts ALFA ROMEO."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les attributs de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "L’analyse du marché automobile : transactions récentes faites par des professionnels sur des véhicules similaires.",
+        "Un calcul des frais de remise en état de votre auto. Ces frais sont évolutifs en fonction de l'état réel constaté du véhicule.",
+        "Sérénité. Pas mauvaises surprises. En sollicitant le service de Reprise ALFA ROMEO vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.",
+        "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire ALFA ROMEO."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/2f12dbfe-7299-495f-a120-0f38dc2f56f1",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -286,7 +292,63 @@
         "href": "https://www.youtube.com/user/alfaromeofrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.fr/distributeur-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.fr/contacts#form"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFAROMEO.FR",
+            "href": "https://www.alfaromeo.fr"
+          },
+          {
+            "label": "ALFA ROMEO CERTIFIED",
+            "href": "https://www.certified.alfaromeo.fr"
+          },
+          {
+            "label": "STOCK ALFA ROMEO",
+            "href": "https://www.alfaromeo.fr/voitures-neuves-en-stock"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.fr/configurateur/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/declarationdeconfidentialite.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -299,7 +361,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez votre voiture simplement, rapidement et sans engagement ! Obtenez rapidement la valeur de votre véhicule sans vous déplacer !",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -310,12 +372,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.alfaromeo.fr/lp/estimation-voiture",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/157/c00ebcb5-958a-4ead-b683-bfba2288ae4b",
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.fr/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

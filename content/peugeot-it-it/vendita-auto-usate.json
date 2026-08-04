@@ -18,8 +18,8 @@
     "og_image_alt": "Per vendere la tua auto usata un servizio gratuito"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/51/8e5d2091-859c-4d14-9bc1-b274a19b899a",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutiamoiltuousato.peugeot.it/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Calcola la mia offerta d",
+      "label": "Calcola la mia offerta di ritiro",
       "anchor": "#calcola-la-mia-offerta-di-ritiro"
     },
     {
-      "label": "Per vendere la tua auto ",
+      "label": "Per vendere la tua auto usata senza inconvenienti.",
       "anchor": "#per-vendere-la-tua-auto-usata-senza-inco"
     },
     {
-      "label": "Vendita auto usate : i v",
+      "label": "Vendita auto usate : i vantaggi di una permuta",
       "anchor": "#vendita-auto-usate-i-vantaggi-di-una-per"
     },
     {
-      "label": "Vendita auto usate : com",
+      "label": "Vendita auto usate : come funziona la permuta ?",
       "anchor": "#vendita-auto-usate-come-funziona-la-perm"
     },
     {
-      "label": "Vendita auto usate : Vuo",
+      "label": "Vendita auto usate : Vuoi vendere la tua auto usata al miglior prezzo?",
       "anchor": "#vendita-auto-usate-vuoi-vendere-la-tua-a"
     }
   ],
@@ -115,8 +115,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -132,8 +132,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,12 +148,16 @@
           "text": "È importante sottolineare che questa fase di stima non ti impegna in alcun modo. Riceverai semplicemente un'indicazione approssimativa del valore della tua auto, che ti aiuterà a prendere una decisione informata sulla vendita. Comprendiamo che il valore del tuo veicolo può influenzare la tua scelta di procedere con la permuta o esplorare altre opzioni. Pertanto, la nostra stima sarà trasparente e basata su dati affidabili, fornendoti una valutazione realistica della tua auto usata. Ricorda che la stima del valore di mercato fornita durante questa fase sarà confermata successivamente dall'esperto durante la diagnosi fisica dell'auto nella fase 3. In questo modo, garantiamo un processo equo e trasparente, dove potrai avere un'ulteriore conferma del valore della tua auto prima di prendere una decisione finale sulla vendita. Nella fase 3, il concessionario di tua scelta ti contatterà per fissare un appuntamento. L'esperto effettuerà una diagnosi fisica dell'auto in tua presenza e ti fornirà un prezzo finale di permuta. Se sei soddisfatto del prezzo, venderai la tua auto usata direttamente al concessionario, senza ulteriori formalità amministrative: pensiamo a tutto noi!"
         },
         {
-          "text": "La stima viene effettuata prendendo in considerazione diversi aspetti, tra cui: • Informazioni sull'auto: marca, modello, versione, chilometraggio, età, ecc. • Transazioni recenti relative al modello di veicolo sul mercato professionale dell'auto. • Una detrazione per i costi standard di ricondizionamento.Tale tariffa può essere modificata a seconda delle reali condizioni dell'auto durante l'ispezione fisica da parte del concessionario."
+          "text": "La stima viene effettuata prendendo in considerazione diversi aspetti, tra cui"
         }
       ],
-      "bullets": [],
-      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Informazioni sull'auto: marca, modello, versione, chilometraggio, età, ecc.",
+        "Transazioni recenti relative al modello di veicolo sul mercato professionale dell'auto.",
+        "Una detrazione per i costi standard di ricondizionamento.Tale tariffa può essere modificata a seconda delle reali condizioni dell'auto durante l'ispezione fisica da parte del concessionario."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -169,8 +173,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -213,8 +217,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -246,7 +250,42 @@
         "href": "https://www.youtube.com/user/peugeotitalia"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Peugeot",
+        "links": [
+          {
+            "label": "Peugeot.it",
+            "href": "https://www.peugeot.it/#_ga=2.199827950.1747845445.1592815847-488276229.1588599671"
+          },
+          {
+            "label": "Acquista la tua Peugeot online",
+            "href": "https://store.peugeot.it/configurable"
+          },
+          {
+            "label": "Spoticar.it",
+            "href": "https://www.spoticar.it/"
+          }
+        ]
+      },
+      {
+        "title": "Note legali",
+        "links": [
+          {
+            "label": "Note legali",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Informativa privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Dichiarazione di accessibilità",
+            "href": "https://usine-a-sites.s3.amazonaws.com/51/0e0573d1-3ff7-48a8-a8e7-546bb5ba924f"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -259,7 +298,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://www.valutiamoiltuousato.peugeot.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -270,11 +309,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutiamoiltuousato.peugeot.it/lp/vendita-auto-usate",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

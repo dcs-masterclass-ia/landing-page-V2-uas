@@ -18,8 +18,8 @@
     "og_image_alt": "ESTIMATION DE VOTRE VOITURE SANS ENGAGEMENT ET 100% Gratuite"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/137/b1943761-6748-4aa8-96da-b8e4364aa64a",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiat.fr/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi évaluer votre v",
+      "label": "Pourquoi évaluer votre voiture sur notre site ?",
       "anchor": "#pourquoi-evaluer-votre-voiture-sur-notre"
     },
     {
-      "label": "Obtenir l’estimation de ",
+      "label": "Obtenir l’estimation de ma voiture avec le réseau FIAT: Fonctionnement",
       "anchor": "#obtenir-lestimation-de-ma-voiture-avec-l"
     },
     {
-      "label": "Estimation voiture : Que",
+      "label": "Estimation voiture : Questions Fréquentes",
       "anchor": "#estimation-voiture-questions-frequentes"
     }
   ],
@@ -97,8 +97,8 @@
         "Une estimation parfaitement fiable, basé sur des données robustes observées sur le marché",
         "L'expertise du réseau FIAT à votre service pour reprendre votre véhicule. Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre service si vous souhaitez la revendre."
       ],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -134,12 +134,17 @@
           "text": "Dans le questionnaire que vous avez renseigné, vous aurez choisi un PDV dans lequel vous souhaiteriez vous rendre pour poursuivre le processus. À la suite de votre évaluation, vous serez recontacté par le concessionnaire FIAT que vous aurez choisi pour convenir d'un rendez-vous. Ce rendez-vous aura pour but de finaliser l’estimation de votre véhicule. Si cette évaluation vous convient, votre concessionnaire se chargera de la reprise de votre véhicule sans tracasseries administrative pour vous !"
         },
         {
-          "text": "• Gratuité et dématérialisation totale de l’évaluation en ligne : vous ne souhaitez pas vous déplacer pour obtenir votre évaluation ?Pas de problème ! Nous vous permettons d'évaluer votre voiture directement sur notre site internet et surtout gratuitement !• Fiabilité de l’estimation de votre voiture : avec l’expérience du réseau FIAT, vous pouvez être rassurés quant à la fiabilité de l’estimation de votre voiture qui vous est proposée.• Estimation valable pendant 10 jours : vous n’avez pas besoin de vous précipiter ! Votre estimation est valable durant 10 jours.• Un réseau large pour faire reprendre votre voiture partout en France : Avec plus de 300 points de vente dans le réseau FIAT, faire reprendre votre voiture n'aura jamais été aussi facile.• Estimation de voiture rapide — vous recevez la valeur de votre voiture instantanément : pas besoin d'attendre !À la fin du formulaire, vous obtenez l'estimation de votre voiture."
+          "text": "Gratuité et dématérialisation totale de l’évaluation en ligne : vous ne souhaitez pas vous déplacer pour obtenir votre évaluation ?Pas de problème ! Nous vous permettons d'évaluer votre voiture directement sur notre site internet et surtout gratuitement !"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Fiabilité de l’estimation de votre voiture : avec l’expérience du réseau FIAT, vous pouvez être rassurés quant à la fiabilité de l’estimation de votre voiture qui vous est proposée.",
+        "Estimation valable pendant 10 jours : vous n’avez pas besoin de vous précipiter ! Votre estimation est valable durant 10 jours.",
+        "Un réseau large pour faire reprendre votre voiture partout en France : Avec plus de 300 points de vente dans le réseau FIAT, faire reprendre votre voiture n'aura jamais été aussi facile.",
+        "Estimation de voiture rapide — vous recevez la valeur de votre voiture instantanément : pas besoin d'attendre !À la fin du formulaire, vous obtenez l'estimation de votre voiture."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -154,7 +159,7 @@
           "text": "1. QUEL EST LE PROCÉDÉ POUR CALCULER L’ESTIMATION DE MA VOITURE ?"
         },
         {
-          "text": "L’estimation de votre voiture est calculée à partir de :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. Sont aussi déduits du montant obtenu les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule évalué en concession."
+          "text": "L’estimation de votre voiture est calculée à partir de"
         },
         {
           "text": "2. QUEL EST LE MODE DE FONCTIONNEMENT DE LA REPRISE FIAT ?"
@@ -181,7 +186,7 @@
           "text": "4. QUELS SONT LES BÉNÉFICES LIÉS À L’UTILISATION DU SERVICE DE REPRISE FIAT ?"
         },
         {
-          "text": "• estimation en moins de 5 minutes, sans engagement.• estimation basée sur des transactions réelles et observations du marché.• paiement garanti et sécurisé par un concessionnaire FIAT PROFESSIONAL."
+          "text": "estimation en moins de 5 minutes, sans engagement."
         },
         {
           "text": "Vitesse :"
@@ -199,9 +204,14 @@
           "text": "L’estimation proposée par Reprise FIAT est sans engagement. Vous recevez une proposition gratuite sous 24h. Vous êtes libre de rendre un rendez-vous avec nos experts FIAT afin de finaliser votre estimation."
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. Sont aussi déduits du montant obtenu les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule évalué en concession.",
+        "estimation basée sur des transactions réelles et observations du marché.",
+        "paiement garanti et sécurisé par un concessionnaire FIAT PROFESSIONAL."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "Les atouts de l’estimation de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -233,7 +243,67 @@
         "href": "https://www.youtube.com/user/FIATFRANCE"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.fiat.fr/concessionnaires-fiat"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiat.fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.FR",
+            "href": "https://www.fiat.fr"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/fiat "
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiat.fr/offres"
+          },
+          {
+            "label": "STOCK FIAT",
+            "href": "https://www.fiat.fr/voitures-neuves-en-stock"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-de-confidentialite.pdf"
+          },
+          {
+            "label": "Gestion des cookies",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -246,7 +316,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez votre voiture simplement, rapidement et sans engagement ! Obtenez en quelques clics la valeur de votre véhicule sur le marché et sans vous déplacer!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://reprise.fiat.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -257,12 +327,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiat.fr/lp/estimation-voiture",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 3,
     "notes": [
       "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

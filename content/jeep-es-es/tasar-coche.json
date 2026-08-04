@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche sin compromiso y gratuitamente y online"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://tasacion.jeep.es/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.jeep.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Tasar coche con la opció",
+      "label": "Tasar coche con la opción online",
       "anchor": "#tasar-coche-con-la-opcion-online"
     },
     {
-      "label": "¿Cómo se va a tasar tu c",
+      "label": "¿Cómo se va a tasar tu coche?",
       "anchor": "#como-se-va-a-tasar-tu-coche"
     },
     {
-      "label": "Los pro de la tasación d",
+      "label": "Los pro de la tasación de su coche en línea",
       "anchor": "#los-pro-de-la-tasacion-de-su-coche-en-li"
     },
     {
-      "label": "¡Encuentra cuánto vale t",
+      "label": "¡Encuentra cuánto vale tu coche en no más de 5 minutos!",
       "anchor": "#encuentra-cuanto-vale-tu-coche-en-no-mas"
     },
     {
-      "label": "Tasar coche: Preguntas c",
+      "label": "Tasar coche: Preguntas claves",
       "anchor": "#tasar-coche-preguntas-claves"
     }
   ],
@@ -102,8 +102,8 @@
         "La tasación es fiable y se obtiene gracias a la gran experiencia de Jeep",
         "La amplia experiencia de la red Jeep que está a tu servicio para recuperar tu vehículo, lo hace solo si quieres."
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "Encuentra cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -141,8 +141,8 @@
         "Kilometraje exacto del coche",
         "Lista de los daños del coche"
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "Encuentra cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -163,8 +163,8 @@
         "Tasación va a ser válida por 10 días: ¿Estás dudando si decidir de inmediato? ¡No tienes que preocuparte! Tu tasación es válida por los próximos 10 días. Cuentas con una red amplia para vender tu coche donde quiera que estés en España: Teniendo alrededor de 100 puntos de ventas en la red Jeep, vender tu coche será muy fácil con nosotros.",
         "Tasación pronta - Vas a obtener el precio de inmediato: ¡No necesitas esperar! Al momento en que terminas de completar el formulario, vas a recibir la tasación de tu coche."
       ],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "Encuentra cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -180,8 +180,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "Encuentra cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -196,7 +196,7 @@
           "text": "¿DE QUÉ FORMA SE CALCULA LA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación se va a basar en: • Los datos importantes de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje. • Exploración del mercado: Se estudian las transacciones nuevas realizadas por profesionales sobre modelos parecidos. • Se deduce el costo de rehabilitación a su estado estándar. Los costos son graduables dependiendo de cómo esté el vehículo."
+          "text": "La tasación se va a basar en"
         },
         {
           "text": "TASACIÓN POR JEEP, ¿CÓMO FUNCIONA?"
@@ -214,7 +214,7 @@
           "text": "¿VENTAJAS MÁS CLARAS AL USAR EL SERVICIO TASACIÓN JEEP?"
         },
         {
-          "text": "• Inmediatez. Luego de algunos clics, te brindan una tasación del valor del vehículo por correo electrónico. La tasación viene sin compromisos. Tranquilidad • Sin sorpresas malas. Cuando pides el servicio Tasación Jeep, tienes una tasación del valor de tu vehículo hecha por un profesional automotriz. Cada uno de los vehículos se valoran en función de las observaciones que da el mercado y las transacciones actuales. • Muy seguro. El pago de tu vehículo se garantiza y es seguro. Con la transacción, el pago del vehículo es llevado a cabo por el concesionario Jeep."
+          "text": "Inmediatez. Luego de algunos clics, te brindan una tasación del valor del vehículo por correo electrónico. La tasación viene sin compromisos. Tranquilidad"
         },
         {
           "text": "¿CON QUE ME ESTOY COMPROMETIENDO CON UNA TASACIÓN?"
@@ -223,9 +223,15 @@
           "text": "La tasación que se propone por Tasación Jeep no conlleva compromiso. Recibirás gratuitamente nuestra propuesta dentro de 24h (durante días hábiles). Tasación con cero compromiso para ti. Puede hacer una cita con nuestros expertos Jeep."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Los datos importantes de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje.",
+        "Exploración del mercado: Se estudian las transacciones nuevas realizadas por profesionales sobre modelos parecidos.",
+        "Se deduce el costo de rehabilitación a su estado estándar. Los costos son graduables dependiendo de cómo esté el vehículo.",
+        "Sin sorpresas malas. Cuando pides el servicio Tasación Jeep, tienes una tasación del valor de tu vehículo hecha por un profesional automotriz. Cada uno de los vehículos se valoran en función de las observaciones que da el mercado y las transacciones actuales.",
+        "Muy seguro. El pago de tu vehículo se garantiza y es seguro. Con la transacción, el pago del vehículo es llevado a cabo por el concesionario Jeep."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/a93df07d-7a37-443c-b4a3-4ac823e220d3",
+      "image_alt": "Encuentra cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -253,7 +259,59 @@
         "href": "https://www.youtube.com/user/JeepEsp"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.jeep.es/concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.jeep.es/contactos"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.ES",
+            "href": "https://www.jeep.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/jeep"
+          },
+          {
+            "label": "JEEP CONFIGURADOR",
+            "href": "https://www.jeep.es/configurador/#/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-jeep.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -266,7 +324,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://tasacion.jeep.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -277,11 +335,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.jeep.es/lp/tasar-coche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

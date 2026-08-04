@@ -18,8 +18,8 @@
     "og_image_alt": "HOE WERKT HET ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/92/9006c8c9-b42b-44c5-9474-7bfc848aca64",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.peugeot.be/"
   },
@@ -186,7 +186,50 @@
         "href": "https://www.linkedin.com/company/automobiles-peugeot/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "DE PEUGEOT ERVARING",
+        "links": [
+          {
+            "label": "Kies je Peugeot",
+            "href": "https://www.peugeot.be/nl/gamma/configureer-je-nieuwe-peugeot.html"
+          },
+          {
+            "label": "Gelegenheden Peugeot",
+            "href": "https://www.peugeot.be/nl/spoticar.html"
+          },
+          {
+            "label": "Peugeot.be",
+            "href": "https://www.peugeot.be/nl/"
+          },
+          {
+            "label": "Contacteer ons",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=nl_BE"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites.s3.amazonaws.com/92/7edf4708-9cdc-4543-a2a4-ed0dd028b64b"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "https://www.peugeot.be/nl/wettelijke-bepalingen"
+          },
+          {
+            "label": "PRIVACY BELEID",
+            "href": "/privacybeleid.pdf"
+          },
+          {
+            "label": "TOEGANKELIJKHEIDSVERKLARING",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-6-30 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -199,7 +242,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://overname.peugeot.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -210,14 +253,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.peugeot.be/hoe-werkt-het",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-serenity.jpg",
       "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-fast.jpg",
       "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-safe.jpg",
-      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

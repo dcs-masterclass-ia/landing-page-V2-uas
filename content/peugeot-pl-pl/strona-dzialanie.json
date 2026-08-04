@@ -18,8 +18,8 @@
     "og_image_alt": "JAK TO DZIAŁA?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.peugeot.pl/build/img/peugeot/brand-logo-site.png",
+    "logo_alt": "Peugeot",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.peugeot.pl/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Usługa Peugeot z odkupem",
+      "label": "Usługa Peugeot z odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
       "anchor": "#usuga-peugeot-z-odkupem-to-usuga-umozliw"
     },
     {
@@ -128,7 +128,7 @@
         "Kilkoma kliknięciami wprowadź dane techniczne samochodu.",
         "Otrzymaj natychmiastową wycenę jego wartości."
       ],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
+      "image": "https://odkup.peugeot.pl/build/img/peugeot/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -145,7 +145,7 @@
         "Jeśli samochód okaże się zgodny z wyceną dokonaną online, dealer zajmie się całą procedurą odkupu.",
         "Gwarantowana szybka płatność"
       ],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
+      "image": "https://odkup.peugeot.pl/build/img/peugeot/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -178,7 +178,63 @@
         "href": "https://www.youtube.com/c/peugeotpolska"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.peugeot.pl/lacza/znadj-dealera.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/case-webform?language=pl#1"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.PL",
+            "href": "https://www.peugeot.pl/"
+          },
+          {
+            "label": "PEUGEOT SAMOCHODY UŻYWANE",
+            "href": "https://www.peugeot.pl/used-vehicles/Spoticar-Peugeot-uzywane.html"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.peugeot.pl/wybierz-samochod/kup-peugeot/nasze-oferty.html"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/147/0b4f0d7b-f5e3-4f9b-b254-0cb3bd3bdc58"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.peugeot.pl/lacza/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "#"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -191,7 +247,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Peugeot - możemy odkupić Twój samochód.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://odkup.peugeot.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -202,14 +258,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.peugeot.pl/strona-dzialanie",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 4,
     "notes": [
       "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/content-serenity.jpg",
       "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/content-fast.jpg",
       "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/content-safe.jpg",
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

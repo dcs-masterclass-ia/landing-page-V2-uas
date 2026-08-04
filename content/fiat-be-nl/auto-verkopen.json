@@ -18,8 +18,8 @@
     "og_image_alt": "Een auto verkopen: de voordelen van inruil"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/121/670d936c-ecd1-42d2-a75f-8d0da77fe98d",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.fiat.be/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Mijn overnamewaarde bere",
+      "label": "Mijn overnamewaarde berekenen",
       "anchor": "#mijn-overnamewaarde-berekenen"
     },
     {
-      "label": "3 stappen om je auto te ",
+      "label": "3 stappen om je auto te verkopen",
       "anchor": "#3-stappen-om-je-auto-te-verkopen"
     },
     {
-      "label": "Stap 1: Voer uw voertuig",
+      "label": "Stap 1: Voer uw voertuigprofiel in",
       "anchor": "#stap-1-voer-uw-voertuigprofiel-in"
     },
     {
@@ -97,10 +97,13 @@
           "text": "Bij Overname Fiat kun je gratis en vrijblijvend laten checken wat je auto waard is als je wilt inruilen. Dit is veel veiliger dan het verkopen aan particulieren omdat je wordt geholpen door een professional van het Fiat-netwerk en je een betalingsgarantie krijgt."
         },
         {
-          "text": "● Je krijgt meteen en helemaal gratis online of per e-mail een offerte. ● Als je akkoord gaat, belt een dealer bij jou in de buurt om een afspraak te maken op een tijdstip dat voor jou uitkomt. ● We zorgen dat je snel en zeker betaald wordt."
+          "text": "Je krijgt meteen en helemaal gratis online of per e-mail een offerte."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Als je akkoord gaat, belt een dealer bij jou in de buurt om een afspraak te maken op een tijdstip dat voor jou uitkomt.",
+        "We zorgen dat je snel en zeker betaald wordt."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/155/9a1dea47-531b-4664-9815-e514fc04eaa6",
       "image_alt": "3 stappen om je auto te verkopen Fiat",
       "tag": "TODO_ARBITRAGE",
@@ -118,8 +121,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "fiat Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -138,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "fiat Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -151,15 +154,23 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Als u uw auto aan een particulier verkoopt: ● Geen enkele garantie ● Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt: ● Een snelle online evaluatie. ● Geen verplichting. ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk. ● Veilige betaling. ● Wij helpen u bij de administratieve procedures."
+          "text": "Als u uw auto aan een particulier verkoopt"
         },
         {
           "text": "Binnen 5 minuten weet u hoeveel uw auto waard is!"
         }
       ],
-      "bullets": [],
-      "image": "https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Geen enkele garantie",
+        "Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt",
+        "Een snelle online evaluatie.",
+        "Geen verplichting.",
+        "Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk.",
+        "Veilige betaling.",
+        "Wij helpen u bij de administratieve procedures."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "fiat Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -174,13 +185,13 @@
           "text": "Hoe verkoop ik mijn auto?"
         },
         {
-          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Even een afspraak maken: Vul het formulier in en jouw gekozen dealer neemt binnen 24 uur contact op. Vind je de schatting leuk? Dan regelt onze Fiat-professional een afspraak voor je in de showroom op de dag die jou uitkomt, om te zorgen dat de overname van jouw auto goed verloopt. ● Profiteer van de expertise van Fiat: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+          "text": "Verkoop uw auto gemakkelijk"
         },
         {
           "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
         },
         {
-          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+          "text": "De schatting houdt rekening met"
         },
         {
           "text": "Hoe maak ik een afspraak?"
@@ -195,9 +206,16 @@
           "text": "Met het Fiat-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Fiat-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
         }
       ],
-      "bullets": [],
-      "image": "https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden.",
+        "Even een afspraak maken: Vul het formulier in en jouw gekozen dealer neemt binnen 24 uur contact op. Vind je de schatting leuk? Dan regelt onze Fiat-professional een afspraak voor je in de showroom op de dag die jou uitkomt, om te zorgen dat de overname van jouw auto goed verloopt.",
+        "Profiteer van de expertise van Fiat: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug.",
+        "De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname.",
+        "Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen.",
+        "Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "fiat Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -225,7 +243,55 @@
         "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERDELERS",
+            "href": "https://www.fiat.be/nl/dealers"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.fiat.be/nl/contacts"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.BE.NL",
+            "href": "https://www.fiat.be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.fiat.be/nl/offerte-aanvragen"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.fiat.be/nl/tweedehandswagens"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/119/f902d6b5-daf0-4427-a72a-98a439fb798b"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -238,7 +304,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://overname.fiat.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -249,12 +315,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.fiat.be/lp/auto-verkopen",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

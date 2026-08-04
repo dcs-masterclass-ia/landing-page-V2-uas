@@ -18,8 +18,8 @@
     "og_image_alt": "ILE JEST WART MÓJ SAMOCHÓD? W OPEL MAMY DLA CIEBIE ODPOWIEDŹ."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.alfaromeo.pl/"
   },
@@ -39,11 +39,11 @@
   },
   "subnav": [
     {
-      "label": "DLACZEGO WARTO WYCENIĆ S",
+      "label": "DLACZEGO WARTO WYCENIĆ SWÓJ SAMOCHÓD NA NASZEJ STRONIE?",
       "anchor": "#dlaczego-warto-wycenic-swoj-samochod-na-"
     },
     {
-      "label": "WYCENA POJAZDU: JAK TO D",
+      "label": "WYCENA POJAZDU: JAK TO DZIAŁA?",
       "anchor": "#wycena-pojazdu-jak-to-dziaa"
     },
     {
@@ -89,8 +89,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/851094ca-b38f-4e55-8d56-1d01df021980",
+      "image_alt": "Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -109,8 +109,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/851094ca-b38f-4e55-8d56-1d01df021980",
+      "image_alt": "Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -147,8 +147,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/851094ca-b38f-4e55-8d56-1d01df021980",
+      "image_alt": "Alfa Romeo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -184,7 +184,67 @@
         "href": "https://www.linkedin.com/company/alfa-romeo"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.alfaromeo.pl/dealerzy-alfa-romeo"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.alfaromeo.pl/kontakt"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFA ROMEO.PL",
+            "href": "https://www.alfaromeo.pl/"
+          },
+          {
+            "label": "ALFA ROMEO SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.alfaromeo.pl/promocje"
+          },
+          {
+            "label": "ALFA ROMEO SALON",
+            "href": "https://salon.alfaromeo.pl/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/150/b8d90320-3fdc-4b63-8e2a-f84d65607579"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -197,7 +257,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Określ wartość swojego samochodu za pomocą narzędzia online Alfa Romeo→ w 100% bezpiecznie, szybko i bezpłatnie",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://odkup.alfaromeo.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -208,11 +268,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.alfaromeo.pl/lp/wycena-pojazdu",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
-      "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.alfaromeo.pl/build/img/alfa_romeo/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

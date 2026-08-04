@@ -18,8 +18,8 @@
     "og_image_alt": "¿Por qué elegir tasación DS Automobiles?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.dsautomobiles.es/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.dsautomobiles.es/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "UNA TASACIÓN FÁCIL Y RÁP",
+      "label": "UNA TASACIÓN FÁCIL Y RÁPIDA EN DS",
       "anchor": "#una-tasacion-facil-y-rapida-en-ds"
     },
     {
-      "label": "Las etapas de la venta c",
+      "label": "Las etapas de la venta con su DS Store:",
       "anchor": "#las-etapas-de-la-venta-con-su-ds-store"
     },
     {
@@ -181,7 +181,54 @@
   "footer": {
     "tagline": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Cookies",
+            "href": "http://info.evidon.com/pub_info/6937?v=1"
+          },
+          {
+            "label": "Newsletter",
+            "href": "http://www.dsautomobiles.es/contacto/inscripcion-newsletter.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Transformación DS Automobiles España",
+            "href": "http://www.dsautomobiles.es/transformacion-ds-automobiles-espana.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Consentimiento de cookies",
+            "href": "#"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles.ES",
+            "href": "https://www.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.es/"
+          },
+          {
+            "label": "Vehículos en stock",
+            "href": "https://dsonlinestore.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Store Online",
+            "href": "https://store.dsautomobiles.es/configurable"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -194,7 +241,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.tasacion.dsautomobiles.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",

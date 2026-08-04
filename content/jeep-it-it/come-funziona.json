@@ -18,9 +18,9 @@
     "og_image_alt": "Come funziona ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
-    "cta_label": "Calcola la mia offerta di permuta",
+    "logo": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
+    "cta_label": "Iniziare la valutazione",
     "cta_href": "https://www.valutazioneusato.jeep-official.it/"
   },
   "breadcrumb": [
@@ -38,16 +38,16 @@
     "tag": "Valutazione gratuita online",
     "h1": "Come funziona ?",
     "lead": "Scegliere Jeep<sub>®</sub> per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
-    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_label": "Iniziare la valutazione",
     "cta_href": "https://www.valutazioneusato.jeep-official.it/"
   },
   "subnav": [
     {
-      "label": "Jeep Valutazione è un se",
+      "label": "Jeep Valutazione è un servizio online che ti permette di ottenere un'offerta di permuta gratuita per il tuo veicolo.",
       "anchor": "#jeep-valutazione-e-un-servizio-online-ch"
     },
     {
-      "label": "Un ritiro facile e sicur",
+      "label": "Un ritiro facile e sicuro della vostra auto.",
       "anchor": "#un-ritiro-facile-e-sicuro-della-vostra-a"
     },
     {
@@ -130,7 +130,7 @@
       "bullets": [
         "Jeep vi offre un'alternativa per evitare spiacevoli sorprese e procedure amministrative."
       ],
-      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -145,7 +145,7 @@
       "bullets": [
         "Con pochi clic, inserisci i dati del tuo veicolo e riceverai immediatamente una stima del suo valore."
       ],
-      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -160,7 +160,7 @@
       "bullets": [
         "Sei soddisfatto della nostra offerta di permuta? Fissate un appuntamento con il concessionario Jeep di vostra scelta."
       ],
-      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -189,7 +189,42 @@
         "href": "https://www.youtube.com/@JeepItalia"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Jeep ®",
+        "links": [
+          {
+            "label": "Sito Jeep ®",
+            "href": "https://www.jeep-official.it/"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.it/trova-veicoli-usati/jeep"
+          },
+          {
+            "label": "Acquista online",
+            "href": "https://www.jeep-official.it/e-shop"
+          }
+        ]
+      },
+      {
+        "title": "NOTE LEGALI",
+        "links": [
+          {
+            "label": "Condizioni uso",
+            "href": "https://usine-a-sites.s3.amazonaws.com/167/c975acde-e459-44e9-82f4-5ae64031d48d"
+          },
+          {
+            "label": "Privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Cookies",
+            "href": "javascript:getCookieOpenModal()"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -202,7 +237,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Scegliere Jeep<sub>®</sub> per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://www.valutazioneusato.jeep-official.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -213,14 +248,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.jeep-official.it/come-funziona",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-serenity.jp",
       "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-fast.jpg",
       "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/content-safe.jpg",
-      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche Todo el linea"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/154/a835c908-19fe-47ec-a43a-ce919149b66e",
+    "logo_alt": "Logo Abarth",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.abarth.es/"
   },
@@ -47,19 +47,19 @@
       "anchor": "#calcular-mi-tasacion"
     },
     {
-      "label": "Tasación de coche es gra",
+      "label": "Tasación de coche es gratis y sin ningún tipo de compromiso",
       "anchor": "#tasacion-de-coche-es-gratis-y-sin-ningun"
     },
     {
-      "label": "¿Cómo se hace el proceso",
+      "label": "¿Cómo se hace el proceso de tasar tu coche?",
       "anchor": "#como-se-hace-el-proceso-de-tasar-tu-coch"
     },
     {
-      "label": "Ventajas de tener la tas",
+      "label": "Ventajas de tener la tasación de su coche online",
       "anchor": "#ventajas-de-tener-la-tasacion-de-su-coch"
     },
     {
-      "label": "Tasar coche: Preguntas m",
+      "label": "Tasar coche: Preguntas más frecuentes",
       "anchor": "#tasar-coche-preguntas-mas-frecuentes"
     }
   ],
@@ -119,8 +119,8 @@
         "La tasación es segura y se da gracias a la gran experiencia que posee Abarth.",
         "La mayor experiencia de la red Abarth que siempre está a tu servicio para la recuperación de tu vehículo, se hará así: Nada de compromisos, pero siempre toda nuestra red va a estar a tu servicio si quieres vender."
       ],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -158,8 +158,8 @@
         "Kilometraje exacto del carro",
         "Todos los daños del coche en una lista"
       ],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -180,8 +180,8 @@
         "Tasación será válida por 10 días: ¿Te está costando decidir? ¡No hay ningún problema! La tasación es válida para ti por 10 días. Tienes una red amplia que podrá vender tu coche en toda España: Con un poco más de 100 puntos de ventas de la red Abarth, tu coche se venderá fácil con nosotros.",
         "Tasación con rapidez - Vas a obtener el precio de inmediato: ¡No necesitas esperar! Al final de que terminas de completar el formulario, la tasación será entregada de inmediato."
       ],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -196,7 +196,7 @@
           "text": "¿CÓMO CALCULAN LA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación está siempre basada en: • Las características más relevantes del vehículo: Kilometraje, modelo, marca, fecha de entrada en servicio. • Reconocimiento del mercado: Se ven las transacciones realizadas por profesionales sobre modelos parecidos al tuyo. Una deducción del costo de rehabilitación al estado estándar. Los costos se ajustan dependiendo de cómo está el vehículo (condición)."
+          "text": "La tasación está siempre basada en"
         },
         {
           "text": "¿CÓMO SE REALIZA LA TASACIÓN DE ABARTH?"
@@ -223,9 +223,12 @@
           "text": "• Es inmediato."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Las características más relevantes del vehículo: Kilometraje, modelo, marca, fecha de entrada en servicio.",
+        "Reconocimiento del mercado: Se ven las transacciones realizadas por profesionales sobre modelos parecidos al tuyo. Una deducción del costo de rehabilitación al estado estándar. Los costos se ajustan dependiendo de cómo está el vehículo (condición)."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -244,8 +247,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -273,7 +276,59 @@
         "href": "https://www.youtube.com/user/teamabarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.abarth.es/buscador-concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.abarth.es/servicio-al-cliente"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.ES",
+            "href": "https://www.abarth.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/abarth"
+          },
+          {
+            "label": "ABARTH CONFIGURADOR",
+            "href": "https://www.abarth.es/configurador-abarth/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "condiciones-de-uso-tasacion-abarth.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -286,7 +341,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Abarth",
     "provider_url": "https://tasacion.abarth.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -297,11 +352,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.abarth.es/lp/tasar-coche",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

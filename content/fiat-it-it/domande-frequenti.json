@@ -18,8 +18,8 @@
     "og_image_alt": "FAQ - DOMANDE FREQUENTI"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/166/1133b28d-426f-41e5-9a51-d2084a3e9400",
+    "logo_alt": "logo fiat",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.fiat.it/"
   },
@@ -82,8 +82,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/166/1133b28d-426f-41e5-9a51-d2084a3e9400",
+      "image_alt": "logo fiat",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -111,7 +111,46 @@
         "href": "https://www.youtube.com/c/fiatitalia"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "Sitio Fiat",
+            "href": "https://www.fiat.it/"
+          },
+          {
+            "label": "Spoticar",
+            "href": "https://www.spoticar.it/"
+          },
+          {
+            "label": "Acquista online",
+            "href": "https://www.fiat.it/acquisto/e-shop"
+          }
+        ]
+      },
+      {
+        "title": "NOTE LEGALI",
+        "links": [
+          {
+            "label": "Condizioni uso",
+            "href": "https://usine-a-sites.s3.amazonaws.com/166/e22589ba-59f8-474e-8ff0-f07d640cf6ed"
+          },
+          {
+            "label": "Privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "Cookies",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DICHIARAZIONE DI ACCESSIBILITA",
+            "href": "https://usine-a-sites.s3.amazonaws.com/166/936ccac2-8a8d-43f1-b29c-0f59af1a942b"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -124,7 +163,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Faq",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "logo fiat",
     "provider_url": "https://www.valutazioneusato.fiat.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -135,11 +174,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.fiat.it/domande-frequenti",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 1,
     "notes": [
-      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

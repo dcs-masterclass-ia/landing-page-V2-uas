@@ -18,8 +18,8 @@
     "og_image_alt": "Werking auto-overname: hoe wordt de overnamewaarde berekend?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://overname.citroen.be/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.citroen.be/"
   },
@@ -106,7 +106,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image": "https://overname.citroen.be/build/img/citroen/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -143,7 +143,55 @@
         "href": "https://www.linkedin.com/showcase/citro%C3%ABn-belux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Direct naar",
+        "links": [
+          {
+            "label": "Een verkooppunt vinden",
+            "href": "http://www.citroen.be/nl/citroen-u/een-citroen-verkooppunt-vinden.html?_ga=2.132044043.58328625.1605018294-1584891280.1582808863"
+          },
+          {
+            "label": "Reserveer een testrit",
+            "href": "https://www.citroen.be/nl/tools/reserveer-uw-testrit.html"
+          },
+          {
+            "label": "Autoaccessoires",
+            "href": "http://www.citroen.be/nl/services/wisselstukken-en-accessoires.html?_ga=2.60880424.58328625.1605018294-1584891280.1582808863"
+          }
+        ]
+      },
+      {
+        "title": "VIND DE WAGEN DIE JE ZOEKT",
+        "links": [
+          {
+            "label": "Configureer",
+            "href": "https://www.citroen.be/nl/tools/configureer-uw-voertuig.html"
+          },
+          {
+            "label": "Tweedehandsvoertuigen",
+            "href": "https://www.spoticar.be/nl"
+          },
+          {
+            "label": "Stockwagens",
+            "href": "https://stock.citroen.be/nl/stock#search"
+          }
+        ]
+      },
+      {
+        "title": "Legal information",
+        "links": [
+          {
+            "label": "Algemene Voorwaarden",
+            "href": "/overname-citroen.pdf"
+          },
+          {
+            "label": "Privacy beleid",
+            "href": "/privacybeleid.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -156,7 +204,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Citroën voor het de overname van je wagen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://overname.citroen.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -167,14 +215,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.citroen.be/hoe-werkt-het",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/content-serenity.jpg",
       "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/content-fast.jpg",
       "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/content-safe.jpg",
-      "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

@@ -18,8 +18,8 @@
     "og_image_alt": "L’ESTIMATION DE VOTRE VOITURE, C’EST SIMPLE, RAPIDE ET SÉCURISÉ !"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/140/e3470942-ff05-4864-80aa-7703f9fbdc99",
+    "logo_alt": "logo Fiat Professionnal",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprisebelgique.fiatprofessional.com/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Procédez à l’estimation ",
+      "label": "Procédez à l’estimation de votre voiture, c’est simple, rapide et sécurisé !",
       "anchor": "#procedez-a-lestimation-de-votre-voiture-"
     },
     {
-      "label": "Comment fonctionne l’est",
+      "label": "Comment fonctionne l’estimation de ma voiture ?",
       "anchor": "#comment-fonctionne-lestimation-de-ma-voi"
     },
     {
-      "label": "Estimation de votre voit",
+      "label": "Estimation de votre voiture 100 % gratuite et en ligne",
       "anchor": "#estimation-de-votre-voiture-100-gratuite"
     },
     {
-      "label": "Estimation valable penda",
+      "label": "Estimation valable pendant 10 jours",
       "anchor": "#estimation-valable-pendant-10-jours"
     },
     {
-      "label": "Un large réseau pour fai",
+      "label": "Un large réseau pour faire reprendre votre voiture partout",
       "anchor": "#un-large-reseau-pour-faire-reprendre-vot"
     }
   ],
@@ -94,13 +94,17 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Faire le choix de la reprise de votre voiture et de son estimation par FIAT PROFESSIONAL, c’est la garantie de : • Une estimation gratuite via un parcours en ligne : évaluez la valeur de votre voiture facilement depuis où vous le souhaitez et sans frais • Une estimation fiable, basée sur l’analyse du marché et des transactions récentes • Profiter d’un réseau d’experts FIAT PROFESSIONAL à votre disposition pour reprendre votre voiture. Tout est mis en œuvre pour vous aider à revendre votre voiture en vous assurant une démarche sans engagement"
+          "text": "Faire le choix de la reprise de votre voiture et de son estimation par FIAT PROFESSIONAL, c’est la garantie de"
         },
         {
           "text": "Renseignez toutes les informations nécessaires à l’estimation de votre voiture Afin d’estimer votre voiture, veuillez répondre le plus fidèlement possible au questionnaire proposé. Recevez la valeur de reprise en quelques clics et moins de 5 min. Eléments à renseigner : Voici les informations nécessaires à l’identification du modèle de votre voiture : Renseignez l’immatriculation de votre véhicule, pour nous permettre d’identifier la voiture que vous souhaitez faire évaluer. Le modèle est alors identifié grâce à votre immatriculation, et vous gagnerez du temps en évitant certaines questions Vous ne connaissez par votre immatriculation par cœur ? Aucun problème ! Répondez à quelques questions supplémentaires concernant la version, l’année de mise en circulation, le carburant, la puissance moteur pour estimer la valeur de reprise."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation gratuite via un parcours en ligne : évaluez la valeur de votre voiture facilement depuis où vous le souhaitez et sans frais",
+        "Une estimation fiable, basée sur l’analyse du marché et des transactions récentes",
+        "Profiter d’un réseau d’experts FIAT PROFESSIONAL à votre disposition pour reprendre votre voiture. Tout est mis en œuvre pour vous aider à revendre votre voiture en vous assurant une démarche sans engagement"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
       "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
@@ -132,8 +136,8 @@
       "bullets": [
         ": Vous pouvez évaluer la valeur de reprise de votre véhicule rapidement et sans aucun frais Grâce aux compétences du réseau Fiat Professional, vous êtes sûrs de recevoir une estimation professionnelle et fiable."
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+      "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -147,8 +151,8 @@
       "bullets": [
         ": vous souhaitez prendre le temps de la réflexion ? Soyez rassuré! Votre estimation reste valable durant 10 jours."
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+      "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -162,8 +166,8 @@
       "bullets": [
         ": le réseau Fiat Professional est le meilleur moyen de faire reprendre votre voiture facilement."
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+      "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -177,8 +181,8 @@
       "bullets": [
         "Recevez votre valeur de reprise instantanément ! Dès lors que vous aurez rempli le questionnaire lié à votre véhicule, vous connaitrez l’évaluation de son prix."
       ],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+      "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -193,7 +197,7 @@
           "text": "1. QUEL EST LE PROCÉDÉ POUR CALCULER L’ESTIMATION DE MON UTILITAIRE ?"
         },
         {
-          "text": "L’estimation de votre utilitaire est calculée à partir de : • Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. Sont aussi déduits du montant obtenu les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule évalué en concession."
+          "text": "L’estimation de votre utilitaire est calculée à partir de"
         },
         {
           "text": "2. QUEL EST LE MODE DE FONCTIONNEMENT DE LA REPRISE FIAT PROFESSIONAL?"
@@ -211,7 +215,7 @@
           "text": "4. QUELS SONT LES BÉNÉFICES LIES A L’UTILISATION DU SERVICE DE REPRISE FIAT PROFESSIONAL?"
         },
         {
-          "text": "• Vitesse. En moins de 5 minutes, vous recevez une estimation de la valeur de votre véhicule par email et cette estimation de reprise est sans engagement. • Tranquillité : Avec la reprise FIAT PROFESSIONAL, vous évitez les surprises. En sollicitant le service de Reprise FIAT PROFESSIONAL vous recevez une estimation de la valeur de votre utilitaire par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes. • Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire FIAT PROFESSIONAL."
+          "text": "Vitesse. En moins de 5 minutes, vous recevez une estimation de la valeur de votre véhicule par email et cette estimation de reprise est sans engagement."
         },
         {
           "text": "5. L' ESTIMATION DE REPRISE DE MA VOITURE M'ENGAGE-T-ELLE ?"
@@ -220,9 +224,14 @@
           "text": "L’estimation de reprise proposée par Reprise FIAT PROFESSIONAL est sans engagement. Vous recevrez gratuitement notre proposition sous 24h sans engagement de votre part. Vous pouvez à présent rendre un rendez-vous avec nos experts FIAT PROFESSIONAL afin de finaliser votre estimation."
         }
       ],
-      "bullets": [],
-      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. Sont aussi déduits du montant obtenu les frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule évalué en concession.",
+        "Tranquillité : Avec la reprise FIAT PROFESSIONAL, vous évitez les surprises. En sollicitant le service de Reprise FIAT PROFESSIONAL vous recevez une estimation de la valeur de votre utilitaire par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.",
+        "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire FIAT PROFESSIONAL."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/1c50fe33-c220-4a9a-bb3c-74d80fccc480",
+      "image_alt": "estimation voiture les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -250,7 +259,63 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "TROUVER UN DISTRIBUTEUR",
+            "href": "https://www.fiatprofessional.com/be/fr/trouver-distributeur"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiatprofessional.com/be/fr/demander-informations"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.BE",
+            "href": "https://www.fiatprofessional.com/be/fr"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.fiatprofessional.com/be/fr/test-drive"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiatprofessional.com/be/fr/offres"
+          },
+          {
+            "label": "CONFIGURATEUR FIAT PROFESSIONAL",
+            "href": "https://www.fiatprofessional.com/be/fr/configurateur-v1"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/131/02fe9007-82ff-42c8-8223-2793f005d654"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/140/103c2ae0-7869-4b27-bb7d-135f750ed814"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -263,7 +328,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "L’estimation de voiture est un service proposé par Fiat Professional pour vous permettre d’obtenir gratuitement la valeur de sa reprise.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "logo Fiat Professionnal",
     "provider_url": "https://reprisebelgique.fiatprofessional.com",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -274,12 +339,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprisebelgique.fiatprofessional.com/lp/estimation-voiture",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/separator-breadc",
-      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
-      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

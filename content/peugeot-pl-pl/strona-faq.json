@@ -18,8 +18,8 @@
     "og_image_alt": "FAQ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.peugeot.pl/build/img/peugeot/brand-logo-site.png",
+    "logo_alt": "Peugeot",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.peugeot.pl/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#skip-to-main-content"
     },
     {
-      "label": "NIE OTRZYMAŁEM WYCENY SA",
+      "label": "NIE OTRZYMAŁEM WYCENY SAMOCHODU MAILEM",
       "anchor": "#nie-otrzymaem-wyceny-samochodu-mailem"
     }
   ],
@@ -82,7 +82,7 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Usługa Peugeot z odkupem to internetowa usługa umożliwiająca uzyskanie bezpłatnej wyceny twojego aktualnie użytkowanego samochodu. Jeżeli przedstawiona wycena okaże się satysfakcjonująca, zapraszamy do umówienia się na spotkanie z wybranym dealerem Peugeot w celu uzyskania wiążącej oferty odkupu. Wycena oparta jest na następujących elementach: • Dane techniczne samochodu: marka, model, silnik, poziom wyposażenia, przebieg i data pierwszej rejestracji. • Obserwacja rynku: ostatnio zrealizowane w komisach samochodowych transakcje kupna-sprzedaży porównywalnych modeli. • Pomniejszenie wartości o koszty przywrócenia samochodu do standardowego stanu. Koszty te mogą się zmieniać w zależności od faktycznego stanu samochodu. Bezpłatnie wyceń samochód online. W celu otrzymania bezpłatnej wyceny mailem, wprowadź informacje dotyczące samochodu. Umów wizytę. Czy jesteś zadowolony z wyceny? Umów się na wizytę z wybranym dealerem Peugeot. Skorzystaj z doświadczenia Peugeot. Podczas wizyty w salonie nasz ekspert sprawdzi w twojej obecności stan samochodu i zaproponuje ostateczną cenę odkupu. Po uzyskaniu twojej akceptacji zobowiązujemy się odkupić samochód. • Szybkość. Wystarczy kilka kliknięć, aby otrzymać mailem wycenę wartości samochodu. Wycena nie wiąże się z żadnym zobowiązaniem. Komfort psychiczny • Zero nieprzyjemnych niespodzianek Usługa Peugeot z odkupem obejmuje profesjonalną wycenę wartości samochodu. Każdy samochód jest wyceniany na podstawie obserwacji cen rynkowych i ostatnich transakcji. • Bezpieczeństwo. Płatność za samochód jest gwarantowana i bezpieczna. W przypadku transakcji sprzedaży za samochód płaci dealer Peugeot. Wycena nie wiąże się z żadnym zobowiązaniem. Bezpłatną wycenę otrzymasz w ciągu 24 godzin w dni robocze. Wycena do niczego cię nie zobowiązuje. Możesz swobodnie zdecydować, czy umówić się na spotkanie z ekspertami z Peugeot. Usługa Peugeot z odkupem jest całkowicie bezpłatna. Jeśli nie możesz znaleźć swojego samochodu na naszej stronie internetowej, skontaktuj się z nami w celu przeprowadzenia spersonalizowanej wyceny. Uwaga: niektóre modele samochodów są zbyt stare lub zbyt rzadko spotykane na rynku, aby można je było precyzyjnie wycenić. Może się zdarzyć, że niektórzy dostawcy poczty elektronicznej w sposób nieuzasadniony potraktują wiadomości mailowe Peugeot z odkupem jako spam. W takim przypadku przejdź do folderu „Spam” i zmień ustawienia filtrowania. Jeśli mimo tego nie otrzymasz wiadomości e-mail z wyceną, skontaktuj się z nami i podaj swoje dane, abyśmy mogli wysłać wycenę twojego samochodu do odkupu To banalnie proste. Przy zgłaszaniu prośby o wycenę online, wybierz odpowiadający ci punkt sprzedaży Peugeot. Możesz poczekać, aż ktoś z salonu skontaktuje się z tobą lub zadzwonić w celu umówienia wizyty. W przypadku wizyty w salonie należy przyjechać samochodem do wyceny, zabierając z sobą następujące dokumenty: • Dowód rejestracyjny • Dowód tożsamości (prawo jazdy, dowód osobisty lub paszport) • Dokument potwierdzający aktualne miejsce zamieszkania (np. rachunek za telefon lub prąd z ostatnich 3 miesięcy) • Wyciąg z rachunku bankowego • Książkę serwisową oraz faktury za wszystkie przeglądy i naprawy samochodu. • Dwa komplety kluczy do samochodu oraz kod zabezpieczający do uzyskania nowych kluczy • Klucz do śrub przeciwkradzieżowych kół, jeśli samochód jest w nie wyposażony W przypadku transakcji sprzedaży za samochód płaci dealer Peugeot. W zależności od wybranego dealera, płatność za samochód może być dokonana czekiem lub przelewem bankowym. Jeśli nie znalazłeś odpowiedzi na swoje pytanie, skontaktuj się z nami"
+          "text": "Usługa Peugeot z odkupem to internetowa usługa umożliwiająca uzyskanie bezpłatnej wyceny twojego aktualnie użytkowanego samochodu. Jeżeli przedstawiona wycena okaże się satysfakcjonująca, zapraszamy do umówienia się na spotkanie z wybranym dealerem Peugeot w celu uzyskania wiążącej oferty odkupu. Wycena oparta jest na następujących elementach"
         },
         {
           "text": "JAK SPRZEDAĆ SAMOCHÓD?"
@@ -103,8 +103,22 @@
           "text": "CZY TA USŁUGA JEST PŁATNA?"
         }
       ],
-      "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
+      "bullets": [
+        "Dane techniczne samochodu: marka, model, silnik, poziom wyposażenia, przebieg i data pierwszej rejestracji.",
+        "Obserwacja rynku: ostatnio zrealizowane w komisach samochodowych transakcje kupna-sprzedaży porównywalnych modeli.",
+        "Pomniejszenie wartości o koszty przywrócenia samochodu do standardowego stanu. Koszty te mogą się zmieniać w zależności od faktycznego stanu samochodu. Bezpłatnie wyceń samochód online. W celu otrzymania bezpłatnej wyceny mailem, wprowadź informacje dotyczące samochodu. Umów wizytę. Czy jesteś zadowolony z wyceny? Umów się na wizytę z wybranym dealerem Peugeot. Skorzystaj z doświadczenia Peugeot. Podczas wizyty w salonie nasz ekspert sprawdzi w twojej obecności stan samochodu i zaproponuje ostateczną cenę odkupu. Po uzyskaniu twojej akceptacji zobowiązujemy się odkupić samochód.",
+        "Szybkość. Wystarczy kilka kliknięć, aby otrzymać mailem wycenę wartości samochodu. Wycena nie wiąże się z żadnym zobowiązaniem. Komfort psychiczny",
+        "Zero nieprzyjemnych niespodzianek Usługa Peugeot z odkupem obejmuje profesjonalną wycenę wartości samochodu. Każdy samochód jest wyceniany na podstawie obserwacji cen rynkowych i ostatnich transakcji.",
+        "Bezpieczeństwo. Płatność za samochód jest gwarantowana i bezpieczna. W przypadku transakcji sprzedaży za samochód płaci dealer Peugeot. Wycena nie wiąże się z żadnym zobowiązaniem. Bezpłatną wycenę otrzymasz w ciągu 24 godzin w dni robocze. Wycena do niczego cię nie zobowiązuje. Możesz swobodnie zdecydować, czy umówić się na spotkanie z ekspertami z Peugeot. Usługa Peugeot z odkupem jest całkowicie bezpłatna. Jeśli nie możesz znaleźć swojego samochodu na naszej stronie internetowej, skontaktuj się z nami w celu przeprowadzenia spersonalizowanej wyceny. Uwaga: niektóre modele samochodów są zbyt stare lub zbyt rzadko spotykane na rynku, aby można je było precyzyjnie wycenić. Może się zdarzyć, że niektórzy dostawcy poczty elektronicznej w sposób nieuzasadniony potraktują wiadomości mailowe Peugeot z odkupem jako spam. W takim przypadku przejdź do folderu „Spam” i zmień ustawienia filtrowania. Jeśli mimo tego nie otrzymasz wiadomości e-mail z wyceną, skontaktuj się z nami i podaj swoje dane, abyśmy mogli wysłać wycenę twojego samochodu do odkupu To banalnie proste. Przy zgłaszaniu prośby o wycenę online, wybierz odpowiadający ci punkt sprzedaży Peugeot. Możesz poczekać, aż ktoś z salonu skontaktuje się z tobą lub zadzwonić w celu umówienia wizyty. W przypadku wizyty w salonie należy przyjechać samochodem do wyceny, zabierając z sobą następujące dokumenty",
+        "Dowód rejestracyjny",
+        "Dowód tożsamości (prawo jazdy, dowód osobisty lub paszport)",
+        "Dokument potwierdzający aktualne miejsce zamieszkania (np. rachunek za telefon lub prąd z ostatnich 3 miesięcy)",
+        "Wyciąg z rachunku bankowego",
+        "Książkę serwisową oraz faktury za wszystkie przeglądy i naprawy samochodu.",
+        "Dwa komplety kluczy do samochodu oraz kod zabezpieczający do uzyskania nowych kluczy",
+        "Klucz do śrub przeciwkradzieżowych kół, jeśli samochód jest w nie wyposażony W przypadku transakcji sprzedaży za samochód płaci dealer Peugeot. W zależności od wybranego dealera, płatność za samochód może być dokonana czekiem lub przelewem bankowym. Jeśli nie znalazłeś odpowiedzi na swoje pytanie, skontaktuj się z nami"
+      ],
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -130,7 +144,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -163,7 +177,63 @@
         "href": "https://www.youtube.com/c/peugeotpolska"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.peugeot.pl/lacza/znadj-dealera.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/case-webform?language=pl#1"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.PL",
+            "href": "https://www.peugeot.pl/"
+          },
+          {
+            "label": "PEUGEOT SAMOCHODY UŻYWANE",
+            "href": "https://www.peugeot.pl/used-vehicles/Spoticar-Peugeot-uzywane.html"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.peugeot.pl/wybierz-samochod/kup-peugeot/nasze-oferty.html"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/147/0b4f0d7b-f5e3-4f9b-b254-0cb3bd3bdc58"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.peugeot.pl/lacza/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "#"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -176,7 +246,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Peugeot odpowiada na wszystkie Twoje pytania dotyczące sprzedaży lub odkupu samochodu",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://odkup.peugeot.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -187,11 +257,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.peugeot.pl/strona-faq",
-    "medias_trouves": 2,
+    "medias_trouves": 0,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

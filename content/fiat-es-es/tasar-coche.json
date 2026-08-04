@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche Gratis y en línea - Nuestro servicio sin compromiso"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/155/e61bdf79-fd77-4703-ad36-e59465a06485",
+    "logo_alt": "logo fiat",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.fiat.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Tasar coche totalmente e",
+      "label": "Tasar coche totalmente en línea",
       "anchor": "#tasar-coche-totalmente-en-linea"
     },
     {
-      "label": "¿Cómo se puede tasar tu ",
+      "label": "¿Cómo se puede tasar tu coche?",
       "anchor": "#como-se-puede-tasar-tu-coche"
     },
     {
-      "label": "Las ventajas de la tasac",
+      "label": "Las ventajas de la tasación de su coche en línea con Fiat",
       "anchor": "#las-ventajas-de-la-tasacion-de-su-coche-"
     },
     {
-      "label": "¡En unos 5 minutos, desc",
+      "label": "¡En unos 5 minutos, descubre cuánto vale tu coche!",
       "anchor": "#en-unos-5-minutos-descubre-cuanto-vale-t"
     },
     {
-      "label": "Tasar coche: Preguntas m",
+      "label": "Tasar coche: Preguntas mucho más comunes",
       "anchor": "#tasar-coche-preguntas-mucho-mas-comunes"
     }
   ],
@@ -147,8 +147,8 @@
         "Kilometraje actual",
         "Daños presentes en el coche"
       ],
-      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -165,8 +165,8 @@
         "Tasación tiene validez por 10 días: ¿No puedes decidir ya? ¡No te preocupes por eso! Tu tasación tiene validez de 10 días exactos. Tenemos una red amplia para vender tu coche en cualquier parte de España: Con los 100 puntos de ventas en la red Fiat, vender tu coche es realmente sencillo.",
         "Tasación expedita - Recibo del precio en el momento: ¡Se acabó la espera! Tan pronto como completes el formulario, llegara una tasación para tu coche."
       ],
-      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -182,8 +182,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -198,7 +198,7 @@
           "text": "¿CÓMO SE LOGRA CALCULAR LA TASACIÓN DE DICHO COCHE?"
         },
         {
-          "text": "La tasación se hace así: • Se toman las características de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje, • Luego se hacen observaciones de mercado: Todas las recientes transacciones que se hicieron por profesionales sobre modelos iguales al tuyo. • Se hace deducción del costo de rehabilitación con el estado estándar. Dichos costos se ajustan en dependencia de las condiciones del vehículo."
+          "text": "La tasación se hace así"
         },
         {
           "text": "¿CÓMO SE HACE LA TASACIÓN POR MEDIO DE FIAT?"
@@ -228,9 +228,13 @@
           "text": "• Evita sorpresas molestas."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Se toman las características de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje,",
+        "Luego se hacen observaciones de mercado: Todas las recientes transacciones que se hicieron por profesionales sobre modelos iguales al tuyo.",
+        "Se hace deducción del costo de rehabilitación con el estado estándar. Dichos costos se ajustan en dependencia de las condiciones del vehículo."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -249,8 +253,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -278,7 +282,59 @@
         "href": "https://www.youtube.com/c/fiatespa%C3%B1a"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.fiat.es/concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.fiat.es/atencion-al-cliente"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.ES",
+            "href": "https://www.fiat.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/fiat"
+          },
+          {
+            "label": "FIAT CONFIGURATOR",
+            "href": "https://www.fiat.es/configurator/#/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-fiat.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -291,7 +347,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "logo fiat",
     "provider_url": "https://tasacion.fiat.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -302,12 +358,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.fiat.es/lp/tasar-coche",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

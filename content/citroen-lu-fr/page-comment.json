@@ -18,8 +18,8 @@
     "og_image_alt": "COMMENT EST CALCULÉE L'ESTIMATION DE REPRISE ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.citroen.lu/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.citroen.lu/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "OBTENEZ UNE ESTIMATION F",
+      "label": "OBTENEZ UNE ESTIMATION FIABLE ET GRATUITE DE VOTRE VÉHICULE",
       "anchor": "#obtenez-une-estimation-fiable-et-gratuit"
     },
     {
-      "label": "UNE ESTIMATION DE VOTRE ",
+      "label": "UNE ESTIMATION DE VOTRE AUTO AU PLUS PRÈS DU PRIX DU MARCHÉ",
       "anchor": "#une-estimation-de-votre-auto-au-plus-pre"
     },
     {
@@ -163,7 +163,7 @@
         "Reglement par chèque ou virement bancaise",
         "Dans un délai de 8 jours"
       ],
-      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image": "https://reprise.citroen.lu/build/img/citroen/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -196,7 +196,51 @@
         "href": "https://www.youtube.com/user/citroenbelux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Liens utiles",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "http://www.citroen.lu/citroen-vous/trouver-un-point-de-vente-citroen.html?_ga=2.56211816.2139016194.1604326483-1573869338.1603979631"
+          },
+          {
+            "label": "Configurer un véhicule",
+            "href": "http://www.citroen.lu/configurateur.html?_ga=2.56211816.2139016194.1604326483-1573869338.1603979631"
+          },
+          {
+            "label": "Offres Citroën",
+            "href": "https://www.citroen.lu/acheter/offres.html#offres-aux-particuliers"
+          }
+        ]
+      },
+      {
+        "title": "Trouver ma voiture",
+        "links": [
+          {
+            "label": "Véhicules d'occasion",
+            "href": "https://www.spoticar.lu/"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Politique de Confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Conditions générales d'utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -209,7 +253,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Comment est calculé une estimation ?",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://reprise.citroen.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -220,14 +264,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.citroen.lu/page-comment",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-serenity.jpg",
       "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-fast.jpg",
       "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

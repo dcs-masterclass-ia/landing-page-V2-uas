@@ -18,8 +18,8 @@
     "og_image_alt": "FOIRE AUX QUESTIONS"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+    "logo_alt": "Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.peugeot.fr/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "JE N’AI PAS REÇU MON EST",
+      "label": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
       "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
     }
   ],
@@ -82,7 +82,7 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "La Reprise par Peugeot est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le concessionnaire Peugeot que vous avez choisi pour obtenir une offre de reprise ferme. L’estimation est basée sur : • Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. • Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule. Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre véhicule. Prenez-rendez-vous. L'estimation vous convient ? Vous prenez-rendez-vous avec le concessionnaire Peugeot que vous avez sélectionné. Profitez de l’expertise Peugeot. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule. • Rapidité. En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement. • Sérénité. Evitez les mauvaises surprises. En sollicitant le service de La Reprise par Peugeot vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes. • Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Peugeot. L’estimation de reprise proposée par La Reprise par Peugeot est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Peugeot. La Reprise par Peugeot est un service totalement gratuit pour vous. Si vous ne trouvez pas votre véhicule sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur. Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de Reprise Peugeot comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise. Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Peugeot. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous. Lors de votre rendez-vous en concession, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants : • La carte de grise de votre voiture • Une pièce d’identité (permis de conduire, carte d’identité ou passeport) • Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois) • Un RIB (Relevé d’Identité Bancaire) • Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture • Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles • Le cas échéant, la clé des écrous antivol de vos roues Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Peugeot. Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire. Si vous n'avez pas trouvé la réponse à votre question, n'hésitez pas à nous contacter."
+          "text": "La Reprise par Peugeot est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le concessionnaire Peugeot que vous avez choisi pour obtenir une offre de reprise ferme. L’estimation est basée sur"
         },
         {
           "text": "COMMENT VENDRE MA VOITURE ?"
@@ -103,8 +103,22 @@
           "text": "EST-CE QUE CE SERVICE EST PAYANT ?"
         }
       ],
-      "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule. Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre véhicule. Prenez-rendez-vous. L'estimation vous convient ? Vous prenez-rendez-vous avec le concessionnaire Peugeot que vous avez sélectionné. Profitez de l’expertise Peugeot. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule.",
+        "Rapidité. En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.",
+        "Sérénité. Evitez les mauvaises surprises. En sollicitant le service de La Reprise par Peugeot vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.",
+        "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Peugeot. L’estimation de reprise proposée par La Reprise par Peugeot est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Peugeot. La Reprise par Peugeot est un service totalement gratuit pour vous. Si vous ne trouvez pas votre véhicule sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur. Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de Reprise Peugeot comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise. Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Peugeot. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous. Lors de votre rendez-vous en concession, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants",
+        "La carte de grise de votre voiture",
+        "Une pièce d’identité (permis de conduire, carte d’identité ou passeport)",
+        "Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)",
+        "Un RIB (Relevé d’Identité Bancaire)",
+        "Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture",
+        "Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles",
+        "Le cas échéant, la clé des écrous antivol de vos roues Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Peugeot. Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire. Si vous n'avez pas trouvé la réponse à votre question, n'hésitez pas à nous contacter."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -130,7 +144,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -163,7 +177,71 @@
         "href": "https://www.youtube.com/PeugeotFrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.reprise.peugeot.fr/page-faq"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.peugeot.fr/tools/nous-contacter.html"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.FR",
+            "href": "https://www.peugeot.fr/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/peugeot"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://offres.peugeot.fr/"
+          },
+          {
+            "label": "PEUGEOT STOCK",
+            "href": "https://store.peugeot.fr/stock"
+          },
+          {
+            "label": "LE RESEAU PEUGEOT",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/conditions-generales.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -176,7 +254,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Peugeot répond à toutes vos questions concernant la vente ou la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://www.reprise.peugeot.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -187,12 +265,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.peugeot.fr/page-faq",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

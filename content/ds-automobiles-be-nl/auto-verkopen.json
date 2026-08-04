@@ -18,8 +18,8 @@
     "og_image_alt": "Uw auto verkopen: de DS Automobiles inruil"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://overname.dsautomobiles.be/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.dsautomobiles.be/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Verkoop uw auto snel en ",
+      "label": "Verkoop uw auto snel en veilig met DS !",
       "anchor": "#verkoop-uw-auto-snel-en-veilig-met-ds"
     },
     {
-      "label": "Een auto verkopen: de vo",
+      "label": "Een auto verkopen: de voordelen van inruil",
       "anchor": "#een-auto-verkopen-de-voordelen-van-inrui"
     },
     {
-      "label": "3 stappen om je auto te ",
+      "label": "3 stappen om je auto te verkopen",
       "anchor": "#3-stappen-om-je-auto-te-verkopen"
     },
     {
@@ -111,10 +111,14 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Bij Reprise DS Automobile kunt u gratis en vrijblijvend de inruilwaarde van uw voertuig laten schatten. Dit is een veiligere methode dan verkoop tussen particulieren, omdat u wordt begeleid door een professional uit het DS Automobile-netwerk en u kunt genieten van een betalingsgarantie. Uw auto verkopen: dankzij de DS Automobile inruilactie ● U ontvangt direct online of per e-mail een 100% gratis en vrijblijvende offerte. ● Als u akkoord gaat, zal een dealer bij u in de buurt u bellen om een afspraak te maken op een tijdstip dat u uitkomt. ● Profiteer van een snelle en gegarandeerde betaling"
+          "text": "Bij Reprise DS Automobile kunt u gratis en vrijblijvend de inruilwaarde van uw voertuig laten schatten. Dit is een veiligere methode dan verkoop tussen particulieren, omdat u wordt begeleid door een professional uit het DS Automobile-netwerk en u kunt genieten van een betalingsgarantie. Uw auto verkopen: dankzij de DS Automobile inruilactie"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "U ontvangt direct online of per e-mail een 100% gratis en vrijblijvende offerte.",
+        "Als u akkoord gaat, zal een dealer bij u in de buurt u bellen om een afspraak te maken op een tijdstip dat u uitkomt.",
+        "Profiteer van een snelle en gegarandeerde betaling"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
@@ -145,10 +149,18 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Als u uw auto aan een particulier verkoopt: ● Geen enkele garantie ● Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt: ● Een snelle online evaluatie. ● Geen verplichting. ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk. ● Veilige betaling. ● Wij helpen u bij de administratieve procedures. Binnen 5 minuten weet u hoeveel uw auto waard is!"
+          "text": "Als u uw auto aan een particulier verkoopt"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Geen enkele garantie",
+        "Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt",
+        "Een snelle online evaluatie.",
+        "Geen verplichting.",
+        "Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk.",
+        "Veilige betaling.",
+        "Wij helpen u bij de administratieve procedures. Binnen 5 minuten weet u hoeveel uw auto waard is!"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
@@ -165,13 +177,13 @@
           "text": "Hoe verkoop ik mijn auto?"
         },
         {
-          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Nadat u het formulier heeft ingevuld, neemt de dealer van uw keuze binnen 24 uur contact met u op. Bent u blij met de schatting? Dan zal onze DS Automobiles -expert u een afspraak aanbieden in de showroom op een dag naar keuze om te helpen met de overname van uw auto. ● Profiteer van de expertise van DS Automobiles: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+          "text": "Verkoop uw auto gemakkelijk"
         },
         {
           "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
         },
         {
-          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+          "text": "De schatting houdt rekening met"
         },
         {
           "text": "Hoe maak ik een afspraak?"
@@ -186,7 +198,14 @@
           "text": "U krijgt de volledige garantie van een veilige en snelle betaling met het DS Automobiles -netwerk. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw DS Automobiles-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden.",
+        "Maak een afspraak: Nadat u het formulier heeft ingevuld, neemt de dealer van uw keuze binnen 24 uur contact met u op. Bent u blij met de schatting? Dan zal onze DS Automobiles -expert u een afspraak aanbieden in de showroom op een dag naar keuze om te helpen met de overname van uw auto.",
+        "Profiteer van de expertise van DS Automobiles: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug.",
+        "De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname.",
+        "Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen.",
+        "Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "Verkoop uw auto veilig",
       "tag": "TODO_ARBITRAGE",
@@ -224,7 +243,46 @@
         "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles",
+            "href": "https://www.dsautomobiles.be/nl"
+          },
+          {
+            "label": "Configureer uw DS",
+            "href": "https://www.dsautomobiles.be/nl/configurator.html"
+          },
+          {
+            "label": "Onze nieuwe voertuigen",
+            "href": "https://dsonlinestore.dsautomobiles.be/nl/home"
+          },
+          {
+            "label": "Onze gebruikte voertuigen",
+            "href": "https://www.dscertified.dsautomobiles.be/nl"
+          },
+          {
+            "label": "Vind een verkooppunt",
+            "href": "https://www.dsautomobiles.be/nl/verkooppunt-vinden.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Wettelijke bepalingen",
+            "href": "https://www.dsautomobiles.be/nl/wettelijke-bepalingen"
+          },
+          {
+            "label": "Privacy beleid",
+            "href": "/privacybeleid.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "© 2024 DS *Bonus geldig bij de aankoop van een nieuwe DS 7 tot 2026-7-31 in deelnemende netwerken.",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -237,7 +295,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "DS begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://overname.dsautomobiles.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",

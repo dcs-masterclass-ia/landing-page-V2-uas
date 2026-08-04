@@ -18,9 +18,9 @@
     "og_image_alt": "HOE WERKT HET ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
-    "cta_label": "Bereken mijn inruilwaarde",
+    "logo": "https://overname.jeep.be/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
+    "cta_label": "BEREKEN MIJN OVERNAMEWAARDE",
     "cta_href": "https://overname.jeep.be/"
   },
   "breadcrumb": [
@@ -38,7 +38,7 @@
     "tag": "Gratis online schatting",
     "h1": "HOE WERKT HET ?",
     "lead": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Jeep voor het de overname van uw wagen.",
-    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_label": "BEREKEN MIJN OVERNAMEWAARDE",
     "cta_href": "https://overname.jeep.be/"
   },
   "subnav": [
@@ -47,7 +47,7 @@
       "anchor": "#skip-to-main-content"
     },
     {
-      "label": "Berekening van de overna",
+      "label": "Berekening van de overnamewaarde",
       "anchor": "#berekening-van-de-overnamewaarde"
     },
     {
@@ -157,7 +157,7 @@
         "Kies uw dichtstbijzijnde verdeler",
         "Een vlotte en snelle overname"
       ],
-      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image": "https://overname.jeep.be/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -174,7 +174,7 @@
         "Een veilige en snelle transactie",
         "Een aangepast overnameaanbod"
       ],
-      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image": "https://overname.jeep.be/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -203,7 +203,55 @@
         "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERDELERS",
+            "href": "https://www.Jeep.be/nl/verdelers"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.Jeep.be/nl/contacten"
+          }
+        ]
+      },
+      {
+        "title": "Jeep ®",
+        "links": [
+          {
+            "label": "Jeep ® .BE.NL",
+            "href": "https://www.Jeep.be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.Jeep.be/nl/aanbiedingen"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.Jeep.be/nl/tweedehands-auto#!/search"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites.s3.amazonaws.com/129/5abc7d9a-a435-4062-9de6-a918d5b4a5d2"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -216,7 +264,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Jeep voor het de overname van uw wagen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://overname.jeep.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -227,14 +275,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.jeep.be/hoe-werkt-het",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/content-serenity.jpg",
       "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/content-fast.jpg",
       "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/content-safe.jpg",
-      "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

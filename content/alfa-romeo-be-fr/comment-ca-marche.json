@@ -18,8 +18,8 @@
     "og_image_alt": "Comment ça marche"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.alfaromeo.be/build/img/alfa_romeo/brand-logo-site.png",
+    "logo_alt": "alfa_romeo",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.alfaromeo.be/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Obtenez une offre de rep",
+      "label": "Obtenez une offre de reprise en 6 étapes :",
       "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
     },
     {
-      "label": "Calcul de la valeur de r",
+      "label": "Calcul de la valeur de reprise :",
       "anchor": "#calcul-de-la-valeur-de-reprise"
     },
     {
@@ -132,7 +132,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -149,7 +149,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -166,7 +166,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -195,7 +195,67 @@
         "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.alfaromeo.be/fr/choisir-une-alfa-romeo/distributeur-alfa-romeo"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.alfaromeo.be/fr/mopar/assistance-client"
+          }
+        ]
+      },
+      {
+        "title": "ALFA ROMEO",
+        "links": [
+          {
+            "label": "ALFAROMEO.BE",
+            "href": "https://www.alfaromeo.be/fr"
+          },
+          {
+            "label": "ALFA ROMEO OCCASIONS",
+            "href": "https://www.alfaromeo.be/fr/voitures-occasion#!/search"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.alfaromeo.be/fr/offres"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.alfaromeo.be/fr/configurateur/"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.alfaromeo.be/fr/catalogue-essai-offre"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CONDITIONS GENERALES D'UTILISATION",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/123/55b2cc3b-31cf-457d-b337-3b83875a2c4c"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/130/795399d8-b76a-4c54-a555-92f7ff720aea"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -208,7 +268,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "alfa_romeo",
     "provider_url": "https://reprise.alfaromeo.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -219,15 +279,13 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.alfaromeo.be/comment-ca-marche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/130/2cfb00f4-230e-4739-ba9c-da98753f85cb",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/130/d7a801db-0a7e-4c82-af11-1f818dacdffc",
       "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/content-fast.jpg",
       "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

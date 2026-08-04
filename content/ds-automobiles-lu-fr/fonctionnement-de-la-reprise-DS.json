@@ -18,8 +18,8 @@
     "og_image_alt": "Fonctionnement de la reprise auto : comment la valeur de reprise est-elle calculée ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.dsautomobiles.lu/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.dsautomobiles.lu/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "1. Estimation du véhicul",
+      "label": "1. Estimation du véhicule",
       "anchor": "#1-estimation-du-vehicule"
     },
     {
@@ -161,7 +161,50 @@
   "footer": {
     "tagline": "Fonctionnement",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles",
+            "href": "https://www.dsautomobiles.lu/"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.lu/configurateur.html"
+          },
+          {
+            "label": "Nos véhicules neufs",
+            "href": "https://dsonlinestore.dsautomobiles.lu/Accueil"
+          },
+          {
+            "label": "Nos véhicules d'occasion",
+            "href": "https://www.dscertified.dsautomobiles.lu/"
+          },
+          {
+            "label": "Trouvez un point de vente",
+            "href": "https://www.dsautomobiles.lu/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Mentions légales",
+            "href": "https://www.dsautomobiles.lu/tools/legal-info.html"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -174,7 +217,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fonctionnement",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://reprise.dsautomobiles.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",

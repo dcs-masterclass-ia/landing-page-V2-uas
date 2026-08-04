@@ -18,8 +18,8 @@
     "og_image_alt": "AUTO BEWERTEN"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.citroen-kauft-ihr-auto.at/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
   },
@@ -139,7 +139,54 @@
         "href": "https://www.linkedin.com/company/citroen-oesterreich/ "
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "KONTAKTIEREN SIE UNS",
+            "href": "https://www.citroen.at/infocenter/impressum.html"
+          },
+          {
+            "label": "COOKIE-RICHTLINIE",
+            "href": "https://www.citroen.at/infocenter/cookies.html"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE",
+            "href": "https://www.citroen.at/infocenter/rechtliche-hinweise.html"
+          },
+          {
+            "label": "IMPRESSUM",
+            "href": "https://www.citroen.at/infocenter/impressum.html"
+          },
+          {
+            "label": "DATENSCHUTZRICHTLINIE",
+            "href": "/new-consent-declaration.pdf"
+          },
+          {
+            "label": "Barrierefreiheitserklärung",
+            "href": "/page-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "CITROËN",
+        "links": [
+          {
+            "label": "DIE MARKE CITROËN",
+            "href": "https://www.citroen.at/uber-citroen/unsere-werte.html"
+          },
+          {
+            "label": "GEBRAUCHTWAGEN",
+            "href": "https://www.citroen.at/kaufen/spoticar-gebrauchtwagen.html"
+          },
+          {
+            "label": "KONFIGURIEREN",
+            "href": "https://www.citroen.at/infocenter/konfigurator.html"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -152,7 +199,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Mit der professionellen Auto-Bewertung von CITROËN erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.citroen-kauft-ihr-auto.at",
     "area_served": "Autriche",
     "area_wikidata": "https://www.wikidata.org/wiki/Q40",
@@ -163,13 +210,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.citroen-kauft-ihr-auto.at/auto-bewerten",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 2,
     "notes": [
       "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-serenity.jpg",
       "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-fast.jpg",
-      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

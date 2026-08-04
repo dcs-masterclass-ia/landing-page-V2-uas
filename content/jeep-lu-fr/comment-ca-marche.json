@@ -18,9 +18,9 @@
     "og_image_alt": "Comment ça marche"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
-    "cta_label": "Calculer mon offre de reprise",
+    "logo": "https://reprise.jeep.lu/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
+    "cta_label": "ESTIMEZ VOTRE VÉHICULE",
     "cta_href": "https://reprise.jeep.lu/"
   },
   "breadcrumb": [
@@ -38,16 +38,16 @@
     "tag": "Estimation gratuite en ligne",
     "h1": "Comment ça marche",
     "lead": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
-    "cta_label": "Calculer mon offre de reprise",
+    "cta_label": "ESTIMEZ VOTRE VÉHICULE",
     "cta_href": "https://reprise.jeep.lu/"
   },
   "subnav": [
     {
-      "label": "Obtenez une offre de rep",
+      "label": "Obtenez une offre de reprise en 6 étapes :",
       "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
     },
     {
-      "label": "Calcul de la valeur de r",
+      "label": "Calcul de la valeur de reprise :",
       "anchor": "#calcul-de-la-valeur-de-reprise"
     },
     {
@@ -131,7 +131,7 @@
         "Recevez une estimation de la valeur de votre véhicule.",
         "Estimation entièrement gratuite et sans engagement"
       ],
-      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image": "https://reprise.jeep.lu/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -147,7 +147,7 @@
         "Évitez les démarches administratives",
         "Jeep Reprise permet d’évaluer votre véhicule sur la base d’observations du marché et des transactions récentes"
       ],
-      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image": "https://reprise.jeep.lu/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -163,7 +163,7 @@
         "Prenez rendez-vous avec votre distributeur Jeep",
         "Le distributeur sélectionné se chargera de la reprise de votre voiture et du paiement"
       ],
-      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image": "https://reprise.jeep.lu/build/img/jeep/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -192,7 +192,59 @@
         "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.jeep.lu/distributeurs"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.jeep.lu/contacts"
+          }
+        ]
+      },
+      {
+        "title": "JEEP ®",
+        "links": [
+          {
+            "label": "JEEP ® .LU",
+            "href": "https://www.jeep.lu"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.jeep.lu/offres"
+          },
+          {
+            "label": "OFFRES POUR PROFESSIONNELS",
+            "href": "https://www.jeep.lu/promotions-old/offres-entreprise"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "POLITIQUE DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -205,7 +257,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://reprise.jeep.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -216,14 +268,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.jeep.lu/comment-ca-marche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/content-serenity.jpg",
       "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/content-fast.jpg",
       "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

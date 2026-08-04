@@ -18,8 +18,8 @@
     "og_image_alt": "Compramos tu coche en solamente 24 horas - Pago asegurado"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://tasacion.jeep.es/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.jeep.es/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Al tener la Red Tasación",
+      "label": "Al tener la Red Tasación Jeep,",
       "anchor": "#al-tener-la-red-tasacion-jeep"
     },
     {
-      "label": "Compramos tu coche sin q",
+      "label": "Compramos tu coche sin que te compliques",
       "anchor": "#compramos-tu-coche-sin-que-te-compliques"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#solo-5-mn"
     },
     {
-      "label": "¡Tu escoges si sigues co",
+      "label": "¡Tu escoges si sigues con",
       "anchor": "#tu-escoges-si-sigues-con"
     },
     {
-      "label": "Compramos tu coche con m",
+      "label": "Compramos tu coche con mucho profesionalismo",
       "anchor": "#compramos-tu-coche-con-mucho-profesional"
     }
   ],
@@ -101,8 +101,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -118,8 +118,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -138,8 +138,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -164,8 +164,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -205,8 +205,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -225,8 +225,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -247,7 +247,7 @@
           "text": "2. ¿Cómo se calcula el valor de adquisición de mi coche?"
         },
         {
-          "text": "La tasación funciona con: • Las características generales del coche: kilometraje, fecha de matriculación, modelo, motor y marca. • Investigación del mercado : Saber si hay transacciones nuevas que ya fueron realizadas por los profesionales sobre los modelos similares. • Las deducciones básicas de los costos de recuperación. Todas las tarifas se ajustan de acuerdo a la condición real que el coche posea."
+          "text": "La tasación funciona con"
         },
         {
           "text": "3. ¿Cómo funciona la tasación con Jeep?"
@@ -262,9 +262,13 @@
           "text": "Obtén una cita:"
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Las características generales del coche: kilometraje, fecha de matriculación, modelo, motor y marca.",
+        "Investigación del mercado : Saber si hay transacciones nuevas que ya fueron realizadas por los profesionales sobre los modelos similares.",
+        "Las deducciones básicas de los costos de recuperación. Todas las tarifas se ajustan de acuerdo a la condición real que el coche posea."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -289,8 +293,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/d1b5b7be-8cf8-480f-bc87-746d48da910c",
+      "image_alt": "coche Jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -318,7 +322,59 @@
         "href": "https://www.youtube.com/user/JeepEsp"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.jeep.es/concesionarios"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.jeep.es/contactos"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.ES",
+            "href": "https://www.jeep.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/jeep"
+          },
+          {
+            "label": "JEEP CONFIGURADOR",
+            "href": "https://www.jeep.es/configurador/#/"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-jeep.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -331,7 +387,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://tasacion.jeep.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -342,11 +398,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.jeep.es/lp/Compramos-tu-coche",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 8,
     "notes": [
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
       "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

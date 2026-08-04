@@ -18,8 +18,8 @@
     "og_image_alt": "ILE JEST WART MÓJ SAMOCHÓD? W OPEL MAMY DLA CIEBIE ODPOWIEDŹ."
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/153/f9197cfb-506c-4f51-bb1c-6228240915e2",
+    "logo_alt": "Opel Logo",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://www.odkup.opel.pl/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "DLACZEGO WARTO WYCENIĆ S",
+      "label": "DLACZEGO WARTO WYCENIĆ SWÓJ SAMOCHÓD NA NASZEJ STRONIE?",
       "anchor": "#dlaczego-warto-wycenic-swoj-samochod-na-"
     },
     {
-      "label": "JAK DZIAŁA WYCENA SAMOCH",
+      "label": "JAK DZIAŁA WYCENA SAMOCHODU?",
       "anchor": "#jak-dziaa-wycena-samochodu"
     },
     {
-      "label": "Rok pierwszej rejestracj",
+      "label": "Rok pierwszej rejestracji",
       "anchor": "#rok-pierwszej-rejestracji"
     },
     {
-      "label": "ZALETY WYCENY SAMOCHODU ",
+      "label": "ZALETY WYCENY SAMOCHODU ONLINE",
       "anchor": "#zalety-wyceny-samochodu-online"
     },
     {
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c74e5ab-1be1-4f61-9c10-4881df3f32a0",
+      "image_alt": "Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -118,8 +118,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c74e5ab-1be1-4f61-9c10-4881df3f32a0",
+      "image_alt": "Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -150,8 +150,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c74e5ab-1be1-4f61-9c10-4881df3f32a0",
+      "image_alt": "Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -182,8 +182,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c74e5ab-1be1-4f61-9c10-4881df3f32a0",
+      "image_alt": "Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -220,8 +220,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c74e5ab-1be1-4f61-9c10-4881df3f32a0",
+      "image_alt": "Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -245,7 +245,91 @@
         "href": "https://www.youtube.com/watch?v=LzKK4t0aMNs&list=PL-ycsZq2mnvzsrx9Q3peDW7nx7lYkKxMy"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDŹ DEALERA",
+            "href": "https://www.opel.pl/tools/opel-szukanie-dealera.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=pl#1"
+          },
+          {
+            "label": "ZNAK TOWAROWY I PRAWA AUTORSKIE",
+            "href": "https://www.opel.pl/tools/opel-prawa-autorskie.html"
+          },
+          {
+            "label": "NOWE WYNIKI SPALANIA",
+            "href": "https://www.opel.pl/tools/spalanie.html"
+          },
+          {
+            "label": "EFEKTYWNOŚĆ ENERGETYCZNA OPON",
+            "href": "https://www.opel.pl/content/dam/opel/poland/owners/parts-and-repairs/pdf/Opel-Zestawienie-efektywnosci-energetycznej-opon_04-2022.pdf"
+          }
+        ]
+      },
+      {
+        "title": "OPEL",
+        "links": [
+          {
+            "label": "OPEL.PL",
+            "href": "https://www.opel.pl/"
+          },
+          {
+            "label": "OPEL SAMOCHODY UŻYWANE",
+            "href": "https://www.opel.pl/samochody-uzywane.html"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.opel.pl/promocje/"
+          },
+          {
+            "label": "RECYKLING",
+            "href": "https://www.opel.pl/tools/recykling.html"
+          },
+          {
+            "label": "DEKLARACJA ZGODNOŚCI",
+            "href": "https://www.opel.pl/deklaracje-zgodnosci/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/153/dfa8a662-60b6-47e2-a54c-b402b81e2a7c"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.opel.pl/tools/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "https://www.opel.pl/tools/polityka-cookies.html "
+          },
+          {
+            "label": "INFORMACJE PRAWNE",
+            "href": "https://www.opel.pl/tools/opel-poufnosc-kwestie-prawne-nota-prawna.html"
+          },
+          {
+            "label": "DEKLARACJA ZGODY",
+            "href": "https://www.opel.pl/tools/deklaracja-zgody.html"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -258,7 +342,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Określ wartość swojego samochodu za pomocą narzędzia online Peugeot → w 100% bezpiecznie, szybko i bezpłatnie",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Opel Logo",
     "provider_url": "https://www.odkup.opel.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -269,11 +353,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.opel.pl/lp/wycena-pojazdu",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

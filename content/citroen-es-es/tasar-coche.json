@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche online sin costo extra - servicio sin obligaciones"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.citroen.es/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.citroen.es/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Tasación de coche gratis",
+      "label": "Tasación de coche gratis y sin obligaciones",
       "anchor": "#tasacion-de-coche-gratis-y-sin-obligacio"
     },
     {
-      "label": "¿Cómo puedes tasar tu co",
+      "label": "¿Cómo puedes tasar tu coche?",
       "anchor": "#como-puedes-tasar-tu-coche"
     },
     {
-      "label": "Cuales son las ventajas ",
+      "label": "Cuales son las ventajas de la tasación de su coche en la web",
       "anchor": "#cuales-son-las-ventajas-de-la-tasacion-d"
     },
     {
-      "label": "Tasación de tu coche 100",
+      "label": "Tasación de tu coche 100% sin costo y en internet",
       "anchor": "#tasacion-de-tu-coche-100-sin-costo-y-en-"
     },
     {
-      "label": "¡Date cuenta del valor d",
+      "label": "¡Date cuenta del valor de tu vehículo en 5 minutos!",
       "anchor": "#date-cuenta-del-valor-de-tu-vehiculo-en-"
     }
   ],
@@ -137,8 +137,8 @@
         "El kilometraje actual de tu coche",
         "Una lista de daños si los hay de tu coche"
       ],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -154,8 +154,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -171,8 +171,8 @@
         "Tasación con validez de hasta 10 días: ¿No quieres decidir inmediatamente? ¡No te preocupes! Tienes 10 días para decidir. Puedes elegir en una gran red para vender tu vehículo en España: Existen más de 100 puntos de venta en toda la red de Citroën, y es por ello que vender tu vehículo nunca será tan fácil.",
         "Tasación veloz – recibe el costo de inmediato: ¡No hay razón para esperar! Al terminar el formulario, tendrás tu tasación."
       ],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -188,8 +188,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -204,7 +204,7 @@
           "text": "¿COMO SE CALCULA LA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación está basada en: • Varios factores sobre tu coche: como la marca, el modelo, el motor, el kilometraje, la fecha de entrada, etc. • Se observa el mercado: nuestros expertos conocen como se maneja el mercado con modelos similares a los de tu vehículo. • Hay costos de reparación para el vehículo. Estos dependerán de la condición en la cual se encuentra el vehículo."
+          "text": "La tasación está basada en"
         },
         {
           "text": "¿DE QUE MANERA FUNCIONA LA TASACIÓN POR CITROEN?"
@@ -222,12 +222,18 @@
           "text": "¿QUÉ VENTAJAS TIENE LA TASACIÓN CON CITROEN?"
         },
         {
-          "text": "• Muy veloz sin compromisos y con unos cuantos clics tendrás tu tasación en 5 minutos. • No hay sorpresas al utilizar el servicio de Citroen para tu tasación. Todos los vehículos son valorados en función de todo lo que sucede en el mercado y las tasaciones recientes en modelos similares. • Total seguridad. Tu pago estará garantizado una vez todo este proceso finalice y esto es algo que puedes tener seguridad de obtener al terminar el proceso de tasación."
+          "text": "Muy veloz sin compromisos y con unos cuantos clics tendrás tu tasación en 5 minutos."
         }
       ],
-      "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Varios factores sobre tu coche: como la marca, el modelo, el motor, el kilometraje, la fecha de entrada, etc.",
+        "Se observa el mercado: nuestros expertos conocen como se maneja el mercado con modelos similares a los de tu vehículo.",
+        "Hay costos de reparación para el vehículo. Estos dependerán de la condición en la cual se encuentra el vehículo.",
+        "No hay sorpresas al utilizar el servicio de Citroen para tu tasación. Todos los vehículos son valorados en función de todo lo que sucede en el mercado y las tasaciones recientes en modelos similares.",
+        "Total seguridad. Tu pago estará garantizado una vez todo este proceso finalice y esto es algo que puedes tener seguridad de obtener al terminar el proceso de tasación."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -259,7 +265,63 @@
         "href": "https://www.youtube.com/user/CitroenEspana"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contacto",
+        "links": [
+          {
+            "label": "Citroën.es",
+            "href": "https://www.citroen.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/citroen"
+          },
+          {
+            "label": "Contacte con nosotros",
+            "href": "https://www.citroen.es/contacto/atencion-al-cliente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Condiciones Generales",
+            "href": "/condiciones-generales-de-uso.pdf"
+          },
+          {
+            "label": "Configuración De Cookies",
+            "href": "#"
+          },
+          {
+            "label": "Política de privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "Enlaces",
+        "links": [
+          {
+            "label": "Encontrar un punto de venta",
+            "href": "https://www.citroen.es/citroen-y-tu/red-oficial-citroen.html?_ga=2.19987384.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Solicitar una cita",
+            "href": "https://cita-taller.citroen.es/dealerlocator.aspx?o=cpp&p=i&c=es-ES&b=c&_ga=2.254882312.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Configurar un vehículo",
+            "href": "https://www.citroen.es/vehiculos/citroen.html#content"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -272,7 +334,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.tasacion.citroen.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -283,11 +345,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.citroen.es/lp/tasar-coche",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

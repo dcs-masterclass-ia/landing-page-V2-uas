@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture : mode d’emploi | JEEP"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.jeep.fr/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.jeep.fr/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Vendez votre voiture : l",
+      "label": "Vendez votre voiture : la reprise par Jeep",
       "anchor": "#vendez-votre-voiture-la-reprise-par-jeep"
     },
     {
-      "label": "Un rendez-vous planifié ",
+      "label": "Un rendez-vous planifié rapidement chez le concessionnaire de votre choix",
       "anchor": "#un-rendez-vous-planifie-rapidement-chez-"
     },
     {
-      "label": "Vendez votre voiture : c",
+      "label": "Vendez votre voiture : comment marche la reprise ?",
       "anchor": "#vendez-votre-voiture-comment-marche-la-r"
     },
     {
-      "label": "Etape 1: Décrivez nous v",
+      "label": "Etape 1: Décrivez nous votre voiture",
       "anchor": "#etape-1-decrivez-nous-votre-voiture"
     },
     {
@@ -101,8 +101,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -118,8 +118,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -135,8 +135,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -152,8 +152,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -172,8 +172,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -194,7 +194,7 @@
           "text": "2. Vendez-vous votre voiture au meilleur prix ?"
         },
         {
-          "text": "L’estimation est calculée grâce à plusieurs éléments : • Les informations de votre voiture : marque, modèle, version, kilométrage, âge, etc. • Les transactions récentes sur le marché des professionnels de l’automobile concernant votre modèle de véhicule • Une déduction de frais de remise en état standard. Ces frais pourront être ajustés selon l’état réel de votre véhicule lors de l’inspection physique effectuée par votre concessionnaire."
+          "text": "L’estimation est calculée grâce à plusieurs éléments"
         },
         {
           "text": "3. Comment vendre ma voiture a Jeep ?"
@@ -215,9 +215,13 @@
           "text": "Quand vous vendez votre voiture au réseau Jeep, c’est la garantie d’un paiement rapide et en toute sérénité. Le règlement de votre véhicule est assuré par votre concessionnaire Jeep, par chèque ou par virement bancaire selon le point de vente choisi. Plus de mauvaises surprises, vendez votre voiture en toute sécurité !"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Les informations de votre voiture : marque, modèle, version, kilométrage, âge, etc.",
+        "Les transactions récentes sur le marché des professionnels de l’automobile concernant votre modèle de véhicule",
+        "Une déduction de frais de remise en état standard. Ces frais pourront être ajustés selon l’état réel de votre véhicule lors de l’inspection physique effectuée par votre concessionnaire."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/8dbdfc90-120c-4a8a-a893-01b514e41011",
+      "image_alt": "poignée de main pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -245,7 +249,63 @@
         "href": "https://www.youtube.com/user/jeepfrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.jeep.fr/concessionnaires"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.jeep.fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "JEEP ®",
+        "links": [
+          {
+            "label": "JEEP ® .FR",
+            "href": "https://www.jeep.fr"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/jeep"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.jeep.fr/offres-suv-4x4"
+          },
+          {
+            "label": "STOCK Jeep ®",
+            "href": "https://www.jeep.fr/nouveaux-suvs-en-stock"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Politique de confidentialité",
+            "href": "/privacy-policy.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -258,7 +318,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://reprise.jeep.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -269,11 +329,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.jeep.fr/lp/vendez-votre-voiture",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

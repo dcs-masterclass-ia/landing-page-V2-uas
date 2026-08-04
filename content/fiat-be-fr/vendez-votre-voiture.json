@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture : on vous accompagne !"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/125/92ee3ae4-dd89-4aa1-9746-9d9f4165ade0",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiat.be/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Vendez votre voiture : p",
+      "label": "Vendez votre voiture : pourquoi choisir la reprise Fiat?",
       "anchor": "#vendez-votre-voiture-pourquoi-choisir-la"
     },
     {
-      "label": "Vendre voiture facilemen",
+      "label": "Vendre voiture facilement : pas à pas",
       "anchor": "#vendre-voiture-facilement-pas-a-pas"
     },
     {
-      "label": "1: Renseignez le profil ",
+      "label": "1: Renseignez le profil de votre véhicule",
       "anchor": "#1-renseignez-le-profil-de-votre-vehicule"
     },
     {
-      "label": "Les avantages de choisir",
+      "label": "Les avantages de choisir Fiat pour votre reprise",
       "anchor": "#les-avantages-de-choisir-fiat-pour-votre"
     },
     {
-      "label": "Questions Fréquentes con",
+      "label": "Questions Fréquentes concernant votre reprise Fiat",
       "anchor": "#questions-frequentes-concernant-votre-re"
     }
   ],
@@ -97,10 +97,14 @@
           "text": "Vous souhaitez vendre votre voiture ? Reprise Fiat, c’est une solution en ligne vous permettant d’estimer gratuitement la valeur de reprise de votre véhicule, sans engagement. Evitez les mauvaises surprises survenant parfois lors de la vente entre particuliers et préférez une option sûre, avec un professionnel du réseau Fiat et un paiement garanti."
         },
         {
-          "text": "● Notre estimation est 100% gratuite et sans engagement ● Recevez l’estimation de votre véhicule en ligne et par email, et décidez si cela vous convient ● Un concessionnaire près de chez vous vous rappelle pour convenir d’un rendez-vous à votre convenance ● L’offre vous convient ? Sécurisez votre transaction avec un paiement rapide"
+          "text": "Notre estimation est 100% gratuite et sans engagement"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Recevez l’estimation de votre véhicule en ligne et par email, et décidez si cela vous convient",
+        "Un concessionnaire près de chez vous vous rappelle pour convenir d’un rendez-vous à votre convenance",
+        "L’offre vous convient ? Sécurisez votre transaction avec un paiement rapide"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
       "image_alt": "vendez votre voiture pas à pas avec Fiat",
       "tag": "TODO_ARBITRAGE",
@@ -118,8 +122,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -135,8 +139,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,12 +152,18 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -187,8 +197,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -210,8 +220,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -236,8 +246,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "Les avantages",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -265,7 +275,67 @@
         "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.fiat.be/fr/concessionnaires"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiat.be/fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.BE",
+            "href": "https://www.fiat.be/fr"
+          },
+          {
+            "label": "FIAT OCCASIONS",
+            "href": "https://www.spoticar.be/fr/voitures-occasion/fiat"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiat.be/fr/offres"
+          },
+          {
+            "label": "STOCK FIAT",
+            "href": "https://www.fiat.be/fr/voitures-neuves-en-stock"
+          },
+          {
+            "label": "CONFIGUREZ ET COMMANDEZ",
+            "href": "https://www.fiat.be/fr/configurateur/#/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/125/7079532e-b8ee-424b-9086-21d4f3838b4d"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -278,7 +348,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat vous accompagne dans l'estimation de votre voiture. Vendez votre voiture à nos professionnels, c’est gratuit et sans engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://reprise.fiat.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -289,12 +359,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiat.be/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

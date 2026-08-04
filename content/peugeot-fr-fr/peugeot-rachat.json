@@ -18,8 +18,8 @@
     "og_image_alt": "Rachat de votre voiture d'occasion"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+    "logo_alt": "Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.peugeot.fr/"
   },
@@ -39,11 +39,11 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Faire racheter sa voitur",
+      "label": "Faire racheter sa voiture rapidement et en toute confiance",
       "anchor": "#faire-racheter-sa-voiture-rapidement-et-"
     },
     {
@@ -51,7 +51,7 @@
       "anchor": "#peugeot-webstore"
     },
     {
-      "label": "Un rachat sécurisé pour ",
+      "label": "Un rachat sécurisé pour votre voiture d'occasion",
       "anchor": "#un-rachat-securise-pour-votre-voiture-d-"
     },
     {
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -162,8 +162,8 @@
         "Pas d'engagement de rachat de votre voiture",
         "Des formalités administratives réduites"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -179,8 +179,8 @@
         "Choisissez votre point de vente",
         "Un rachat facile de votre voiture d'occasion"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -196,8 +196,8 @@
         "Un rachat sécurisée et rapide",
         "Une offre de rachat ajustée"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "rachat-voiture-peugeot-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -229,7 +229,71 @@
         "href": "https://www.youtube.com/PeugeotFrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.reprise.peugeot.fr/page-faq"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.peugeot.fr/tools/nous-contacter.html"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.FR",
+            "href": "https://www.peugeot.fr/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/peugeot"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://offres.peugeot.fr/"
+          },
+          {
+            "label": "PEUGEOT STOCK",
+            "href": "https://store.peugeot.fr/stock"
+          },
+          {
+            "label": "LE RESEAU PEUGEOT",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/conditions-generales.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -242,7 +306,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Offre de rachat de votre voiture gratuit et sans engagement avec les professionnels de l'automobile Repris Peugeot. Estimation gratuite en ligne.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://www.reprise.peugeot.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -253,12 +317,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.peugeot.fr/lp/peugeot-rachat",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
       "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

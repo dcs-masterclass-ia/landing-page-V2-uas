@@ -18,8 +18,8 @@
     "og_image_alt": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/149/56d84238-38a5-4122-85d1-fd51dd911d17",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.fiat.pl/"
   },
@@ -39,11 +39,11 @@
   },
   "subnav": [
     {
-      "label": "SPRZEDAŻ SAMOCHODU: DLAC",
+      "label": "SPRZEDAŻ SAMOCHODU: DLACZEGO WARTO ZDECYDOWAĆ SIĘ NA WYMIANĘ?",
       "anchor": "#sprzedaz-samochodu-dlaczego-warto-zdecyd"
     },
     {
-      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: JAK TO DZIAŁA?",
       "anchor": "#sprzedaj-swoj-samochod-jak-to-dziaa"
     },
     {
@@ -89,8 +89,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/149/3073d26a-a192-44e7-bc04-2a3bc14e0adb",
+      "image_alt": "sprzedaż samochodów-fiat 3",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -106,8 +106,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/149/3073d26a-a192-44e7-bc04-2a3bc14e0adb",
+      "image_alt": "sprzedaż samochodów-fiat 3",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -153,8 +153,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/149/3073d26a-a192-44e7-bc04-2a3bc14e0adb",
+      "image_alt": "sprzedaż samochodów-fiat 3",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -186,7 +186,63 @@
         "href": "https://www.youtube.com/channel/UCnSwTzF-yGl9-fkd_vheG4A"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.fiat.pl/dealerzy"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.fiat.pl/kontakt "
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.PL",
+            "href": "https://www.fiat.pl/"
+          },
+          {
+            "label": "FIAT SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.fiat.pl/promocje"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/149/a556d013-a9e0-446f-b936-5e241e04ded6"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -199,7 +255,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://odkup.fiat.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -210,11 +266,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://odkup.fiat.pl/lp/Sprzedaj-swoj-samochod",
-    "medias_trouves": 6,
+    "medias_trouves": 4,
     "blocs_detectes": 3,
     "notes": [
-      "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.fiat.pl/build/img/fiat/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

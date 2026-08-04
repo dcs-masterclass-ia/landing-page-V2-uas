@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture simplement avec le réseau FIAT"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/137/b1943761-6748-4aa8-96da-b8e4364aa64a",
+    "logo_alt": "Logo Fiat",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiat.fr/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "Vendez votre voiture en ",
+      "label": "Vendez votre voiture en toute simplicité",
       "anchor": "#vendez-votre-voiture-en-toute-simplicite"
     },
     {
@@ -51,15 +51,15 @@
       "anchor": "#sans-aucun-engagement"
     },
     {
-      "label": "Vendez votre voiture rap",
+      "label": "Vendez votre voiture rapidement en 3 étapes",
       "anchor": "#vendez-votre-voiture-rapidement-en-3-eta"
     },
     {
-      "label": "Vendez votre voiture à d",
+      "label": "Vendez votre voiture à des professionnels",
       "anchor": "#vendez-votre-voiture-a-des-professionnel"
     },
     {
-      "label": "Le paiement est 100% séc",
+      "label": "Le paiement est 100% sécurisé",
       "anchor": "#le-paiement-est-100-securise"
     }
   ],
@@ -115,8 +115,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -162,8 +162,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -203,8 +203,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -223,8 +223,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -285,8 +285,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -318,7 +318,67 @@
         "href": "https://www.youtube.com/user/FIATFRANCE"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.fiat.fr/concessionnaires-fiat"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiat.fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "FIAT",
+        "links": [
+          {
+            "label": "FIAT.FR",
+            "href": "https://www.fiat.fr"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/fiat "
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiat.fr/offres"
+          },
+          {
+            "label": "STOCK FIAT",
+            "href": "https://www.fiat.fr/voitures-neuves-en-stock"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-de-confidentialite.pdf"
+          },
+          {
+            "label": "Gestion des cookies",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -331,7 +391,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat",
     "provider_url": "https://reprise.fiat.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -342,12 +402,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiat.fr/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/separator-breadcrumb.png",
-      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

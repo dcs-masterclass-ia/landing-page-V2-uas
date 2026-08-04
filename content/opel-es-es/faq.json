@@ -18,8 +18,8 @@
     "og_image_alt": "¿Por qué elegir Tasación Opel?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+    "logo_alt": "Logo Opel",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.opel.es/"
   },
@@ -43,7 +43,7 @@
   },
   "subnav": [
     {
-      "label": "¿Deseas vender tu coche ",
+      "label": "¿Deseas vender tu coche pero quieres ahorrarte el tener que anunciarlo y los trámites administrativos?",
       "anchor": "#deseas-vender-tu-coche-pero-quieres-ahor"
     },
     {
@@ -55,11 +55,11 @@
       "anchor": "#tranquilidad"
     },
     {
-      "label": "olicita una cita con tu ",
+      "label": "olicita una cita con tu concesionario Opel España",
       "anchor": "#olicita-una-cita-con-tu-concesionario-op"
     },
     {
-      "label": "sin compromiso por tu pa",
+      "label": "sin compromiso por tu parte",
       "anchor": "#sin-compromiso-por-tu-parte"
     }
   ],
@@ -103,7 +103,7 @@
           "text": "Tasación Opel es un servicio online que te permite obtener una tasación de tu coche de forma gratuita. Tasa tu coche y solicita una cita con tu concesionario Opel más cercano para obtener una tasación más precisa."
         },
         {
-          "text": "La tasación se basa en: • Las características de tu coche: marca, modelo, motorización, acabado, kilometraje y fecha de matriculación. • Observaciones del mercado: transacciones recientes realizadas por los profesionales en modelos equivalentes. • Estos valores se ajustarán por el concesionario en función del estado real del coche. La recompra Opel es gratuita, rápida y sin ningún compromiso por tu parte. Tan solo necesitas unos minutos para describir tu vehículo, elegir tu punto de venta y descubrir el valor de tu coche. Contactaremos contigo para concretar una cita en el concesionario seleccionado. Una vez en el punto de venta, uno de nuestros expertos examinará tu vehículo para ajustar la tasación."
+          "text": "La tasación se basa en"
         },
         {
           "text": "¿Cómo se calcula la tasación de su coche ?"
@@ -112,9 +112,13 @@
           "text": "¿Cómo funciona la recompra Opel ?"
         }
       ],
-      "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Las características de tu coche: marca, modelo, motorización, acabado, kilometraje y fecha de matriculación.",
+        "Observaciones del mercado: transacciones recientes realizadas por los profesionales en modelos equivalentes.",
+        "Estos valores se ajustarán por el concesionario en función del estado real del coche. La recompra Opel es gratuita, rápida y sin ningún compromiso por tu parte. Tan solo necesitas unos minutos para describir tu vehículo, elegir tu punto de venta y descubrir el valor de tu coche. Contactaremos contigo para concretar una cita en el concesionario seleccionado. Una vez en el punto de venta, uno de nuestros expertos examinará tu vehículo para ajustar la tasación."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -133,8 +137,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -150,8 +154,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -173,8 +177,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -193,8 +197,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -216,8 +220,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/be25adba-75fb-4f35-99aa-6b6f68a542ff",
+      "image_alt": "Logo Opel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -249,7 +253,59 @@
         "href": "https://www.youtube.com/user/OpelspainGM"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTOS",
+        "links": [
+          {
+            "label": "OPEL.ES",
+            "href": "https://www.opel.es/"
+          },
+          {
+            "label": "Contacta con nosotros",
+            "href": "https://opel.my-customerportal.com/opel/s/case-webform?language=es"
+          },
+          {
+            "label": "Red Opel",
+            "href": "https://www.opel.es/tools/concesionarios-opel.html "
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Información legal",
+            "href": " https://www.opel.es/tools/aviso-legal.html"
+          },
+          {
+            "label": "Política de cookies",
+            "href": "https://www.opel.es/tools/politica-de-cookies.html"
+          },
+          {
+            "label": "Política de Privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "SABER MÁS",
+        "links": [
+          {
+            "label": "Configurador",
+            "href": "https://www.opel.es/tools/configurador.html "
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/opel"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -262,7 +318,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Quieres vender tu coche y tienes dudas sobre su tasación? Opel te ayuda.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Opel",
     "provider_url": "https://www.tasacion.opel.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -273,11 +329,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.opel.es/faq",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
       "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

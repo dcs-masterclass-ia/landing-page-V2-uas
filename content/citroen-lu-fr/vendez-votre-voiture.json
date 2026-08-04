@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture : Citroën vous accompagne"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.citroen.lu/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.citroen.lu/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Vendez votre voiture : p",
+      "label": "Vendez votre voiture : pourquoi choisir la reprise ?",
       "anchor": "#vendez-votre-voiture-pourquoi-choisir-la"
     },
     {
-      "label": "Vendez votre voiture : l",
+      "label": "Vendez votre voiture : les avantages de notre service",
       "anchor": "#vendez-votre-voiture-les-avantages-de-no"
     },
     {
-      "label": "Vendre voiture facilemen",
+      "label": "Vendre voiture facilement: toutes les étapes",
       "anchor": "#vendre-voiture-facilement-toutes-les-eta"
     },
     {
-      "label": "Vendre votre voiture en ",
+      "label": "Vendre votre voiture en toute sécurité",
       "anchor": "#vendre-votre-voiture-en-toute-securite"
     },
     {
-      "label": "Vendre sa voiture: Quest",
+      "label": "Vendre sa voiture: Questions Fréquentes",
       "anchor": "#vendre-sa-voiture-questions-frequentes"
     }
   ],
@@ -111,10 +111,14 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "● Notre estimation est 100% gratuite et sans engagement ● Recevez l’estimation de votre véhicule en ligne et par email, et décidez si cela vous convient ● Un concessionnaire près de chez vous vous rappelle pour convenir d’un rendez-vous à votre convenance ● L’offre vous convient ? Sécurisez votre transaction avec un paiement rapide"
+          "text": "Notre estimation est 100% gratuite et sans engagement"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Recevez l’estimation de votre véhicule en ligne et par email, et décidez si cela vous convient",
+        "Un concessionnaire près de chez vous vous rappelle pour convenir d’un rendez-vous à votre convenance",
+        "L’offre vous convient ? Sécurisez votre transaction avec un paiement rapide"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
       "image_alt": "voiture Citroën roulant sur une route de campagne",
       "tag": "TODO_ARBITRAGE",
@@ -135,8 +139,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "voiture Citroën roulant sur une route de campagne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -148,12 +152,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "voiture Citroën roulant sur une route de campagne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -199,8 +210,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "voiture Citroën roulant sur une route de campagne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -225,8 +236,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "voiture Citroën roulant sur une route de campagne",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -258,7 +269,51 @@
         "href": "https://www.youtube.com/user/citroenbelux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Liens utiles",
+        "links": [
+          {
+            "label": "Trouver un point de vente",
+            "href": "http://www.citroen.lu/citroen-vous/trouver-un-point-de-vente-citroen.html?_ga=2.56211816.2139016194.1604326483-1573869338.1603979631"
+          },
+          {
+            "label": "Configurer un véhicule",
+            "href": "http://www.citroen.lu/configurateur.html?_ga=2.56211816.2139016194.1604326483-1573869338.1603979631"
+          },
+          {
+            "label": "Offres Citroën",
+            "href": "https://www.citroen.lu/acheter/offres.html#offres-aux-particuliers"
+          }
+        ]
+      },
+      {
+        "title": "Trouver ma voiture",
+        "links": [
+          {
+            "label": "Véhicules d'occasion",
+            "href": "https://www.spoticar.lu/"
+          }
+        ]
+      },
+      {
+        "title": "Mentions légales",
+        "links": [
+          {
+            "label": "Politique de Confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Conditions générales d'utilisation",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -271,7 +326,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://reprise.citroen.lu",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -282,11 +337,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.citroen.lu/lp/vendez-votre-voiture",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 6,
     "notes": [
-      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

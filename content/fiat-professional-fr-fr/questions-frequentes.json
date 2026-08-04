@@ -18,8 +18,8 @@
     "og_image_alt": "Foire aux questions"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/144/1ccd59e6-8a6d-4147-a571-f7a436582c6b",
+    "logo_alt": "Logo Fiat Professional",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.fiatprofessional.com/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Accéder au contenu princ",
+      "label": "Accéder au contenu principal",
       "anchor": "#acceder-au-contenu-principal"
     },
     {
-      "label": "JE N’AI PAS REÇU MON EST",
+      "label": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
       "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
     }
   ],
@@ -111,8 +111,8 @@
         "Sérénité. Evitez les mauvaises surprises. En sollicitant le service de Fiat Professional vous recevez une estimation de la valeur de votre utilitaire par un professionnel de l’automobile. Chaque utilitaire est évalué sur la base d’observations du marché et des transactions récentes.",
         "Sécurité. Le paiement de votre utilitaire est garanti et sécurisé. Lors de la transaction, le paiement de l'utilitaire est assuré par un distributeur Fiat Professional."
       ],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/1ccd59e6-8a6d-4147-a571-f7a436582c6b",
+      "image_alt": "Logo Fiat Professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -145,8 +145,8 @@
         "Les 2 jeux de clés de votre utilitaire ainsi que le code de sécurité pour en obtenir de nouvelles",
         "Le cas échéant, la clé des écrous antivol de vos roues"
       ],
-      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/1ccd59e6-8a6d-4147-a571-f7a436582c6b",
+      "image_alt": "Logo Fiat Professional",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -170,7 +170,51 @@
         "href": "https://www.linkedin.com/company/fiat-professional-france"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "TROUVER UN DISTRIBUTEUR",
+            "href": "https://www.fiatprofessional.com/fr/trouver-distributeur"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiatprofessional.com/fr/contactez-nous"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.FR",
+            "href": "https://www.fiatprofessional.com/fr"
+          },
+          {
+            "label": "RESERVER UN ESSAI",
+            "href": "https://www.fiatprofessional.com/fr/essai-de-conduite"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiatprofessional.com/fr/offres"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "Pour les trajets courts, privilégiez la marche ou le vélo #Se Déplacer Moins Polluer. 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -183,7 +227,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Fiat Professional répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat Professional",
     "provider_url": "https://reprise.fiatprofessional.com",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -194,11 +238,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.fiatprofessional.com/questions-frequentes",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 2,
     "notes": [
-      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

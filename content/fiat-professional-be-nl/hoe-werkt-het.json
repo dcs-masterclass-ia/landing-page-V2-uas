@@ -18,8 +18,8 @@
     "og_image_alt": "HOE WERKT HET ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/142/e07db304-e4ff-49a9-a077-1bd7f9b0e796",
+    "logo_alt": "Logo Fiat Professional",
     "cta_label": "Bereken mijn inruilwaarde",
     "cta_href": "https://overname.fiatprofessional.com/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#todo-arbitrage"
     },
     {
-      "label": "Berekening van de overna",
+      "label": "Berekening van de overnamewaarde",
       "anchor": "#berekening-van-de-overnamewaarde"
     },
     {
@@ -184,8 +184,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/9c535627-9117-469c-b382-d73558c47e53",
+      "image_alt": "Een hand in witte handschoen presenteert een autosleutel",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -213,7 +213,55 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTEER ONS",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/veelgestelde-vragen"
+          },
+          {
+            "label": "VERDELERS",
+            "href": "https://www.fiatprofessional.com/be/nl/dealers"
+          },
+          {
+            "label": "CONTACTEER ONS",
+            "href": "https://www.fiatprofessional.com/be/nl/informatie"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.BE.NL",
+            "href": "https://www.fiatprofessional.com/be/nl"
+          },
+          {
+            "label": "ACTUELE AANBIEDINGEN",
+            "href": "https://www.fiatprofessional.com/be/nl/offerte"
+          },
+          {
+            "label": "TWEEDEHANDS",
+            "href": "https://www.fiatprofessional.com/be/nl/occasie-bestelwagen#!/search"
+          }
+        ]
+      },
+      {
+        "title": "WETTELIKJKE VERMELDINGEN",
+        "links": [
+          {
+            "label": "LEGALE VERMELDINGEN",
+            "href": "https://usine-a-sites-staging.s3.amazonaws.com/134/ec2b05a8-04ce-4fcc-9040-1aab9ca3bab0"
+          },
+          {
+            "label": "WETTELIJKE INFORMATIE",
+            "href": "/privacykennisgeving.pdf"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -226,7 +274,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verdeler van ons netwerk. Geniet van de expertise van Fiat Professional voor de overname van je wagen.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Fiat Professional",
     "provider_url": "https://overname.fiatprofessional.com",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -237,11 +285,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://overname.fiatprofessional.com/hoe-werkt-het",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 5,
     "notes": [
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

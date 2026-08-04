@@ -18,8 +18,8 @@
     "og_image_alt": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.peugeot.pl/build/img/peugeot/brand-logo-site.png",
+    "logo_alt": "Peugeot",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.peugeot.pl/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "SPRZEDAŻ SAMOCHODU: DLAC",
+      "label": "SPRZEDAŻ SAMOCHODU: DLACZEGO WARTO ZDECYDOWAĆ SIĘ NA WYMIANĘ?",
       "anchor": "#sprzedaz-samochodu-dlaczego-warto-zdecyd"
     },
     {
-      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ZALETY SZYBKIEJ I BEZPROBLEMOWEJ SPRZEDAŻY :",
       "anchor": "#sprzedaj-swoj-samochod-zalety-szybkiej-i"
     },
     {
-      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: JAK TO DZIAŁA?",
       "anchor": "#sprzedaj-swoj-samochod-jak-to-dziaa"
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/9bd0d2f7-16b1-4774-a81c-3b0e7c60ddca",
+      "image_alt": "samochód-sprzedaż-peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/9bd0d2f7-16b1-4774-a81c-3b0e7c60ddca",
+      "image_alt": "samochód-sprzedaż-peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/9bd0d2f7-16b1-4774-a81c-3b0e7c60ddca",
+      "image_alt": "samochód-sprzedaż-peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -166,8 +166,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/9bd0d2f7-16b1-4774-a81c-3b0e7c60ddca",
+      "image_alt": "samochód-sprzedaż-peugeot",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -199,7 +199,63 @@
         "href": "https://www.youtube.com/c/peugeotpolska"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Kontakt",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.peugeot.pl/lacza/znadj-dealera.html"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/case-webform?language=pl#1"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.PL",
+            "href": "https://www.peugeot.pl/"
+          },
+          {
+            "label": "PEUGEOT SAMOCHODY UŻYWANE",
+            "href": "https://www.peugeot.pl/used-vehicles/Spoticar-Peugeot-uzywane.html"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.peugeot.pl/wybierz-samochod/kup-peugeot/nasze-oferty.html"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/147/0b4f0d7b-f5e3-4f9b-b254-0cb3bd3bdc58"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "https://www.peugeot.pl/lacza/polityka-prywatnosci.html"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "#"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -212,7 +268,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://odkup.peugeot.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -223,11 +279,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.peugeot.pl/lp/sprzedaj-swoj-samochod",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://odkup.peugeot.pl/build/img/peugeot/chevron-up.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

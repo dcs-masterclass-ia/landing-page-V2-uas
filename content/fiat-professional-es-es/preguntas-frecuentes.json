@@ -18,8 +18,8 @@
     "og_image_alt": "¿Por qué elegir Tasación Fiat Professional?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/158/f463be27-4527-46c4-9cff-fd03b3c613f7",
+    "logo_alt": "Fiat Pro logo",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.fiatprofessional.es/"
   },
@@ -85,8 +85,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/158/f463be27-4527-46c4-9cff-fd03b3c613f7",
+      "image_alt": "Fiat Pro logo",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -114,7 +114,59 @@
         "href": "https://www.youtube.com/user/ProFiat"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACTO",
+        "links": [
+          {
+            "label": "PREGUNTAS FRECUENTES",
+            "href": "/preguntas-frecuentes"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.fiatprofessional.com/es/localiza-tu-concesionario"
+          },
+          {
+            "label": "CONTACTANOS",
+            "href": "https://www.fiatprofessional.com/es/contactos"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.ES",
+            "href": "https://www.fiatprofessional.com/es"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/comercial/fiat"
+          },
+          {
+            "label": "FIAT PROFESSIONAL CONFIGURADOR",
+            "href": "https://www.fiatprofessional.com/es/configuradores"
+          }
+        ]
+      },
+      {
+        "title": "NOTAS LEGALES",
+        "links": [
+          {
+            "label": "CONDICIONES DE USO",
+            "href": "/condiciones-de-uso-tasacion-fiatprofessional.pdf"
+          },
+          {
+            "label": "POLÍTICA DE PRIVACIDAD",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "ACCESIBILIDAD",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -127,7 +179,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Preguntas frecuentes",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Fiat Pro logo",
     "provider_url": "https://tasacion.fiatprofessional.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -138,11 +190,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.fiatprofessional.es/preguntas-frecuentes",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 1,
     "notes": [
-      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
-      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
       "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

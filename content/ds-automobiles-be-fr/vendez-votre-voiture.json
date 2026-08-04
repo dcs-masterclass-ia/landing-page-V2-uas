@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture en toute sécurité avec DS Automobiles"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.dsautomobiles.be/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.dsautomobiles.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi choisir DS Auto",
+      "label": "Pourquoi choisir DS Automobiles?",
       "anchor": "#pourquoi-choisir-ds-automobiles"
     },
     {
-      "label": "Les avantages de notre s",
+      "label": "Les avantages de notre service de vente de voiture",
       "anchor": "#les-avantages-de-notre-service-de-vente-"
     },
     {
-      "label": "Les étapes pour vendre s",
+      "label": "Les étapes pour vendre sa voiture facilement",
       "anchor": "#les-etapes-pour-vendre-sa-voiture-facile"
     },
     {
-      "label": "Vendre votre voiture en ",
+      "label": "Vendre votre voiture en toute sécurité",
       "anchor": "#vendre-votre-voiture-en-toute-securite"
     },
     {
@@ -111,10 +111,15 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Nous vous offrons les avantages suivants : ● Une estimation gratuite et sans engagement ● Une estimation envoyée en ligne et par email ● Un rendez-vous avec un concessionnaire près de chez vous, à votre convenance ● La possibilité de sécuriser votre transaction grâce à un paiement rapide"
+          "text": "Nous vous offrons les avantages suivants"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation gratuite et sans engagement",
+        "Une estimation envoyée en ligne et par email",
+        "Un rendez-vous avec un concessionnaire près de chez vous, à votre convenance",
+        "La possibilité de sécuriser votre transaction grâce à un paiement rapide"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "Vendre votre voiture en toute sécurité avec DS Automobiles",
       "tag": "TODO_ARBITRAGE",
@@ -145,10 +150,18 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation d’achat ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives ● Vous pouvez connaître la valeur de votre voiture en moins de 5 minutes !"
+          "text": "Si vous vendez votre voiture à un particulier"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Vous n'avez aucune garantie",
+        "Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants",
+        "Une évaluation rapide et en ligne",
+        "Pas d'obligation d’achat",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives",
+        "Vous pouvez connaître la valeur de votre voiture en moins de 5 minutes !"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "Vendre votre voiture en toute sécurité avec DS Automobiles",
       "tag": "TODO_ARBITRAGE",
@@ -259,7 +272,50 @@
         "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles",
+            "href": "https://www.dsautomobiles.be/"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.be/fr/configurateur.html"
+          },
+          {
+            "label": "Demandez une offre",
+            "href": "https://www.dsautomobiles.be/fr/outils/demande-offre.html"
+          },
+          {
+            "label": "Nos véhicules d'occasion",
+            "href": "https://www.dscertified.dsautomobiles.be/"
+          },
+          {
+            "label": "Trouvez un point de vente",
+            "href": "https://www.dsautomobiles.be/fr/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Mentions légales",
+            "href": "https://www.dsautomobiles.be/fr/mentions-legales.html"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "© 2026 DS Automobiles *Bonus valable pour l'achat d'une DS7 neuve, jusqu'au 2026-7-31, dans les réseaux participants",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -272,7 +328,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Avec DS Automobiles, vendre votre voiture en toute sécurité est notre priorité. ► Nous vous accompagnons à chaque étape du processus de vente.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://reprise.dsautomobiles.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",

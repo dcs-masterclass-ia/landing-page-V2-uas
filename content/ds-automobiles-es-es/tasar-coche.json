@@ -18,8 +18,8 @@
     "og_image_alt": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.dsautomobiles.es/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.dsautomobiles.es/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Tasación de coche con ni",
+      "label": "Tasación de coche con ningún costo y sin obligarte a nada",
       "anchor": "#tasacion-de-coche-con-ningun-costo-y-sin"
     },
     {
-      "label": "Algún daño que pueda ten",
+      "label": "Algún daño que pueda tener de cualquier tipo",
       "anchor": "#algun-dano-que-pueda-tener-de-cualquier-"
     },
     {
-      "label": "Las numerosas ventajas d",
+      "label": "Las numerosas ventajas de la tasación de su coche en la web",
       "anchor": "#las-numerosas-ventajas-de-la-tasacion-de"
     },
     {
-      "label": "Tasar coche: Preguntas c",
+      "label": "Tasar coche: Preguntas comunes",
       "anchor": "#tasar-coche-preguntas-comunes"
     }
   ],
@@ -171,7 +171,7 @@
           "text": "¿CUAL ES EL PROCESO PARA PODER TENER UNA TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación se encuentra basada en: • Danos los datos básicos como: Su marca, el modelo, el tipo de motor y su poder, su kilometraje, y fecha en que se puso a rodar. • Las observaciones del mercado son importantes: Comparar vehículos similares es de mucha ayuda. • Una deducción dependiendo de cuanto deba trabajarse en reparar el vehículo para que esté en condiciones ideales. Estos costos dependerán de la condición del vehículo."
+          "text": "La tasación se encuentra basada en"
         },
         {
           "text": "¿COMO ES QUE FUNCIONA UN PROCESO DE TASACIÓN BRINDADO POR DS?"
@@ -189,7 +189,7 @@
           "text": "¿QUE VENTAJAS HAY CON LA TASACIÓN POR PARTE DE DS?"
         },
         {
-          "text": "• Es un proceso muy rápido que es fácil de lograr sin problemas. • Puedes tener paz mental de que esto será un proceso que no tendrá ningún costo para ti ni estará ligado a obligaciones o contratos. • Puedes tener seguridad de que se te pagará el precio que se ofrece por tu vehículo una vez que la tasación final este finalizada."
+          "text": "Es un proceso muy rápido que es fácil de lograr sin problemas."
         },
         {
           "text": "¿COMO ME COMPROMETE ESTE PROCESO DE TASACIÓN?"
@@ -198,7 +198,13 @@
           "text": "No hay compromiso y tendrás tu tasación rápidamente cuando la necesites y sin ningún costo. Así puedes decidir cómo y cuándo vender tu vehículo."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Danos los datos básicos como: Su marca, el modelo, el tipo de motor y su poder, su kilometraje, y fecha en que se puso a rodar.",
+        "Las observaciones del mercado son importantes: Comparar vehículos similares es de mucha ayuda.",
+        "Una deducción dependiendo de cuanto deba trabajarse en reparar el vehículo para que esté en condiciones ideales. Estos costos dependerán de la condición del vehículo.",
+        "Puedes tener paz mental de que esto será un proceso que no tendrá ningún costo para ti ni estará ligado a obligaciones o contratos.",
+        "Puedes tener seguridad de que se te pagará el precio que se ofrece por tu vehículo una vez que la tasación final este finalizada."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
       "image_alt": "las ventajas tasar coche ds",
       "tag": "TODO_ARBITRAGE",
@@ -215,7 +221,54 @@
   "footer": {
     "tagline": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
     "social": [],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Cookies",
+            "href": "http://info.evidon.com/pub_info/6937?v=1"
+          },
+          {
+            "label": "Newsletter",
+            "href": "http://www.dsautomobiles.es/contacto/inscripcion-newsletter.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Transformación DS Automobiles España",
+            "href": "http://www.dsautomobiles.es/transformacion-ds-automobiles-espana.html?_ga=2.146178099.66087969.1583834705-320627639.1581603481"
+          },
+          {
+            "label": "Consentimiento de cookies",
+            "href": "#"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles.ES",
+            "href": "https://www.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Certified",
+            "href": "https://www.dscertified.dsautomobiles.es/"
+          },
+          {
+            "label": "Vehículos en stock",
+            "href": "https://dsonlinestore.dsautomobiles.es/"
+          },
+          {
+            "label": "DS Store Online",
+            "href": "https://store.dsautomobiles.es/configurable"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -228,7 +281,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://www.tasacion.dsautomobiles.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",

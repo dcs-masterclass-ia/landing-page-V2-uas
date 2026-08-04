@@ -18,8 +18,8 @@
     "og_image_alt": "¿Por qué elegir Tasación Citroën?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.tasacion.citroen.es/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://www.tasacion.citroen.es/"
   },
@@ -47,7 +47,7 @@
       "anchor": "#seguridad"
     },
     {
-      "label": "Saber más sobre la tasac",
+      "label": "Saber más sobre la tasación",
       "anchor": "#saber-mas-sobre-la-tasacion"
     },
     {
@@ -107,7 +107,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -124,7 +124,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -157,7 +157,63 @@
         "href": "https://www.youtube.com/user/CitroenEspana"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Contacto",
+        "links": [
+          {
+            "label": "Citroën.es",
+            "href": "https://www.citroen.es/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/citroen"
+          },
+          {
+            "label": "Contacte con nosotros",
+            "href": "https://www.citroen.es/contacto/atencion-al-cliente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENCIONES LEGALES",
+        "links": [
+          {
+            "label": "Condiciones Generales",
+            "href": "/condiciones-generales-de-uso.pdf"
+          },
+          {
+            "label": "Configuración De Cookies",
+            "href": "#"
+          },
+          {
+            "label": "Política de privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "Enlaces",
+        "links": [
+          {
+            "label": "Encontrar un punto de venta",
+            "href": "https://www.citroen.es/citroen-y-tu/red-oficial-citroen.html?_ga=2.19987384.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Solicitar una cita",
+            "href": "https://cita-taller.citroen.es/dealerlocator.aspx?o=cpp&p=i&c=es-ES&b=c&_ga=2.254882312.1253468526.1580220281-1807039448.1580220281"
+          },
+          {
+            "label": "Configurar un vehículo",
+            "href": "https://www.citroen.es/vehiculos/citroen.html#content"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -170,7 +226,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Elegir Tasación Citroën para la compra de tu vehículo usado significa elegir serenidad, rapidez y un método de pago rápido y sencillo.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.tasacion.citroen.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -181,14 +237,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.tasacion.citroen.es/porque",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 3,
     "notes": [
       "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-serenity.jpg",
       "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-fast.jpg",
       "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-safe.jpg",
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

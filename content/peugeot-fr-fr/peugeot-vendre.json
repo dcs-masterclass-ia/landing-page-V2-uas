@@ -18,8 +18,8 @@
     "og_image_alt": "Vendre sa voiture d'occasion en toute facilité"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+    "logo_alt": "Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://www.reprise.peugeot.fr/"
   },
@@ -39,15 +39,15 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Vendre sa voiture d'occa",
+      "label": "Vendre sa voiture d'occasion facilement et sûrement",
       "anchor": "#vendre-sa-voiture-d-occasion-facilement-"
     },
     {
-      "label": "La procédure pour vendre",
+      "label": "La procédure pour vendre sa voiture est très simple",
       "anchor": "#la-procedure-pour-vendre-sa-voiture-est-"
     },
     {
@@ -55,7 +55,7 @@
       "anchor": "#la-marque-peugeot"
     },
     {
-      "label": "une bonne maîtrise des é",
+      "label": "une bonne maîtrise des éléments à prendre en compte pour vendre sa voiture",
       "anchor": "#une-bonne-maitrise-des-elements-a-prendr"
     }
   ],
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -111,8 +111,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -128,8 +128,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -145,8 +145,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -165,8 +165,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -182,8 +182,8 @@
         "Vendre sa voiture sans engagement",
         "Vendez avec formalités réduites"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -199,8 +199,8 @@
         "Choisissez votre point de vente, puis vendez !",
         "Un délai de paiement rapide"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -216,8 +216,8 @@
         "Une transaction sécurisée et rapide",
         "Vendre sa voiture avec une offre ajustée"
       ],
-      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/apfr/Images/LP/Desktop_375x260.jpg",
+      "image_alt": "vendre-son-vehicule-securite",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -249,7 +249,71 @@
         "href": "https://www.youtube.com/PeugeotFrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.reprise.peugeot.fr/page-faq"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://www.peugeot.fr/tools/nous-contacter.html"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.FR",
+            "href": "https://www.peugeot.fr/"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/peugeot"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://offres.peugeot.fr/"
+          },
+          {
+            "label": "PEUGEOT STOCK",
+            "href": "https://store.peugeot.fr/stock"
+          },
+          {
+            "label": "LE RESEAU PEUGEOT",
+            "href": "https://www.peugeot.fr/points-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/conditions-generales.pdf"
+          },
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "Consentement du cookie",
+            "href": "#"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
     "legal_expire": "2026-08-31",
     "eco": "TODO_ARBITRAGE",
@@ -262,7 +326,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vendre sa voiture dans les meilleures conditions avec Reprise Peugeot. Recevez une offre immédiate de reprise de votre voiture quelle que soit sa marque.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Peugeot",
     "provider_url": "https://www.reprise.peugeot.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -273,12 +337,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.reprise.peugeot.fr/lp/peugeot-vendre",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 8,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
       "7 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
     ]
   },

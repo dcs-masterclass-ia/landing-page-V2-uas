@@ -18,8 +18,8 @@
     "og_image_alt": "Tasar coche desde internet"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/21/0f010f4e-ec43-423b-8c11-88a329bd47b6",
+    "logo_alt": "logo Peugeot",
     "cta_label": "Calcular mi oferta de recompra",
     "cta_href": "https://tasacion.peugeot.es/"
   },
@@ -47,11 +47,11 @@
       "anchor": "#calcular-mi-tasacion"
     },
     {
-      "label": "Tasación de coche sin co",
+      "label": "Tasación de coche sin costo y sin ningún tipo de compromiso",
       "anchor": "#tasacion-de-coche-sin-costo-y-sin-ningun"
     },
     {
-      "label": "¿Quieres saber cómo tasa",
+      "label": "¿Quieres saber cómo tasar tu coche?",
       "anchor": "#quieres-saber-como-tasar-tu-coche"
     },
     {
@@ -59,7 +59,7 @@
       "anchor": "#paso-1"
     },
     {
-      "label": "Ventajas de tasación de ",
+      "label": "Ventajas de tasación de tu coche desde internet",
       "anchor": "#ventajas-de-tasacion-de-tu-coche-desde-i"
     }
   ],
@@ -115,7 +115,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -139,7 +139,7 @@
         "El dato de kilometraje exacto de tu carro",
         "Los daños que pueda tener tu carro"
       ],
-      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -168,7 +168,7 @@
         }
       ],
       "bullets": [],
-      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -191,7 +191,7 @@
         "La tasación tiene validez por 10 días. Se trata de una red muy amplia para que pueda vender tu vehículo en España: Hay más de 100 puntos de ventas para toda la red Peugeot, y eso hace que la venta de tu coche sea algo sencillo.",
         "Tasación rápida – Recibirás el precio inmediatamente: ¡Olvídate de las esperas! Una vez completado el formulario, la tasación se brindará rápidamente."
       ],
-      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -207,7 +207,7 @@
           "text": "¿CUAL ES EL METODO DE CALCULO DE TASACIÓN DE MI COCHE?"
         },
         {
-          "text": "La tasación esta creada en base a esto: • Las características del coche: su marca, el modelo, su tipo de motor, el total de kilometraje, y fecha de entrega. • Observaciones relevantes de mercado: tasaciones que se hacen en modelos vehiculares parecidos. • Se hacen deducciones al costo de reparar el vehículo y esto será ajustable dependiendo de las condiciones en las que se encuentra el vehículo."
+          "text": "La tasación esta creada en base a esto"
         },
         {
           "text": "¿CUAL ES EL METODO DE TASACIÓN POR PARTE DE PEUGEOT?"
@@ -225,7 +225,7 @@
           "text": "¿QUE VENTAJAS TIENEN LOS SERVICIOS DE TASACIÓN DE PEUGEOT?"
         },
         {
-          "text": "• Son muy rápidos. La tasación se obtiene rápidamente y sin ninguna obligación. Tranquilidad total. • No hay sorpresas en esto. Se tasará el vehículo por medio de un profesional de tasación en Peugeot y se te brindará una oferta para que decidas si quieres venderlo. • Es muy seguro. El pago de tu vehículo es algo que se garantiza completamente. Un concesionario de Peugeot realizará el pago del vehículo."
+          "text": "Son muy rápidos. La tasación se obtiene rápidamente y sin ninguna obligación. Tranquilidad total."
         },
         {
           "text": "¿ME COMPROMETO EN ALGUNA FORMA CON LA TASACIÓN?"
@@ -234,8 +234,14 @@
           "text": "No hay compromiso alguno con esta tasación. Se te brindara dentro de 24 horas en días hábiles y tendrás 10 días para decidir."
         }
       ],
-      "bullets": [],
-      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "bullets": [
+        "Las características del coche: su marca, el modelo, su tipo de motor, el total de kilometraje, y fecha de entrega.",
+        "Observaciones relevantes de mercado: tasaciones que se hacen en modelos vehiculares parecidos.",
+        "Se hacen deducciones al costo de reparar el vehículo y esto será ajustable dependiendo de las condiciones en las que se encuentra el vehículo.",
+        "No hay sorpresas en esto. Se tasará el vehículo por medio de un profesional de tasación en Peugeot y se te brindará una oferta para que decidas si quieres venderlo.",
+        "Es muy seguro. El pago de tu vehículo es algo que se garantiza completamente. Un concesionario de Peugeot realizará el pago del vehículo."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -268,7 +274,91 @@
         "href": "https://www.youtube.com/user/PeugeotES"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "CONTACTO",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=es"
+          },
+          {
+            "label": "PREGUNTAS FRECUENTES (FAQS)",
+            "href": "/faq"
+          },
+          {
+            "label": "PEUGEOT ASSISTANCE",
+            "href": "https://www.peugeot.es/financiacion-y-ofertas-de-servicio/garantia-y-seguro/peugeot-assistance.html"
+          },
+          {
+            "label": "RED COMERCIAL",
+            "href": "https://www.peugeot.es/herramientas/red-comercial.html"
+          },
+          {
+            "label": "91 347 22 41",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=es"
+          }
+        ]
+      },
+      {
+        "title": "GAMA PEUGEOT",
+        "links": [
+          {
+            "label": "URBANOS",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/nuestros-urbanos.html"
+          },
+          {
+            "label": "SUV",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/nuestros-suv.html"
+          },
+          {
+            "label": "BERLINAS",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/nuestras-berlinas.html"
+          },
+          {
+            "label": "FAMILIARES",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/nuestros-familiares.html"
+          },
+          {
+            "label": "ELÉCTRICOS",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/nuestros-coches-electricos.html"
+          },
+          {
+            "label": "HÍBRIDOS",
+            "href": "https://www.peugeot.es/gama/descubre-nuestra-gama/coches-hibridos-enchufables.html"
+          }
+        ]
+      },
+      {
+        "title": "Peugeot",
+        "links": [
+          {
+            "label": "Configurador Peugeot",
+            "href": "https://www.peugeot.es/gama/configura-tu-peugeot.html "
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.es/comprar-coches-de-ocasion/peugeot"
+          },
+          {
+            "label": "Peugeot Store",
+            "href": "https://store.peugeot.es/stock"
+          },
+          {
+            "label": "Peugeot.ES",
+            "href": "https://www.peugeot.es/ "
+          },
+          {
+            "label": "Política de privacidad",
+            "href": "/politica-de-privacidad.pdf"
+          },
+          {
+            "label": "Accesibilidad",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -281,7 +371,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "¿Deseas saber cuál es el valor de tu vehículo? Tome nota de nuestro excelente servicio de tasación de coche. ¡es hora de probar una gran tasación!",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "logo Peugeot",
     "provider_url": "https://tasacion.peugeot.es",
     "area_served": "Espagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q29",
@@ -292,12 +382,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://tasacion.peugeot.es/lp/tasar-coche",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 6,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/21/5989077e-4ee6-4792-8bc2-de766290ef61",
-      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
       "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

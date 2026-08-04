@@ -18,8 +18,8 @@
     "og_image_alt": "Valutazione online di auto usate: stima affidabile e gratuita online"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://www.valutazioneusato.citroen.it/build/img/citroen/brand-logo-site.jpg",
+    "logo_alt": "Citroen",
     "cta_label": "Calcola la mia offerta di permuta",
     "cta_href": "https://www.valutazioneusato.citroen.it/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "Perché valutare la vostr",
+      "label": "Perché valutare la vostra auto sul nostro sito?",
       "anchor": "#perche-valutare-la-vostra-auto-sul-nostr"
     },
     {
-      "label": "Come funziona la valutaz",
+      "label": "Come funziona la valutazione auto usate?",
       "anchor": "#come-funziona-la-valutazione-auto-usate"
     },
     {
-      "label": "I vantaggi della valutaz",
+      "label": "I vantaggi della valutazione online auto usate",
       "anchor": "#i-vantaggi-della-valutazione-online-auto"
     },
     {
@@ -94,8 +94,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "I vantaggi della valutazione online auto usate Citroen",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -107,15 +107,19 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Puoi fare valutare la tua auto da un professionista del settore, basato su osservazioni di mercato e transazioni recenti. Inserisci le informazioni richieste in modo facile e veloce per poter ricevere una stima affidabile. Ci bastano: • Libretto di circolazione dell'auto • Chilometraggio dell'auto • Elenco dei difetti dell'auto Siamo qui per aiutarti a vendere la tua auto al miglior prezzo possibile."
+          "text": "Puoi fare valutare la tua auto da un professionista del settore, basato su osservazioni di mercato e transazioni recenti. Inserisci le informazioni richieste in modo facile e veloce per poter ricevere una stima affidabile. Ci bastano"
         },
         {
           "text": "Se desideri ottenere una valutazione accurata della tua auto usata, segui questi tre semplici passaggi: 1. Inserisci tutte le informazioni necessarie per la valutazione dell'auto. Ti chiederemo di identificare il modello del tuo veicolo, il tipo di carburante, la potenza del motore e l'anno di immatricolazione. Puoi fornirci queste informazioni utilizzando il tuo libretto di circolazione o rispondendo a una serie di domande. (Rajouter ou non la partie immat). 2. Dopo che avrai fornito le informazioni richieste, analizzeremo il mercato e ti forniremo un preventivo online. Questo preventivo sarà anche inviato via e-mail e non avrà alcun impegno, quindi potrai decidere se accettare o meno la valutazione. 3. Infine, ti metteremo in contatto con un professionista della rete Citroën, che valuterà la tua auto e ti fornirà un preventivo definitivo. Se sei soddisfatto del preventivo, il concessionario Citroën si occuperà della permuta della tua auto senza alcun costo amministrativo per te!"
         }
       ],
-      "bullets": [],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Libretto di circolazione dell'auto",
+        "Chilometraggio dell'auto",
+        "Elenco dei difetti dell'auto Siamo qui per aiutarti a vendere la tua auto al miglior prezzo possibile."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "I vantaggi della valutazione online auto usate Citroen",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -131,8 +135,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "I vantaggi della valutazione online auto usate Citroen",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -172,8 +176,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "I vantaggi della valutazione online auto usate Citroen",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -205,7 +209,42 @@
         "href": "https://www.youtube.com/user/citroenit"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "Citroën",
+        "links": [
+          {
+            "label": "Citroen.it",
+            "href": "https://www.citroen.it/"
+          },
+          {
+            "label": "Citroën Carstore",
+            "href": "https://carstore.citroen.it/Home?_ga=2.89120283.169274050.1599743687-1579432252.1594635163"
+          },
+          {
+            "label": "Spoticar.it",
+            "href": "https://www.spoticar.it/"
+          }
+        ]
+      },
+      {
+        "title": "Note legali",
+        "links": [
+          {
+            "label": "Note legali",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Informativa privacy",
+            "href": "/privacy.pdf"
+          },
+          {
+            "label": "DICHIARAZIONE DI ACCESSIBILITA",
+            "href": "https://usine-a-sites.s3.amazonaws.com/72/72968a48-e3af-428f-b51d-97252a63c67e"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -218,7 +257,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "La permuta Citroën, un modo facile e senza impegno per vendere meglio la tua auto",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Citroen",
     "provider_url": "https://www.valutazioneusato.citroen.it",
     "area_served": "Italie",
     "area_wikidata": "https://www.wikidata.org/wiki/Q38",
@@ -229,11 +268,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.valutazioneusato.citroen.it/lp/valutazione-auto-usate",
-    "medias_trouves": 7,
+    "medias_trouves": 5,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
-      "image sans alt en V1 : https://www.valutazioneusato.citroen.it/build/img/citroen/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

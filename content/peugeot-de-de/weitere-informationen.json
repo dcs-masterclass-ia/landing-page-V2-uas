@@ -18,8 +18,8 @@
     "og_image_alt": ""
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+    "logo_alt": "Logo von Peugeot Deutschland",
     "cta_label": "Mein Ankaufsangebot berechnen",
     "cta_href": "https://www.autoankauf.peugeot.de/"
   },
@@ -43,15 +43,15 @@
   },
   "subnav": [
     {
-      "label": "WAS IST PEUGEOT KAUFT IH",
+      "label": "WAS IST PEUGEOT KAUFT IHR AUTO?",
       "anchor": "#was-ist-peugeot-kauft-ihr-auto"
     },
     {
-      "label": "WIE FUNKTIONIERT DER SER",
+      "label": "WIE FUNKTIONIERT DER SERVICE?",
       "anchor": "#wie-funktioniert-der-service"
     },
     {
-      "label": "WIE WIRD DER WERT IHRES ",
+      "label": "WIE WIRD DER WERT IHRES FAHRZEUGS GESCHÄTZT?",
       "anchor": "#wie-wird-der-wert-ihres-fahrzeugs-gescha"
     },
     {
@@ -98,8 +98,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -121,8 +121,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -141,8 +141,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -158,8 +158,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -175,8 +175,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -192,8 +192,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -209,8 +209,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -226,8 +226,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -243,8 +243,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -260,8 +260,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -285,8 +285,8 @@
         "Ihre Bankdaten",
         "Und natürlich Ihr Fahrzeug!"
       ],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -302,8 +302,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -319,8 +319,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/85/18aa5c98-cf5b-42e6-9db9-748a746d7785",
+      "image_alt": "Logo von Peugeot Deutschland",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -352,7 +352,50 @@
         "href": "https://www.youtube.com/user/PEUGEOTdeutschland"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "https://www.autoankauf.peugeot.de/weitere-informationen"
+          },
+          {
+            "label": "KONTAKTIEREN SIE UNS",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=de"
+          },
+          {
+            "label": "ALLGEMEINE GESCHÄFTSBEDINGUNGEN",
+            "href": "https://media.peugeot.de/file/75/1/allgemeine-geschaeftsbedingungen-peugeot-kauft-ihr-auto.644751.pdf#_ga=2.185162666.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "RECHTLICHE HINWEISE / DATENSCHUTZ",
+            "href": "https://www.peugeot.de/nutzliche-links/rechtliche-hinweise.html#_ga=2.185162666.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "IMPRESSUM",
+            "href": "https://www.peugeot.de/impressum.html#_ga=2.139598768.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "Erklärung Barrierefreiheit",
+            "href": "/step-accessibility"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "DIE MARKE PEUGEOT",
+            "href": "https://www.peugeot.de/#_ga=2.243478534.2031500687.1603706557-1046410679.1578914261"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.de/"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -365,7 +408,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo von Peugeot Deutschland",
     "provider_url": "https://www.autoankauf.peugeot.de",
     "area_served": "Allemagne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q183",
@@ -376,11 +419,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.autoankauf.peugeot.de/weitere-informationen",
-    "medias_trouves": 3,
+    "medias_trouves": 1,
     "blocs_detectes": 13,
     "notes": [
-      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

@@ -18,8 +18,8 @@
     "og_image_alt": "Le réseau Peugeot"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/91/fea1e016-6d54-44a6-8f98-8ba810bed555",
+    "logo_alt": "Logo Peugeot",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.peugeot.be/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Le réseau Peugeot à votr",
+      "label": "Le réseau Peugeot à votre écoute",
       "anchor": "#le-reseau-peugeot-a-votre-ecoute"
     },
     {
-      "label": "Contact et rendez vous a",
+      "label": "Contact et rendez vous avec votre expert Peugeot",
       "anchor": "#contact-et-rendez-vous-avec-votre-expert"
     },
     {
@@ -146,7 +146,7 @@
         "En seulement quelques clics, renseignez les caractéristiques de votre véhicule.",
         "Recevez une estimation immédiate de sa valeur."
       ],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image": "https://reprise.peugeot.be/build/img/peugeot/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
@@ -163,7 +163,7 @@
         "Si votre véhicule est conforme à l’estimation faite en ligne, votre concessionnaire se chargera de la reprise de votre véhicule.",
         "Rapidité de paiement garantie."
       ],
-      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image": "https://reprise.peugeot.be/build/img/peugeot/content-safe.jpg",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -196,7 +196,71 @@
         "href": "https://be.linkedin.com/company/peugeot_belux"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "Trouver un point de vente",
+            "href": "https://www.peugeot.be/fr/points-de-vente.html"
+          },
+          {
+            "label": "Nous contacter",
+            "href": "https://peugeot.my-customerportal.com/peugeot/s/?language=fr_BE"
+          }
+        ]
+      },
+      {
+        "title": "PEUGEOT",
+        "links": [
+          {
+            "label": "PEUGEOT.BE",
+            "href": "https://www.peugeot.be/fr/"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.peugeot.be/fr/acheter/offres-du-moment.html"
+          },
+          {
+            "label": "CONFIGUREZ ET COMMANDEZ",
+            "href": "https://www.peugeot.be/fr/tools/configurer.html"
+          },
+          {
+            "label": "STOCKS DISPONIBLES",
+            "href": "https://stock.peugeot.be/fr/stock"
+          },
+          {
+            "label": "VOITURES D'OCCASION SPOTICAR",
+            "href": "https://www.spoticar.be/"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "https://usine-a-sites.s3.amazonaws.com/91/6f083d93-798a-40a2-8ad0-db6d3c8615f9"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "COOKIES",
+            "href": "#"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-6-30, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -209,7 +273,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Le réseau Peugeot se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Logo Peugeot",
     "provider_url": "https://reprise.peugeot.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -220,14 +284,12 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.peugeot.be/le-reseau-peugeot",
-    "medias_trouves": 8,
+    "medias_trouves": 6,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/content-serenity.jpg",
       "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/content-fast.jpg",
       "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/content-safe.jpg",
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
-      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

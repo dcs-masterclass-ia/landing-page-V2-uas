@@ -18,8 +18,8 @@
     "og_image_alt": "Chez Jeep ® , estimez votre voiture gratuitement et sans engagement"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.jeep.fr/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.jeep.fr/"
   },
@@ -99,7 +99,7 @@
         "Les observations du marché : reprises récentes réalisées par des professionnels sur des modèles similaires.",
         "Une déduction de frais nécessaires à la remise en état du véhicule. Ces frais sont ajustés en fonction de l'état réel du véhicule constaté par le concessionnaire."
       ],
-      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image": "TODO_ARBITRAGE",
       "image_alt": "TODO_ARBITRAGE",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
@@ -128,7 +128,63 @@
         "href": "https://www.youtube.com/user/jeepfrance"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "DISTRIBUTEURS",
+            "href": "https://www.jeep.fr/concessionnaires"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.jeep.fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "JEEP ®",
+        "links": [
+          {
+            "label": "JEEP ® .FR",
+            "href": "https://www.jeep.fr"
+          },
+          {
+            "label": "SPOTICAR",
+            "href": "https://www.spoticar.fr/voitures-occasion/jeep"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.jeep.fr/offres-suv-4x4"
+          },
+          {
+            "label": "STOCK Jeep ®",
+            "href": "https://www.jeep.fr/nouveaux-suvs-en-stock"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "Politique de confidentialité",
+            "href": "/privacy-policy.pdf"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -141,7 +197,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://reprise.jeep.fr",
     "area_served": "France",
     "area_wikidata": "https://www.wikidata.org/wiki/Q142",
@@ -152,12 +208,10 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.jeep.fr/lp/jeep-estimation-reprise",
-    "medias_trouves": 2,
+    "medias_trouves": 0,
     "blocs_detectes": 1,
     "notes": [
       "fil d'Ariane introuvable",
-      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },

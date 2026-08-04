@@ -18,8 +18,8 @@
     "og_image_alt": "Pourquoi choisir le service reprise Fiat Professional ?"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://usine-a-sites.s3.amazonaws.com/141/40220f18-dda1-4955-902f-116b53ce554d",
+    "logo_alt": "Fiat Professional",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://repriseluxembourg.fiatprofessional.com/"
   },
@@ -43,11 +43,11 @@
   },
   "subnav": [
     {
-      "label": "Estimez votre véhicule a",
+      "label": "Estimez votre véhicule avec Fiat Professional Reprise :",
       "anchor": "#estimez-votre-vehicule-avec-fiat-profess"
     },
     {
-      "label": "Les étapes de la reprise",
+      "label": "Les étapes de la reprise avec votre concessionnaire Fiat Professional sélectionné:",
       "anchor": "#les-etapes-de-la-reprise-avec-votre-conc"
     },
     {
@@ -204,7 +204,63 @@
         "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "TROUVER UN DISTRIBUTEUR",
+            "href": "https://www.fiatprofessional.com/lu/trouver-distributeur"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.fiatprofessional.com/lu/informations"
+          }
+        ]
+      },
+      {
+        "title": "FIAT PROFESSIONAL.LU",
+        "links": [
+          {
+            "label": "FIAT PROFESSIONAL.LU",
+            "href": "https://www.fiatprofessional.com/lu"
+          },
+          {
+            "label": "DEMANDE DE DEVIS",
+            "href": "https://www.fiatprofessional.com/lu/devis"
+          },
+          {
+            "label": "LES OFFRES DU MOMENT",
+            "href": "https://www.fiatprofessional.com/lu/offres"
+          },
+          {
+            "label": "CONFIGURER UN VEHICULE",
+            "href": "https://www.fiatprofessional.com/lu/configurateur"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "/politique-confidentialite.pdf"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -217,7 +273,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Fiat Professional",
     "provider_url": "https://repriseluxembourg.fiatprofessional.com",
     "area_served": "Luxembourg",
     "area_wikidata": "https://www.wikidata.org/wiki/Q32",
@@ -228,7 +284,7 @@
   },
   "_extraction": {
     "canonical_v1": "https://repriseluxembourg.fiatprofessional.com/pourquoi-reprise-fiatprofessional",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 5,
     "notes": [
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/40220f18-dda1-4955-902f-116b53ce554d",
@@ -236,8 +292,6 @@
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/57390617-6dc9-4a1d-91d6-796e1d51f962",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/990b70a8-4098-4f6c-a8be-9176d9993070",
       "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/1603aeb8-1260-4ce3-874d-4ad4478196bc",
-      "image sans alt en V1 : https://repriseluxembourg.fiatprofessional.com/build/img/fiat_pro/chevron-up-hom",
-      "image sans alt en V1 : https://repriseluxembourg.fiatprofessional.com/build/img/fiat_pro/chevron-up-hom",
       "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale de l'offre non trouvee"
     ]

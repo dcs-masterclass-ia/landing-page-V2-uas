@@ -18,8 +18,8 @@
     "og_image_alt": "Vendez votre voiture facilement avec Abarth"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
+    "logo_alt": "Abarth",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.abarthbelgium.be/"
   },
@@ -43,23 +43,23 @@
   },
   "subnav": [
     {
-      "label": "Calculer mon offre de re",
+      "label": "Calculer mon offre de reprise",
       "anchor": "#calculer-mon-offre-de-reprise"
     },
     {
-      "label": "Vendez votre voiture fac",
+      "label": "Vendez votre voiture facilement avec nous",
       "anchor": "#vendez-votre-voiture-facilement-avec-nou"
     },
     {
-      "label": "Les avantages de notre s",
+      "label": "Les avantages de notre service de vente de voiture",
       "anchor": "#les-avantages-de-notre-service-de-vente-"
     },
     {
-      "label": "2. Recevez votre estimat",
+      "label": "2. Recevez votre estimation en ligne et par e-mail",
       "anchor": "#2-recevez-votre-estimation-en-ligne-et-p"
     },
     {
-      "label": "3. Obtenez un rendez-vou",
+      "label": "3. Obtenez un rendez-vous avec un professionnel",
       "anchor": "#3-obtenez-un-rendez-vous-avec-un-profess"
     }
   ],
@@ -111,10 +111,15 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "En optant pour notre service, vous bénéficiez de nombreux avantages, tels que :● Une estimation gratuite et sans engagement de la valeur de votre voiture● Une estimation envoyée en ligne et par e-mail● La possibilité de fixer un rendez-vous avec un concessionnaire près de chez vous, selon votre convenance● Un paiement rapide et sécurisé pour votre transaction"
+          "text": "En optant pour notre service, vous bénéficiez de nombreux avantages, tels que"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation gratuite et sans engagement de la valeur de votre voiture",
+        "Une estimation envoyée en ligne et par e-mail",
+        "La possibilité de fixer un rendez-vous avec un concessionnaire près de chez vous, selon votre convenance",
+        "Un paiement rapide et sécurisé pour votre transaction"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/134/426c4226-0fd9-4e79-acf4-a388ca8f856b",
       "image_alt": "Feu arrière rouge voiture blanche Abarth",
       "tag": "TODO_ARBITRAGE",
@@ -149,8 +154,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "La vente de votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -162,12 +167,17 @@
       "titre_absent_en_v1": true,
       "paragraphs": [
         {
-          "text": "Si vous vendez votre voiture à un particulier, vous n'avez aucune garantie et les processus administratifs sont souvent compliqués.En choisissant notre service, vous bénéficiez des avantages suivants :● Une évaluation rapide et en ligne de la valeur de votre voiture● Pas d'obligation de votre part● Une transaction sécurisée● Un accompagnement pour les démarches administratives En moins de 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+          "text": "Si vous vendez votre voiture à un particulier, vous n'avez aucune garantie et les processus administratifs sont souvent compliqués.En choisissant notre service, vous bénéficiez des avantages suivants"
         }
       ],
-      "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "bullets": [
+        "Une évaluation rapide et en ligne de la valeur de votre voiture",
+        "Pas d'obligation de votre part",
+        "Une transaction sécurisée",
+        "Un accompagnement pour les démarches administratives En moins de 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "La vente de votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -213,8 +223,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "La vente de votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -239,8 +249,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "La vente de votre voiture en toute sécurité",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     }
@@ -272,7 +282,63 @@
         "href": "https://www.youtube.com/user/teamabarth"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "CONTACT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/questions-frequentes"
+          },
+          {
+            "label": "POINTS DE VENTE ABARTH",
+            "href": "https://www.abarthbelgium.be/fr/distributeur-abarth"
+          },
+          {
+            "label": "NOUS CONTACTER",
+            "href": "https://www.abarth.be/fr/contacts"
+          }
+        ]
+      },
+      {
+        "title": "ABARTH",
+        "links": [
+          {
+            "label": "ABARTH.BE",
+            "href": "https://www.abarthbelgium.be/fr"
+          },
+          {
+            "label": "CONFIGURATEUR",
+            "href": "https://www.abarthbelgium.be/fr/configurateur/#/"
+          },
+          {
+            "label": "PROMOTIONS",
+            "href": "https://www.abarthbelgium.be/fr/promotions"
+          },
+          {
+            "label": "ABARTH OCCASIONS",
+            "href": "https://www.spoticar.be/fr/voitures-occasion?page=1&filters%5B0%5D%5Bbrand%5D=abarth"
+          }
+        ]
+      },
+      {
+        "title": "MENTIONS LÉGALES",
+        "links": [
+          {
+            "label": "CGU",
+            "href": "/cgu.pdf"
+          },
+          {
+            "label": "DECLARATION DE CONFIDENTIALITE",
+            "href": "https://usine-a-sites.s3.amazonaws.com/134/72d57d62-9efa-4701-a62f-1cd3a4d3d4de"
+          },
+          {
+            "label": "DECLARATION D'ACCESSIBILITE",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -285,7 +351,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Abarth",
     "provider_url": "https://reprise.abarthbelgium.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",
@@ -296,13 +362,11 @@
   },
   "_extraction": {
     "canonical_v1": "https://reprise.abarthbelgium.be/lp/vendez-votre-voiture",
-    "medias_trouves": 9,
+    "medias_trouves": 7,
     "blocs_detectes": 7,
     "notes": [
       "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
       "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
-      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
-      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
       "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
       "mention legale reperee par repli multilingue — A VERIFIER",
       "date d'expiration de la mention legale non reconnue"

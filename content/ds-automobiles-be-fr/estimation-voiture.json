@@ -18,8 +18,8 @@
     "og_image_alt": "Estimation gratuite et sans engagement de votre voiture !"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://reprise.dsautomobiles.be/build/img/ds/brand-logo-site.png",
+    "logo_alt": "Ds Automobiles",
     "cta_label": "Calculer mon offre de reprise",
     "cta_href": "https://reprise.dsautomobiles.be/"
   },
@@ -43,19 +43,19 @@
   },
   "subnav": [
     {
-      "label": "Pourquoi utiliser notre ",
+      "label": "Pourquoi utiliser notre service pour estimer votre voiture ?",
       "anchor": "#pourquoi-utiliser-notre-service-pour-est"
     },
     {
-      "label": "Estimer votre voiture : ",
+      "label": "Estimer votre voiture : Comment faire ?",
       "anchor": "#estimer-votre-voiture-comment-faire"
     },
     {
-      "label": "Obtenez l'estimation de ",
+      "label": "Obtenez l'estimation de votre voiture en 3 étapes :",
       "anchor": "#obtenez-l-estimation-de-votre-voiture-en"
     },
     {
-      "label": "Les avantages de l'estim",
+      "label": "Les avantages de l'estimation de votre voiture en ligne",
       "anchor": "#les-avantages-de-l-estimation-de-votre-v"
     },
     {
@@ -94,10 +94,14 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "Opter pour la Reprise DS Automobile plutôt que d'autres sites d'estimation de véhicule, c'est la garantie de : ● Une estimation 100% en ligne et gratuite : estimez votre voiture en moins de 5 minutes depuis chez vous, sans frais. ● Une estimation fiable, établie grâce aux observations actuelles du marché et des transactions récentes. ● La possibilité de vendre votre voiture aux professionnels du réseau DS Automobile, sans engagement"
+          "text": "Opter pour la Reprise DS Automobile plutôt que d'autres sites d'estimation de véhicule, c'est la garantie de"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Une estimation 100% en ligne et gratuite : estimez votre voiture en moins de 5 minutes depuis chez vous, sans frais.",
+        "Une estimation fiable, établie grâce aux observations actuelles du marché et des transactions récentes.",
+        "La possibilité de vendre votre voiture aux professionnels du réseau DS Automobile, sans engagement"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
       "image_alt": "Les étapes pour estimer votre voiture ds automobile",
       "tag": "TODO_ARBITRAGE",
@@ -111,10 +115,13 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "L'estimation de votre voiture est basée sur les observations du marché et les transactions récentes réalisées par les professionnels de l'automobile. Pour obtenir une estimation la plus précise possible, nous avons besoin d'informations complètes sur votre véhicule. Renseignez simplement le profil de votre voiture en quelques minutes. Avant de commencer, préparez : ● La carte grise de votre voiture. ● Le kilométrage de votre voiture."
+          "text": "L'estimation de votre voiture est basée sur les observations du marché et les transactions récentes réalisées par les professionnels de l'automobile. Pour obtenir une estimation la plus précise possible, nous avons besoin d'informations complètes sur votre véhicule. Renseignez simplement le profil de votre voiture en quelques minutes. Avant de commencer, préparez"
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "La carte grise de votre voiture.",
+        "Le kilométrage de votre voiture."
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
       "image_alt": "Les avantages de l'estimation de votre voiture DS Automobile",
       "tag": "TODO_ARBITRAGE",
@@ -148,10 +155,14 @@
       "titre_absent_en_v1": false,
       "paragraphs": [
         {
-          "text": "● Estimation de votre voiture gratuite et entièrement en ligne : évaluez la valeur de votre voiture directement sur notre site internet. C'est gratuit et fiable avec DS Automobile. ● Estimation rapide de votre voiture : dès que l'identification de votre voiture est terminée, vous recevez votre estimation. ● Estimation valable pendant 10 jours : vous souhaitez réfléchir ? On vous laisse le temps! ● L’étendue du réseau DS Automobile pour la reprise de votre voiture partout en Belgique: avec nos plusiers points de vente, il y a forcément une concession DS Automobile près de chez vous !"
+          "text": "Estimation de votre voiture gratuite et entièrement en ligne : évaluez la valeur de votre voiture directement sur notre site internet. C'est gratuit et fiable avec DS Automobile."
         }
       ],
-      "bullets": [],
+      "bullets": [
+        "Estimation rapide de votre voiture : dès que l'identification de votre voiture est terminée, vous recevez votre estimation.",
+        "Estimation valable pendant 10 jours : vous souhaitez réfléchir ? On vous laisse le temps!",
+        "L’étendue du réseau DS Automobile pour la reprise de votre voiture partout en Belgique: avec nos plusiers points de vente, il y a forcément une concession DS Automobile près de chez vous !"
+      ],
       "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
       "image_alt": "Les avantages de l'estimation de votre voiture DS Automobile",
       "tag": "TODO_ARBITRAGE",
@@ -227,7 +238,50 @@
         "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "DS Automobiles",
+            "href": "https://www.dsautomobiles.be/"
+          },
+          {
+            "label": "Configurez votre DS",
+            "href": "https://www.dsautomobiles.be/fr/configurateur.html"
+          },
+          {
+            "label": "Demandez une offre",
+            "href": "https://www.dsautomobiles.be/fr/outils/demande-offre.html"
+          },
+          {
+            "label": "Nos véhicules d'occasion",
+            "href": "https://www.dscertified.dsautomobiles.be/"
+          },
+          {
+            "label": "Trouvez un point de vente",
+            "href": "https://www.dsautomobiles.be/fr/trouvez-un-point-de-vente.html"
+          }
+        ]
+      },
+      {
+        "title": "TODO_ARBITRAGE",
+        "links": [
+          {
+            "label": "Déclaration de confidentialité",
+            "href": "/privacypolicy.pdf"
+          },
+          {
+            "label": "Mentions légales",
+            "href": "https://www.dsautomobiles.be/fr/mentions-legales.html"
+          },
+          {
+            "label": "Déclaration d'accessibilité",
+            "href": "/page-accessibilite"
+          }
+        ]
+      }
+    ],
     "legal": "© 2026 DS Automobiles *Bonus valable pour l'achat d'une DS7 neuve, jusqu'au 2026-7-31, dans les réseaux participants",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -240,7 +294,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Estimez gratuitement votre voiture en ligne avec le service Reprise DS Automobiles. Obtenez une offre de reprise sans engagement de votre véhicule.",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Ds Automobiles",
     "provider_url": "https://reprise.dsautomobiles.be",
     "area_served": "Belgique",
     "area_wikidata": "https://www.wikidata.org/wiki/Q31",

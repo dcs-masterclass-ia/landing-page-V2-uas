@@ -18,8 +18,8 @@
     "og_image_alt": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ"
   },
   "header": {
-    "logo": "TODO_ARBITRAGE",
-    "logo_alt": "TODO_ARBITRAGE",
+    "logo": "https://odkup.jeep.pl/build/img/jeep/brand-logo-site.png",
+    "logo_alt": "Jeep",
     "cta_label": "Oblicz moja oferte odkupu",
     "cta_href": "https://odkup.jeep.pl/"
   },
@@ -39,15 +39,15 @@
   },
   "subnav": [
     {
-      "label": "SPRZEDAŻ SAMOCHODU: DLAC",
+      "label": "SPRZEDAŻ SAMOCHODU: DLACZEGO WARTO ZDECYDOWAĆ SIĘ NA WYMIANĘ?",
       "anchor": "#sprzedaz-samochodu-dlaczego-warto-zdecyd"
     },
     {
-      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ZALETY SZYBKIEJ I BEZPROBLEMOWEJ SPRZEDAŻY :",
       "anchor": "#sprzedaj-swoj-samochod-zalety-szybkiej-i"
     },
     {
-      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: JAK TO DZIAŁA?",
       "anchor": "#sprzedaj-swoj-samochod-jak-to-dziaa"
     },
     {
@@ -90,8 +90,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/283449df-1956-4c59-a40c-eeb50e759e9f",
+      "image_alt": "samochód-sprzedaż-jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -107,8 +107,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/283449df-1956-4c59-a40c-eeb50e759e9f",
+      "image_alt": "samochód-sprzedaż-jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     },
@@ -124,8 +124,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/283449df-1956-4c59-a40c-eeb50e759e9f",
+      "image_alt": "samochód-sprzedaż-jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "left"
     },
@@ -162,8 +162,8 @@
         }
       ],
       "bullets": [],
-      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image_alt": "TODO_ARBITRAGE",
+      "image": "https://usine-a-sites.s3.amazonaws.com/152/283449df-1956-4c59-a40c-eeb50e759e9f",
+      "image_alt": "samochód-sprzedaż-jeep",
       "tag": "TODO_ARBITRAGE",
       "image_side": "right"
     }
@@ -199,7 +199,67 @@
         "href": "https://www.linkedin.com/company/fca-fleet-&-business/"
       }
     ],
-    "columns": [],
+    "columns": [
+      {
+        "title": "KONTAKT",
+        "links": [
+          {
+            "label": "FAQ",
+            "href": "/strona-faq"
+          },
+          {
+            "label": "ZNAJDZ DEALERA",
+            "href": "https://www.jeep.pl/znajdz-dealera"
+          },
+          {
+            "label": "SKONTAKTUJ SIĘ Z NAMI",
+            "href": "https://www.jeep.pl/kontakt"
+          }
+        ]
+      },
+      {
+        "title": "JEEP",
+        "links": [
+          {
+            "label": "JEEP.PL",
+            "href": "https://www.jeep.pl/"
+          },
+          {
+            "label": "JEEP SAMOCHODY UŻYWANE",
+            "href": "https://www.spoticar.pl/"
+          },
+          {
+            "label": "AKTUALNE OFERTY",
+            "href": "https://www.jeep.pl/promocje"
+          },
+          {
+            "label": "JEEP SALON",
+            "href": "https://salon.jeep.pl/"
+          }
+        ]
+      },
+      {
+        "title": "INFORMACJE PRAWNE",
+        "links": [
+          {
+            "label": "OGOLNE WARUNKI KORZYSTANIA Z USLUGI",
+            "href": "https://usine-a-sites.s3.amazonaws.com/152/2fb85abf-7829-4ae1-b91f-d6aacdcd98d7"
+          },
+          {
+            "label": "POLITYKA PRYWATNOSCI",
+            "href": "/polityka-prywatnoci.pdf"
+          },
+          {
+            "label": "PLIKI COOKIE",
+            "href": "javascript:getCookieOpenModal()"
+          },
+          {
+            "label": "DEKLARACJA DOSTĘPNOŚCI",
+            "href": "/step-accessibility"
+          }
+        ]
+      }
+    ],
     "legal": "TODO_ARBITRAGE",
     "legal_expire": null,
     "eco": "TODO_ARBITRAGE",
@@ -212,7 +272,7 @@
     "service_alt": [],
     "service_type": "Reprise automobile",
     "service_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
-    "provider_name": "TODO_ARBITRAGE",
+    "provider_name": "Jeep",
     "provider_url": "https://odkup.jeep.pl",
     "area_served": "Pologne",
     "area_wikidata": "https://www.wikidata.org/wiki/Q36",
@@ -223,11 +283,9 @@
   },
   "_extraction": {
     "canonical_v1": "https://www.odkup.jeep.pl/lp/sprzedaj-swoj-samochod",
-    "medias_trouves": 5,
+    "medias_trouves": 3,
     "blocs_detectes": 4,
     "notes": [
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
-      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
       "mention legale de l'offre non trouvee"
     ]
   },
