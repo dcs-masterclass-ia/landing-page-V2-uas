@@ -1,0 +1,222 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise",
+  "meta": {
+    "title": "Chez DS, l'offre de reprise est immédiate",
+    "description": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Offre de reprise"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Offre de reprise",
+    "lead": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Comment estimer la valeu",
+      "anchor": "#comment-estimer-la-valeur-de-votre-vehic"
+    },
+    {
+      "label": "simulateur en ligne",
+      "anchor": "#simulateur-en-ligne"
+    },
+    {
+      "label": "Comment est calculée vot",
+      "anchor": "#comment-est-calculee-votre-offre-de-repr"
+    },
+    {
+      "label": "concession DS",
+      "anchor": "#concession-ds"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "comment-estimer-la-valeur-de-votre-vehic",
+      "h2": "Comment estimer la valeur de votre véhicule ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour recevoir une offre de reprise auto immédiatement, il vous suffit dans un premier temps d’estimer sa valeur à l’aide de notre . Aucun déplacement n’est nécessaire. Munissez-vous de votre carte grise ou tout simplement de votre numéro d’immatriculation, et laissez-vous guider étape par étape. Remplissez l’ensemble des rubriques en indiquant soigneusement l’état visuel et mécanique de votre auto, de manière à obtenir une estimation juste et réelle. Vous recevrez très rapidement une première estimation par mail, correspondant aux critères que vous aurez renseignés."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS3-crossback.jpg",
+      "image_alt": "DS 3 crossback vue depuis le rétroviseur",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "simulateur-en-ligne",
+      "h2": "simulateur en ligne",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Estimez la valeur de votre véhicule, pour obtenir votre offre de reprise. Une fois la valeur de votre véhicule estimée en ligne, une première offre vous sera envoyée par DS Automobiles. Si elle correspond à vos attentes, vous pourrez prendre rendez-vous avec l’un de nos experts afin d’ajuster les conditions de reprise de votre voiture en fonction de son état réel. L’offre de reprise initiale étant basée sur les données que vous aurez fournies, il est nécessaire de présenter physiquement votre voiture à l’un de nos experts pour affiner et finaliser les conditions de reprise. DS Automobiles dispose de plus de 150 points de vente dans l’hexagone, sélectionnez le plus proche de chez vous pour ce rendez-vous."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS3-crossback.jpg",
+      "image_alt": "DS 3 crossback vue depuis le rétroviseur",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-calculee-votre-offre-de-repr",
+      "h2": "Comment est calculée votre offre de reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Les offres de reprise DS Automobiles sont calculées en fonction de nombreux critères ayant principalement trait aux tendances du marché et au type de véhicule. Si vous faites la vente directement à un particulier, vous devrez probablement négocier et revoir votre prix à la baisse avec les éventuels acheteurs. Nos offres sont gratuite, personnalisée, et basée sur l’observation en temps réel des marchés ainsi que les transactions les plus récentes pour vous assurer le juste prix."
+        },
+        {
+          "text": "Votre offre de reprise initiale peut-elle évoluer ? L’estimation du montant initial estimé reposant sur les critères que vous aurez vous-mêmes fourni, une expertise complémentaire est nécessaire pour affiner votre offre de reprise. Si votre voiture nécessite une remise en état, le montant des frais occasionnés viendra en déduction de l’offre initiale. Toutefois, le montant de la reprise pourra également être revu à la hausse si son état le justifie. C’est pour cela que nous faisons intervenir un expert pour un pour un examen en détail et en votre présence."
+        },
+        {
+          "text": "Peut-on bénéficier d’avantages supplémentaires ? Pour bénéficier d’une offre de reprise encore plus intéressante, DS Automobiles propose aussi des conditions préférentielles en cas d’achat d’une DS neuve. D’autres avantages peuvent vous être réservés si vous êtes déjà client DS, sous la forme d’une prime de renouvellement. Enfin, si vous revendez un véhicule d’une marque premium comme BMW, Jaguar ou Mini, vous pourrez également profiter de conditions supplémentaires. Rendez-vous dans votre pour en savoir plus."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS3-crossback.jpg",
+      "image_alt": "DS 3 crossback vue depuis le rétroviseur",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "concession-ds",
+      "h2": "concession DS",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS3-crossback.jpg",
+      "image_alt": "DS 3 crossback vue depuis le rétroviseur",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Chez DS, l'offre de reprise est immédiate",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous souhaitez changer de véhicule ? DS Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise",
+    "medias_trouves": 2,
+    "blocs_detectes": 4,
+    "notes": [
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

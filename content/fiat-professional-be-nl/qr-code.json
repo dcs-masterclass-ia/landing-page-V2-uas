@@ -1,0 +1,148 @@
+{
+  "page_key": "fiat-professional-be-nl__qr-code",
+  "brand": "fiat-professional",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.fiatprofessional.com",
+  "slug": "/qr-code",
+  "source_v1": "https://overname.fiatprofessional.com/qr-code",
+  "meta": {
+    "title": "Page non trouvée",
+    "description": "TODO_ARBITRAGE",
+    "site_name": "Fiat Professional BE",
+    "author": "Fiat Professional BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Page non trouvée"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "breadcrumb": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "href": "https://overname.fiatprofessional.com"
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Page non trouvée",
+    "lead": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "subnav": [
+    {
+      "label": "404",
+      "anchor": "#404"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "404",
+      "h2": "404",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La page que vous recherchez n existe pas. Retournons ensemble vers nos dernières innovations automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "footer": {
+    "tagline": "TODO_ARBITRAGE",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiatprofessional/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiatprofessional/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Page non trouvée",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "TODO_ARBITRAGE",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.fiatprofessional.com",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "TODO_ARBITRAGE",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.fiatprofessional.com/qr-code",
+    "medias_trouves": 0,
+    "blocs_detectes": 1,
+    "notes": [
+      "meta description absente en V1",
+      "fil d'Ariane introuvable",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "pied de page introuvable",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

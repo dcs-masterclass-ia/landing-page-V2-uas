@@ -38,8 +38,8 @@ templates/<tpl>.html.j2     ─┘                              │
 **Bloquants** — un seul <h1>, aucun saut de niveau Hn, tout `<img>` avec alt, tout lien avec un nom
 accessible, `lang` / skip-link / `<main>` / focus visible / `prefers-reduced-motion`, contraste WCAG AA
 sur les opacites de pied de page, title / description / canonical / og:image presents, JSON-LD valide
-avec `Service` + `FAQPage` + `WebPage`, sous-nav d'au moins 3 ancres toutes resolues, hero issu de la
-bibliotheque HD, aucune reference au bucket de preproduction, mentions legales non expirees.
+avec `Service` + `FAQPage` + `WebPage`, sous-nav d'au moins 3 ancres toutes resolues, hero non servi depuis un visuel de bloc
+(un UUID S3 nu = image dimensionnee pour un conteneur, pixellisee en plein cadre), aucune reference au bucket de preproduction, mentions legales non expirees.
 
 **Avertissements** — longueurs title/description hors plage, contraste accent sur fond sombre,
 hreflang absent, mention legale expirant sous 30 jours.
@@ -144,5 +144,12 @@ identiques. Arbitrage assume, consigne ici pour memoire.
 **Belgique** : 18 sites, chaque marque existant en `reprise.*` (fr) et `overname.*` (nl).
 C'est le marche le plus lourd du parc.
 
-**Volumetrie** : 8 marques sur le template partage, 1 sur le template Peugeot.
+**Moteurs de rendu** : 8 marques sur `templates/shared.html.j2`, Peugeot sur
+`templates/peugeot.html.j2`. Les deux consomment **le meme schema de contenu** : un JSON
+de page se rend dans l'un ou l'autre sans etre reecrit, le champ `template` decide.
 Le nombre de pages par site sera connu apres `scripts/discover.py`.
+
+Le template Peugeot a sa propre grammaire : radius 0 partout, hero plein cadre sombre,
+bandeau de confiance en 4 colonnes, splits 50/50 alternes, FAQ en deux colonnes,
+titres en capitales. Les blocs `two_col`, `etapes`, `comparatif`, `cote` et `faq` y ont
+un rendu different mais consomment les memes champs.

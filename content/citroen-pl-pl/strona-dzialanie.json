@@ -1,0 +1,221 @@
+{
+  "page_key": "citroen-pl-pl__strona-dzialanie",
+  "brand": "citroen",
+  "market": "PL",
+  "lang": "pl",
+  "locale": "pl_PL",
+  "template": "shared",
+  "domain": "https://odkup.citroen.pl",
+  "slug": "/strona-dzialanie",
+  "source_v1": "https://odkup.citroen.pl/strona-dzialanie",
+  "meta": {
+    "title": "Jak to działa? | Odkup samochodu przez Citroen",
+    "description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Citroen- możemy odkupić Twój samochód.",
+    "site_name": "Citroen PL",
+    "author": "Citroen PL",
+    "geo_region": "PL",
+    "geo_country": "Pologne",
+    "og_image_alt": "JAK TO DZIAŁA?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://odkup.citroen.pl/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Strona główna",
+      "href": "https://odkup.citroen.pl/"
+    },
+    {
+      "label": "Jak to działa?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Bezplatna wycena online",
+    "h1": "JAK TO DZIAŁA?",
+    "lead": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Citroen- możemy odkupić Twój samochód.",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://odkup.citroen.pl/"
+  },
+  "subnav": [
+    {
+      "label": "Usługa Citroën z odkupem",
+      "anchor": "#usuga-citroen-z-odkupem-to-usuga-umozliw"
+    },
+    {
+      "label": "Wygodnie",
+      "anchor": "#wygodnie"
+    },
+    {
+      "label": "Szybko",
+      "anchor": "#szybko"
+    },
+    {
+      "label": "Bezpiecznie",
+      "anchor": "#bezpiecznie"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% bezplatnie",
+      "sub": "Bez zobowiazan"
+    },
+    {
+      "icon": "mail",
+      "label": "Wycena online",
+      "sub": "I mailem"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin dogodny dla Ciebie",
+      "sub": "U dealera"
+    },
+    {
+      "icon": "lock",
+      "label": "Bezpieczna platnosc",
+      "sub": "Szybka transakcja"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "usuga-citroen-z-odkupem-to-usuga-umozliw",
+      "h2": "Usługa Citroën z odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Wprowadź informacje o samochodzie, który chcesz sprzedać. 2 - Uzyskaj wycenę samochodu. 3 - Wybrany przez ciebie dealer skontaktuje się z tobą w celu uzgodnienia terminu wizyty. 4 - Ekspert Citroën sprawdzi w twojej obecności stan samochodu. 5 - Po uzyskaniu twojej zgody zobowiązujemy się do natychmiastowego odkupu samochodu. 6 - Płatność jest natychmiastowa, gwarantowana i bezpieczna."
+        },
+        {
+          "text": "Skorzystaj z oferty odkupu samochodu w 6 krokach:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.citroen.pl/build/img/citroen/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wygodnie",
+      "h2": "Wygodnie",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Citroën odkup pozwala ocenić swój pojazd na podstawie obserwacji rynkowych i ostatnich transakcji przez profesjonalistę. Wycena jest zawsze bezpłatna"
+      ],
+      "image": "https://odkup.citroen.pl/build/img/citroen/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "szybko",
+      "h2": "Szybko",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Kilkoma kliknięciami wprowadź dane techniczne samochodu.",
+        "Otrzymaj natychmiastową wycenę jego wartości."
+      ],
+      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "bezpiecznie",
+      "h2": "Bezpiecznie",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Umów się na wizytę z wybranym dealerem Citroën.",
+        "Jeśli samochód okaże się zgodny z wyceną dokonaną online, dealer zajmie się całą procedurą odkupu.",
+        "Gwarantowana szybka płatność"
+      ],
+      "image": "https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Gotowy do sprzedazy?",
+    "h2": "Wycen swoj samochod juz teraz.",
+    "lead": "Podaj numer rejestracyjny lub marke swojego pojazdu.",
+    "cta_label": "Bezplatna wycena",
+    "cta_href": "https://odkup.citroen.pl/"
+  },
+  "footer": {
+    "tagline": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Citroen- możemy odkupić Twój samochód.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/CitroenPolska"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Citroen_Polska"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenpolska/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenPolska"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Jak to działa?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Citroen- możemy odkupić Twój samochód.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://odkup.citroen.pl",
+    "area_served": "Pologne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q36",
+    "offer_description": "Otrzymujesz mailem bezpłatną wycenę samochodu. Umawiasz się na wizytę u dealera. Skorzystaj z doświadczenia Citroen- możemy odkupić Twój samochód.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://odkup.citroen.pl/strona-dzialanie",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://odkup.citroen.pl/build/img/citroen/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

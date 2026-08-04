@@ -1,0 +1,364 @@
+{
+  "page_key": "opel-be-nl__faq",
+  "brand": "opel",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://www.overname.opel.be",
+  "slug": "/faq",
+  "source_v1": "https://www.overname.opel.be/faq",
+  "meta": {
+    "title": "FAQ",
+    "description": "FAQ",
+    "site_name": "Opel BE",
+    "author": "Opel BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "FAQ"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://www.overname.opel.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.overname.opel.be/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "FAQ",
+    "lead": "FAQ",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://www.overname.opel.be/"
+  },
+  "subnav": [
+    {
+      "label": "HOE VERKOOP IK MIJN WAGE",
+      "anchor": "#hoe-verkoop-ik-mijn-wagen"
+    },
+    {
+      "label": "HOE WORDT DE OVERNAMEWAA",
+      "anchor": "#hoe-wordt-de-overnamewaarde-van-mijn-wag"
+    },
+    {
+      "label": "HOE WERKT OPEL OVERNAME?",
+      "anchor": "#hoe-werkt-opel-overname"
+    },
+    {
+      "label": "WAT ZIJN DE VOORDELEN VA",
+      "anchor": "#wat-zijn-de-voordelen-van-het-gebruik-va"
+    },
+    {
+      "label": "WAT VERWACHT IK VAN EEN ",
+      "anchor": "#wat-verwacht-ik-van-een-overnameschattin"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "hoe-verkoop-ik-mijn-wagen",
+      "h2": "HOE VERKOOP IK MIJN WAGEN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "OPEL OVERNAME is een online service waarmee u een gratis een overnameaanbod van uw wagen kunt krijgen. Indien u tevreden bent met de waardebepaling dan nodigen wij u uit om een afspraak te maken met de Opel Verdeler naar keuze om een definitief overnamebod te krijgen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-wordt-de-overnamewaarde-van-mijn-wag",
+      "h2": "HOE WORDT DE OVERNAMEWAARDE VAN MIJN WAGEN BEREKEND?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "De schatting is gebaseerd op: De kenmerken van uw voertuig: merk, model, motor, afwerking, kilometerstand, datum van inschrijving. Marktprijs: recente transacties door professionals met gelijkwaardige modellen. Aftrek van de standaard herstellingskosten. Deze kosten kunnen worden aangepast a rato van de reële staat van het voertuig."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-werkt-opel-overname",
+      "h2": "HOE WERKT OPEL OVERNAME?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Om een gratis schatting per e-mail te ontvangen, geeft u informatie door over uw voertuig. Aanvaardt u ons overnameaanbod? Maak een afspraak met door u gekozen Opel Verdeler. Profiteer van de expertise van Opel. Tijdens de afspraak onderzoekt één van onze experten in uw aanwezigheid de staat van uw wagen en biedt u een overnamewaarde. Als u toestemt, verbinden we ons onmiddellijk tot een overname."
+        },
+        {
+          "text": "Ontvang online een gratis schatting."
+        },
+        {
+          "text": "Maak een afspraak."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wat-zijn-de-voordelen-van-het-gebruik-va",
+      "h2": "WAT ZIJN DE VOORDELEN VAN HET GEBRUIK VAN DE OPEL OVERNAME SERVICE?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "In enkele klikken ontvangt u een schatting van de waarde van uw wagen. Ons overnameaanbod is niet-bindend. Voorkom onaangename verrassingen. Dankzij de service van Opel Overname kan u de waarde van uw wagen gratis en vrijblijvend door een professional laten schatten. Elk voertuig wordt geëvalueerd op basis van de marktprijs en recente transacties. De betaling van uw voertuig is gegarandeerd en veilig. Zodra u uw goedkeuring geeft, zal de Opel Verdeler de overname en betaling van uw wagen afhandelen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wat-verwacht-ik-van-een-overnameschattin",
+      "h2": "WAT VERWACHT IK VAN EEN OVERNAMESCHATTING?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Het door OPEL OVERNAME voorgestelde overnameaanbod is niet bindend. U ontvangt ons voorstel gratis binnen de 24 uur op werkdagen. Deze schatting is volledig vrijblijvend voor u. Het staat u vrij om een afspraak te maken met onze Opel experten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "is-deze-dienst-betalend",
+      "h2": "IS DEZE DIENST BETALEND?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "OPEL OVERNAME is een volledig gratis service voor u."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "ik-kan-mijn-voertuig-niet-vinden-op-de-s",
+      "h2": "IK KAN MIJN VOERTUIG NIET VINDEN OP DE SITE",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Als u uw wagen niet kan vinden op onze website, neem dan contact met ons op zodat we u een gepersonaliseerde overnameschatting kunnen geven. Opmerking: sommige voertuigen zijn te oud of te weinig voorkomend op de markt om een reële overnamewaarde te kunnen geven."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ik-heb-mijn-schatting-niet-per-e-mail-on",
+      "h2": "IK HEB MIJN SCHATTING NIET PER E-MAIL ONTVANGEN",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Sommige e-mailproviders kunnen e-mails van OPEL OVERNAME ten onrechte als spam beschouwen. In dat geval nodigen we u uit om uw 'Junk mail / Spam' -map te raadplegen en de instellingen van uw mailbox aan te passen. Als u echter geen e-mail voor uw schatting ontvangt, aarzel dan niet om contact met ons op te nemen met uw contactgegevens, zodat we u een schatting van uw wagen kunnen sturen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-een-afspraak-maken",
+      "h2": "HOE EEN AFSPRAAK MAKEN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Niets is gemakkelijker. Als u online een overnameschatting aanvraagt, kiest u uw Opel Verdeler. Deze laatste neemt contact met u op, of u kunt hem bellen om een ​​afspraak te maken."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "welke-documenten-moet-ik-naar-de-afspraa",
+      "h2": "WELKE DOCUMENTEN MOET IK NAAR DE AFSPRAAK MEEBRENGEN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Als u naar de Verdeler gaat, kunt u het beste met uw voertuig komen, met de volgende documenten: • Het inschrijvingsbewijs en gelijkvormigheidsattest van uw auto • Identiteitsbewijs (rijbewijs, identiteitskaart of paspoort) • Bewijs van adres (telefoon- of elektriciteitsrekening minder dan 3 maanden oud) • Officieel document krijgen waarop uw identiteitsgegevens en uw bankgegevens vermeld staan • Het onderhoudsboekje en de onderhouds- en reparatiefacturen voor alle reparaties aan deze auto • De sleutelsets (2) van uw auto en de beveiligingscode om nieuwe sleutels aan te vragen • Indien van toepassing de sleutel van de antidiefstalmoeren van uw wielen"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-word-ik-betaald",
+      "h2": "HOE WORD IK BETAALD?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tijdens de transactie wordt de auto betaald door een Opel Verdeler. Afhankelijk van de gekozen Verdeler, wordt de betaling voor het voertuig gedaan per cheque of via overschrijving."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-contact-opnemen-met-opel-overname",
+      "h2": "HOE CONTACT OPNEMEN MET OPEL OVERNAME?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Mocht u het antwoord op uw vraag niet hebben gevonden, neem dan gerust op."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://www.overname.opel.be/"
+  },
+  "footer": {
+    "tagline": "FAQ",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "FAQ",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "FAQ",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.overname.opel.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "FAQ",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.overname.opel.be/faq",
+    "medias_trouves": 3,
+    "blocs_detectes": 12,
+    "notes": [
+      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.overname.opel.be/build/img/opel/chevron-up-home.svg",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

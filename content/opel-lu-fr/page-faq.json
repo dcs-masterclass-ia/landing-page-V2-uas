@@ -1,0 +1,225 @@
+{
+  "page_key": "opel-lu-fr__page-faq",
+  "brand": "opel",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://www.reprise.opel.lu",
+  "slug": "/page-faq",
+  "source_v1": "https://www.reprise.opel.lu/page-faq",
+  "meta": {
+    "title": "FAQ",
+    "description": "FAQ",
+    "site_name": "Opel LU",
+    "author": "Opel LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Foire aux questions"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.opel.lu/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Foire aux questions",
+    "lead": "FAQ",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "subnav": [
+    {
+      "label": "OPEL RÉPOND À VOS QUESTI",
+      "anchor": "#opel-repond-a-vos-questions"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    },
+    {
+      "label": "JE N’AI PAS REÇU MON EST",
+      "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "faq",
+      "id": "opel-repond-a-vos-questions",
+      "h2": "OPEL RÉPOND À VOS QUESTIONS :",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "OPEL REPRISE est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre voiture. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le point de vente OPEL que vous avez choisi pour obtenir une offre de reprise ferme.L’estimation est basée sur :• Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.• Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.• Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule.Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre voiture.Prenez rendez-vous. L'estimation vous convient ? Vous prenez rendez-vous avec le point de vente OPEL que vous avez sélectionné.Profitez de l’expertise OPEL. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule.• En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement.• Évitez les mauvaises surprises. En sollicitant le service de OPEL REPRISE vous recevez une estimation de la valeur de votre voiture par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.• Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un point de vente OPEL.L’estimation de reprise proposée par OPEL REPRISE est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts OPEL.OPEL REPRISE est un service totalement gratuit pour vous.Si vous ne trouvez pas votre voiture sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur.Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de OPEL REPRISE comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise.Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente OPEL. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous.Lors de votre rendez-vous en point de vente, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants :• La carte de grise de votre voiture• Une pièce d’identité (permis de conduire, carte d’identité ou passeport)• Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)• Un RIB (Relevé d’Identité Bancaire)• Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture• Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles• Le cas échéant, la clé des écrous antivol de vos roues Lors de la transaction, le paiement du véhicule est assuré par un point de vente OPEL. Selon le point de vente choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire.Si vous n'avez pas trouvé la réponse à votre question, n'hésitez pas"
+        },
+        {
+          "text": "COMMENT VENDRE MA VOITURE ?"
+        },
+        {
+          "text": "COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
+        },
+        {
+          "text": "COMMENT FONCTIONNE LA REPRISE PAR OPEL ?"
+        },
+        {
+          "text": "QUELS SONT LES AVANTAGES À UTILISER LE SERVICE OPEL REPRISE ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "A QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
+        },
+        {
+          "text": "EST-CE QUE CE SERVICE EST PAYANT ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "je-nai-pas-recu-mon-estimation-par-email",
+      "h2": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "COMMENT FAIRE POUR PRENDRE UN RENDEZ-VOUS ?"
+        },
+        {
+          "text": "QUELS SONT LES DOCUMENTS À APPORTER LORS DU RENDEZ-VOUS ?"
+        },
+        {
+          "text": "COMMENT SERAI-JE PAYÉ ?"
+        },
+        {
+          "text": "COMMENT CONTACTER OPEL REPRISE ?"
+        },
+        {
+          "text": "à nous contacter."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "footer": {
+    "tagline": "FAQ",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "FAQ",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "FAQ",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.opel.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "FAQ",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.opel.lu/page-faq",
+    "medias_trouves": 3,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

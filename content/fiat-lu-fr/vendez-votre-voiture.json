@@ -1,0 +1,282 @@
+{
+  "page_key": "fiat-lu-fr__lp-vendez-votre-voiture",
+  "brand": "fiat",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.fiat.lu",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.fiat.lu/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture : découvrez sa valeur | Fiat",
+    "description": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "site_name": "Fiat LU",
+    "author": "Fiat LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Obtenez une estimation gratuite pour la vente de votre voiture"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.fiat.lu/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Obtenez une estimation gratuite pour la vente de votre voiture",
+    "lead": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Obtenez une estimation g",
+      "anchor": "#obtenez-une-estimation-gratuite-et-preci"
+    },
+    {
+      "label": "Comment vendre votre voi",
+      "anchor": "#comment-vendre-votre-voiture-en-toute-si"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    },
+    {
+      "label": "L'expérience Fiat est à ",
+      "anchor": "#l-experience-fiat-est-a-votre-portee"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenez-une-estimation-gratuite-et-preci",
+      "h2": "Obtenez une estimation gratuite et précise pour vendre votre voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous cherchez à vendre votre voiture ? Avec notre solution de reprise Peugeot en ligne, vous pouvez obtenir une estimation gratuite et précise de la valeur de votre véhicule en seulement quelques minutes. Pas besoin de vous déplacer ou de vous embêter avec les négociations ennuyeuses. Optez pour la simplicité en choisissant notre service professionnel et fiable."
+        },
+        {
+          "text": "Avec notre service de reprise, vous pouvez vendre votre voiture en toute sécurité et sans tracas. Nos professionnels du réseau Peugeot vous garantissent une transaction sécurisée et rapide, sans que vous ayez à vous soucier des démarches administratives. De plus, notre service de reprise vous offre : ● Une estimation gratuite et précise de la valeur de votre véhicule ● Un rendez-vous en concession à votre convenance avec un de nos professionnels ● Un paiement garanti rapide et sécurisé Alors, pourquoi attendre ? Optez pour la simplicité et la tranquillité d'esprit en choisissant notre service de reprise."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "Les avantages de vendre votre voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "comment-vendre-votre-voiture-en-toute-si",
+      "h2": "Comment vendre votre voiture en toute simplicité ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vendre votre voiture n'a jamais été aussi simple ! Suivez ces étapes faciles : Etape 1 : Remplissez notre formulaire d'estimation en ligne Commencez par remplir notre formulaire d'estimation en ligne. Nous avons besoin d'informations sur votre voiture pour vous donner une estimation précise de sa valeur de reprise. Nous vous demanderons des informations telles que le numéro de plaque d'immatriculation, la version, l'année de mise en circulation, le carburant, la motorisation, la couleur, les équipements, etc. Etape 2 : Recevez votre estimation gratuite en ligne et par email Une fois que vous avez rempli notre formulaire, nous vous donnerons une estimation gratuite de la valeur de votre véhicule en ligne et par email. Vous pouvez décider si cela vous convient ou non, sans aucun engagement."
+        },
+        {
+          "text": "Etape 3 : Prenez rendez-vous avec un de nos professionnels Si vous êtes satisfait de notre estimation, prenez rendez-vous avec l'un de nos professionnels pour une inspection de votre voiture. Nous avons des concessions partout en France, alors trouvez celle qui vous convient et rendez-vous-y au moment qui vous convient. Etape 4 : Vendez votre voiture en toute sécurité Si vous êtes satisfait de notre offre, vendez votre voiture en toute sécurité et sans tracas. Nous nous occupons de tout, de la transaction à la paperasse, en passant par le paiement rapide et sécurisé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Fiat propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Fiat de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture Fiat ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-fiat-est-a-votre-portee",
+      "h2": "L'expérience Fiat est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Fiat en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Fiat vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Fiat, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Fiat. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.fiat.lu/"
+  },
+  "footer": {
+    "tagline": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiat.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture : découvrez sa valeur",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.fiat.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "howto_name": "Obtenez une estimation gratuite pour la vente de votre voiture",
+    "howto_description": "Fiat vous offre une estimation gratuite pour la reprise de votre voiture. ✓ Évitez les tracas de la vente de voiture entre particuliers ✓",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.fiat.lu/lp/vendez-votre-voiture",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/separator-breadcrumb.png",
+      "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.fiat.lu/build/img/fiat/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

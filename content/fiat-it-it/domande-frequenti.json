@@ -1,0 +1,151 @@
+{
+  "page_key": "fiat-it-it__domande-frequenti",
+  "brand": "fiat",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.fiat.it",
+  "slug": "/domande-frequenti",
+  "source_v1": "https://www.valutazioneusato.fiat.it/domande-frequenti",
+  "meta": {
+    "title": "Informazioni utili sulla permuta della tua auto usata",
+    "description": "Faq",
+    "site_name": "Fiat IT",
+    "author": "Fiat IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "FAQ - DOMANDE FREQUENTI"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.fiat.it/"
+    },
+    {
+      "label": "Domande frequenti sulla permuta della tua auto usata",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "FAQ - DOMANDE FREQUENTI",
+    "lead": "Faq",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "COME POSSO VENDERE LA MIA AUTO? Fiat valutazione è un servizio online che vi permette di ottenere una stima gratuita della permuta del vostro veicolo. Se siete soddisfatti del preventivo ricevuto, vi invitiamo a fissare un appuntamento con il concessionario Fiat che avete scelto per ottenere un'offerta di permuta vincolante. COME VIENE CALCOLATO IL MIO PREVENTIVO DI PERMUTA? La stima si basa su : Le caratteristiche del vostro veicolo: marca, modello, motore, finitura, chilometraggio, data di immatricolazione. Osservazioni di mercato: transazioni recenti effettuate da professionisti su modelli equivalenti. Una detrazione per i costi standard di ricondizionamento. Questi costi possono essere modificati in base alle condizioni effettive del veicolo. COME FUNZIONA LA PERMUTA FIAT? Richiedete un preventivo gratuito online. Per ricevere un preventivo gratuito via e-mail, inserite i dati del vostro veicolo. Fissare un appuntamento. Siete soddisfatti del preventivo? Fissare un appuntamento con il concessionario Fiat selezionato. Approfittate dell'esperienza di Fiat. Durante l'appuntamento, uno dei nostri esperti esaminerà le condizioni del veicolo in vostra presenza e vi proporrà un prezzo di permuta definitivo. Una volta confermato l'accordo, ritireremo il veicolo. QUALI SONO I VANTAGGI DI UTILIZZARE IL SERVIZIO DI PERMUTA FIAT? Veloce. In pochi clic riceverete una stima del valore del vostro veicolo via e-mail. La stima della permuta non è vincolante. La pace della mente Tranquillità. Evitare spiacevoli sorprese. Utilizzando il servizio Fiat, riceverete una stima del valore del vostro veicolo da parte di un professionista del settore automobilistico. Ogni veicolo viene valutato sulla base di osservazioni di mercato e di transazioni recenti. Sicurezza. Il pagamento del veicolo è garantito e sicuro. Durante la transazione, il pagamento del veicolo è gestito da un concessionario Fiat. A COSA MI IMPEGNA UN PREVENTIVO DI PERMUTA? La stima di permuta offerta da Fiat non è vincolante. Riceverete la nostra proposta gratuita entro 24 ore nei giorni lavorativi. Il preventivo è senza impegno. Siete liberi di fissare un appuntamento con i nostri esperti Fiat. QUESTO SERVIZIO È A PAGAMENTO? No. Fiat valutazione è un servizio completamente gratuito per voi. NON RIESCO A TROVARE IL MIO VEICOLO SUL SITO WEB Se non riuscite a trovare il vostro veicolo sul nostro sito web, contattateci in modo da potervi fornire un preventivo di permuta personalizzato. Si noti che alcuni veicoli sono troppo vecchi o troppo rari sul mercato per essere stimati al loro valore equo. NON HO RICEVUTO IL MIO PREVENTIVO VIA E-MAIL È possibile che alcuni provider di posta elettronica identifichino erroneamente le e-mail di Fiat come spam. In questo caso, vi invitiamo a controllare la cartella 'Posta indesiderata/Spam' e a configurare diversamente la vostra casella di posta elettronica. Tuttavia, se non ricevete la vostra e-mail di stima, non esitate a contattarci lasciando i vostri dati in modo che possiamo inviarvi la vostra stima di permuta. COME POSSO FISSARE UN APPUNTAMENTO? Niente di più facile. Quando richiedete un preventivo online, scegliete il vostro concessionario Fiat. Vi contatteranno o potrete chiamarli per fissare un appuntamento. QUALI DOCUMENTI DEVO PORTARE ALL'APPUNTAMENTO? Quando ci si reca in concessionaria, è consigliabile portare con sé i seguenti documenti: La carta di circolazione dell'auto Un documento d'identità (patente di guida, carta d'identità o passaporto) Prova di indirizzo (bolletta del telefono o dell'elettricità risalente a meno di 3 mesi prima) Un numero di conto corrente bancario (Relevé d'Identité Bancaire) Il libretto di manutenzione e le fatture di manutenzione e riparazione per tutte le riparazioni effettuate su questa vettura I 2 mazzi di chiavi dell'auto e il codice di sicurezza per ottenerne di nuovi Se applicabile, la chiave dei dadi antifurto delle ruote COME VERRÒ PAGATO? Durante la transazione, il pagamento del veicolo è gestito da un concessionario Fiat. A seconda del concessionario scelto, il pagamento del veicolo avviene tramite assegno o bonifico bancario. COME POSSO CONTATTARE FIAT TRADE-IN? Se non avete trovato la risposta alla vostra domanda, contattateci."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "footer": {
+    "tagline": "Faq",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Fiat/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_it/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/c/fiatitalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Informazioni utili sulla permuta della tua auto usata",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Faq",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.fiat.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Faq",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.fiat.it/domande-frequenti",
+    "medias_trouves": 3,
+    "blocs_detectes": 1,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

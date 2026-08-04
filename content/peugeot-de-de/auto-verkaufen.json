@@ -1,0 +1,235 @@
+{
+  "page_key": "peugeot-de-de__lp-auto-verkaufen",
+  "brand": "peugeot",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.peugeot.de",
+  "slug": "/lp/auto-verkaufen",
+  "source_v1": "https://www.autoankauf.peugeot.de/lp/auto-verkaufen",
+  "meta": {
+    "title": "► Ihr Auto einfach verkaufen mit Peugeot ✓​",
+    "description": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "site_name": "Peugeot DE",
+    "author": "Peugeot DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Verkaufen Sie Ihr Auto: Alles, was Sie wissen müssen"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Verkaufen Sie Ihr Auto: Alles, was Sie wissen müssen",
+    "lead": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "subnav": [
+    {
+      "label": "Berechnen Sie mein Einta",
+      "anchor": "#berechnen-sie-mein-eintauschangebot"
+    },
+    {
+      "label": "Verkaufen Sie Ihr Auto: ",
+      "anchor": "#verkaufen-sie-ihr-auto-warum-sollten-sie"
+    },
+    {
+      "label": "Verkaufen Sie Ihr Auto: ",
+      "anchor": "#verkaufen-sie-ihr-auto-die-vorteile-fur-"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "berechnen-sie-mein-eintauschangebot",
+      "h2": "Berechnen Sie mein Eintauschangebot",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie möchten Ihr Auto verkaufen? Peugeot Bewertungsservice ist ein Online-Tool, der Ihnen hilft, den Schätzwert für die Inzahlungnahme Ihres Fahrzeugs unverbindlich zu berechnen. Gehen Sie in aller Ruhe vor und schließen Sie das Risiko negativer Erfahrungen aus, die mit dem Verkauf zwischen Privatpersonen verbunden sind. Nutzen Sie ein Netzwerk und einen professionellen Service, um Betrügereien, säumige Zahler oder langwierige Verhandlungen zu vermeiden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "verkaufen-sie-ihr-auto-warum-sollten-sie",
+      "h2": "Verkaufen Sie Ihr Auto: Warum sollten Sie sich für die Inzahlungnahme entscheiden?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "• Erhalten Sie die Schätzung Ihres Autos online und per E-Mail • Vereinbaren Sie einen Termin bei einem Händler in Ihrer Nähe • Treffen Sie vor Ort einen Fachmann aus unserem Expertennetzwerk • Erhalten Sie eine schnelle und sichere Transaktion"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "verkaufen-sie-ihr-auto-die-vorteile-fur-",
+      "h2": "Verkaufen Sie Ihr Auto: Die Vorteile für einen schnellen und sorgenfreien Verkauf :",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Schritt 1: Geben Sie Ihre Fahrzeugdaten ein Um den zuverlässigsten Eintauschwert für Ihr Fahrzeug zu ermitteln, werden einige Informationen von Ihnen benötigt. Beantworten Sie ganz einfach einen dafür vorgesehenen Fragebogen in weniger als 5 min. Schritt 2: Holen Sie sich die Schätzung für Ihr Auto online und per E-Mail. Nach der Übermittlung dieser Informationen führen wir eine Marktanalyse durch, um Ihnen den fairsten Übernahmepreis anzubieten. Diese Schätzung wird Ihnen ebenfalls sofort per E-Mail zugesandt. Diese ist unverbindlich und Sie haben die Wahl, ob Sie den Verkaufsprozess für Ihr Auto fortsetzen möchten oder nicht. Schritt 3: Treffen mit einem PEUGEOT-Profi Der PEUGEOT-Händler, den Sie ausgewählt haben, um Ihr Auto zu verkaufen, wird Sie kontaktieren, um einen Termin vor Ort zu vereinbaren. Am Tag X wird er eine Inspektion Ihres Fahrzeugs durchführen und Ihnen einen endgültigen Eintauschpreis vorschlagen. Wenn Ihnen dieser Preis zusagt, kaufen wir Ihr Auto sofort zurück, ohne dass Sie irgendwelche administrativen Schritte unternehmen müssen. Wir kümmern uns um alles!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "WIE WIRD DER ÜBERNAHMEWERT BERECHNET?"
+        },
+        {
+          "text": "Die Bewertung basiert auf : - Die Merkmale Ihres Fahrzeugs: Marke, Modell, Motorisierung, Ausstattung, Kilometerstand, Zulassungsdatum. - Die Analyse des Automobilmarktes: jüngste Transaktionen, die von Fachleuten mit gleichwertigen Modellen durchgeführt wurden. - Ein Abzug für die Kosten der Standardinstandsetzung. Diese Kosten sind je nach dem tatsächlichen Zustand des Fahrzeugs, der im Autohaus festgestellt wurde, anpassbar."
+        },
+        {
+          "text": "DIE PEUGEOT-ÜBERNAHME BESSER VERSTEHEN?"
+        },
+        {
+          "text": "Kostenlose Online-Schätzung: Erhalten Sie eine kostenlose Online-Schätzung, indem Sie unseren Online-Fragebogen mit den Informationen über Ihr zu verkaufendes Fahrzeug ausfüllen. Innerhalb von 5min erhalten Sie einen Eintauschwert für Ihr Fahrzeug, der Ihnen auch per E-Mail zugesandt wird. Vereinbaren Sie einen Termin : Sobald Sie das Formular ausgefüllt haben, werden Sie innerhalb von 24 Stunden von dem Händler Ihrer Wahl kontaktiert. Sind Sie mit dem angegebenen Preis zufrieden? Vereinbaren Sie einen Termin im Autohaus, um Ihr Auto zu verkaufen. Profitieren Sie von der PEUGEOTExpertise: Beim Termin prüft einer unserer Experten in Ihrem Beisein den Zustand des Fahrzeugs und schlägt Ihnen einen verbindlichen Inzahlungnahme preis vor. Sobald Ihre Zustimmung bestätigt ist, kaufen wir Ihr Auto zurück."
+        },
+        {
+          "text": "WIE LÄUFT EIN TERMIN IM AUTOHAUS AB?"
+        },
+        {
+          "text": "Es ist ganz einfach. Nachdem Sie Ihren Antrag auf eine Schätzung online gestellt haben, wählen Sie Ihre PEUGEOT-Verkaufsstelle aus, indem Sie die Postadresse Ihrer Wahl angeben. Ihr PEUGEOT-Händler wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen, um einen Termin nach Ihren Wünschen zu vereinbaren. Sie können ihn auch selbst anrufen, indem Sie die Kontaktdaten angeben, die Sie in der Zusammenfassung Ihrer Schätzung angegeben haben."
+        },
+        {
+          "text": "WIE WIRD DIE ZAHLUNG VORGENOMMEN?"
+        },
+        {
+          "text": "Mit dem PEUGEOT-Netzwerk haben Sie die Garantie einer schnellen und sicheren Bezahlung. Bei der Transaktion für den Verkauf Ihres Autos wird die Bezahlung des Fahrzeugs von einem Händler des PEUGEOT-Netzes übernommen. Je nachdem, welchen Händler Sie wählen, erfolgt die Bezahlung des Fahrzeugs per Scheck oder Banküberweisung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "footer": {
+    "tagline": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/peugeotdeutschland\n"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/peugeotde?lang=de"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PEUGEOTdeutschland"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Ihr Auto einfach verkaufen mit Peugeot ✓​",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.peugeot.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "howto_name": "Verkaufen Sie Ihr Auto: Alles, was Sie wissen müssen",
+    "howto_description": "Direkt online Angebot erhalten → Termin bei einem Peugeot-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.peugeot.de/lp/auto-verkaufen",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

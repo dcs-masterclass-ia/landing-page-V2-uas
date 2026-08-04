@@ -1,0 +1,176 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-loa-ou-lld",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-loa-ou-lld",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-loa-ou-lld",
+  "meta": {
+    "title": "LLD ou LOA avec reprise de l'ancien véhicule par Reprise DS",
+    "description": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise pour une LOA ou LLD"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise pour une LOA ou LLD",
+    "lead": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi louer plutôt qu",
+      "anchor": "#pourquoi-louer-plutot-que-d-acheter"
+    },
+    {
+      "label": "DS Automobiles reprend é",
+      "anchor": "#ds-automobiles-reprend-egalement-votre-a"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-louer-plutot-que-d-acheter",
+      "h2": "Pourquoi louer plutôt que d'acheter?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La location permet d’acquérir un véhicule neuf ou même d’occasion moyennant un loyer pouvant inclure de nombreux services. Que ce soit en LOA (Location avec Option d’Achat) ou en LLD (Location Longue Durée), ce type d’acquisition permet par exemple de rouler en véhicule neuf avec des loyers inférieurs à ceux d’un crédit classique. Les contrats de location permettent également d’inclure dans la même mensualité des prestations telles que l’entretien ou l’assurance, si bien qu’il n’y a pas de surprise. Tout est compris dans une seule et même mensualité. Location avec option d’achat et location de longue durée permettent aussi de changer plus souvent de voiture, sans se soucier de la revente, puisque les modalités de reprise en fin de contrat sont fixées d’avance.Quelle est la différence entre la LOA et la LLD?Location avec option d’achat et location de longue durée sont des modes d’acquisition de plus en plus plébiscités par les professionnels, mais également par les particuliers. La location avec option d’achat permet de financer un véhicule sur une durée donnée, avec possibilité de devenir propriétaire en fin de contrat moyennant un dernier loyer dont le montant est fixé à l’avance. La location de longue durée permet de louer un véhicule pendant une durée établie par contrat, avec restitution à l’issue. Cette formule se révèle particulièrement intéressante pour les personnes souhaitant changer régulièrement de véhicule sans se soucier de la revente en fin de contrat. Dans les deux cas, les mensualités sont fixes et leur montant est connu à l’avance."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/contrat-DS.jpg",
+      "image_alt": "contrat DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ds-automobiles-reprend-egalement-votre-a",
+      "h2": "DS Automobiles reprend également votre ancien véhicule si vous optez pour une location",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "En optant pour une LLD ou une LOA avec reprise de votre ancien véhicule, DS Automobiles vous offre la possibilité de rouler en voiture neuve à moindre coût, et surtout sans que vous ayez besoin de revendre vous-même l’ancienne. Tout est simple et transparent: vous estimez la valeur de votre véhicule, vous prenez rendez-vous dans l’un de nos centres et repartez si vous le désirez avec un véhicule neuf financé en location de longue durée ou location avec option d’achat. Vous n’avez pas de démarcheà faire de votre côté, pas d’annonce à publier, pas de formalitéadministrative,nous nous chargeons de tout. Même si votre ancien véhicule est non roulant, DS Automobilesvous le rachète.Quels modèles DS peut-on financer en LLD ou en LOA avec reprise d’un ancien véhicule?Les formules de LLD ou LOA avec reprise d’un ancien véhicule sont disponibles pour tous les modèles de la gamme DS. De la sportive DS3 au SUV charismatique DS7 CROSSBACK, DS Automobiles reprend votre ancien véhicule au-dessus de sa valeur. Offrez-vous ce qu’il y a de mieux et roulez en DS. Ne vous souciez plus de la revente de votre voiture. Optez pour une LLD avec reprise ou une LOA avec reprise de votre ancien véhicule et bénéficiez des nombreux avantages clients proposés par DS Automobiles. Accédez à un nouvel univers, celui de DS Automobiles."
+        },
+        {
+          "text": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/contrat-DS.jpg",
+      "image_alt": "contrat DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "LLD ou LOA avec reprise de l'ancien véhicule par Reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "DS Automobiles vous propose de faire la reprise de votre ancien véhicule pour financer la location de longue durée de votre nouvelle voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-loa-ou-lld",
+    "medias_trouves": 2,
+    "blocs_detectes": 2,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

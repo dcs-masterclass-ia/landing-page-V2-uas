@@ -1,0 +1,379 @@
+{
+  "page_key": "fiat-professional-es-es__lp-compramos-tu-coche",
+  "brand": "fiat-professional",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.fiatprofessional.es",
+  "slug": "/lp/compramos-tu-coche",
+  "source_v1": "https://tasacion.fiatprofessional.es/lp/compramos-tu-coche",
+  "meta": {
+    "title": "Compramos tu coche o tu camioneta | Fiat Professional",
+    "description": "Compramos tu coche con rapidez y simplicidad ✓ Tendrás un excelente precio ✓ Nada de papeleo ➝ ¡Si quieres saber más, entra aquí!",
+    "site_name": "Fiat Professional ES",
+    "author": "Fiat Professional ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "En menos de 24 horas, compramos tu coche - Pago seguro"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.fiatprofessional.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.fiatprofessional.es/"
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "En menos de 24 horas, compramos tu coche - Pago seguro",
+    "lead": "Compramos tu coche con rapidez y simplicidad ✓ Tendrás un excelente precio ✓ Nada de papeleo ➝ ¡Si quieres saber más, entra aquí!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.fiatprofessional.es/"
+  },
+  "subnav": [
+    {
+      "label": "!Por medio de la Red Tas",
+      "anchor": "#por-medio-de-la-red-tasacion-fiat-profes"
+    },
+    {
+      "label": "100% gratis",
+      "anchor": "#100-gratis"
+    },
+    {
+      "label": "Compramos tu coche sin n",
+      "anchor": "#compramos-tu-coche-sin-ninguna-complejid"
+    },
+    {
+      "label": "en 5 min,",
+      "anchor": "#en-5-min"
+    },
+    {
+      "label": "Compramos tu coche con p",
+      "anchor": "#compramos-tu-coche-con-profesionalidad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "por-medio-de-la-red-tasacion-fiat-profes",
+      "h2": "!Por medio de la Red Tasación Fiat Professional,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "olvídate de las sorpresas desagradables!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "100-gratis",
+      "h2": "100% gratis",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Nada de compromisos."
+        },
+        {
+          "text": "La red Fiat Professional es y ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-ninguna-complejid",
+      "h2": "Compramos tu coche sin ninguna complejidad",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si quieres precisión en la tasación de tu auto, nos darás los datos de tu coche. Por esa razón, completaras un cuestionario fácil y rápido. Luego de rellenar los datos, se hace un estudio del mercado dándote el precio justo que puedes encontrar al finalizar el cuestionario. La tasación se te enviará también por medio de correo electrónico. Recibir la tasación no representa ningún compromiso, ¡Será tu decisión si quieres o no continuar con el proceso!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "en-5-min",
+      "h2": "en 5 min,",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Etapa 2: Ya sea por correo electrónico o en línea, recibirás la tasación de tu coche."
+        },
+        {
+          "text": "Por eso debe responder a un cuestionario fácil y rápido con la informaciones siguientes:"
+        },
+        {
+          "text": "La identification del coche:"
+        },
+        {
+          "text": "Luego del registro, se identifica tu coche que es el que quieres tasar, y llenarás el registro. Por el registro, tu modelo es identificado. y con la identificación te saltaras varias de las etapas del cuestionario y con eso, ganaras tiempo."
+        },
+        {
+          "text": "Si no te recuerda el registro, ¡No tienes de qué preocuparte! Solo contestaras unas preguntas, eso nos ayudará a identificar tu coche: Datos como Combustible, Potencia, versión.y el año de matrícula."
+        },
+        {
+          "text": "Datos varios:"
+        },
+        {
+          "text": "El kilometraje, el color, la versión, así como el equipamiento, y otros."
+        },
+        {
+          "text": "Si eliges un concesionario de Fiat Professional se va a poner en contacto para hacer una cita en concesión. Allí se realiza la inspección al coche y él te propondrá un precio final. Si el precio es bueno para ti, el coche se compra en el momento, libre de procesos administrativos. ¡todo queda en nuestras manos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-con-profesionalidad",
+      "h2": "Compramos tu coche con profesionalidad",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es facilísimo!"
+        },
+        {
+          "text": "¡Luego de unos clics obtienes evaluación del coche!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "la-recuperacion-llega-lo-mas-pronto-posi",
+      "h2": "La recuperación llega lo más pronto posible",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Te parece nuestra oferta de recuperación? En 24 horas, tu coche va a ser comprado*."
+        },
+        {
+          "text": "¡Es muy seguro!"
+        },
+        {
+          "text": "Cero sorpresas desagradables y trámites administrativos, al hacerlo con la Red Fiat Professional, ¡Lo hacemos todo por ti!"
+        },
+        {
+          "text": "Frente a ti, un experto de Fiat Professional hace un examen del estado del coche."
+        },
+        {
+          "text": "Luego de llegar a un acuerdo, aseguramos una recuperación ágil."
+        },
+        {
+          "text": "Se garantiza el pago además es seguro y rápido."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "100-seguridad-en-el-pago",
+      "h2": "100% seguridad en el pago",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ayudamos con los procesos administrativos."
+        },
+        {
+          "text": "¡Sabrás el precio de tu coche en 5 minutos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-dudas-mas-frecuentes",
+      "h2": "Compramos tu coche: Dudas más frecuentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cómo vendo mi coche?"
+        },
+        {
+          "text": "Reprise FIAT PRO otorga un servicio en línea, el cual te proporciona una tasación gratis del coche. Si quieres una, debes incluir en nuestro cuestionario el perfil de tu coche. En el mismo debes incluir el kilometraje, modelo, la marca y también, la versión, etc. Al hacer esto tendrás al final del cuestionario, luego de 5 min, una tasación, no solo la tendrás en tus manos, sino que también la obtendrás en tu correo electrónico. Luego el concesionario FIAT PRO que elegiste te contactara y concretaran una cita para recuperar tu coche. Otra opción que tienes: si no te parece la oferta, no necesitas vender el coche."
+        },
+        {
+          "text": "2. ¿Cómo se calcula el precio de adquisición del coche?"
+        },
+        {
+          "text": "La tasación se toma así: Su versión, el kilometraje, la marca, el motor, su fecha de matriculación y el modelo. Las transacciones hechas recientemente por los profesionales de otros modelos similares. . Las tarifas se deducen tomando en cuenta la condición que presenta el coche en este momento."
+        },
+        {
+          "text": "Datos generales del coche:"
+        },
+        {
+          "text": "Investigación de mercado:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "deduccion-estandar-por-los-costos-de-la-",
+      "h2": "Deducción estándar por los costos de la recuperación",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "3. ¿Cómo funciona una tasación con la red FIAT PRO?"
+        },
+        {
+          "text": "Tasación gratis y totalmente en línea: Tendrás tasación en línea y mejor aun gratuita, al llenar el cuestionario en línea con la información del coche. Solo en 5 minutos, estará lista la tasación, que se envía por correo electrónico. Necesitas una cita: Rellenando el formulario, vas a obtener una llamada del distribuidor que tu escogiste y te contactará en no más de 24 horas. ¿Te parece la tasación? Lleva a cabo una cita en el concesionario y rápidamente recuperas el coche. Disfruta toda la experiencia FIAT PRO: Alguno de los expertos, en la cita, revisa el estado actual del coche en frente tuyo, ofreciendo un precio sin cambios de la recuperación. al confirmar el acuerdo, compramos tu coche de inmediato."
+        },
+        {
+          "text": "4. ¿Cómo hacer una cita?"
+        },
+        {
+          "text": "Realmente es bastante sencillo. La tasación online te permite después escoger el punto de venta FIAT PRO cuando eliges la dirección postal preferida. El concesionario FIAT PRO te va a buscar en 24 horas y así, la cita será hecha. Al concesionario tú puedes contactarlo, con los datos de contacto incluidos en la tasación. Así, tu oferta será rápida y enfocada en la valoración que se hizo del coche y también por el precio que mantiene en el mercado."
+        },
+        {
+          "text": "5. ¿Cómo se realizará mi pago?"
+        },
+        {
+          "text": "Con tu red FIAT PRO, tu pago es garantía de sencillez y confiabilidad sin sorpresas de última hora, en el proceso de transacción, se realiza el pago del coche por medio del concesionario de FIAT PRO. Del concesionario que escogiste va a depender si se te paga el coche a través de un cheque o por medio de transferencia bancaria."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.fiatprofessional.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche con rapidez y simplicidad ✓ Tendrás un excelente precio ✓ Nada de papeleo ➝ ¡Si quieres saber más, entra aquí!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/FiatPro.Es/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiatprofessional_es/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/ProFiat"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos tu coche o tu camioneta",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche con rapidez y simplicidad ✓ Tendrás un excelente precio ✓ Nada de papeleo ➝ ¡Si quieres saber más, entra aquí!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.fiatprofessional.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche con rapidez y simplicidad ✓ Tendrás un excelente precio ✓ Nada de papeleo ➝ ¡Si quieres saber más, entra aquí!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.fiatprofessional.es/lp/compramos-tu-coche",
+    "medias_trouves": 9,
+    "blocs_detectes": 9,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/separator-breadcrumb.png",
+      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.fiatprofessional.es/build/img/fiat_pro/chevron-up-home.svg",
+      "6 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

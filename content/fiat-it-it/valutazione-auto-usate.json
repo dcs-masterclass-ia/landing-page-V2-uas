@@ -1,0 +1,226 @@
+{
+  "page_key": "fiat-it-it__lp-valutazione-auto-usate",
+  "brand": "fiat",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.fiat.it",
+  "slug": "/lp/valutazione-auto-usate",
+  "source_v1": "https://www.valutazioneusato.fiat.it/lp/valutazione-auto-usate",
+  "meta": {
+    "title": "Valutazione auto usate, potrete ottenere una stima gratuita | FIAT",
+    "description": "Permettiamo ai nostri clienti di valutare le loro auto usate attraverso il nostro servizio online gratuito di offerte di permuta",
+    "site_name": "Fiat IT",
+    "author": "Fiat IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Valutazione auto usate, potrete ottenere una stima gratuita qualsia la vostra macchina"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.fiat.it/"
+    },
+    {
+      "label": "Valutazione auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Valutazione auto usate, potrete ottenere una stima gratuita qualsia la vostra macchina",
+    "lead": "Permettiamo ai nostri clienti di valutare le loro auto usate attraverso il nostro servizio online gratuito di offerte di permuta",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "subnav": [
+    {
+      "label": "Scegliere di far valutar",
+      "anchor": "#scegliere-di-far-valutare-la-tua-auto-su"
+    },
+    {
+      "label": "I nostri semplici 3 pass",
+      "anchor": "#i-nostri-semplici-3-passi"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "scegliere-di-far-valutare-la-tua-auto-su",
+      "h2": "Scegliere di far valutare la tua auto su questo sito ti offre molti vantaggi, tra cui:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "• Una valutazione accurata e affidabile, basata sull'esperienza del nostro team di esperti nel settore delle auto usate; • Un processo semplice e veloce: bastano pochi clic per fornirci le informazioni necessarie alla valutazione della tua auto; • Nessun impegno: non sei obbligato a vendere la tua auto dopo averla valutata, ma se decidi di farlo, siamo qui per aiutarti a trovare il miglior acquirente e ottenere il prezzo più alto possibile."
+        },
+        {
+          "text": "1. Inserisci i dati della tua auto: per fornirci una valutazione accurata, avrai bisogno del libretto di circolazione del veicolo, del chilometraggio e dell'elenco dei difetti eventualmente presenti. 2. Ricevi la tua valutazione: una volta che avremo ricevuto tutte le informazioni necessarie, ti invieremo una stima gratuita del valore della tua auto. 3. Vendi la tua auto: se decidi di vendere la tua auto, siamo qui per aiutarti a trovare il miglior acquirente e ottenere il prezzo più alto possibile. Non perdere l'opportunità di scoprire quanto vale la tua auto e vendila al miglior prezzo grazie alla nostra valutazione auto usate online. Ottenere una stima del valore della tua auto usata non è mai stato così facile"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "i-nostri-semplici-3-passi",
+      "h2": "I nostri semplici 3 passi:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Compila il modulo con tutte le informazioni necessarie per la valutazione della tua auto usata. Ti servirà il libretto di circolazione per identificare il modello della tua auto, ma se non hai il libretto a portata di mano, puoi semplicemente rispondere ad alcune domande per aiutarci a identificare la tua auto: versione, anno di immatricolazione, carburante, potenza del motore. La compilazione richiederà meno di 5 minuti! Ricevi la stima online e via e-mail. Una volta compilate le informazioni richieste, analizziamo il mercato per fornirti il giusto prezzo per la tua auto. Riceverai la stima direttamente via e-mail, e non c'è alcun obbligo di continuare con il processo se non sei soddisfatto del prezzo proposto. Incontro faccia a faccia con un professionista della rete Fiat. Se decidi di continuare con il processo, sarai contattato dal concessionario Fiat per fissare un appuntamento e valutare il tuo veicolo di persona. Se sei soddisfatto della valutazione, il concessionario si occuperà della permuta del tuo veicolo senza alcun onere amministrativo per te!"
+        },
+        {
+          "text": "I vantaggi della nostra valutazione online auto usate includono la gratuità del servizio, una valutazione professionale e affidabile grazie alla nostra esperienza nel settore Fiat, un preventivo valido per 10 giorni e la comodità di poter ritirare il tuo veicolo ovunque in Italia grazie alla nostra vasta rete di punti vendita. Inoltre, riceverai il prezzo immediatamente, senza dover attendere."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Fiat?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Fiat scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Fiat valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        },
+        {
+          "text": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Fiat?"
+        },
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Fiat sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Fiat."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Fiat non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Fiat per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Fiat?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.fiat.it/"
+  },
+  "footer": {
+    "tagline": "Permettiamo ai nostri clienti di valutare le loro auto usate attraverso il nostro servizio online gratuito di offerte di permuta",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Fiat/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_it/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/c/fiatitalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate, potrete ottenere una stima gratuita",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Permettiamo ai nostri clienti di valutare le loro auto usate attraverso il nostro servizio online gratuito di offerte di permuta",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.fiat.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Permettiamo ai nostri clienti di valutare le loro auto usate attraverso il nostro servizio online gratuito di offerte di permuta",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.fiat.it/lp/valutazione-auto-usate",
+    "medias_trouves": 8,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/separator-breadcrumb.png",
+      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.fiat.it/build/img/fiat/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

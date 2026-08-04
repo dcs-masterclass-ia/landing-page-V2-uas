@@ -1,0 +1,245 @@
+{
+  "page_key": "opel-be-fr__reseau-opel",
+  "brand": "opel",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://www.reprise.opel.be",
+  "slug": "/reseau-opel",
+  "source_v1": "https://www.reprise.opel.be/reseau-opel",
+  "meta": {
+    "title": "Le réseau Opel Reprise",
+    "description": "Le réseau Opel Reprise",
+    "site_name": "Opel BE",
+    "author": "Opel BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Le réseau Opel"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "ACCUEIL",
+      "href": "https://www.reprise.opel.be/"
+    },
+    {
+      "label": "Le réseau Opel",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Le réseau Opel",
+    "lead": "Le réseau Opel Reprise",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "subnav": [
+    {
+      "label": "Comment ça marche ?",
+      "anchor": "#comment-ca-marche"
+    },
+    {
+      "label": "Comment prendre rendez-v",
+      "anchor": "#comment-prendre-rendez-vous"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "comment-ca-marche",
+      "h2": "Comment ça marche ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le réseau Opel participant est à votre entière disposition en vous proposant de reprendre votre voiture quelque soit la marque et le kilométrage de votre voiture. Selon vos besoins, le réseau Opel peut aussi vous proposer une voiture neuve ou une voiture d'Occasion."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/63/cc371799-01bd-4fec-b103-9f1daca98367",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-prendre-rendez-vous",
+      "h2": "Comment prendre rendez-vous ?",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Votre point de vente Opel ou un conseiller Opel Belgium vous contactera pour convenir d'un rendez-vous et finaliser les démarches pour la reprise de votre voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/63/bb074b4f-a9d3-465c-84d1-422d20f28f9d",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Opel",
+        "Aucun engagement de votre part",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/63/d6b9957b-be18-4abd-81ab-3ce9937fffe1",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une offre de reprise en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une reprise facile et rapide"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/63/20f1d263-ab7a-4db2-abf0-a28c0e921782",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance",
+        "Une transaction sécurisée et rapide",
+        "Une offre de reprise ajustée"
+      ],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "footer": {
+    "tagline": "Le réseau Opel Reprise",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Le réseau Opel Reprise",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Le réseau Opel Reprise",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.opel.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Le réseau Opel Reprise",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.opel.be/reseau-opel",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/150e4bf7-7ef7-42ab-97c0-18b4eb27d95a",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/cc371799-01bd-4fec-b103-9f1daca98367",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/bb074b4f-a9d3-465c-84d1-422d20f28f9d",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/d6b9957b-be18-4abd-81ab-3ce9937fffe1",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/63/20f1d263-ab7a-4db2-abf0-a28c0e921782",
+      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

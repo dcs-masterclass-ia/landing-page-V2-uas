@@ -1,0 +1,221 @@
+{
+  "page_key": "abarth-lu-fr__questions-frequentes",
+  "brand": "abarth",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.abarth.lu",
+  "slug": "/questions-frequentes",
+  "source_v1": "https://reprise.abarth.lu/questions-frequentes",
+  "meta": {
+    "title": "Abarth répond à vos questions | FAQ | Reprise Abarth BE",
+    "description": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
+    "site_name": "Abarth LU",
+    "author": "Abarth LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Foire aux questions"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.abarth.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.abarth.lu/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Foire aux questions",
+    "lead": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.abarth.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Accéder au contenu princ",
+      "anchor": "#acceder-au-contenu-principal"
+    },
+    {
+      "label": "JE N’AI PAS REÇU MON EST",
+      "anchor": "#je-nai-pas-recu-mon-estimation-par-email"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "acceder-au-contenu-principal",
+      "h2": "Accéder au contenu principal",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Abarth Reprise est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule. Si l’estimation transmise vous satisfait, nous vous invitons à prendre rendez-vous avec le concessionnaire Abarth que vous avez choisi pour obtenir une offre de reprise ferme. L’estimation est basée sur : Obtenez une estimation gratuite en ligne. Pour recevoir une estimation gratuite par email, vous renseignez les informations concernant votre véhicule. Prenez-rendez-vous. L’estimation vous convient ? Vous prenez-rendez-vous avec le concessionnaire Abarth que vous avez sélectionné. Profitez de l’expertise Abarth. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous nous engageons à reprendre votre véhicule. L’estimation de reprise proposée par Abarth est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts Abarth. Abarth Reprise est un service totalement gratuit pour vous. Si vous ne trouvez pas votre véhicule sur notre site, n’hésitez pas à nous contacter pour que nous puissions vous donner une estimation de reprise personnalisée. A noter, certains véhicules sont trop âgés ou trop peu répandus sur le marché pour pouvoir être estimés à leur juste valeur. Il se peut que certains fournisseurs d’adresses e-mail identifient à tort les emails de Abarth comme des spams. Dans ce cas, nous vous invitons à consulter votre dossier « Courrier indésirable / Spams » et à paramétrer votre boîte mails différemment. Si toutefois vous ne recevez pas votre email d’estimation, n’hésitez pas à nous contacter en laissant vos coordonnées pour que nous puissions vous transmettre votre estimation de reprise. Rien de plus simple. Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Abarth. Soit ce dernier vous contacte, soit libre à vous de l’appeler pour convenir d’un rendez-vous. Lors de votre rendez-vous en concession, il est souhaitable que vous veniez avec votre véhicule, muni des documents suivants : Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Abarth. Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire. Si vous n’avez pas trouvé la réponse à votre question, n’hésitez pas à nous contacter."
+        },
+        {
+          "text": "COMMENT VENDRE MA VOITURE ?"
+        },
+        {
+          "text": "COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
+        },
+        {
+          "text": "COMMENT FONCTIONNE LA REPRISE PAR ABARTH ?"
+        },
+        {
+          "text": "QUELS SONT LES AVANTAGES À UTILISER LE SERVICE DE REPRISE ABARTH ?"
+        },
+        {
+          "text": "A QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
+        },
+        {
+          "text": "EST-CE QUE CE SERVICE EST PAYANT ?"
+        }
+      ],
+      "bullets": [
+        "Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation.",
+        "Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents.",
+        "Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l’état réel du véhicule.",
+        "Rapidité. En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement. Sérénité",
+        "Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Abarth vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes.",
+        "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Abarth."
+      ],
+      "image": "https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "je-nai-pas-recu-mon-estimation-par-email",
+      "h2": "JE N’AI PAS REÇU MON ESTIMATION PAR EMAIL",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "COMMENT FAIRE POUR PRENDRE UN RENDEZ-VOUS ?"
+        },
+        {
+          "text": "QUELS SONT LES DOCUMENTS À APPORTER LORS DU RENDEZ-VOUS ?"
+        },
+        {
+          "text": "COMMENT SERAI-JE PAYÉ ?"
+        },
+        {
+          "text": "COMMENT CONTACTER REPRISE ABARTH ?"
+        }
+      ],
+      "bullets": [
+        "Le certificat d'immatriculation de votre voiture",
+        "Une pièce d’identité (permis de conduire, carte d’identité ou passeport)",
+        "Un justificatif de domicile (facture de téléphone ou d’électricité datant de moins de 3 mois)",
+        "Un RIB (Relevé d’Identité Bancaire)",
+        "Le carnet d’entretien et les factures d’entretien et de réparation de toutes les réparations effectuées sur cette voiture",
+        "Les 2 jeux de clés de votre voiture ainsi que le code de sécurité pour en obtenir de nouvelles",
+        "Le cas échéant, la clé des écrous antivol de vos roues"
+      ],
+      "image": "https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.abarth.lu/"
+  },
+  "footer": {
+    "tagline": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.belgium/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/teamAbarth"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/Abarth_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamAbarth"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Abarth répond à vos questions",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.abarth.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Abarth répond à toutes vos questions concernant la vente ou la reprise d'une voiture, , quelle que soit sa marque. Recevez une estimation gratuite en ligne.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.abarth.lu/questions-frequentes",
+    "medias_trouves": 4,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.abarth.lu/build/img/abarth/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

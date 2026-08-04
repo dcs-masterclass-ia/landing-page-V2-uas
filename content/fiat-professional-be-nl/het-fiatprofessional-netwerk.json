@@ -1,0 +1,251 @@
+{
+  "page_key": "fiat-professional-be-nl__het-fiatprofessional-netwerk",
+  "brand": "fiat-professional",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.fiatprofessional.com",
+  "slug": "/het-fiatprofessional-netwerk",
+  "source_v1": "https://overname.fiatprofessional.com/het-fiatprofessional-netwerk",
+  "meta": {
+    "title": "Geniet van professioneel advies | Overname Fiat Professional BE",
+    "description": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "site_name": "Fiat Professional BE",
+    "author": "Fiat Professional BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Fiat Professional netwerk"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.fiatprofessional.com/"
+    },
+    {
+      "label": "Fiat Professional Verdelers",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Fiat Professional netwerk",
+    "lead": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "subnav": [
+    {
+      "label": "Het Fiat Professional ne",
+      "anchor": "#het-fiat-professional-netwerk"
+    },
+    {
+      "label": "Hoe maakt je een afspraa",
+      "anchor": "#hoe-maakt-je-een-afspraak"
+    },
+    {
+      "label": "Gemoedsrust",
+      "anchor": "#gemoedsrust"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "het-fiat-professional-netwerk",
+      "h2": "Het Fiat Professional netwerk",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Het deelnemende Fiat Professional-net staat voor je klaar om een voorstel tot overname van je wagen te doen, ongeacht het merk en de kilometerstand. Afhankelijk van je behoeften kan het Fiat Professional-net je ook een nieuwe wagen of een tweedehandswagen aanbieden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/056df585-d115-4d75-88a2-47326b7ec1e5",
+      "image_alt": "Twee mensen geven elkaar een handdruk",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-maakt-je-een-afspraak",
+      "h2": "Hoe maakt je een afspraak?",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Je Fiat Professional adviseur of Fiat Professional Verdeler neemt contact met je op om een afspraak te maken en de procedure voor overname van je wagen af te ronden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "gemoedsrust",
+      "h2": "Gemoedsrust",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een overnameaanbod in enkele minuten"
+        },
+        {
+          "text": "Geen engagement van jou"
+        },
+        {
+          "text": "Minder administratieve formaliteiten"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/6c3617ce-dc46-49d4-9694-4702d246aef9",
+      "image_alt": "Een elektrische bestelwagen laadt op voor een café",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kies je verkooppunt"
+        },
+        {
+          "text": "Een vlotte en snelle overname"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/142/e6cd5123-5c39-4b58-9de0-756ca24b56dd",
+      "image_alt": "Een hand in witte handschoen presenteert een autosleutel",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een betrouwbare professional"
+        },
+        {
+          "text": "Een veilige en snelle transactie"
+        },
+        {
+          "text": "Een aangepast overnameaanbod"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.fiatprofessional.com/"
+  },
+  "footer": {
+    "tagline": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiatprofessional/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiatprofessional/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Geniet van professioneel advies",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.fiatprofessional.com",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Het Fiat Professional-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.fiatprofessional.com/het-fiatprofessional-netwerk",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/content-serenity.jpg",
+      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

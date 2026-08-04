@@ -1,0 +1,258 @@
+{
+  "page_key": "abarth-es-es__la-red-abarth",
+  "brand": "abarth",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.abarth.es",
+  "slug": "/la-red-abarth",
+  "source_v1": "https://tasacion.abarth.es/la-red-abarth",
+  "meta": {
+    "title": "La red Abarth | Tasación Abarth ES",
+    "description": "La red Abarth está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
+    "site_name": "Abarth ES",
+    "author": "Abarth ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasación en ABARTH"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.abarth.es/"
+    },
+    {
+      "label": "La red Abarth",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasación en ABARTH",
+    "lead": "La red Abarth está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "subnav": [
+    {
+      "label": "Abarth te escucha",
+      "anchor": "#abarth-te-escucha"
+    },
+    {
+      "label": "Contacto y cita con un e",
+      "anchor": "#contacto-y-cita-con-un-experto-abarth"
+    },
+    {
+      "label": "Serenidad",
+      "anchor": "#serenidad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    },
+    {
+      "label": "Seguridad",
+      "anchor": "#seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "abarth-te-escucha",
+      "h2": "Abarth te escucha",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La red Abarth está a tu disposición ofreciéndote la recogida de tu vehículo usado. Dependiendo de tu proyecto, tu distribuidor también puede ofrecerte la compra de un vehículo nuevo o usado, dadas las ofertas de permuta disponibles."
+        },
+        {
+          "text": "¿Por qué elegir Tasación Abarth?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/b59c1b34-27e3-455b-a168-817b5921575c",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "contacto-y-cita-con-un-experto-abarth",
+      "h2": "Contacto y cita con un experto Abarth",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Rellena tus datos y selecciona el distribuidor Abarth de tu preferencia. Se pondrá en contacto contigo para concertar una cita con el fin de para darte una tasación final de tu vehículo en tu presencia y los pasos para la venta de tu vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/58d341d8-c855-4e2a-868c-835f33550f35",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenidad",
+      "h2": "Serenidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Una oferta de tasación en solo unos minutos"
+        },
+        {
+          "text": "Sin compromiso"
+        },
+        {
+          "text": "De manera ágil y sencilla"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Elige un punto de venta"
+        },
+        {
+          "text": "Una tasación fácil y rápida en Abarth"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Profesionales de confianza en la red Abarth"
+        },
+        {
+          "text": "Una transación rápida y segura"
+        },
+        {
+          "text": "Oferta competitiva"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "footer": {
+    "tagline": "La red Abarth está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Spain"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarthspain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "La red Abarth",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "La red Abarth está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.abarth.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "La red Abarth está a tu disposición para tasar y recuperar tu vehículo. Responderá a todas tus preguntas.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.abarth.es/la-red-abarth",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/43465ee2-a604-4af8-bcf8-3299f1f5cdab",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/abd5582b-b5d3-44aa-9741-01778da9ec9c",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/b59c1b34-27e3-455b-a168-817b5921575c",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/58d341d8-c855-4e2a-868c-835f33550f35",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/a084f540-8858-4e38-8b21-68e84deb759e",
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

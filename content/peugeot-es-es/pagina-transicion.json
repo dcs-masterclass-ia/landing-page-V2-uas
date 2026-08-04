@@ -1,0 +1,194 @@
+{
+  "page_key": "peugeot-es-es__pagina-transicion",
+  "brand": "peugeot",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.peugeot.es",
+  "slug": "/pagina-transicion",
+  "source_v1": "https://tasacion.peugeot.es/pagina-transicion",
+  "meta": {
+    "title": "Tasar tu coche gratuito y rápido | Tasación Peugeot",
+    "description": "Tasación inmediata de tu coche, sea cual sea su marca, con la Tasación Peugeot. Tasación gratuita online.",
+    "site_name": "Peugeot ES",
+    "author": "Peugeot ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Valoramos tu coche sea cual sea tu marca"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "href": "https://tasacion.peugeot.es"
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Valoramos tu coche sea cual sea tu marca",
+    "lead": "Tasación inmediata de tu coche, sea cual sea su marca, con la Tasación Peugeot. Tasación gratuita online.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "subnav": [
+    {
+      "label": "Una alternativa que te e",
+      "anchor": "#una-alternativa-que-te-evitara-sorpresas"
+    },
+    {
+      "label": "La tasación del coche se",
+      "anchor": "#la-tasacion-del-coche-se-estima-en-euros"
+    },
+    {
+      "label": "Nuestros expertos te esc",
+      "anchor": "#nuestros-expertos-te-escuchan"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "una-alternativa-que-te-evitara-sorpresas",
+      "h2": "Una alternativa que te evitará sorpresas CUANDO QUIERAS CONOCER EL VALOR DE TU COCHE",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La tasación del coche se estima en euros IVA incluido en base a las observaciones del mercado, transacciones recientes y la información facilitada sobre el estado de su vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "la-tasacion-del-coche-se-estima-en-euros",
+      "h2": "La tasación del coche se estima en euros, IVA incluido",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La valoración remitida es orientativa y estará supeditada a la peritación física y prueba dinámica del vehículo por parte del Concesionario, y particularmente a la existencia o no de daños y/o desgastes que impliquen una minoración de la tasación, así como la exactitud de los datos facilitados y válido únicamente si el vehículo no posee cargas."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "nuestros-expertos-te-escuchan",
+      "h2": "Nuestros expertos te escuchan",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La Red de Concesionarios Peugeot está a tu disposición y te propone la recompra de tu coche, sin importar la marca o el kilometraje"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "footer": {
+    "tagline": "Tasación inmediata de tu coche, sea cual sea su marca, con la Tasación Peugeot. Tasación gratuita online.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotEspana"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/PeugeotEs"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeotes/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotES"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar tu coche gratuito y rápido",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Tasación inmediata de tu coche, sea cual sea su marca, con la Tasación Peugeot. Tasación gratuita online.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.peugeot.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Tasación inmediata de tu coche, sea cual sea su marca, con la Tasación Peugeot. Tasación gratuita online.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.peugeot.es/",
+    "medias_trouves": 7,
+    "blocs_detectes": 3,
+    "notes": [
+      "fil d'Ariane introuvable",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/21/efdfa503-fb91-487c-8043-0cefca505220",
+      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

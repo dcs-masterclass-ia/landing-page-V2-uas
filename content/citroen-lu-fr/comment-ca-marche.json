@@ -1,0 +1,183 @@
+{
+  "page_key": "citroen-lu-fr__comment-ca-marche",
+  "brand": "citroen",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.citroen.lu",
+  "slug": "/comment-ca-marche",
+  "source_v1": "https://reprise.citroen.lu/comment-ca-marche",
+  "meta": {
+    "title": "Comment ça marche ? | Reprise Citroën",
+    "description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
+    "site_name": "Citroen LU",
+    "author": "Citroen LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "MODALITÉS DE REPRISE AUTO"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.citroen.lu/"
+    },
+    {
+      "label": "Comment ça marche ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "MODALITÉS DE REPRISE AUTO",
+    "lead": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Evitez les mauvaises surprises et débarrassez-vous des démarches administratives. En sollicitant le service de Reprise CITROËN votre véhicule est évalué sur la base d’observations du marché et des transactions récentes, par un professionnel de l’automobile."
+        },
+        {
+          "text": "Renseignez les détails et l’état de votre véhicule, et recevez immédiatement une estimation de reprise par e mail."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Une fois la transaction conclue, votre reprise auto est réglée par chèque ou virement bancaire sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "footer": {
+    "tagline": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.BeLux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenbelux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenbelux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenbelux"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Comment ça marche ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.citroen.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Citroën pour la reprise de votre voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.citroen.lu/comment-ca-marche",
+    "medias_trouves": 5,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

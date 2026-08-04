@@ -1,0 +1,256 @@
+{
+  "page_key": "peugeot-fr-fr__lp-voiture-electrique",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/lp/voiture-electrique",
+  "source_v1": "https://www.reprise.peugeot.fr/lp/voiture-electrique",
+  "meta": {
+    "title": "Reprise de votre voiture électrique d'occasion | Reprise Peugeot",
+    "description": "Vous avez une voiture électrique et vous cherchez à revendre ? Reprise Peugeot est là pour vous !",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre voiture électrique"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre voiture électrique",
+    "lead": "Vous avez une voiture électrique et vous cherchez à revendre ? Reprise Peugeot est là pour vous !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Une voiture électrique à",
+      "anchor": "#une-voiture-electrique-a-reprendre-rien-"
+    },
+    {
+      "label": "Le fonctionnement Repris",
+      "anchor": "#le-fonctionnement-reprise-peugeot"
+    },
+    {
+      "label": "SÉRÉNITÉ",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "RAPIDITÉ",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "SÉCURITÉ",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "une-voiture-electrique-a-reprendre-rien-",
+      "h2": "Une voiture électrique à reprendre ? Rien de plus simple !",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous souhaitez faire reprendre votre voiture électrique d'occasion ? Reprise Peugeot, service de reprise de voitures d'occasion, vous permettra de faire Pour vous et la reprise de votre voiture électrique, c'est simple : vous gagnez du temps en optant pour un interlocuteur unique, et vous revendez à prix optimisé avec la garantie d'un paiement rapide et sécurisé."
+        },
+        {
+          "text": "une reprise simple et sûre de votre voiture électrique."
+        },
+        {
+          "text": "Avec Reprise Peugeot, la reprise de votre électrique s'effectue dans les mêmes conditions de simplicité et d'efficacité que pour un modèle thermique : vous accédez en un clic à notre questionnaire, vous le remplissez jusqu'au bout et vous êtes libre de donner suite ou pas à notre première offre de reprise. Un examen approfondi du véhicule en point de vente, gratuit et sans engagement, confirme ensuite ou modifie l'estimation initiale. En cas d'accord mutuel, la vente est immédiatement finalisée et votre repreneur Peugeot se charge de toutes les formalités."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "le-fonctionnement-reprise-peugeot",
+      "h2": "Le fonctionnement Reprise Peugeot",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous envisagez une reprise de voiture électrique en vue d'un renouvellement de véhicule du même type ? Votre concessionnaire Peugeot est à votre disposition pour vous présenter les derniers modèles Peugeot 100% électrique, neufs ou d'occasion. L'ensemble de la gamme électrique mise sur des choix technologiques et économiques affirmés, dont notamment la polyvalence des options de recharge et la batterie incluse dans le prix de vente :"
+        },
+        {
+          "text": "La nouvelle e-208 propose une vivacité et un plaisir de conduite stimulant grâce à sa motorisation 100% électrique et offre jusqu'à 340 km d'autonomie."
+        },
+        {
+          "text": "La i On se faufile partout en ville avec son gabarit mini ce qui ne l'empêche pas d'offrir 5 portes pour un confort appréciable."
+        },
+        {
+          "text": "Le e-Partner incarne une alternative écologique et économique à l'usage en matière d'utilitaires."
+        },
+        {
+          "text": "Le ludospace e-Partner Tepee, promènera votre famille au gré de vos envies."
+        },
+        {
+          "text": "Reprise de voiture électrique d'occasion en quelques minutes !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "SÉRÉNITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Peugeot",
+        "Une estimation sans engagement",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "RAPIDITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une estimation en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une reprise facile de votre voiture électrique"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "SÉCURITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance",
+        "Une transaction sécurisée et rapide",
+        "Une estimation ajustée et sûre"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Vous avez une voiture électrique et vous cherchez à revendre ? Reprise Peugeot est là pour vous !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise de votre voiture électrique d'occasion",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous avez une voiture électrique et vous cherchez à revendre ? Reprise Peugeot est là pour vous !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous avez une voiture électrique et vous cherchez à revendre ? Reprise Peugeot est là pour vous !",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/lp/voiture-electrique",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

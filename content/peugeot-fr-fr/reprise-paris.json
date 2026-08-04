@@ -1,0 +1,275 @@
+{
+  "page_key": "peugeot-fr-fr__lp-reprise-paris",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/lp/reprise-paris",
+  "source_v1": "https://www.reprise.peugeot.fr/lp/reprise-paris",
+  "meta": {
+    "title": "Reprise voiture à Paris et Île-de-France",
+    "description": "Reprise de votre voiture par un concessionnaire agréé Peugeot à Paris ou en Ile de France. Estimation gratuite en ligne sans engagement.",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre voiture à Paris et en Île-de-France"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre voiture à Paris et en Île-de-France",
+    "lead": "Reprise de votre voiture par un concessionnaire agréé Peugeot à Paris ou en Ile de France. Estimation gratuite en ligne sans engagement.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "Une reprise facile et sû",
+      "anchor": "#une-reprise-facile-et-sure-de-votre-voit"
+    },
+    {
+      "label": "> La Marque Peugeot",
+      "anchor": "#la-marque-peugeot"
+    },
+    {
+      "label": "Un large réseau de conce",
+      "anchor": "#un-large-reseau-de-concessions-a-paris-e"
+    },
+    {
+      "label": "SÉRÉNITÉ",
+      "anchor": "#serenite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La reprise d'une voiture d'occasion sur Paris ou en Ile-de-France fait partie de ces opérations qu'on ne peut pas se permettre d'aborder à la légère, sous peine parfois d'interminables démarches et autres tracasseries, voire de cuisantes désillusions malgré votre investissement en temps et en énergie. Entre autres corvées, combien vous faudra-t-il endurer de déplacements dans les bouchons de Paris pour présenter votre voiture et la faire essayer ? En choisissant Reprise Peugeot, vous avez l'avantage de solliciter un partenaire parfaitement au fait du marché de l'occasion à Paris et sa région, toutes marques confondues. A la fin du questionnaire sur votre voiture, , afin d'organiser un rendez-vous. Vous n'aurez à déplacer votre véhicule qu'une fois, pour un bilan physique dans un garage parisien Peugeot, cela uniquement si l'offre initiale de reprise de votre voiture d'occasion sur Paris vous a convaincu. La densité du réseau Peugeot à Paris et en Île-de-France vous garantit la disponibilité d'un concessionnaire ou d'un agent, quels que soient vos impératifs de localisation ou autres critères. Cette première offre, vous pouvez la consulter partout et à tout moment sur votre smartphone, votre tablette ou votre ordinateur. Elle vous parvient par courrier électronique, dans les 24 heures ouvrables qui suivent la validation de notre questionnaire, accessible d'un clic, sur lequel vous aurez renseigné toutes les informations indispensables à l'estimation de votre automobile d'occasion."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "une-reprise-facile-et-sure-de-votre-voit",
+      "h2": "Une reprise facile et sûre de votre voiture à Paris",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "nous vous proposerons les concessions de Paris et d'Île-de-France les plus proches de chez vous"
+        },
+        {
+          "text": "La démarche est très simple et entièrement gratuite, et elle ne vous engage à rien."
+        },
+        {
+          "text": "> Pourquoi Reprise Peugeot ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "la-marque-peugeot",
+      "h2": "> La Marque Peugeot",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pour faire reprendre votre voiture sur Paris, vous n'avez à première vue que l'embarras du choix : les structures de reprise de voiture d'occasion ne manquent pas à l'appel à Paris, et vous pouvez par ailleurs chercher votre repreneur parmi la multitude d'acheteurs potentiels en quête d'une vente de particulier à particulier. Oui, mais à Paris, quel partenaire choisir pour une transaction auto sécurisée, en toute confiance ? Avec Reprise Peugeot, une reprise de voiture à Paris ou en Île-de-France commence par quelques clics. La première cote que vous recevez par mail est établie selon des critères qui s'inscrivent totalement dans la réalité du marché automobile d'occasion, grâce à l'expertise de terrain que permet l'ampleur du réseau Peugeot à Paris et ses alentours. Enfin, le bilan technique ultérieur, dressé gratuitement par le garage choisi sur Paris ou en Île-de-France, vous assure une offre définitive fondée sur l'état effectif de votre véhicule d'occasion. Si elle vous satisfait, votre agent ou concessionnaire Peugeot s'occupera de toutes les formalités administratives. Il vous restera seulement à réceptionner votre règlement rapide et sécurisé, par chèque ou par virement. Une reprise facile à Paris de votre auto d'occasion !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "un-large-reseau-de-concessions-a-paris-e",
+      "h2": "Un large réseau de concessions à Paris et en Île-de-France",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Un savoir-faire qui vous garantit une évaluation réaliste de votre voiture pour une vente conforme au marché de Paris."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "SÉRÉNITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Peugeot de Paris",
+        "Aucun engagement de votre part",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "RAPIDITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une offre de reprise en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une reprise facile et rapide à Paris"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "SÉCURITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance à Paris",
+        "Une transaction sécurisée et rapide",
+        "Une offre de reprise ajustée"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Reprise de votre voiture par un concessionnaire agréé Peugeot à Paris ou en Ile de France. Estimation gratuite en ligne sans engagement.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise voiture à Paris et Île-de-France",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise de votre voiture par un concessionnaire agréé Peugeot à Paris ou en Ile de France. Estimation gratuite en ligne sans engagement.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Reprise de votre voiture par un concessionnaire agréé Peugeot à Paris ou en Ile de France. Estimation gratuite en ligne sans engagement.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/lp/reprise-paris",
+    "medias_trouves": 8,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

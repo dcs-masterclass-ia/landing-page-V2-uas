@@ -1,0 +1,239 @@
+{
+  "page_key": "alfa-romeo-de-de__kostenlose-bewertung",
+  "brand": "alfa-romeo",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://autoankauf.alfaromeo.de",
+  "slug": "/kostenlose-bewertung",
+  "source_v1": "https://autoankauf.alfaromeo.de/kostenlose-bewertung",
+  "meta": {
+    "title": "Auto bewerten lassen bei ALFA ROMEO - online & kostenlos.",
+    "description": "Mit der professionellen Auto-Bewertung von ALFA ROMEO erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
+    "site_name": "Alfa Romeo DE",
+    "author": "Alfa Romeo DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Wie funktioniert das?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://autoankauf.alfaromeo.de/"
+    },
+    {
+      "label": "Kostenlose Bewertung",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Wie funktioniert das?",
+    "lead": "Mit der professionellen Auto-Bewertung von ALFA ROMEO erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "subnav": [
+    {
+      "label": "Erhalten Sie ein Inzahlu",
+      "anchor": "#erhalten-sie-ein-inzahlungnahmeangebot-i"
+    },
+    {
+      "label": "Berechnung des Eintausch",
+      "anchor": "#berechnung-des-eintauschwerts"
+    },
+    {
+      "label": "Gelassenheit",
+      "anchor": "#gelassenheit"
+    },
+    {
+      "label": "Schnelligkeit",
+      "anchor": "#schnelligkeit"
+    },
+    {
+      "label": "Sicherheit",
+      "anchor": "#sicherheit"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "erhalten-sie-ein-inzahlungnahmeangebot-i",
+      "h2": "Erhalten Sie ein Inzahlungnahmeangebot in 6 Schritten:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Geben Sie die Daten des in Zahlung zu nehmenden Autos ein. 2 - Erhalten Sie ein Angebot für die Inzahlungnahme Ihres Autos. 3 - Der Händler Ihrer Wahl kontaktiert Sie, um einen Termin zu vereinbaren. 4 - Ein Alfa Romeo Experte prüft in Ihrem Beisein den Zustand Ihres Autos. 5 - Nach Ihrer Zustimmung verpflichten wir uns zu einer sofortigen Rücknahme.6 - Die Zahlung erfolgt sofort, garantiert und sicher."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/220/9f5ff2e6-4905-49d9-b5ac-7b89197f728b",
+      "image_alt": "alfa romeo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "berechnung-des-eintauschwerts",
+      "h2": "Berechnung des Eintauschwerts:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Der Ankaufswert wird in Euro inkl. Mw St. geschätzt, auf der Grundlage des Marktpreises, der jüngsten Transaktionen und der Informationen, die Sie über den Zustand und die Optionen Ihres Autos gegeben haben. Anhand dieser Informationen können wir Ihnen ein Inzahlungnahmeangebot machen (der Schätzwert ist nur ein Richtwert). Sie werden dann von einem Alfa Romeo Händler kontaktiert, der auch ein Gutachten über Ihr Auto erstellt, um die Transaktion abzuschließen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/220/1aa9b9fc-a75e-4921-9af7-03de990c0b7c",
+      "image_alt": "alfa romeo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "gelassenheit",
+      "h2": "Gelassenheit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "ALFA ROMEO bietet Ihnen eine Alternative, um unangenehme Überraschungen und Behördengänge zu vermeiden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "schnelligkeit",
+      "h2": "Schnelligkeit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "In nur wenigen Klicks geben Sie die Daten Ihres Fahrzeugs ein und erhalten sofort eine Wertschätzung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sicherheit",
+      "h2": "Sicherheit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Passt unser Rücknahmeangebot zu Ihnen? Dann vereinbaren Sie einen Termin mit dem ALFA ROMEO-Händler Ihrer Wahl."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "footer": {
+    "tagline": "Mit der professionellen Auto-Bewertung von ALFA ROMEO erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/AlfaRomeoDeutschland"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfa_romeo_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/AlfaRomeoDE"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/alfa-romeo/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto bewerten lassen bei ALFA ROMEO - online & kostenlos.",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Mit der professionellen Auto-Bewertung von ALFA ROMEO erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://autoankauf.alfaromeo.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Mit der professionellen Auto-Bewertung von ALFA ROMEO erfahren Sie kostenlos und direkt online den möglichen Wert Ihres alten Autos - egal, von welcher Marke",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://autoankauf.alfaromeo.de/kostenlose-bewertung",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

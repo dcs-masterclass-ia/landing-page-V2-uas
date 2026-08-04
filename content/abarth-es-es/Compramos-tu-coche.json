@@ -1,0 +1,339 @@
+{
+  "page_key": "abarth-es-es__lp-Compramos-tu-coche",
+  "brand": "abarth",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.abarth.es",
+  "slug": "/lp/Compramos-tu-coche",
+  "source_v1": "https://tasacion.abarth.es/lp/Compramos-tu-coche",
+  "meta": {
+    "title": "Compramos tu coche con pago seguro | ABARTH",
+    "description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "site_name": "Abarth ES",
+    "author": "Abarth ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche con pago seguro y en 24 horas"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.abarth.es/ "
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche con pago seguro y en 24 horas",
+    "lead": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "subnav": [
+    {
+      "label": "İCon ayuda de la Red Tas",
+      "anchor": "#icon-ayuda-de-la-red-tasacion-abarth"
+    },
+    {
+      "label": "Compramos tu coche sin m",
+      "anchor": "#compramos-tu-coche-sin-mucha-complicacio"
+    },
+    {
+      "label": "no más de 5 min",
+      "anchor": "#no-mas-de-5-min"
+    },
+    {
+      "label": "Compramos tu coche de fo",
+      "anchor": "#compramos-tu-coche-de-forma-profesional"
+    },
+    {
+      "label": "Apoyamos en los procesos",
+      "anchor": "#apoyamos-en-los-procesos-administrativos"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "icon-ayuda-de-la-red-tasacion-abarth",
+      "h2": "İCon ayuda de la Red Tasación Abarth,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡No habrá ninguna sorpresa desagradable!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-mucha-complicacio",
+      "h2": "Compramos tu coche sin mucha complicación",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Para que haya precisión en la tasación del coche, requerimos los datos generales. De esta forma, se llenará un cuestionario fácil y rápido en . Al llenar los datos, se hace análisis del mercado y damos el precio justo que aparece cuando acabas el cuestionario. Dicha tasación se te envía igualmente por correo electrónico. La tasación no te compromete en nada, ¡La decisión de seguir en el proceso o no, es tuya!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "no-mas-de-5-min",
+      "h2": "no más de 5 min",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Etapa 2: La tasación del coche la recibirás directamente online y por correo electrónico"
+        },
+        {
+          "text": "De esta manera se envía un cuestionario sencillo y fácil de llenar: • , debes identificar tu coche: Con la matriculación, identificamos el coche que pretendes tasar, y con eso vas a ganar tiempo. Si no te recuerda tu registro, ¡no hay ningún problema! Solo debes contestar unas preguntas y así, identificamos tu coche: Versión, año de matrícula, combustible, etc. • , debes llenar los datos básicos: Kilometraje, color, versión, etc. El concesionario Abarth que tú hayas escogido, te va a contactar para llevar a cabo una cita en concesión. Allí, se realizará una revisión total de tu coche y luego se te va a hacer una propuesta final sobre el mismo. Si te sientes contento con el precio que se te dio, de inmediato, tu coche será comprado, y lo mejor es que sin procesos administrativos. ¡Lo haremos todo por ti!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-de-forma-profesional",
+      "h2": "Compramos tu coche de forma profesional",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es muy simple!"
+        },
+        {
+          "text": "¡Tendrás con solo dar unos clics, una evaluación de tu coche!"
+        },
+        {
+          "text": "Se te dará una oferta de recuperación inmediatamente."
+        },
+        {
+          "text": "¿Estás de acuerdo con la oferta de recuperación? Tu coche será comprado en unas 24h"
+        },
+        {
+          "text": "¡Todo es seguro!"
+        },
+        {
+          "text": "No más sorpresas malas, ni tampoco trámites administrativos pues con la Red Abarth, ¡Haremos todo fácil para ti!"
+        },
+        {
+          "text": "Un experto de Abarth valorará tu coche al estar tú allí."
+        },
+        {
+          "text": "Al llegar a un acuerdo, garantizamos recuperación inmediata."
+        },
+        {
+          "text": "Los pagos son seguros, garantizados y con inmediatez."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "apoyamos-en-los-procesos-administrativos",
+      "h2": "Apoyamos en los procesos administrativos",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡En 5 min sabrás en cuanto se valora tu carro!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-preguntas-muy-frecuen",
+      "h2": "Compramos tu coche: Preguntas muy frecuentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cómo es el proceso de venta del coche?"
+        },
+        {
+          "text": "Tasación Abarth da servicio online, que te brinda una tasación gratuita para tu coche. Si buscas una tasación, solo llenas la información de tu coche en el cuestionario que se te brinda. Debes dar por ejemplo, su modelo, el kilometraje, el motor, la versión, etc. Después de eso, recibirás una tasación del coche cuando finalices el cuestionario. Solo tarda 5 minutos para que tengas una tasación para tu vehículo, igual la vas a tener por correo electrónico. El concesionario Abarth que tu llegues a escoger va a llamar para concertar una cita y para la recuperación del coche. Igual puedes optar por: Si no te parece la oferta final, no tienes obligación de vender."
+        },
+        {
+          "text": "2. ¿Cómo calculan el precio de adquisición de mi coche?"
+        },
+        {
+          "text": "La tasación se toma así: Su versión, el kilometraje, la marca, el motor, su fecha de matriculación y el modelo. Las transacciones hechas recientemente por los profesionales de otros modelos similares. . Las tarifas se deducen tomando en cuenta la condición que presenta el coche en este momento."
+        },
+        {
+          "text": "Datos generales del coche:"
+        },
+        {
+          "text": "Investigación de mercado:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "deduccion-estandar-por-los-costos-de-la-",
+      "h2": "Deducción estándar por los costos de la recuperación",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Las cualidades del coche:"
+        },
+        {
+          "text": "Exploración del mercado:"
+        },
+        {
+          "text": "Se deducen costos básicos de recuperación:"
+        },
+        {
+          "text": "3. ¿Cómo funciona una tasación por un abarth?"
+        },
+        {
+          "text": "Es en línea y es gratis: Es totalmente en linea, allí llenas el cuestionario con la información del coche. En no más de 5 mn, la tasación para tu coche está lista, será entregada y enviada por correo electrónico. Realiza la cita: Una vez que has completado el formulario, tu distribuidor, al cual elegiste, te contacta en no más de 24 horas. ¿Te parece bien la tasación? Entonces realiza una cita en el concesionario para que recuperes el coche. Toma en cuenta y disfruta la experiencia Abarth: En medio de la cita, uno de nuestros expertos va a revisar el estado del coche en frente tuyo y allí mismo te da un precio de recuperación. Luego de hacer la confirmación del acuerdo, nosotros compramos tu coche."
+        },
+        {
+          "text": "4. ¿Cómo se hace la cita?"
+        },
+        {
+          "text": "Es bien fácil. Al solicitar tasación en línea, eliges un punto de venta Abarth dando la dirección postal que tu prefieras. Tu concesionario Abarth te llamará en unas 24 horas para que organicen la cita. También puedes llamarlo tú, usando los datos de contacto que salen en la tasación. Así vas a tener una oferta a lo inmediato y en base a la valoración del coche y su precio en el mercado."
+        },
+        {
+          "text": "5. ¿Cómo me van a hacer el pago?"
+        },
+        {
+          "text": "A través de la red Abarth, te garantizas un pago no sólo ágil sino que seguro, nada de sorpresas molestas. Al hacer la transacción, el pago del coche lo lleva a cabo un concesionario Abarth. Dependiendo del concesionario que tu hayas elegido, el pago del coche se realiza por medio de un cheque o transacciones en bancos."
+        }
+      ],
+      "bullets": [
+        "Versión, fecha de matriculación, motor, modelo, kilometraje y marca.",
+        "Se toman en cuenta las transacciones recientes hechas por profesionales sobre los modelos parecidos al tuyo.",
+        "Las tarifas cambian en dependencia de la condición que el coche tenga en ese momento."
+      ],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Spain"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarthspain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos tu coche con pago seguro",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.abarth.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.abarth.es/lp/Compramos-tu-coche",
+    "medias_trouves": 8,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

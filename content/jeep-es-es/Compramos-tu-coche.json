@@ -1,0 +1,358 @@
+{
+  "page_key": "jeep-es-es__lp-Compramos-tu-coche",
+  "brand": "jeep",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.jeep.es",
+  "slug": "/lp/Compramos-tu-coche",
+  "source_v1": "https://tasacion.jeep.es/lp/Compramos-tu-coche",
+  "meta": {
+    "title": "Compramos tu coche en solamente 24 horas | JEEP",
+    "description": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "site_name": "Jeep ES",
+    "author": "Jeep ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche en solamente 24 horas - Pago asegurado"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.jeep.es/"
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche en solamente 24 horas - Pago asegurado",
+    "lead": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "subnav": [
+    {
+      "label": "Al tener la Red Tasación",
+      "anchor": "#al-tener-la-red-tasacion-jeep"
+    },
+    {
+      "label": "Compramos tu coche sin q",
+      "anchor": "#compramos-tu-coche-sin-que-te-compliques"
+    },
+    {
+      "label": "solo 5 mn",
+      "anchor": "#solo-5-mn"
+    },
+    {
+      "label": "¡Tu escoges si sigues co",
+      "anchor": "#tu-escoges-si-sigues-con"
+    },
+    {
+      "label": "Compramos tu coche con m",
+      "anchor": "#compramos-tu-coche-con-mucho-profesional"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "al-tener-la-red-tasacion-jeep",
+      "h2": "Al tener la Red Tasación Jeep,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "te aseguras un proceso sin sorpresas!"
+        },
+        {
+          "text": "La tasación es y también , además es ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-que-te-compliques",
+      "h2": "Compramos tu coche sin que te compliques",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si deseas precisión en tu tasación del auto, se piden datos esenciales de tu vehículo. Por esa razón, llenas un cuestionario sencillo y ágil en . Al llenar los datos, se hace un análisis del mercado y se te brinda el precio justo que aparece al acabar el cuestionario. Esta tasación se manda de igual forma por correo electrónico. Pero, no tienes compromiso con nosotros"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "solo-5-mn",
+      "h2": "solo 5 mn",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La tasación de tu coche la obtienes directamente online y por correo electrónico"
+        },
+        {
+          "text": "Etapa 2:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tu-escoges-si-sigues-con",
+      "h2": "¡Tu escoges si sigues con",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "el proceso, o no!"
+        },
+        {
+          "text": "Por eso el cuestionario es rápido y simple de llenar: Para identificar su vehículo, ¡nada más fácil! Sólo tiene que introducir el número de matrícula de su vehículo y será reconocido. Así saltarás varios pasos del cuestionario lo que te hará ganar tiempo. Si no ves tu registro en la memoria, ¡no te preocupes! Solo responde unas preguntas, y así sabremos cual es tu coche: por ejemplo la potencia, versión, año de matrícula o combustible. Su versión, el color, su equipamiento, y otros más. El concesionario Jeep de su elección concertará una cita con usted en el concesionario. En concesión, se inspecciona el coche y luego se hace una propuesta del mismo. Si es de tu agrado, tu coche se comprará de forma inmediata, y sin hacer procesos administrativos. ¡Deja todo en nuestras manos!"
+        },
+        {
+          "text": "Primero, debe hacer la identificación de tu coche:"
+        },
+        {
+          "text": "Segundo, debes llenar los datos generales:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-con-mucho-profesional",
+      "h2": "Compramos tu coche con mucho profesionalismo",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es muy simple!"
+        },
+        {
+          "text": "¡Dando clics vas a tener una evaluación del coche!"
+        },
+        {
+          "text": "La oferta de recuperación es enviada de inmediato."
+        },
+        {
+          "text": "¿Te parece nuestra oferta de recuperación? En 24 horas* se comprará el coche."
+        },
+        {
+          "text": "¡Es muy seguro!"
+        },
+        {
+          "text": "Cero malas sorpresas ni trámites administrativos gracias a la Red Jeep, ¡Lo hacemos todo!"
+        },
+        {
+          "text": "Algún experto de Jeep chequea tu coche mientras te encuentras allí."
+        },
+        {
+          "text": "Al hacer un acuerdo, nuestro compromiso es hacer una recuperación rápida."
+        },
+        {
+          "text": "Pago seguro, con garantía e inmediatez."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "pago-super-seguro",
+      "h2": "Pago super seguro",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Apoyamos en los procesos administrativos."
+        },
+        {
+          "text": "¡El precio de tu coche lo sabrás en 5 minutos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-preguntas-generales",
+      "h2": "Compramos tu coche: Preguntas generales",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cómo se vende mi coche?"
+        },
+        {
+          "text": "Tasación Jeep da servicio online, que brinda la posibilidad de obtener una tasación gratuita para tu coche. Si la necesitas, llena el perfil de tu coche en el cuestionario que se entrega. Incluir por ejemplo datos como kilometraje, marca, modelo, versión, motor, etc. Luego te brindaran una tasación de tu coche cuando culmines el cuestionario. En unos 5 minutos, se te da en tus manos la tasación, pero también se manda a tu correo electrónico. El concesionario de Jeep que tú escogiste te llamará para darte una cita para la recuperación del coche. Igual tienes la opción de: Si la oferta final no te gusta, no tienes obligación de venderlo."
+        },
+        {
+          "text": "2. ¿Cómo se calcula el valor de adquisición de mi coche?"
+        },
+        {
+          "text": "La tasación funciona con: • Las características generales del coche: kilometraje, fecha de matriculación, modelo, motor y marca. • Investigación del mercado : Saber si hay transacciones nuevas que ya fueron realizadas por los profesionales sobre los modelos similares. • Las deducciones básicas de los costos de recuperación. Todas las tarifas se ajustan de acuerdo a la condición real que el coche posea."
+        },
+        {
+          "text": "3. ¿Cómo funciona la tasación con Jeep?"
+        },
+        {
+          "text": "obtén una tasación gratuita online, rellenando nuestro cuestionario online con los datos de tu coche. En menos de 5min, obtén una tasación para tu coche, que también recibirás por correo electrónico. Una vez completado el formulario, el distribuidor de tu elección se pondrá en contacto contigo en un plazo de 24 horas. ¿Estás satisfecho con la tasación? Concierta una cita en el concesionario para la recuperación de tu coche. : En la cita, un experto revisará el estado del coche contigo allí y te dirá el precio fijo de recuperación. Confirmado el acuerdo, compramos tu coche."
+        },
+        {
+          "text": "Tasación online gratuita:"
+        },
+        {
+          "text": "Obtén una cita:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "goza-de-la-experiencia-de-jeep",
+      "h2": "Goza de la experiencia de Jeep",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. ¿Cómo hago una cita?"
+        },
+        {
+          "text": "Es bien simple. Al realizar una tasación de forma online escoges el punto de venta Jeep al adicionar la dirección postal que gustes. El concesionario de Jeep te buscará en un plazo de 24 horas para que puedas hacer la cita. Igual lo puedes llamar, utilizando los datos de contacto que vienen agregados en la tasación. Así la oferta la tendrás de forma rápida y basada en la valoración que se hizo del coche y el precio que hay en la actualidad en el mercado."
+        },
+        {
+          "text": "5. ¿Cómo se hace mi pago?"
+        },
+        {
+          "text": "A través de la red Jeep, de esta forma garantizamos un pago sencillo y fiable, sin sorpresas desagradables de última hora. En el momento de la transacción, el pago del coche se hace directamente con el concesionario Jeep. Esto dependerá del concesionario que escojas, el pago del coche se puede hacer por medio de un cheque o por transferencia bancaria."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepESP"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_es/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/JeepEsp"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos tu coche en solamente 24 horas",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.jeep.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche con agilidad y sencillez ✓ Un precio justo ✓ Seguridad con la Red Jeep ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.jeep.es/lp/Compramos-tu-coche",
+    "medias_trouves": 7,
+    "blocs_detectes": 8,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

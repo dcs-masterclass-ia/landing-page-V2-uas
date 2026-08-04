@@ -1,0 +1,304 @@
+{
+  "page_key": "citroen-fr-fr__lp-reprise-renault",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/reprise-renault",
+  "source_v1": "https://www.reprise.citroen.fr/lp/reprise-renault",
+  "meta": {
+    "title": "Reprise Renault : estimation gratuite par Citroën",
+    "description": "Faites reprendre votre Renault par Citroën, quelle que soit sa version. Estimation gratuite, sans engagement, reprise avec ou sans achat de véhicule neuf.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre Renault avec Citroën"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre Renault avec Citroën",
+    "lead": "Faites reprendre votre Renault par Citroën, quelle que soit sa version. Estimation gratuite, sans engagement, reprise avec ou sans achat de véhicule neuf.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi faire reprendre",
+      "anchor": "#pourquoi-faire-reprendre-votre-renault"
+    },
+    {
+      "label": "Comment fonctionne la re",
+      "anchor": "#comment-fonctionne-la-reprise-dun-vehicu"
+    },
+    {
+      "label": "cote de votre véhicule",
+      "anchor": "#cote-de-votre-vehicule"
+    },
+    {
+      "label": "Tout savoir sur le leasi",
+      "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
+    },
+    {
+      "label": "Estimez la valeur de rep",
+      "anchor": "#estimez-la-valeur-de-reprise-de-votre-vo"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-faire-reprendre-votre-renault",
+      "h2": "Pourquoi faire reprendre votre Renault ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Envie de troquer votre Clio, Clio II, Mégane et autre Laguna pour une autre voiture? Le marché de l’occasion est important pour la marque Renault, mais difficile de ne pas s’y perdre et de revendre son auto au juste prix. Entre acheteurs indélicats, négociations âpres et voiture qui peut rester sur les bras durant des semaines, la revente n’est pas toujours évidente. En revanche, la reprise de votre Renault dans notre réseau est une démarche simple et sans engagements. Et si vous vous orientez vers le choix d’une Citroën neuve, nos offres spécifiques peuvent être vraiment intéressantes."
+        },
+        {
+          "text": "Pour une première estimation, vous avez 2 solutions:"
+        },
+        {
+          "text": "Pour les plus pressé(e)s, saisissez directement le numéro de votre plaque d’immatriculation dans notre formulaire: notre outil pré-remplira les principales données (année, modèle comme par exemple Clio, moteur, puissance…) et il ne vous restera plus que quelques champs à renseigner"
+        },
+        {
+          "text": "Si vous avez 5 minutes, remplissez notre formulaire de renseignements pas à pas: il nous aidera à vous formuler une première offre de reprise de votre Renault en ligne"
+        },
+        {
+          "text": "Vous serez alors recontacté rapidement par l’un de nos collaborateurs pour affiner l’offre en concession si vous le souhaitez, dans notre point de vente Citroën le plus proche de chez vous. La reprise de votre Clio II, Mégane, Kangoo ou tout autre modèle pourra alors s’effectuer sans les interminables prises de rendez-vous et négociations qui peuvent avoir lieu entre particuliers."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-fonctionne-la-reprise-dun-vehicu",
+      "h2": "Comment fonctionne la reprise d’un véhicule Renault ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Ils sont nombreux:"
+        },
+        {
+          "text": "La rapidité: une première offre de reprise en ligne est quasi-immédiate, une offre définitive rapide selon le rendez-vous qui vous convient"
+        },
+        {
+          "text": "Une offre juste: nous faisons une estimation pour la reprise de votre Clio, Laguna ou autre basée sur la"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "cote-de-votre-vehicule",
+      "h2": "cote de votre véhicule",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "et des dernières transactions effectives constatées sur le marché. Nous tenons compte des finitions, versions, options, de l’entretien et de tous les détails en votre faveur"
+        },
+        {
+          "text": "La sécurité: vous repartez de notre concession avec un chèque ou bien nous effectuons un virement qui sera encaissé sous 8 jours maximum. Pas de moyens de paiement hasardeux, aucun doute sur notre sérieux!"
+        },
+        {
+          "text": "La simplicité: nous nous chargeons des différentes formalités administratives usuelles, nous remplissons simplement les formulaires d’usage avec vous"
+        },
+        {
+          "text": "Une reprise d’une Renault pour l’achat d’une Citroënneuve ? Selon les offres du moment et le véhicule dont vous souhaitez vous séparer, certains bonus avantageux peuvent s’appliquer pouvant atteindre plusieurs milliers d’euros en plus de la valeur estimée: n’hésitez pas à en discuter avec votre concessionnaire Citroën. Ceci vaut également pour une LOA ou LDD"
+        },
+        {
+          "text": "Réalisez gratuitement et sans engagement une estimation pour la reprise de votre Renault – Clio, Clio II, autres modèles – Cote et proposition en quelques minutes"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Faites reprendre votre Renault par Citroën, quelle que soit sa version. Estimation gratuite, sans engagement, reprise avec ou sans achat de véhicule neuf.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise Renault : estimation gratuite par Citroën",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Faites reprendre votre Renault par Citroën, quelle que soit sa version. Estimation gratuite, sans engagement, reprise avec ou sans achat de véhicule neuf.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Faites reprendre votre Renault par Citroën, quelle que soit sa version. Estimation gratuite, sans engagement, reprise avec ou sans achat de véhicule neuf.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/reprise-renault",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

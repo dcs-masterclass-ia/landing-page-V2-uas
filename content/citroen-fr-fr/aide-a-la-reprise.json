@@ -1,0 +1,388 @@
+{
+  "page_key": "citroen-fr-fr__lp-aide-a-la-reprise",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/aide-a-la-reprise",
+  "source_v1": "https://www.reprise.citroen.fr/lp/aide-a-la-reprise",
+  "meta": {
+    "title": "Aide à la reprise voiture | Offre reprise Citroën",
+    "description": "Découvrez les aides disponibles pour la reprise de votre ancien véhicule. Citroën vous accompagne vers un achat malin.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "PROFITEZ DES AIDES POUR LA REPRISE DE VOTRE VOITURE"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "PROFITEZ DES AIDES POUR LA REPRISE DE VOTRE VOITURE",
+    "lead": "Découvrez les aides disponibles pour la reprise de votre ancien véhicule. Citroën vous accompagne vers un achat malin.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "En quoi consiste l’aide ",
+      "anchor": "#en-quoi-consiste-laide-a-la-reprise"
+    },
+    {
+      "label": "Etat de l’intérieur et d",
+      "anchor": "#etat-de-linterieur-et-des-exterieurs-du-"
+    },
+    {
+      "label": "cette page",
+      "anchor": "#cette-page"
+    },
+    {
+      "label": "prime à la conversion go",
+      "anchor": "#prime-a-la-conversion-gouvernementale"
+    },
+    {
+      "label": "Si votre ménage est ou n",
+      "anchor": "#si-votre-menage-est-ou-non-imposable"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "en-quoi-consiste-laide-a-la-reprise",
+      "h2": "En quoi consiste l’aide à la reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous souhaitez revendre votre ancienne auto, différentes primes ou bonus de reprise sont proposés chez Citroën. Pour en bénéficier, vous devez d’abord accepter une offre estimée par nos services qui dépendra de critères classiques:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "etat-de-linterieur-et-des-exterieurs-du-",
+      "h2": "Etat de l’intérieur et des extérieurs du véhicule",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ensuite, les aides concernent l’achat d’un véhicule neuf. Les différents modèles Citroën et finitions éligibles en ce moment sont listés sur"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "cette-page",
+      "h2": "cette page",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": ". Ainsi, en plus de l’offre de reprise, nous pouvons déduire du montant jusqu’à 6000€ pour l’achat d’un C4 Space Tourer ou 2000€ pour un SUV C3 Aircross par exemple. Il s’agit de nos offres Reprise Eco Inspired qui concernent les rachats de véhicules de plus de 12 ans. La valeur est calculée en fonction du cours de l’Argus® et comprend les frais éventuels de remise en état de votre auto."
+        },
+        {
+          "text": "Pour l’achat d’un véhicule électrique (C-Zero, E-Mehari, E-Berlingo), vous bénéficiez en plus d’un bonus écologique spécifique. Quant à la"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "prime-a-la-conversion-gouvernementale",
+      "h2": "prime à la conversion gouvernementale",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": ", une aide à la reprise d’une voiture proposée directement par l’Etat, elle est calculée suivant"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "si-votre-menage-est-ou-non-imposable",
+      "h2": "Si votre ménage est ou non imposable",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Si votre véhicule particulier ou utilitaire ancien dispose d’une motorisation essence ou diesel"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "la-metropole-du-grand-paris",
+      "h2": "la Métropole du Grand Paris",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "proposent des aides supplémentaires selon le certificat Crit’air du véhicule dont vous voulez vous séparer, et valables aussi bien sur l’achat d’une voiture neuve que d’occasion."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-beneficier-d-une-aide-a-la-repri",
+      "h2": "Comment bénéficier d'une aide à la reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nos aides à la reprise de votre auto étant débloquées par l’achat d’une Citroën neuve, voici comment faire votre calcul:"
+        },
+        {
+          "text": "Choisissez le modèle Citroën de votre choix, en faisant attention aux offres spécifiques du moment qui peuvent impliquer une aide spéciale (bonus écologique notamment pour les électriques, reprise Eco Inspired)"
+        },
+        {
+          "text": "Réalisez une estimation de la reprise de votre ancienne auto à l’aide de notre outil: saisissez directement le numéro d’immatriculation ou bien remplissez les étapes du questionnaire. Cela nous permettra de vous donner un ordre d’idée du montant de la reprise que nous pourrions déduire de l’achat de la voiture neuve"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimation-de-votre-voiture",
+      "h2": "estimation de votre voiture",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "vous semble correcte? Rendez-vous en concession pour une offre ajustée après l’expertise de votre voiture d’occasion par un professionnel"
+        },
+        {
+          "text": "Le professionnel de notre réseau réalisera avec vous le calcul des différentes aides à la reprise en tenant compte de tous les éléments et vous expliquera"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "combien-vous-coutera-la-citroen-neuve-qu",
+      "h2": "combien vous coûtera la Citroën neuve qui vous plait",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Différentes aides à la reprise existent si vous souhaitez acquérir une voiture neuve. Découvrez lesquelles et les conditions d’éligibilité pour en profiter"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Découvrez les aides disponibles pour la reprise de votre ancien véhicule. Citroën vous accompagne vers un achat malin.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Aide à la reprise voiture",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Découvrez les aides disponibles pour la reprise de votre ancien véhicule. Citroën vous accompagne vers un achat malin.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Découvrez les aides disponibles pour la reprise de votre ancien véhicule. Citroën vous accompagne vers un achat malin.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/aide-a-la-reprise",
+    "medias_trouves": 8,
+    "blocs_detectes": 11,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "9 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

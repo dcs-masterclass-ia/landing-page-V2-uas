@@ -1,0 +1,222 @@
+{
+  "page_key": "ds-automobiles-es-es__saber-mas",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/saber-mas",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/saber-mas",
+  "meta": {
+    "title": "La red DS Automobiles | Tasación DS",
+    "description": "En la red DS, puede cambiar su vehículo, sea cual sea su marca, para financiar la compra de un automóvil nuevo o usado.",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "UNA RED A SU SERVICIO"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "LA RED DS AUTOMOBILES",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "UNA RED A SU SERVICIO",
+    "lead": "En la red DS, puede cambiar su vehículo, sea cual sea su marca, para financiar la compra de un automóvil nuevo o usado.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "DS le escucha",
+      "anchor": "#ds-le-escucha"
+    },
+    {
+      "label": "Contacto y cita con un D",
+      "anchor": "#contacto-y-cita-con-un-ds-expert-advisor"
+    },
+    {
+      "label": "1. Serenidad",
+      "anchor": "#1-serenidad"
+    },
+    {
+      "label": "2. Velocidad",
+      "anchor": "#2-velocidad"
+    },
+    {
+      "label": "3. Seguridad",
+      "anchor": "#3-seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "ds-le-escucha",
+      "h2": "DS le escucha",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La red DS está a su disposición ofreciéndole la recogida de su vehículo usado. Dependiendo de su intención de compra, su DS Store podrá ofrecerle la compra de un vehículo nuevo o usado."
+        },
+        {
+          "text": "¿Por qué elegir Tasación DS ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.dsautomobiles.es/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "image_alt": "/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "contacto-y-cita-con-un-ds-expert-advisor",
+      "h2": "Contacto y cita con un DS EXPERT ADVISOR",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Rellene sus datos y seleccione el DS Store que prefiera. Se pondrán en contacto con usted para concertar una cita con el fin de para darle una tasación final de su vehículo en su presencia y dar los últimos pasos para la venta de su vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/5785df71-7deb-4c3a-a163-5cd8df6a64d7",
+      "image_alt": "velocidad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-serenidad",
+      "h2": "1. Serenidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Sin compromiso",
+        "Tramites simplificados"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/009298a8-fe40-4529-8b0f-d744c9bdb41c",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "2-velocidad",
+      "h2": "2. Velocidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elija un punto de venta",
+        "Una tasación fácil y rápida"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/009298a8-fe40-4529-8b0f-d744c9bdb41c",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "3-seguridad",
+      "h2": "3. Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza",
+        "Una transacción segura y rápida",
+        "Oferta ajustada"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/009298a8-fe40-4529-8b0f-d744c9bdb41c",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "En la red DS, puede cambiar su vehículo, sea cual sea su marca, para financiar la compra de un automóvil nuevo o usado.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "La red DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "En la red DS, puede cambiar su vehículo, sea cual sea su marca, para financiar la compra de un automóvil nuevo o usado.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "En la red DS, puede cambiar su vehículo, sea cual sea su marca, para financiar la compra de un automóvil nuevo o usado.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/saber-mas",
+    "medias_trouves": 5,
+    "blocs_detectes": 5,
+    "notes": [
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

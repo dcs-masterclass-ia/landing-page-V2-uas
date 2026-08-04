@@ -1,0 +1,182 @@
+{
+  "page_key": "citroen-at-de__auto-verkaufen",
+  "brand": "citroen",
+  "market": "AT",
+  "lang": "de",
+  "locale": "de_AT",
+  "template": "shared",
+  "domain": "https://www.citroen-kauft-ihr-auto.at",
+  "slug": "/auto-verkaufen",
+  "source_v1": "https://www.citroen-kauft-ihr-auto.at/auto-verkaufen",
+  "meta": {
+    "title": "Auto verkaufen bei Citroën - jetzt informieren",
+    "description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Citroën hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "site_name": "Citroen AT",
+    "author": "Citroen AT",
+    "geo_region": "AT",
+    "geo_country": "Autriche",
+    "og_image_alt": "AUTO VERKAUFEN"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.citroen-kauft-ihr-auto.at/"
+    },
+    {
+      "label": "AUTO VERKAUFEN",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "AUTO VERKAUFEN",
+    "lead": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Citroën hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "subnav": [
+    {
+      "label": "Erfolgreich verkaufen",
+      "anchor": "#erfolgreich-verkaufen"
+    },
+    {
+      "label": "Autoverkauf an Citroën",
+      "anchor": "#autoverkauf-an-citroen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "erfolgreich-verkaufen",
+      "h2": "Erfolgreich verkaufen",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie möchten Ihr altes Auto verkaufen? Dann denken Sie vielleicht über einen Privatverkauf nach. Der kostet allerdings Zeit und Mühe – vom Erstellen des Inserats bis hin zur Verkaufsverhandlung. Bei Citroën ist der Autoverkauf einfacher. Citroën ermittelt kostenlos und unverbindlich den möglichen Ankaufwert Ihres Gebrauchtwagens, so dass Sie eine erste Vorstellung vom Wert Ihres Fahrzeugs haben. Bei beiderseitigem Interesse kauft Ihnen der von Ihnen ausgewählte Citroën Partner Ihr Fahrzeug auch gleich ab."
+        },
+        {
+          "text": "Zunächst übermitteln Sie die Eckdaten Ihres Fahrzeugs über das Onlineformular. Wir ermitteln dann angegebenen Eigenschaften des Fahrzeugs, den Marktdaten und den jüngsten Transaktionen von Vergleichsfahrzeugen. Im zweiten Schritt begutachtet ein Citroën Partner Ihr Fahrzeug und unterbreitet Ihnen bei beiderseitigem Interesse ein realistisches Ankaufangebot. Wenn Sie mit diesem einverstanden sind, kann die Übernahme und die Zahlung direkt in die Wege geleitet werden. So einfach und unkompliziert ist der Autoverkauf an Citroën!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "autoverkauf-an-citroen",
+      "h2": "Autoverkauf an Citroën",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Entscheiden Sie sich für den Verkauf Ihres Autos an Citroën, erledigt Ihr Citroën Partner alle weiteren Schritte für Sie: Er kümmert sich um den Kaufvertrag und überweist Ihnen die Kaufsumme. Der Autoankauf bei Citroën ist für Sie also besonders unkompliziert – und vor allem sicher. Denn Sie haben immer einen kompetenten Ansprechpartner, der den Markt kennt und Sie persönlich berät."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "footer": {
+    "tagline": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Citroën hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/citroen.austria/ "
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroen_austria/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenAT"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/citroen-oesterreich/ "
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto verkaufen bei Citroën - jetzt informieren",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Citroën hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.citroen-kauft-ihr-auto.at",
+    "area_served": "Autriche",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q40",
+    "offer_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von Citroën hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.citroen-kauft-ihr-auto.at/auto-verkaufen",
+    "medias_trouves": 5,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

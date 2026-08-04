@@ -1,0 +1,283 @@
+{
+  "page_key": "alfa-romeo-es-es__lp-Compramos-tu-coche",
+  "brand": "alfa-romeo",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.alfaromeo.es",
+  "slug": "/lp/Compramos-tu-coche",
+  "source_v1": "https://tasacion.alfaromeo.es/lp/Compramos-tu-coche",
+  "meta": {
+    "title": "► Compramos tu coche en menos de 24 horas | Alfa Romeo",
+    "description": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
+    "site_name": "Alfa Romeo ES",
+    "author": "Alfa Romeo ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche! Solo 24 horas y tendrás asegurado tu pago"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.alfaromeo.es/ "
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche! Solo 24 horas y tendrás asegurado tu pago",
+    "lead": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "subnav": [
+    {
+      "label": "Compramos tu coche rápid",
+      "anchor": "#compramos-tu-coche-rapidamente"
+    },
+    {
+      "label": "no más de 5 minutos",
+      "anchor": "#no-mas-de-5-minutos"
+    },
+    {
+      "label": "Obtienes una oferta para",
+      "anchor": "#obtienes-una-oferta-para-recuperacion-la"
+    },
+    {
+      "label": "Proceso administrativos ",
+      "anchor": "#proceso-administrativos-mas-rapidos"
+    },
+    {
+      "label": "Compramos tu coche: Las ",
+      "anchor": "#compramos-tu-coche-las-preguntas-comunes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-rapidamente",
+      "h2": "Compramos tu coche rápidamente",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La mejor manera de asegurar que se haga la tasación correctamente es con los datos del carro. Todo esto se puede hacer con facilidad con solo rellenar un formulario que te tomara. Analizaremos el mercado actual para poder asegurar los mejores resultados cuando te brindemos la tasación. Esto es algo muy sencillo gracias al uso de la red Alfa Romeo. No hay compromiso alguno si deseas iniciar el proceso de tasación y después no tienes compromiso en vender el vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "no-mas-de-5-minutos",
+      "h2": "no más de 5 minutos",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Podrás recibir tu tasación en línea y también la enviaremos a tu correero de elección"
+        },
+        {
+          "text": "Etapa 2 del proceso :"
+        },
+        {
+          "text": "El formulario es muy fácil de llenar y requerimos lo siguiente. Debemos identificar tu coche con su matriculación que vas a llenar. Si no recuerdas la matriculación o no tienes eso documentado, es fácil lograr resultados con datos generales como el kilometraje, la versión, el poder del motor, el color, etc."
+        },
+        {
+          "text": "Una vez los datos estén listos, se contactará un representante de Alfa Romeo contigo. En este momento, se hará la inspección y si todo marcha como lo deseas, puedes decidir si quieres vender tu vehículo o si no deseas hacerlo. Igualmente, no hay costo sin importar la decisión."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "obtienes-una-oferta-para-recuperacion-la",
+      "h2": "Obtienes una oferta para recuperación la cual es prácticamente inmediata",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡Si la oferta la aprecias conveniente, compraremos tu vehículo en 24 horas!"
+        },
+        {
+          "text": "¡Te brinda gran seguridad!"
+        },
+        {
+          "text": "Olvida las sorpresas y los costos de trámites, con Alfa Romeo el proceso es rápido y seguro"
+        },
+        {
+          "text": "El vehículo será examinado por un experto de Alfa Romeo frente a ti para asegurar transparencia"
+        },
+        {
+          "text": "Una vez estés de acuerdo, estaremos brindando el proceso de compra de forma inmediata"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "proceso-administrativos-mas-rapidos",
+      "h2": "Proceso administrativos más rápidos",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡Puedes descubrir el valor de tu vehículo más rápido!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-las-preguntas-comunes",
+      "h2": "Compramos tu coche: Las preguntas comunes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cual es la manera más rápida de vender mi coche?"
+        },
+        {
+          "text": "Con Tasación Alfa Romeo, puedes obtener tu tasación con mayor rapidez. Solo debes rellenar el perfil del vehículo en el formulario. Solo debes decirnos, la marca, el modelo, el tipo de motor, su versión, el total de kilometraje, etc. Al tener todo esto, te brindaremos tu tasación en solo 5 minutos. Igualmente la recibirás en tu correo electrónico de elección. Recibirás una llamada para concretar una cita y obtener una tasación final que podrás decidir si deseas continuar. Esto hace el proceso mucho más sencillo y no hay costo por este proceso ni obligaciones."
+        },
+        {
+          "text": "2. ¿Cómo es que se calcula el valor de mi vehículo?"
+        },
+        {
+          "text": "Esto se establece de la siguiente manera: • Con los datos básicos del vehículo como la marca, el tipo de modelo, el poder del motor, su versión, el kilometraje del carro, y también la fecha de matriculación. • Hay también apreciación de modelos equivalentes al que tú tienes para así poder tener una idea de su valor • Se hace deducción de costos para cualquier reparación necesaria para restauración. Esto dependerá de la condición del vehículo."
+        },
+        {
+          "text": "3. ¿Cómo funciona exactamente este proceso de tasación de ALFA ROMEO?"
+        },
+        {
+          "text": "Esta es una tasación gratuita que puedes obtener con solo rellenar el formulario. También se te enviaran los datos a tu correo electrónico de elección. Podrás obtener una cita rápidamente para así poder hacer la tasación con el vehículo en un concesionario. Esto será algo que realmente te permitirá tener un precio especifico. Con la experiencia de usar la red Alfa Romeo, este será un proceso muy sencillo. Si al final te parece la oferta y quieres vender el vehículo, nosotros compramos tu coche."
+        },
+        {
+          "text": "4. ¿Cual es la manera de concretar una cita?"
+        },
+        {
+          "text": "Es muy fácil hacerlo al simplemente rellenar un formulario que te tomara 5 minutos. 24 horas después recibirás una llamada para ir a una cita con tu vehículo para inspección. Al hacer esto, se te brindara un precio de compra para el carro y así podrás decidir si lo deseas vender o no. No hay obligación o costos por esto."
+        },
+        {
+          "text": "5. ¿Cual es la forma de pago?"
+        },
+        {
+          "text": "La garantía de la red Alfa Romeo es que tendrás los mejores resultados sin complicaciones. Si decides que deseas vender el vehículo, el pago será por cheque o transferencia dependiendo del concesionario de Alfa Romeo que tu visites."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.espana.oficial/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeoofficial/?hl=es"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/alfaromeooficial"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Compramos tu coche en menos de 24 horas",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.alfaromeo.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche rápidamente sin papeles → sin problemas → y con los mejores precios.¡Si quieres informacion para vender tu coche, ingresa aqui!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.alfaromeo.es/lp/Compramos-tu-coche",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

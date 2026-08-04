@@ -1,0 +1,205 @@
+{
+  "page_key": "ds-automobiles-it-it__come-funziona",
+  "brand": "ds-automobiles",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://valutazioneusato.dsautomobiles.it",
+  "slug": "/come-funziona",
+  "source_v1": "https://valutazioneusato.dsautomobiles.it/come-funziona",
+  "meta": {
+    "title": "Valutazione auto usate DS: come funziona",
+    "description": "Scegliere DS per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "site_name": "Ds Automobiles IT",
+    "author": "Ds Automobiles IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Come funziona ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://valutazioneusato.dsautomobiles.it/"
+    },
+    {
+      "label": "Funzionamento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Come funziona ?",
+    "lead": "Scegliere DS per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "Serenità",
+      "anchor": "#serenita"
+    },
+    {
+      "label": "Rapidità",
+      "anchor": "#rapidita"
+    },
+    {
+      "label": "Sicurezza",
+      "anchor": "#sicurezza"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "1. RICEVI UNA VALUTAZIONE GRATUITA PER EMAIL Inserisci i dati e lo stato della tua vettura e ricevi immediatamente un'offerta di acquisto via e-mail. 2. FISSA UN APPUNTAMENTO Il tuo concessionario ds ti contatterà per fissare un appuntamento e concludere le pratiche per il ritiro del tuo veicolo. 3. APPROFITTA DELLA PERIZIA DS Durante l'appuntamento, uno dei nostri esperti esamina, in tua presenza, lo stato del veicolo. in seguito, con il tuo accordo, ci impegniamo ad acquistare il tuo veicolo subito."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/20a8dacd-c646-43ac-b4ae-4bc161868928",
+      "image_alt": "Valuta in serenità",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenita",
+      "h2": "Serenità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La valutazione dell'usato DS offre un'alternativa per evitare spiacevoli sorprese ed eliminare le pratiche amministrative: 'DS Automobiles valuta il tuo usato' valuta il tuo usato sulla base delle osservazioni di mercato e delle transazioni recenti effettuate da professionisti, gratuitamente e senza impegno."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/c604b218-b7f2-467b-8c71-c1d1120a42ca",
+      "image_alt": "Valuta in rapidità",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidita",
+      "h2": "Rapidità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "In pochi click riceverai una stima del valore della tua auto."
+        },
+        {
+          "text": "La nostra offerta di permuta è completamente gratuita e senza impegno."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/9e2ca768-a0b4-4d84-ab91-f26af48119ae",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sicurezza",
+      "h2": "Sicurezza",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Fissa un appuntamento con il tuo DS Store."
+        },
+        {
+          "text": "Se la tua auto è conforme al preventivo effettuato online, il concessionario procederà al ritiro."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/9e2ca768-a0b4-4d84-ab91-f26af48119ae",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "footer": {
+    "tagline": "Scegliere DS per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate DS: come funziona",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Scegliere DS per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://valutazioneusato.dsautomobiles.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Scegliere DS per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://valutazioneusato.dsautomobiles.it/come-funziona",
+    "medias_trouves": 4,
+    "blocs_detectes": 4,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

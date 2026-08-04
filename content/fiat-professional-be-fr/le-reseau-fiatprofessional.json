@@ -1,0 +1,241 @@
+{
+  "page_key": "fiat-professional-be-fr__le-reseau-fiatprofessional",
+  "brand": "fiat-professional",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprisebelgique.fiatprofessional.com",
+  "slug": "/le-reseau-fiatprofessional",
+  "source_v1": "https://reprisebelgique.fiatprofessional.com/le-reseau-fiatprofessional",
+  "meta": {
+    "title": "Profitez de l'expertise de nos professionnels | Reprise Fiat Professional BE",
+    "description": "Le réseau Fiat Professional se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
+    "site_name": "Fiat Professional BE",
+    "author": "Fiat Professional BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Le réseau Fiat Professional"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprisebelgique.fiatprofessional.com/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprisebelgique.fiatprofessional.com/"
+    },
+    {
+      "label": "Le Réseau Fiat Professional",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Le réseau Fiat Professional",
+    "lead": "Le réseau Fiat Professional se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprisebelgique.fiatprofessional.com/"
+  },
+  "subnav": [
+    {
+      "label": "Le réseau FIAT PROFESSIO",
+      "anchor": "#le-reseau-fiat-professional-a-votre-ecou"
+    },
+    {
+      "label": "Votre rendez-vous avec u",
+      "anchor": "#votre-rendez-vous-avec-un-expert-fiat-pr"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "le-reseau-fiat-professional-a-votre-ecou",
+      "h2": "Le réseau FIAT PROFESSIONAL à votre écoute",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le réseau FIAT PROFESSIONAL participant se tient à votre disposition en vous proposant de reprendre votre véhicule d’occasion quelque soit sa marque et son kilométrage. En fonction de votre projet, votre concessionnaire peut également vous proposer à l’achat un véhicule neuf ou d’occasion compte tenu des offres de reprises disponibles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/db266d59-0aa2-4239-9b37-9a9dca8204cf",
+      "image_alt": "Deux personnes s’apprêtent à se serrer la main",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "votre-rendez-vous-avec-un-expert-fiat-pr",
+      "h2": "Votre rendez-vous avec un expert FIAT PROFESSIONAL",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Renseignez vos coordonnées et sélectionnez le concessionnaire FIAT PROFESSIONAL de votre choix. Celui-ci vous contactera pour convenir d’un rendez-vous afin de finaliser l’estimation de votre véhicule en votre présence et les démarches pour la reprise de celui-ci."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/73357a72-1870-4ec4-81b7-ce18f53c85ca",
+      "image_alt": "Gros plan sur des mains tapant sur un clavier d’ordinateur",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "FIAT PROFESSIONAL vous permet d’évaluer votre véhicule sur la base d’observations du marché et des transactions récentes, par un professionnel de l’automobile, le tout gratuitement et sans engagement."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/7f98d129-e57e-476a-a03a-df6199ae9878",
+      "image_alt": "Un utilitaire Fiat électrique est en charge devant un café en ville",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "En seulement quelques clics, renseignez les caractéristiques de votre véhicule."
+        },
+        {
+          "text": "Recevez une estimation immédiate de sa valeur."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/140/e45e1afb-524a-477d-aa3d-dbe6aebb63d4",
+      "image_alt": "Une main gantée présente une clé de voiture noire",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Prenez rendez-vous avec le concessionnaire FIAT PROFESSIONAL de votre choix."
+        },
+        {
+          "text": "Si votre véhicule est conforme à l’estimation faite en ligne, votre concessionnaire se chargera de la reprise de votre véhicule. Rapidité de paiement garantie"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprisebelgique.fiatprofessional.com/"
+  },
+  "footer": {
+    "tagline": "Le réseau Fiat Professional se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiatprofessional/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiatprofessional/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Profitez de l'expertise de nos professionnels",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Le réseau Fiat Professional se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprisebelgique.fiatprofessional.com",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Le réseau Fiat Professional se tient à votre disposition pour expertiser et reprendre votre véhicule. Il répondra à toutes vos questions.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprisebelgique.fiatprofessional.com/le-reseau-fiatprofessional",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
+      "image sans alt en V1 : https://reprisebelgique.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,365 @@
+{
+  "page_key": "opel-es-es__lp-Compramos-tu-coche",
+  "brand": "opel",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.opel.es",
+  "slug": "/lp/Compramos-tu-coche",
+  "source_v1": "https://www.tasacion.opel.es/lp/Compramos-tu-coche",
+  "meta": {
+    "title": "Compramos su coche en solamente 24 horas | OPEL",
+    "description": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "site_name": "Opel ES",
+    "author": "Opel ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche en solamente 24 horas - Pago asegurado"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.opel.es/"
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche en solamente 24 horas - Pago asegurado",
+    "lead": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "subnav": [
+    {
+      "label": "İAl contar con la Red Ta",
+      "anchor": "#ial-contar-con-la-red-tasacion-opel"
+    },
+    {
+      "label": "Compramos tu coche sin m",
+      "anchor": "#compramos-tu-coche-sin-muchas-complicaci"
+    },
+    {
+      "label": "Podrás recibir la tasaci",
+      "anchor": "#podras-recibir-la-tasacion-de-tu-coche-p"
+    },
+    {
+      "label": "Compramos tu coche con a",
+      "anchor": "#compramos-tu-coche-con-alto-nivel-de-pro"
+    },
+    {
+      "label": "Inmediatamente tendrás u",
+      "anchor": "#inmediatamente-tendras-una-oferta-de-rec"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "ial-contar-con-la-red-tasacion-opel",
+      "h2": "İAl contar con la Red Tasacion Opel,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "te aseguramos que no tendrás ninguna sorpresa!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-muchas-complicaci",
+      "h2": "Compramos tu coche sin muchas complicaciones",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si deseas la mejor precisión en la tasación de tu auto, te pediremos todos los datos básicos de tu vehículo. Para lograr esto, completaras un cuestionario sencillo y rápido en Luego de incluir todos los datos, se lleva a cabo un análisis del mercado y se te entrega el precio justo que aparece cuando acabas el cuestionario. Dicha tasación se te estará mandando también por correo electrónico. No tendrás ningún compromiso al recibir esta tasación, ¡La decisión de seguir o no con el proceso es tuya!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "podras-recibir-la-tasacion-de-tu-coche-p",
+      "h2": "Podrás recibir la tasación de tu coche por correo electrónico o en línea",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Etapa 2:"
+        },
+        {
+          "text": "Esa es la razón por la que tendrás un cuestionario rápido y sencillo que debes llenar con: Cuando se pasa por registro, hacemos la identificación del coche que deseas tasar y a su vez, llenas tu registro. Llenar su registro es mucho más fácil y te permitirá ahorrar tiempo; una vez identificado tu coche, te brincaras varias etapas del cuestionario . Si tu registro no aparece en la memoria, ¡no te preocupes! Basta con contestar unas preguntas, y así identificaremos tu coche: Potencia, año de matrícula, combustible, versión. Versión, color, kilometraje, equipamiento, entre otros. El concesionario de Opel que tu escojas se comunicará contigo para tener una cita en concesión. Allí mismo, se hará una inspección de tu coche y al final te hará una propuesta final del coche. Si te parece el precio, tu coche será comprado de inmediato, y no tendrás que hacer ningún proceso administrativo. ¡Nosotros nos encargamos de todo!"
+        },
+        {
+          "text": "La identificación de tu coche:"
+        },
+        {
+          "text": "Datos generales:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-con-alto-nivel-de-pro",
+      "h2": "Compramos tu coche con alto nivel de profesionalismo",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es muy sencillo!"
+        },
+        {
+          "text": "¡Con tan solo dar un clic vas a tener una evaluación de tu coche!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "inmediatamente-tendras-una-oferta-de-rec",
+      "h2": "Inmediatamente tendrás una oferta de recuperación",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Qué te parece nuestra oferta de recuperación? En 24 horas* tu coche será comprado."
+        },
+        {
+          "text": "¡Es muy seguro!"
+        },
+        {
+          "text": "Ya no hay mucho trámite administrativo ni sorpresas gracias a la Red Opel, ¡Nosotros lo haremos todo!"
+        },
+        {
+          "text": "Un experto de Opel va a examinar tu coche mientras tú estás allí."
+        },
+        {
+          "text": "Al tener un acuerdo, nos comprometemos a hacer una recuperación rápida."
+        },
+        {
+          "text": "El pago es además de garantizado, inmediato y seguro."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "casi-no-hay-garantias",
+      "h2": "Casi no hay garantías",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Muchos procesos administrativos engorrosos."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "su-pago-es-seguro",
+      "h2": "Su pago es seguro",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Te ayudamos con cada proceso administrativo."
+        },
+        {
+          "text": "Sabrás en 5 minutos el precio de tu coche!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-preguntas-mas-frecuen",
+      "h2": "Compramos tu coche: Preguntas más frecuentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cómo vendo mi coche?"
+        },
+        {
+          "text": "Tasación Opel te ofrece un servicio online, que te brinda la oportunidad de tener una tasación gratis para tu coche. Si la quieres, debes llenar el perfil de tu coche en el cuestionario que se te da. Debes decir por ejemplo, kilometraje, modelo, marca, motor, versión, entre otros. Después, vas a recibir una tasación de tu coche al finalizar el cuestionario. En solo 5 min, tendrás en tus manos la tasación para tu vehículo, esta también será enviada directamente a tu correo electrónico. El concesionario Opel que hayas escogido va a llamarte y realizará una cita para que así puedas recuperar tu coche. Podrás escoger siempre: si no te parece la oferta final, no te verás obligado a venderlo."
+        },
+        {
+          "text": "2. ¿Cómo hacer el cálculo del valor de adquisición de mi auto?"
+        },
+        {
+          "text": "La tasación se hace así: • kilometraje, versión, motor, fecha de matriculación, marca y el modelo. • Si hay transacciones recientes realizadas por los profesionales sobre los modelos parecidos. • Estas tarifas se ajustan de acuerdo a la condición real que el coche tenga en ese momento."
+        },
+        {
+          "text": "Características de tu coche:"
+        },
+        {
+          "text": "Observaciones del mercado:"
+        },
+        {
+          "text": "Deducción propias de los costos básicos de recuperación."
+        },
+        {
+          "text": "3. ¿Cómo se realiza la tasación de un coche OPEL?"
+        },
+        {
+          "text": "Recibirás una tasación gratis y online, llenando el cuestionario con todos los datos de tu coche. En solo 5 minutos, recibirás una tasación para tu coche, la cual es enviada de igual modo por correo electrónico. Luego de que llenes el formulario, recibirás la llamada del distribuidor que hayas escogido quien se pondrá en contacto contigo en 24 horas. ¿Te satisfizo la tasación? Haz una cita en el concesionario para que así logres recuperar tu auto En la cita, uno de nuestros expertos evalúa el estado del coche mientras estás allí y luego te dará un precio específico de la recuperación. Después de la confirmación del acuerdo, compramos tu coche."
+        },
+        {
+          "text": "Tasación online y gratis:"
+        },
+        {
+          "text": "Haz una cita:"
+        },
+        {
+          "text": "Disfruta de toda la experiencia de Opel:"
+        },
+        {
+          "text": "4. ¿Cómo llevo a cabo una cita?"
+        },
+        {
+          "text": "Es super fácil. Al realizar una tasación en línea, tu decides cual es tu punto de venta Opel al agregar la dirección postal que quieras. El concesionario que tienes de Opel te va a contactar en un plazo de 24 horas para que puedan concertar una cita. Puedes llamarlo también, usando los datos de contacto que vienen agregados en tu tasación. Así vas a tener una oferta rápida y que esté basada en la valoración que se hizo del coche y el precio que hay en ese momento en el mercado."
+        },
+        {
+          "text": "5. ¿Cómo se hace mi pago?"
+        },
+        {
+          "text": "A través de la red Opel, solo así garantizamos un pago fiable y fácil, sin sorpresas de última hora En el momento del proceso de transacción, el pago del coche se hace con el concesionario Opel. Todo depende del concesionario que escojas, el pago del coche se puede hacer por medio de un cheque o de una transferencia bancaria."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://es-es.facebook.com/OpelSpain/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opel_spain?lang=es"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_spain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelspainGM"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos su coche en solamente 24 horas",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.opel.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche con agilidad y sencillez ✓ Al mejor precio ✓ seguridad de la red Opel ✓ Nada de papeleo ➝ ¡Si quieres informacion, ingresa aqui!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.opel.es/lp/Compramos-tu-coche",
+    "medias_trouves": 8,
+    "blocs_detectes": 8,
+    "notes": [
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

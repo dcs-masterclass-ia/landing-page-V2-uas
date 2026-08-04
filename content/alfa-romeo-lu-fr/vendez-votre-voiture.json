@@ -1,0 +1,281 @@
+{
+  "page_key": "alfa-romeo-lu-fr__lp-vendez-votre-voiture",
+  "brand": "alfa-romeo",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.alfaromeo.lu",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.alfaromeo.lu/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture : comment ça marche | Alfa Romeo",
+    "description": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "site_name": "Alfa Romeo LU",
+    "author": "Alfa Romeo LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Vendez votre voiture : comment ça marche"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.alfaromeo.lu/ "
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture : comment ça marche",
+    "lead": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Vendez votre voiture : p",
+      "anchor": "#vendez-votre-voiture-pourquoi-opter-pour"
+    },
+    {
+      "label": "Vendre sa voiture facile",
+      "anchor": "#vendre-sa-voiture-facilement-toutes-les-"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    },
+    {
+      "label": "L'expérience Alfa Romeo ",
+      "anchor": "#l-experience-alfa-romeo-est-a-votre-port"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-pourquoi-opter-pour",
+      "h2": "Vendez votre voiture : pourquoi opter pour la reprise automobile ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous envisagez de vendre votre voiture ? La reprise automobile Peugeot est une solution pratique en ligne vous permettant de connaître la valeur de reprise de votre voiture, sans engagement. Évitez les désagréments fréquents lors de la vente de votre voiture à un particulier, optez plutôt pour une solution sûre et fiable en faisant appel à nos professionnels du réseau Peugeot, qui vous garantissent un paiement sécurisé."
+        },
+        {
+          "text": "● L'estimation de votre voiture est entièrement gratuite et sans engagement ● Vous recevrez une estimation en ligne et par e-mail, et pourrez décider si elle vous convient ou non ● Un concessionnaire proche de chez vous vous rappellera pour convenir d'un rendez-vous à votre convenance ● Si notre offre vous satisfait, vous pourrez effectuer une transaction sécurisée avec un paiement rapide"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "vendre-sa-voiture-facilement-toutes-les-",
+      "h2": "Vendre sa voiture facilement : toutes les étapes",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Etape 1 : Renseignez les caractéristiques de votre voiture Pour estimer précisément la valeur de votre voiture, notre solution en ligne a besoin de connaître les informations essentielles sur votre véhicule. Pour cela, remplissez notre questionnaire facile et rapide en moins de 5 minutes. Commencez par saisir votre numéro d'immatriculation. Grâce à votre immatriculation, nous identifions les principales caractéristiques de votre voiture. Pourquoi utiliser l'immatriculation ? 1. C'est plus facile : la marque, le modèle, la catégorie, la motorisation et la date de première immatriculation sont pré-remplis. 2. C'est plus rapide : la pré-identification de votre véhicule vous épargne plusieurs étapes et vous permet donc de gagner du temps. Vous n'avez pas votre numéro d'immatriculation ? Pas de soucis ! Répondez à quelques questions pour nous permettre d'identifier votre véhicule : la version, l'année de mise en circulation, le carburant, la motorisation, la couleur, les équipements, etc."
+        },
+        {
+          "text": "Etape 2 : Recevez l'estimation de votre voiture en ligne et par e-mail Une fois les informations fournies, nous analysons le marché pour vous fournir une estimation juste de la valeur de votre voiture, qui s'affichera à la fin du questionnaire. Cette estimation vous sera également envoyée par e-mail. Notre offre est sans engagement, vous êtes libre de décider si cela vous convient ou non. Etape 3 : Rendez-vous avec un professionnel du réseau Alfa Romeo Le concessionnaire Alfa Romeo que vous avez sélectionné vous contactera pour fixer un rendez-vous en concession et vendre votre voiture. Une fois sur place, il examinera votre voiture et vous proposera un prix final de rachat. Si vous êtes satisfait de ce prix, nous rachèterons immédiatement votre voiture sans que vous ayez à effectuer de démarches administratives."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Alfa Romeo propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Alfa Romeo de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture Alfa Romeo ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-alfa-romeo-est-a-votre-port",
+      "h2": "L'expérience Alfa Romeo est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Alfa Romeo en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Alfa Romeo vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Alfa Romeo, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Alfa Romeo. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.alfaromeo.lu/"
+  },
+  "footer": {
+    "tagline": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeo_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture : comment ça marche",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.alfaromeo.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "howto_name": "Vendez votre voiture : comment ça marche",
+    "howto_description": "▷ Alfa Romeo vous assiste dans la vente de votre voiture. Faites estimer la valeur de votre voiture par nos experts gratuitement ✓ et sans engagement ✓.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.alfaromeo.lu/lp/vendez-votre-voiture",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.alfaromeo.lu/build/img/alfa_romeo/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "page_key": "ds-automobiles-it-it__lp-valutazione-auto-usate",
+  "brand": "ds-automobiles",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://valutazioneusato.dsautomobiles.it",
+  "slug": "/lp/valutazione-auto-usate",
+  "source_v1": "https://valutazioneusato.dsautomobiles.it/lp/valutazione-auto-usate",
+  "meta": {
+    "title": "Valutare il tuo usate online gratis con DS Automobiles",
+    "description": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa",
+    "site_name": "Ds Automobiles IT",
+    "author": "Ds Automobiles IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Valutare le auto usate online è un servizio pratico e gratuito"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://valutazioneusato.dsautomobiles.it/"
+    },
+    {
+      "label": "Valutazione auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Valutare le auto usate online è un servizio pratico e gratuito",
+    "lead": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "subnav": [
+    {
+      "label": "Perché scegliere la valu",
+      "anchor": "#perche-scegliere-la-valutazione-auto-usa"
+    },
+    {
+      "label": "Come funziona la valutaz",
+      "anchor": "#come-funziona-la-valutazione-auto-usate"
+    },
+    {
+      "label": "I vantaggi della valutaz",
+      "anchor": "#i-vantaggi-della-valutazione-online-auto"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    },
+    {
+      "label": "DS Automobiles",
+      "anchor": "#ds-automobiles"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "perche-scegliere-la-valutazione-auto-usa",
+      "h2": "Perché scegliere la valutazione auto usate sul nostro sito?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tra la vasta scelta di siti di valutazione auto usate disponibili online, optare per la permuta DS Automobiles è garanzia di: • Una valutazione online completamente gratuita, senza alcun impegno da parte tua. • Una stima affidabile basata su informazioni precise e dati di mercato recenti. • L'esperienza della rete DS Automobiles , che mette a tua disposizione la propria esperienza per il ritiro del tuo veicolo, senza alcun obbligo di vendita."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "Come funziona la valutazione auto usate DS Automobiles ?",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "come-funziona-la-valutazione-auto-usate",
+      "h2": "Come funziona la valutazione auto usate?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa del tuo veicolo, basata sulle ultime transazioni e informazioni di mercato. Per poter procedere con la valutazione, è importante fornire informazioni accurate sul veicolo, come ad esempio: • Il libretto di circolazione dell'auto. • Il chilometraggio del veicolo. • Un elenco dei difetti o dei danni presenti sulla vettura."
+        },
+        {
+          "text": "Per ottenere una valutazione accurata della tua auto usata in soli tre passaggi, segui queste semplici indicazioni: : Raccogli le informazioni necessarie. Fornisci le informazioni richieste per identificare il modello della tua auto. Se disponi del libretto di circolazione, puoi utilizzarlo per identificare il veicolo. In alternativa, puoi rispondere ad alcune domande sul modello dell'auto, come versione, anno di immatricolazione, carburante e potenza del motore. La compilazione richiederà meno di 5 minuti. Ricevi la valutazione della tua auto usata online. Una volta completato il questionario, analizziamo il mercato per fornirti un preventivo accurato del prezzo dell'auto. Riceverai una copia del preventivo via e-mail. Questa fase non ti impegna in nessun modo e hai la possibilità di decidere se procedere o meno. Incontro faccia a faccia. Dopo la valutazione online, verrai contattato dal concessionario DS Automobiles che hai scelto per fissare un incontro e stabilire un preventivo definitivo per il tuo veicolo. Se sei soddisfatto della valutazione, il concessionario si occuperà della permuta del tuo veicolo senza alcun costo amministrativo per te."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "Come funziona la valutazione auto usate DS Automobiles ?",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "i-vantaggi-della-valutazione-online-auto",
+      "h2": "I vantaggi della valutazione online auto usate",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tra la vasta scelta di siti di valutazione auto usate disponibili online, optare per la permuta DS Automobiles è garanzia di: • Una valutazione online completamente gratuita, senza alcun impegno da parte tua. • Una stima affidabile basata su informazioni precise e dati di mercato recenti. • L'esperienza della rete DS Automobiles, che mette a tua disposizione la propria esperienza per il ritiro del tuo veicolo, senza alcun obbligo di vendita."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "I vantaggi della valutazione online auto usate DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con DS Automobiles?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di scelto per consegnare il veicolo. Durante l'appuntamento, un esperto valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "I vantaggi della valutazione online auto usate DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ds-automobiles",
+      "h2": "DS Automobiles",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        },
+        {
+          "text": "Quali sono i vantaggi dell'utilizzo del servizio di permuta DS Automobiles?"
+        },
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di DS Automobiles sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario DS Automobiles."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da DS Automobiles non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto DS Automobiles per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di DS Automobiles?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "I vantaggi della valutazione online auto usate DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "footer": {
+    "tagline": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutare il tuo usate online gratis con DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://valutazioneusato.dsautomobiles.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Il nostro servizio di valutazione auto usate ti consente di avere una stima professionale e precisa",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://valutazioneusato.dsautomobiles.it/lp/valutazione-auto-usate",
+    "medias_trouves": 5,
+    "blocs_detectes": 5,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

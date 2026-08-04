@@ -1,0 +1,237 @@
+{
+  "page_key": "jeep-es-es__funcionamiento",
+  "brand": "jeep",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.jeep.es",
+  "slug": "/funcionamiento",
+  "source_v1": "https://tasacion.jeep.es/funcionamiento",
+  "meta": {
+    "title": "Funcionamiento | Tasación Jeep ES",
+    "description": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Jeep para la recompra de tu vehículo.",
+    "site_name": "Jeep ES",
+    "author": "Jeep ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasación en Jeep"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.jeep.es/"
+    },
+    {
+      "label": "Funcionamiento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasación en Jeep",
+    "lead": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Jeep para la recompra de tu vehículo.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "subnav": [
+    {
+      "label": "Obtén una oferta de vent",
+      "anchor": "#obten-una-oferta-de-venta-en-6-pasos"
+    },
+    {
+      "label": "Cálculo del valor de ven",
+      "anchor": "#calculo-del-valor-de-venta"
+    },
+    {
+      "label": "Serenidad",
+      "anchor": "#serenidad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    },
+    {
+      "label": "Seguridad",
+      "anchor": "#seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obten-una-oferta-de-venta-en-6-pasos",
+      "h2": "Obtén una oferta de venta en 6 pasos:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Rellena los datos del vehículo a tasar. 2 - Obtén tu tasación para tu vehículo. 3 - El distribuidor de tu elección te contactará para concertar una cita. 4 - Un experto Jeep examina el estado de tu vehículo en tu presencia. 5 - Con tu confirmación, nos comprometemos a la compra inmediata. 6 - El pago es inmediato, garantizado y seguro."
+        },
+        {
+          "text": "¿Por qué elegir Tasación Jeep?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/faad4af5-ccc9-4024-82b4-2a8b75017c46",
+      "image_alt": "tasa tu coche con rapidez",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "calculo-del-valor-de-venta",
+      "h2": "Cálculo del valor de venta",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "El valor de adquisición se estima en euros con IVA incluido, en función del precio de mercado, las transacciones recientes y la información que hayas proporcionado sobre el estado y las opciones de tu vehículo. Gracias a esta información podemos hacerte una oferta de venta (el valor estimado es solo indicativo). A continuación, serás contactado por un distribuidor Jeep que también realizará una tasación de tu vehículo para finalizar la transacción."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/c8f8de97-34a2-4537-a108-1aa37fbe1f14",
+      "image_alt": "tasa tu coche con seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenidad",
+      "h2": "Serenidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una tasación en solo unos minutos",
+        "Sin compromiso",
+        "De forma sencilla"
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elige un punto de venta",
+        "Una tasación fácil y rápida"
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza",
+        "Una operación rápida y segura",
+        "Oferta competitiva"
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "footer": {
+    "tagline": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Jeep para la recompra de tu vehículo.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepESP"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_es/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/JeepEsp"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Funcionamiento",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Jeep para la recompra de tu vehículo.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.jeep.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Reciba una tasación gratuita por correo electrónico. Concerta una cita con tu concesionario. Disfruta de la experiencia de Jeep para la recompra de tu vehículo.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.jeep.es/funcionamiento",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

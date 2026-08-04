@@ -1,0 +1,359 @@
+{
+  "page_key": "fiat-fr-fr__lp-vendez-votre-voiture",
+  "brand": "fiat",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.fiat.fr",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.fiat.fr/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture en 24 heures | FIAT",
+    "description": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "site_name": "Fiat FR",
+    "author": "Fiat FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vendez votre voiture simplement avec le réseau FIAT"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.fiat.fr/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture simplement avec le réseau FIAT",
+    "lead": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Vendez votre voiture en ",
+      "anchor": "#vendez-votre-voiture-en-toute-simplicite"
+    },
+    {
+      "label": "Sans aucun engagement",
+      "anchor": "#sans-aucun-engagement"
+    },
+    {
+      "label": "Vendez votre voiture rap",
+      "anchor": "#vendez-votre-voiture-rapidement-en-3-eta"
+    },
+    {
+      "label": "Vendez votre voiture à d",
+      "anchor": "#vendez-votre-voiture-a-des-professionnel"
+    },
+    {
+      "label": "Le paiement est 100% séc",
+      "anchor": "#le-paiement-est-100-securise"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-en-toute-simplicite",
+      "h2": "Vendez votre voiture en toute simplicité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous faites confiance à la reprise FIAT, vous n'aurez pas de mauvaises surprises!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/137/70238715-521f-4845-a173-09e5518c7e7e",
+      "image_alt": "poignée de mains pour une vente de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sans-aucun-engagement",
+      "h2": "Sans aucun engagement",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La fiabilité et le professionnalisme du réseau FIAT vous garantie une vente sereine"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "vendez-votre-voiture-rapidement-en-3-eta",
+      "h2": "Vendez votre voiture rapidement en 3 étapes",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Étape 1 : Ajoutez les détails de votre véhicule."
+        },
+        {
+          "text": "Afin d'obtenir une évaluation correcte de votre voiture, nous vous demandons toutes les données de base nécessaires. Dans ce cas, vous devrez remplir un questionnaire simple et rapide en 5 minutes."
+        },
+        {
+          "text": "Étape 2 : Recevez l'évaluation de votre voiture par courrier électronique et directement en ligne."
+        },
+        {
+          "text": "En saisissant chacune des données, le marché est analysé et un prix juste vous est communiqué à la fin du questionnaire. L'évaluation vous sera également envoyée par courrier électronique. La réalisation de l'évaluation n'implique aucun engagement, la décision de poursuivre ou non le processus vous appartient !"
+        },
+        {
+          "text": "Pour cela, vous disposez d'un questionnaire simple et rapide à remplir dont les principales rubriques sont les suivantes :"
+        },
+        {
+          "text": "L'identification de votre voiture :"
+        },
+        {
+          "text": "En renseignant votre immatriculation, nous identifierons la voiture que vous souhaitez évaluer. En remplissant le formulaire d'inscription, votre modèle sera identifié et vous sauterez certaines étapes du questionnaire, ce qui vous fera gagner du temps."
+        },
+        {
+          "text": "Si vous ne vous souvenez pas de l'enregistrement, pas de problème ! Répondez simplement à quelques questions, et nous identifierons votre voiture : Carburant, Puissance, année d'immatriculation, version."
+        },
+        {
+          "text": "Informations générales : Couleur, version, kilométrage, équipement, et plus encore."
+        },
+        {
+          "text": "Étape 3 : Obtenez un rendez-vous avec un professionnel Fiat."
+        },
+        {
+          "text": "Lorsque vous choisissez un concessionnaire FIAT, vous êtes immédiatement contacté pour fixer un rendez-vous chez celui-ci. Là, une inspection de votre voiture est effectuée et une proposition finale pour la voiture est faite. Si vous êtes d'accord avec le prix, votre voiture sera achetée immédiatement, sans avoir à passer par aucune procédure administrative. Nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-a-des-professionnel",
+      "h2": "Vendez votre voiture à des professionnels",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "C'est facile !"
+        },
+        {
+          "text": "Tout ce que vous avez à faire est de cliquer et vous obtiendrez une évaluation de la voiture !"
+        },
+        {
+          "text": "Vous recevrez alors une offre de reprise dans les plus brefs délais."
+        },
+        {
+          "text": "Vous êtes d'accord avec notre offre de rachat? Votre voiture sera rachetée en 24 heures environ*."
+        },
+        {
+          "text": "C'est tout à fait sûr !"
+        },
+        {
+          "text": "Les formalités administratives sont peu nombreuses et pas de mauvaises surprises, tout cela grâce au Réseau FIAT."
+        },
+        {
+          "text": "Un examen de l'état de la voiture est réalisé par un expert FIAT, pendant que vous êtes présent."
+        },
+        {
+          "text": "Une fois l'accord conclu, nous assurons un transaction rapide."
+        },
+        {
+          "text": "Le paiement est toujours sécurisé, rapide et garanti."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "le-paiement-est-100-securise",
+      "h2": "Le paiement est 100% sécurisé",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Les démarches administratives sont effectuées par nos soins."
+        },
+        {
+          "text": "En moins de 5 minutes, vous saurez combien coûte votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture : Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture ?"
+        },
+        {
+          "text": "Reprise FIAT propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Il suffit de remplir le profil de votre voiture dans un questionnaire : kilométrage, marque, modèle, version, etc. À la fin, vous obtenez une évaluation en ligne et par email sous 5 minutes. Un concessionnaire FIAT de votre choix vous contactera ensuite pour fixer un rendez-vous. L’offre ne vous engage pas : vous êtes libre de vendre ou non."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture ?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : version, kilométrage, date d'immatriculation, marque, moteur, modèle. transactions récentes effectuées par des professionnels sur des modèles similaires. ajustés selon l'état réel du véhicule."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise :"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture FIAT ?"
+        },
+        {
+          "text": "remplissez le questionnaire avec les détails de votre voiture et recevez une estimation sous 5 minutes, aussi envoyée par email. vous serez contacté sous 24h par le concessionnaire choisi pour convenir d’un rendez-vous. un expert examine votre véhicule en votre présence et propose un prix de reprise définitif. Une fois l’accord donné, FIAT rachète votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        },
+        {
+          "text": "L'expérience FIAT :"
+        },
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture ?"
+        },
+        {
+          "text": "C’est très simple. Lors de l’évaluation en ligne, vous sélectionnez votre concessionnaire FIAT en indiquant l’adresse de votre choix. Ce dernier vous contactera sous 24h pour fixer un rendez-vous. Vous pouvez aussi le joindre via les coordonnées fournies dans l’évaluation, afin d’obtenir une offre rapide basée sur la cote et le marché actuel."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement ?"
+        },
+        {
+          "text": "En passant par le réseau FIAT, le paiement est garanti, simple et sécurisé. Une fois la reprise finalisée, le concessionnaire FIAT vous règle le montant convenu. Selon la concession, le paiement s’effectue par chèque ou virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.fiat.fr/"
+  },
+  "footer": {
+    "tagline": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiatfrance/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/FiatFr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_fr/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/FIATFRANCE"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture en 24 heures",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.fiat.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "howto_name": "Vendez votre voiture simplement avec le réseau FIAT",
+    "howto_description": "Vendez votre voiture avec rapidité et simplicité ✓ Vous obtiendrez le meilleur prix ✓ sans paperasses administratives ➝ Pour plus d'informations, cliquez ici !",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.fiat.fr/lp/vendez-votre-voiture",
+    "medias_trouves": 9,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/separator-breadcrumb.png",
+      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.fiat.fr/build/img/fiat/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

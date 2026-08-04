@@ -1,0 +1,382 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-estimation-voiture",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/estimation-voiture",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/estimation-voiture",
+  "meta": {
+    "title": "▷ Estimation voiture en ligne en quelques clics | DS Automobiles",
+    "description": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "L’estimation de votre voiture sans engagement et en ligne. C’est possible et simple à faire !"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.dsautomobiles.fr/"
+    },
+    {
+      "label": "estimation voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "L’estimation de votre voiture sans engagement et en ligne. C’est possible et simple à faire !",
+    "lead": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Optez pour la reprise DS",
+      "anchor": "#optez-pour-la-reprise-ds-automobiles"
+    },
+    {
+      "label": "Comment est calculée l’e",
+      "anchor": "#comment-est-calculee-lestimation-de-ma-v"
+    },
+    {
+      "label": "Pas à Pas",
+      "anchor": "#pas-a-pas"
+    },
+    {
+      "label": "La liste des défauts de ",
+      "anchor": "#la-liste-des-defauts-de-votre-voiture"
+    },
+    {
+      "label": "Informez-nous toutes les",
+      "anchor": "#informez-nous-toutes-les-caracteristique"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "optez-pour-la-reprise-ds-automobiles",
+      "h2": "Optez pour la reprise DS AUTOMOBILES",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le service de reprise que DS AUTOMOBILES propose, vous assure que :"
+        },
+        {
+          "text": "L’estimation de votre véhicule se fasse en seulement quelques clics et sans aucun frais:"
+        },
+        {
+          "text": "L’estimation soit fiable, c’est-à-dire qu’elle était établie sur la base d’observations du marché et des dernières transactions"
+        },
+        {
+          "text": "La reprise par le réseau DS AUTOMOBILESà votre service pour reprendre votre véhicule."
+        },
+        {
+          "text": "Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre service si vous souhaitez la revendre."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Le calcul de l’estimation de ma voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-calculee-lestimation-de-ma-v",
+      "h2": "Comment est calculée l’estimation de ma voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tout d’abord, pour donner une estimation plus précise de votre voiture, nous avons besoin d'informations qui nous permettront de comparer votre voiture avec la base de données du marché, par un professionnel de l’automobile."
+        },
+        {
+          "text": "La saisie des informations est simple et rapide."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "pas-a-pas",
+      "h2": "Pas à Pas",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "C’est important d’avoir les informations spécifiques à portée de main pour avoir une estimation plus précise de votre voiture."
+        },
+        {
+          "text": "Ainsi, vous aurez besoin de :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "la-liste-des-defauts-de-votre-voiture",
+      "h2": "La liste des défauts de votre voiture",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ensuite, vous pouvez obtenir l’estimation de votre voiture en quelques clics seulement :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "informez-nous-toutes-les-caracteristique",
+      "h2": "Informez-nous toutes les caractéristiques de votre véhicule",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Étape 1."
+        },
+        {
+          "text": "Le parcours de l’estimation de votre véhicule commence par la réponse aux quelques questions. Il vous prendra moins de 5 min à les renseigner ! Quel type de question ? Simplement, les informations pour identifier le modèle de votre voiture."
+        },
+        {
+          "text": "Si vous optez pour commencer le parcours en renseignant l’immatriculation de votre véhicule, nous pouvons identifier la voiture, le modèle et certaines spécificités, puis vous faire sauter plusieurs étapes du questionnaire. C’est le choix plus simple, car vous faire gagner du temps. Si vous n’avez pas facilement votre immatriculation, sois rassuré ! On met à votre disposition quelques questions pour nous permettre d’identifier votre voiture : version, année de MEC, carburant, puissance moteur."
+        },
+        {
+          "text": "l’estimation de votre voiture en ligne et par email Une fois ces informations renseignées, nous analysons le marché pour vous donner le prix juste qui vous est présenté à la fin du questionnaire. Vous renseignez vos coordonnées et l’estimation vous est aussi envoyée par mail."
+        },
+        {
+          "text": "Étape 2 :"
+        },
+        {
+          "text": "l'estimation que nous vous fournissons est sans engagement."
+        },
+        {
+          "text": "À savoir :"
+        },
+        {
+          "text": "Cela vous garantisse le choix de continuer ou non le processus !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "notre-reseau-a-votre-disposition-pour-un",
+      "h2": "Notre réseau à votre disposition pour un rendez-vous présentiel",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Étape 3 :"
+        },
+        {
+          "text": "Ensuite à votre estimation, un professionnel de DS AUTOMOBILESvous contactera pour convenir d'un rendez-vous et établira une estimation finale de votre véhicule. Le processus de la reprise démarre seulement si cette évaluation vous satisfait."
+        },
+        {
+          "text": "Le concessionnaire se chargera de la procédure sans charge administrative pour vous !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "encore-dautres-raisons-pour-faire-lestim",
+      "h2": "Encore d’autres raisons pour faire l’estimation de voiture en ligne",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "L’estimation de votre voiture sera 100 % gratuite et en ligne. Nous vous permettons d'évaluer vos voitures directement sur notre site internet et surtout gratuitement !"
+        },
+        {
+          "text": "Notre expérience DS AUTOMOBILES, nous permet de vous offrir une évaluation professionnelle et fiable."
+        },
+        {
+          "text": "Pas de rush ! l’estimation est valable pendant 10 jours. - Nous sommes présents en toutes les villes françaises pour faire reprendre votre voiture facilement. Nous avons despoints de vente partout en France dans le réseau DS AUTOMOBILES."
+        },
+        {
+          "text": "L'estimation de voiture immédiate — Nous savons que vous n’avez pas de temps à perdre et que la reprise peut être un facteur très important dans le projet d’achat."
+        },
+        {
+          "text": "Aussitôt que vous finissez de remplir le formulaire, vous obtenez l'estimation de votre voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
+        },
+        {
+          "text": "L’estimation est établie sur : Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+        },
+        {
+          "text": "2. COMMENT FONCTIONNE LA REPRISE PAR DS AUTOMOBILES ?"
+        },
+        {
+          "text": "Estimation gratuite en ligne :- Obtenez une estimation gratuite en ligne en remplissant notre questionnaire en ligne avec les informations concernant votre véhicule.En moins de 5min, vous obtenez une estimation pour votre véhicule, qui vous sera également transmise par email.- Obtenez un rendez-vous : Une fois le formulaire renseigné, vous serez recontacté par le concessionnaire de votre choix sous 24 h. L'estimation vous satisfait ? Convenez d’un rendez-vous en concession pour la reprise de votre voiture.- Profitez de l’expertise DS AUTOMOBILES : Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous rachetons votre voiture."
+        },
+        {
+          "text": "3. QUELS DOCUMENTS SONT NÉCESSAIRES POUR ÉVALUER MA VOITURE PAR DS AUTOMOBILES ?"
+        },
+        {
+          "text": "Pour évaluer votre voiture, vous aurez besoin de :- La carte grise de votre voiture pour renseigner l'immatriculation de votre voiture- Le kilométrage de votre voiture ; Par ailleurs, vous devrez renseigner des informations sur l'état général de la voiture : couleur, carrosserie, équipements, etc."
+        },
+        {
+          "text": "4. QUELS SONT LES AVANTAGES À UTILISER LE SERVICE REPRISE DS AUTOMOBILES ?"
+        },
+        {
+          "text": "Rapidité. En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement."
+        },
+        {
+          "text": "Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Reprise DS AUTOMOBILES vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes."
+        },
+        {
+          "text": "Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire DS AUTOMOBILES."
+        },
+        {
+          "text": "5. A QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
+        },
+        {
+          "text": "L’estimation de reprise proposée par Reprise DS AUTOMOBILES est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts DS AUTOMOBILES."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/8e9589cd-e27c-4c7d-ad5b-ac35c5ea3530",
+      "image_alt": "raisons pour faire l’estimation de voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "▷ Estimation voiture en ligne en quelques clics",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "howto_name": "L’estimation de votre voiture sans engagement et en ligne. C’est possible et simple à faire !",
+    "howto_description": "Vous souhaitez obtenir une estimation pour votre voiture ? Découvrez en moins de 3 min sa valeur grâce à l'expertise du service de reprise DS Automobiles.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/estimation-voiture",
+    "medias_trouves": 4,
+    "blocs_detectes": 8,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-pour-un-vehicule-neuf",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-pour-un-vehicule-neuf",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-un-vehicule-neuf",
+  "meta": {
+    "title": "Offre de reprise pour achat d'un véhicule neuf DS Automobiles",
+    "description": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise d'un véhicule pour un achat neuf"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise d'un véhicule pour un achat neuf",
+    "lead": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Quels sont les avantages",
+      "anchor": "#quels-sont-les-avantages-de-faire-une-re"
+    },
+    {
+      "label": "Faites reprendre votre a",
+      "anchor": "#faites-reprendre-votre-auto-au-dessus-de"
+    },
+    {
+      "label": "DS Automobiles",
+      "anchor": "#ds-automobiles"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "quels-sont-les-avantages-de-faire-une-re",
+      "h2": "Quels sont les avantages de faire une reprise pour un achat neuf chez un professionnel ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Lorsque l’on souhaite changer de véhicule, la première question qui vient à l’esprit est de savoir ce que l’on va faire de son ancienne voiture. La plupart des propriétaires pensent qu’ils en tireront un bien meilleur prix s’ils la revendent eux-mêmes, c’est-à-dire à un autre particulier. Mais les choses sont souvent plus compliquées. De nombreuses questions viennent à l’esprit : -Combien vaut encore ma voiture ? -Va-t-elle passer au contrôle technique ? -Y a-t-il des réparations à effectuer avant la vente ? -Quelle marge de négociation faut-il prévoir ?"
+        },
+        {
+          "text": "De plus, certains modèles se vendent bien alors que d’autres se négocient à des prix largement inférieurs à leur valeur. Les tendances du marché varient constamment et vendre soi-même un véhicule n’est pas toujours aussi facile que l’on croit. Il faut également penser aux annonces que l’on doit généralement renouveler faute d’acheteurs, aux rendez-vous non honorés, aux négociations parfois compliquées ou aux acheteurs indélicats."
+        },
+        {
+          "text": "Lorsque l’on s’adresse à un professionnel comme DS Automobiles, les choses deviennent beaucoup plus simples. Aucune annonce à publier, pas de Contrôle Technique à repasser, une transaction transparente et rapide, mais également la reprise de tout type de véhicule avec un paiement effectif. DS Automobiles reprend votre voiture à son prix le plus juste, et vous en offre encore davantage en cas de reprise pour un achat neuf."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/ds3-crossback-arriere-campagne.jpg",
+      "image_alt": "DS 3 crossback vue d'arrière",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "faites-reprendre-votre-auto-au-dessus-de",
+      "h2": "Faites reprendre votre auto au-dessus de sa cote",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "DS Automobiles vous facilite la vie en vous évitant les nombreuses formalités administratives liées à la vente d’un véhicule. Nous la reprenons quelle que soit sa marque, son état, et même si son Contrôle technique n’est pas à jour ou qu’elle est en panne ou accidentée. Mais ce n’est pas tout, vous pourrez également profiter de conditions de reprise préférentielles, notamment sur le véhicule que vous achèterez. En clair, en optant pour un véhicule neuf avec reprise, vous pourrez accroitre la valeur de rachat de votre ancien véhicule. Avec les offres spéciales de DS, plus besoin de s’engager dans une longue négociation pour la reprise de votre voiture si vous repartez sur du neuf."
+        },
+        {
+          "text": "Quelles sont ces conditions préférentielles ?"
+        },
+        {
+          "text": "L’offre de reprise pour un véhicule neuf est très diversifiée et concerne tous les modèles de la gamme DS. Avec les conditions spécifiques liées à la reprise sur un véhicule neuf, vous revendez votre auto à un tarif largement supérieur à celui que vous auriez obtenu si vous aviez géré la vente vous-même. Les conditions proposées pour une voiture neuve avec reprise variant régulièrement, n’hésitez pas à consulter celles en cours sur le site de ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/ds3-crossback-arriere-campagne.jpg",
+      "image_alt": "DS 3 crossback vue d'arrière",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "ds-automobiles",
+      "h2": "DS Automobiles",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/ds3-crossback-arriere-campagne.jpg",
+      "image_alt": "DS 3 crossback vue d'arrière",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Offre de reprise pour achat d'un véhicule neuf DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Reprise pour un achat neuf : chez un concessionnaire DS, vous serez gagnant sur tous les plans.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-un-vehicule-neuf",
+    "medias_trouves": 2,
+    "blocs_detectes": 3,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

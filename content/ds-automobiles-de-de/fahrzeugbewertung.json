@@ -1,0 +1,215 @@
+{
+  "page_key": "ds-automobiles-de-de__lp-fahrzeugbewertung",
+  "brand": "ds-automobiles",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.dsautomobiles.de",
+  "slug": "/lp/fahrzeugbewertung",
+  "source_v1": "https://www.autoankauf.dsautomobiles.de/lp/fahrzeugbewertung",
+  "meta": {
+    "title": "► Kostenlose Online Auto-bewertung | DS Automobiles ✔",
+    "description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "site_name": "Ds Automobiles DE",
+    "author": "Ds Automobiles DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Was ist mein Auto Wert? → Direkt Online Antwort bei DS Automobiles"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Was ist mein Auto Wert? → Direkt Online Antwort bei DS Automobiles",
+    "lead": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "subnav": [
+    {
+      "label": "Warum sollten Sie Ihr Au",
+      "anchor": "#warum-sollten-sie-ihr-auto-mit-ds-bewert"
+    },
+    {
+      "label": "Was ist mein Auto wert?",
+      "anchor": "#was-ist-mein-auto-wert"
+    },
+    {
+      "label": "Erhalten Sie das Ergebni",
+      "anchor": "#erhalten-sie-das-ergebnis"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "warum-sollten-sie-ihr-auto-mit-ds-bewert",
+      "h2": "Warum sollten Sie Ihr Auto mit DS bewerten?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Unser Netzwerk von DS Automobiles-Experten steht Ihnen bei der Inzahlungnahme Ihres Fahrzeugs mit Rat und Tat zur Seite und garantiert Ihnen eine risikofreie Erfahrung. Außerdem basiert unsere Bewertung auf der Analyse des Marktes und der jüngsten Transaktionen, so dass Sie sich auf ein zuverlässiges Ergebnis verlassen können. Vertrauen Sie also DS Automobiles, wenn Sie eine vertrauenswürdige und verlässliche Fahrzeugbewertung wünschen. Unser professioneller Service sorgt dafür, dass die Inzahlungnahme Ihres Fahrzeugs zu einem problemlosen Erlebnis wird."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "auto-wert-dsautomobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "was-ist-mein-auto-wert",
+      "h2": "Was ist mein Auto wert?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Unser Tool analysiert den Markt und die jüngsten Transaktionen sowie das Fachwissen unserer Experten, um Ihnen eine genaue Bewertung Ihres Fahrzeugs zu liefern. Welche Information ist notwendig, um eine Schätzung zu erhalten? - Marke - Modell - Jahr der Erstzulassung - Kilometerstand"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "auto-wert-dsautomobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "erhalten-sie-das-ergebnis",
+      "h2": "Erhalten Sie das Ergebnis",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Schritt 1 Um den Wert Ihres Fahrzeugs genau zu bestimmen, füllen Sie bitte den mitgelieferten Fragebogen mit genauen Angaben aus. Mit nur wenigen Klicks und in weniger als 5 Minuten erhalten Sie den Inzahlungnahmewert Ihres Fahrzeugs. Antworten Sie einige Fragen zur Version, zum Baujahr, zum Kraftstoff und zur Motorleistung beantworten, um den Inzahlungnahmewert zu ermitteln. Schritt 2 Erhalten Sie die Fahrzeugbewertung online und per E-Mail. Sobald wir diese Daten haben, wird unser Algorithmus den Markt analysieren und Ihnen den geschätzten Wert Ihres Autos mitteilen. Sobald die Berechnung abgeschlossen ist, können Sie den geschätzten Wert Ihres Autos einsehen. Außerdem erhalten Sie einen ausführlichen Bericht mit detaillierteren Informationen. Ihr gewählter DS Automobiles-Händler wird Sie erneut kontaktieren, um einen Termin zu vereinbaren. Bei diesem Termin wird ein endgültiger Schätzwert für Ihr Fahrzeug ermittelt. Wenn Sie mit dieser Schätzung zufrieden sind, kümmert sich der Händler um die Inzahlungnahme Ihres Fahrzeugs und die dazugehörigen Papiere."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "auto-wert-dsautomobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1.Wie funktioniert die Fahrzeugbewertung meines Wagens?"
+        },
+        {
+          "text": "Die Bewertung basiert auf: Der Marke, dem Modell, dem Motor, der Ausstattung, dem Kilometerstand, dem Zulassungsdatum des Fahrzeugs, der Analyse des Automobilmarktes für die jüngsten Transaktionen mit ähnlichen Fahrzeugen und den Kosten für die Reparatur des Fahrzeugs, die sich je nach Zustand ändern können."
+        },
+        {
+          "text": "Wie funktioniert die Übernahme?"
+        },
+        {
+          "text": "Erhalten Sie einen kostenlosen Kostenvoranschlag über unseren Fragebogen - geben Sie die Daten Ihres Fahrzeugs ein und erhalten Sie sofort einen Kostenvoranschlag für die Inzahlungnahme per E-Mail. Anschließend wird sich einer unserer DS-Händler innerhalb von 48 Stunden mit Ihnen in Verbindung setzen, um einen Termin zu vereinbaren. Bei diesem Termin wird ein Experte Ihr Fahrzeug begutachten und Ihnen einen verbindlichen Inzahlungnahmewert nennen. Wenn Sie diesen akzeptieren, kümmern wir uns um die Inzahlungnahme und den damit verbundenen Papierkram. Profitieren Sie von der Expertise von Peugeot und erhalten Sie den besten Wert für Ihr Auto!"
+        },
+        {
+          "text": "Was sind die Vorteile die DS mir bietet?"
+        },
+        {
+          "text": "Bequemlichkeit und Seelenfrieden. Mit nur wenigen Klicks können Sie über unseren Online-Inzahlungnahmeservice schnell eine Schätzung des Werts Ihres Fahrzeugs von einem vertrauenswürdigen DS-Händler erhalten. Diese Schätzung ist unverbindlich und basiert auf den aktuellen Marktbedingungen und Transaktionen. Außerdem ist die Zahlung für Ihr Fahrzeug garantiert und sicher - die DS-Händler wickeln die Transaktion in aller Ruhe ab."
+        },
+        {
+          "text": "Wozu verpflichte ich mich bei der Rücknahmeschätzung?"
+        },
+        {
+          "text": "Die Bewertung des Widerrufsvorschlags von Reprise DS ist unverbindlich. Wir werden Ihnen unseren Vorschlag kostenlos innerhalb von 24 Stunden an Werktagen zukommen lassen. Dies verpflichtet Sie zu nichts. Es steht Ihnen frei, ein Treffen mit unseren DS-Spezialisten zu vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "auto-wert-dsautomobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "footer": {
+    "tagline": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Kostenlose Online Auto-bewertung",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.dsautomobiles.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "howto_name": "Was ist mein Auto Wert? → Direkt Online Antwort bei DS Automobiles",
+    "howto_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Autos in wenigen Schriten schätzen.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.dsautomobiles.de/lp/fahrzeugbewertung",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

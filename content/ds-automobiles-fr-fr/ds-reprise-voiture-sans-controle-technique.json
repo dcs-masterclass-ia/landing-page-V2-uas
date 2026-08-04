@@ -1,0 +1,191 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-voiture-sans-controle-technique",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-voiture-sans-controle-technique",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-voiture-sans-controle-technique",
+  "meta": {
+    "title": "Vendre sa voiture sans CT chez un professionnel : Reprise DS",
+    "description": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre ancien véhicule sans contrôle technique"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre ancien véhicule sans contrôle technique",
+    "lead": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Peut-on vendre une voitu",
+      "anchor": "#peut-on-vendre-une-voiture-sans-controle"
+    },
+    {
+      "label": "Reprise d'une voiture sa",
+      "anchor": "#reprise-d-une-voiture-sans-controle-tech"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "peut-on-vendre-une-voiture-sans-controle",
+      "h2": "Peut-on vendre une voiture sans contrôle technique ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La législation en vigueur (article R. 323-6 du Code de la route) stipule qu’il est possible de vendre une voiture sans CT dans seulement deux cas : - Si le véhicule a moins de 4 ans ; - S’il est vendu à un garagiste ou à un concessionnaire."
+        },
+        {
+          "text": "Les mentions « vendu dans l’état » ou « vendu sans CT » figurant parfois sur les cartes grises barrées n’ont donc aucune valeur juridique et ne pourront servir de preuve en cas de litige. Lorsque le véhicule est cédé à un professionnel, celui-ci peut se charger des formalités de contrôle technique avant la revente, après remise en état de la voiture."
+        },
+        {
+          "text": "Seuls certains véhicules dispensés peuvent être revendus sans contrôle technique : voitures sans permis, autos de collection mises en circulation avant 1960, motos, tracteurs, remorques et caravanes."
+        },
+        {
+          "text": "DS Automobiles reprend votre voiture sans contrôle technique. DS Automobiles reprend votre voiture même si son contrôle technique n’est pas à jour. En tant que professionnels de l’automobile, nous vous déchargeons de toutes les démarches. Quel que soit la marque, l’âge ou l’état de votre auto, DS Automobiles vous fait bénéficier de sa reprise sans contrôle technique. Cela signifie que vous n’avez aucune formalité à accomplir de votre côté, nous nous chargeons de tout. Vous économisez le prix du contrôle technique et par la même occasion les frais engendrés par d’éventuelles réparations. Opter pour une reprise sans contrôle technique chez DS Automobiles, c’est s’assurer d’une grande sérénité notamment si votre véhicule a plus de quatre ans."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/atelier-ds.jpg",
+      "image_alt": "atelier DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "reprise-d-une-voiture-sans-controle-tech",
+      "h2": "Reprise d'une voiture sans contrôle technique, mais toujours au prix le plus juste",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le fait de reprendre votre voiture sans contrôle technique ne signifie pas pour autant qu’il le sera à un tarif inférieur. DS Automobiles reprend votre voiture au prix le plus juste du marché, c’est-à-dire au plus près de la cote du moment, grâce à des collaborateurs formés pour une expertise juste et réelle. En tant que particulier, vous ne pourrez pas vendre votre voiture à un autre particulier sans contrôle technique. En vous adressant à un professionnel comme DS Automobiles, vous optez pour la simplicité. Même si son contrôle technique n’est pas à jour, votre véhicule pourra parfois être repris au-dessus de sa cote si son état le justifie."
+        },
+        {
+          "text": "Une transaction facile et rapide. Simplifiez-vous la vie grâce à la reprise sans CT proposée par DS Automobiles. Pas de contrôle technique à passer et d’éventuelle revisite, pas d’annonce à publier, pas de rendez-vous non honorés, pas de négociation interminable à la baisse, pas de formalité administrative..."
+        },
+        {
+          "text": "Nos transactions sont rapides, fiables et faciles. Si de surcroît vous optez pour une DS neuve, vous pourrez bénéficier de conditions préférentielles en fonction du modèle choisi. Profitez par exemple des offres de reprise spéciales DS Automobiles et profitez également d’une prime additionnelle si vous souhaitez faire reprendre votre véhicule de marque haut de gamme. Enfin, si vous êtes déjà client DS vous pouvez profiter de bonus de renouvellement. Si le fait de devoir passer votre contrôle technique pour vendre votre voiture constitue un obstacle pour vous, venez consulter les offres de Reprise DS et ne vous souciez plus de celui-ci."
+        },
+        {
+          "text": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/atelier-ds.jpg",
+      "image_alt": "atelier DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendre sa voiture sans CT chez un professionnel : Reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Pour la reprise d'une voiture sans contrôle technique, vous n'aurez d'autre choix que de passer par un professionnel comme DS Automobiles.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-voiture-sans-controle-technique",
+    "medias_trouves": 2,
+    "blocs_detectes": 2,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

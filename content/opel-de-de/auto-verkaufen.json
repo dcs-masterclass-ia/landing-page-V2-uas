@@ -1,0 +1,216 @@
+{
+  "page_key": "opel-de-de__lp-auto-verkaufen",
+  "brand": "opel",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.opel-kauft-dein-auto.de",
+  "slug": "/lp/auto-verkaufen",
+  "source_v1": "https://www.opel-kauft-dein-auto.de/lp/auto-verkaufen",
+  "meta": {
+    "title": "► Dein Auto jetzt verkaufen | Direkt Online-Angebot von Opel ✓​",
+    "description": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "site_name": "Opel DE",
+    "author": "Opel DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Verkaufe dein Auto in wenigen Schritten!"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Verkaufe dein Auto in wenigen Schritten!",
+    "lead": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "subnav": [
+    {
+      "label": "Möchtest du dein Auto ve",
+      "anchor": "#mochtest-du-dein-auto-verkaufen"
+    },
+    {
+      "label": "Möchtest du dein Auto ve",
+      "anchor": "#mochtest-du-dein-auto-verkaufen-so-funkt"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "mochtest-du-dein-auto-verkaufen",
+      "h2": "Möchtest du dein Auto verkaufen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Greife auf die Inzahlungnahme von Opel zurück. Nutze dazu einfach unseren unverbindlichen Online-Wertrechner. Somit kannst du auch das Risiko vermeiden, das mit dem Verkauf an Privatpersonen verbunden ist. Wir garantieren dir ein zuverlässiges Netzwerk und professionelle Services. Dies verhindert auch Betrug, ärgerliche Zahlungsverzögerungen und endlose Verhandlungen."
+        },
+        {
+          "text": "Erhalte die Schätzung deines Wagens einfach per E-Mail. - Vereinbare noch heute einen Termin mit einem unserer Händler vor Ort. - Du kannst selbst entscheiden, wo du dich mit welchem Händler treffen möchtest. - Die Transaktion verläuft sicher und schnell."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "mochtest-du-dein-auto-verkaufen-so-funkt",
+      "h2": "Möchtest du dein Auto verkaufen? So funktioniert’s:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Schritt 1: Fülle unseren individuell erstellten Fragebogen aus, um dein Auto zu verkaufen. Damit wir dir den besten Preis anbieten können, ist es notwendig einige Informationen mit uns zu teilen. Dieser Prozess wird dir jedoch erleichtert, mit einem unserer angepassten Fragebögen, welcher sich in nur ein paar Minuten ausfüllen lässt. Schritt 2: Lass dein Auto online schätzen. Wenn wir deine Fahrzeuginformationen erhalten haben, nutzen wir diese, um eine Marktanalyse durchzuführen. Dies versichert das Angebot des gerechtesten Preises. Sobald die Schätzung abgeschlossen ist, wird diese dir als E-Mail zugestellt. Das Angebot muss jedoch nicht zwingend angenommen werden. Der Prozess des Verkaufs kann von dir zu jeder Zeit abgebrochen oder auch fortgesetzt werden. Das Modell deines Autos wird mithilfe des Kennzeichens ermittelt, da dies der einfachste und sicherste Weg ist. Solltest du dein Kennzeichen nicht auswendig können, kannst du auch andere Informationen mit uns teilen. Hilfreiche Informationen wären zum Beispiel: die Version des Wagens, die Farbe, das MEC-Jahre, der Kraftstoff, die Motorleistung oder die Ausstattung. Schritt 3: Das finale Treffen mit einem unserer Händler. Wenn die vorherigen Schritte alle durchgeführt wurden, kannst du dir aussuchen, mit welchem unserer Opel Händlern du dich gerne treffen würdest, um dein Auto zu verkaufen. Dieser wird dich dann für das persönliche Treffen kontaktieren, bei welchem dein Fahrzeug inspiziert und dir der endgültige Eintauschpreis vorgeschlagen wird. Wenn dir dieser Preis zusagt, wird dein Auto direkt von uns mitgenommen und wir vollenden dann die restlichen Schritte für dich."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wie man sein Auto verkauft: Wie finden die Profis raus, wie viel mein Wagen wert ist?"
+        },
+        {
+          "text": "Es werden einige Eigenschaften des Autos in Betracht gezogen, wie zum Beispiel: - Die Marke, das Modell, der Kilometerstand, das Zulassungsdatum oder die Motorisierung. - Die jüngsten Entwicklungen des Automobilmarktes: welche Erfahrungen haben unsere Fachkräfte mit ähnlichen Modellen gemacht? - Die anfallenden Kosten der Widerinstandsetzung: wie viel Geld wird vom Endpreis abgezogen aufgrund von Schäden oder Verschleiß?"
+        },
+        {
+          "text": "Was ist in der Opel Übernahme mit enthalten?"
+        },
+        {
+          "text": "Wenn du vor dem Treffen herausfinden möchtest, wie viel dein Wagen wert ist, kannst du ihn auch online schätzen lassen. Fülle dafür einfach unseren Fragebogen in wenigen Minuten aus und erhalte deine Schätzung online und als E-Mail. Treffen mit unseren Mitarbeitern: Nachdem Ausfüllen des Fragebogens, kannst du dich entscheiden, ob du dich mit einem unserer Profis treffen möchtest, um dein Auto zu verkaufen. Du kannst dies auch tun, um mehr über den aktuellen Stand deines Wagens herauszufinden. Zurückkauf: Unser Mitarbeiter schaut sich dein Auto am Tag des Termins nochmal genau an. Danach kann dir ein verbindlicher Preis genannt werden, für den Opel dein Auto zurückkaufen würde."
+        },
+        {
+          "text": "Treffe dich mit einem Mitarbeiter, um dein Auto zu verkaufen:"
+        },
+        {
+          "text": "Wenn du mit dem geschätzten Preis aus dem online Fragebogen zufrieden bist, kannst du mithilfe der Postleitzahl deiner erwünschten Filiale einen Termin mit einem Mitarbeiter vereinbaren. Dieser wird sich in den folgenden 24 Stunden bei dir melden. Sollte dir das jedoch zu lange dauern, kannst du dich auch selbst in der Filiale melden. Dazu musst du nur die Kontaktdetails wiederholen, die du auch in dem Online-Fragebogen angegeben hast."
+        },
+        {
+          "text": "Wie du dein Geld erhältst:"
+        },
+        {
+          "text": "Wir übernehmen persönlich den Verkauf deines Autos. Je nachdem welchen unserer Händler du ausgewählt hast, erhältst du dein Geld entweder als Check oder per Banküberweisung. Was wir dir garantieren können, ist dass du dein Geld sicher und schnell erhalten wirst."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "footer": {
+    "tagline": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelDE"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opelde"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelDe"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Dein Auto jetzt verkaufen",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.opel-kauft-dein-auto.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "howto_name": "Verkaufe dein Auto in wenigen Schritten!",
+    "howto_description": "Verkaufen Sie Ihr Auto zum besten Preis: Schneller Fragebogen → kostenlose Schätzung → sicherer Verkauf",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.opel-kauft-dein-auto.de/lp/auto-verkaufen",
+    "medias_trouves": 6,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

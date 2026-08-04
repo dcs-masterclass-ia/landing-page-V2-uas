@@ -1,0 +1,244 @@
+{
+  "page_key": "opel-lu-fr__comment-ca-marche",
+  "brand": "opel",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://www.reprise.opel.lu",
+  "slug": "/comment-ca-marche",
+  "source_v1": "https://www.reprise.opel.lu/comment-ca-marche",
+  "meta": {
+    "title": "Fonctionnement",
+    "description": "Fonctionnement",
+    "site_name": "Opel LU",
+    "author": "Opel LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Vendre votre voiture avec Opel Reprise"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.opel.lu/"
+    },
+    {
+      "label": "Comment ça marche ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendre votre voiture avec Opel Reprise",
+    "lead": "Fonctionnement",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Opel Reprise",
+      "anchor": "#opel-reprise"
+    },
+    {
+      "label": "Comment est calculée la ",
+      "anchor": "#comment-est-calculee-la-valeur-de-repris"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "opel-reprise",
+      "h2": "Opel Reprise",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "OPEL REPRISE est un service en ligne qui vous permet d'obtenir gratuitement une estimation de reprise de votre voiture. Vous renseignez les détails et l'état de votre voiture et vous recevrez une estimation de reprise par email.Lorsque vous faites une demande d'estimation en ligne, vous choisissez votre point de vente Opel le plus proche de chez vous. C'est un expert Opel du point de vente sélectionné qui vous contactera pour convenir d'un rendez-vous.Lors du rendez-vous, l'un de nos experts examine, en votre présence l'état de votre voiture. Une fois votre accord confirmé, nous nous engageons à une reprise immédiate. Le paiement est garanti, sécurisé et assuré par un point de vente OPEL."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.lu/build/img/opel/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-calculee-la-valeur-de-repris",
+      "h2": "Comment est calculée la valeur de reprise ?",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La valeur de reprise est estimée en euros TTC sur la base d'observations du marché, des transactions récentes, et des informations fournies sur l'état de votre voiture.Ces éléments nous permettent de vous proposer une offre de reprise (valeur fournie à titre indicatif).A noter, une expertise physique de votre voiture sera réalisée par un point de vente Opel afin de finaliser la proposition."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Opel",
+        "Aucun engagement de votre part",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une offre de reprise en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une reprise facile et rapide"
+      ],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance",
+        "Une transaction sécurisée et rapide",
+        "Une offre de reprise ajustée"
+      ],
+      "image": "https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.opel.lu/"
+  },
+  "footer": {
+    "tagline": "Fonctionnement",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Fonctionnement",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Fonctionnement",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.opel.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Fonctionnement",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.opel.lu/comment-ca-marche",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/89/6811af64-c57d-4902-8049-2e83458c334f",
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/content-serenity.jpg",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/89/249166ba-3671-4d99-85b7-ec4ba46cbb42",
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/content-safe.jpg",
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.opel.lu/build/img/opel/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

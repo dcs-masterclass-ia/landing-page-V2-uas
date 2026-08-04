@@ -1,0 +1,240 @@
+{
+  "page_key": "alfa-romeo-be-fr__comment-ca-marche",
+  "brand": "alfa-romeo",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.alfaromeo.be",
+  "slug": "/comment-ca-marche",
+  "source_v1": "https://reprise.alfaromeo.be/comment-ca-marche",
+  "meta": {
+    "title": "Comment ça marche ? | Reprise Alfa Romeo BE",
+    "description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
+    "site_name": "Alfa Romeo BE",
+    "author": "Alfa Romeo BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Comment ça marche"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.alfaromeo.be/"
+    },
+    {
+      "label": "COMMENT ÇA MARCHE ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Comment ça marche",
+    "lead": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "subnav": [
+    {
+      "label": "Obtenez une offre de rep",
+      "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
+    },
+    {
+      "label": "Calcul de la valeur de r",
+      "anchor": "#calcul-de-la-valeur-de-reprise"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenez-une-offre-de-reprise-en-6-etapes",
+      "h2": "Obtenez une offre de reprise en 6 étapes :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Renseignez les informations du véhicule à reprendre. 2 - Obtenez votre estimation de reprise de votre véhicule. 3 - Le distributeur de votre choix vous contacte pour prendre rendez-vous. 4 - Un expert Alfa Romeo examine, en votre présence l'état de votre véhicule. 5 - Après votre accord, nous nous engageons à une reprise immédiate. 6 - Le paiement est immédiat, garanti et sécurisé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "calcul-de-la-valeur-de-reprise",
+      "h2": "Calcul de la valeur de reprise :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La valeur d'acquisition est estimée en euros TTC, sur la base du prix du marché, des transactions récentes et des informations que vous avez fournies sur l'état et les options de votre voiture. Grâce à ces informations nous pouvons vous faire une offre de reprise (la valeur estimée n'est qu'indicative). Vous serez ensuite contacté par un distributeur Alfa Romeo qui réalisera également une expertise de votre voiture pour finaliser la transaction."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "ALFA ROMEO vous propose une alternative pour éviter les mauvaises surprises et les démarches administratives."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "En seulement quelques clics, renseignez les caractéristiques de votre véhicule et recevez une estimation immédiate de sa valeur."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Notre offre de reprise vous convient ? Prenez rendez-vous avec le distributeur ALFA ROMEO de votre choix."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "footer": {
+    "tagline": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeo_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Comment ça marche ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.alfaromeo.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Alfa Romeo pour la reprise de votre voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.alfaromeo.be/comment-ca-marche",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/130/2cfb00f4-230e-4739-ba9c-da98753f85cb",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/130/d7a801db-0a7e-4c82-af11-1f818dacdffc",
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/content-fast.jpg",
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

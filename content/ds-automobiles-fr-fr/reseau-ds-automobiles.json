@@ -1,0 +1,226 @@
+{
+  "page_key": "ds-automobiles-fr-fr__reseau-ds-automobiles",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/reseau-ds-automobiles",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/reseau-ds-automobiles",
+  "meta": {
+    "title": "Reprise de votre voiture par un concessionnaire DS Automobiles",
+    "description": "Dans le réseau DS, vous pouvez faire reprendre votre véhicule quel que soit sa marque, afin de financer l'achat d'une voiture neuve ou d'occasion.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Un réseau à votre écoute"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.dsautomobiles.fr/"
+    },
+    {
+      "label": "LE RÉSEAU DS AUTOMOBILES",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Un réseau à votre écoute",
+    "lead": "Dans le réseau DS, vous pouvez faire reprendre votre véhicule quel que soit sa marque, afin de financer l'achat d'une voiture neuve ou d'occasion.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Accéder au contenu princ",
+      "anchor": "#acceder-au-contenu-principal"
+    },
+    {
+      "label": "1. Sérénité",
+      "anchor": "#1-serenite"
+    },
+    {
+      "label": "2. Rapidité",
+      "anchor": "#2-rapidite"
+    },
+    {
+      "label": "3. Sécurité",
+      "anchor": "#3-securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "acceder-au-contenu-principal",
+      "h2": "Accéder au contenu principal",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le réseau DS reprend votre véhicule quelle que soit sa marque et son kilométrage. Votre point de vente DS peut également vous proposer un véhicule neuf ou d’occasion certifié. Il vous suffit de compléter notre formulaire, vous recevrez notre offre de reprise gratuitement et immédiatement (ou sous 24 heures ouvrables maximum). Votre point de vente DS Automobiles prendra contact avec vous afin de convenir d’un rendez-vous."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/91ddf1d7-5723-4fa2-87ab-24110a22c20b",
+      "image_alt": "Homme à sa fenêtre contemplant sa DS AUTOMOBILE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-serenite",
+      "h2": "1. Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Choisir le service de reprise DS Automobiles, c’est bénéficier de notre expertise personnalisée, sans mauvaises surprises ou démarches administratives."
+        },
+        {
+          "text": "Gratuit et sans engagement, le service de reprise DS Automobiles met à votre disposition un professionnel de l’automobile pour évaluer le plus précisément possible votre véhicule, grâce à sa connaissance parfaite du marché et des récentes transactions."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/90eb55e3-9457-49ed-a666-d3bd3a920c67",
+      "image_alt": "Centre DS STORE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "2-rapidite",
+      "h2": "2. Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "En quelques minutes, renseignez en ligne les caractéristiques de votre véhicule et recevez immédiatement l’estimation la plus affinée possible de son prix."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/90eb55e3-9457-49ed-a666-d3bd3a920c67",
+      "image_alt": "Centre DS STORE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "3-securite",
+      "h2": "3. Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Si le prix de reprise estimé vous convient, prenez rendez-vous sans le DS Store de votre choix."
+        },
+        {
+          "text": "Nos experts DS Automobiles valideront, avec vous, le montant de reprise optimal pour votre véhicule et se chargeront de sa reprise et du paiement par chèque ou virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/90eb55e3-9457-49ed-a666-d3bd3a920c67",
+      "image_alt": "Centre DS STORE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Dans le réseau DS, vous pouvez faire reprendre votre véhicule quel que soit sa marque, afin de financer l'achat d'une voiture neuve ou d'occasion.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise de votre voiture par un concessionnaire DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Dans le réseau DS, vous pouvez faire reprendre votre véhicule quel que soit sa marque, afin de financer l'achat d'une voiture neuve ou d'occasion.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Dans le réseau DS, vous pouvez faire reprendre votre véhicule quel que soit sa marque, afin de financer l'achat d'une voiture neuve ou d'occasion.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/reseau-ds-automobiles",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

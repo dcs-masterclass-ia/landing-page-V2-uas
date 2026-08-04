@@ -1,0 +1,299 @@
+{
+  "page_key": "citroen-lu-fr__lp-vendez-votre-voiture",
+  "brand": "citroen",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.citroen.lu",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.citroen.lu/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture : on vous explique | Citroën",
+    "description": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "site_name": "Citroen LU",
+    "author": "Citroen LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Vendez votre voiture : Citroën vous accompagne"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.citroen.lu/"
+    },
+    {
+      "label": "vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture : Citroën vous accompagne",
+    "lead": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Vendez votre voiture : p",
+      "anchor": "#vendez-votre-voiture-pourquoi-choisir-la"
+    },
+    {
+      "label": "Vendez votre voiture : l",
+      "anchor": "#vendez-votre-voiture-les-avantages-de-no"
+    },
+    {
+      "label": "Vendre voiture facilemen",
+      "anchor": "#vendre-voiture-facilement-toutes-les-eta"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-pourquoi-choisir-la",
+      "h2": "Vendez votre voiture : pourquoi choisir la reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous souhaitez vendre votre voiture ? Reprise Peugeot, c’est une solution en ligne vous permettant d’estimer gratuitement la valeur de reprise de votre véhicule, sans engagement. Evitez les mauvaises surprises survenant parfois lors de la vente entre particuliers et préférez une option sûre, avec un professionnel du réseau Peugeot et un paiement garanti."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "vendre voiture Citroën",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-les-avantages-de-no",
+      "h2": "Vendez votre voiture : les avantages de notre service",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "● Notre estimation est 100% gratuite et sans engagement ● Recevez l’estimation de votre véhicule en ligne et par email, et décidez si cela vous convient ● Un concessionnaire près de chez vous vous rappelle pour convenir d’un rendez-vous à votre convenance ● L’offre vous convient ? Sécurisez votre transaction avec un paiement rapide"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/77f048f6-f054-4c23-b48e-6393ae9d8fa2",
+      "image_alt": "voiture Citroën roulant sur une route de campagne",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "vendre-voiture-facilement-toutes-les-eta",
+      "h2": "Vendre voiture facilement: toutes les étapes",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Etape 1: Renseignez le profil de votre véhicule Afin d’estimer le plus précisément possible la valeur de votre véhicule, notre solution a besoin de recueillir des informations essentielles sur celui-ci. Pour cela, parcourez notre questionnaire facile et rapide à renseigner. En moins de 5 minutes, vous avez votre estimation. Pour cela, débutez le questionnaire en renseignant votre numéro de plaque d’immatriculation. Grâce à votre immatriculation, nous identifions les principales caractéristiques de la voiture que vous souhaitez vendre. Pourquoi utiliser l’immatriculation ? 1. c’est plus simple : marque, modèle, catégorie, motorisation et date de première immatriculation sont préremplis. 2. c’est plus rapide, la pré-identification de votre véhicule vous économise plusieurs étapes du parcours et donc vous fait gagner du temps 3. Vous n’avez pas votre immatriculation en tête ? Pas de problème ! Répondez à quelques questions pour nous permettre d’identifier votre voiture : version, année de mise en circulation, carburant, motorisation, couleur, équipements, etc."
+        },
+        {
+          "text": "Etape 3: Votre rendez-vous avec un professionnel du réseau Peugeot Le concessionnaire Peugeot que vous avez choisi vous contactera pour prendre rendez-vous en concession et vendre votre voiture. Une fois sur place, il inspectera votre véhicule et vous proposera un prix de rachat final. Si vous êtes satisfait de ce prix, nous rachèterons immédiatement votre voiture sans que vous ayez à effectuer de démarches administratives. Nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture ?"
+        },
+        {
+          "text": "Reprise Citroën propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Citroën de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture ?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture Citroën ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-citroen-est-a-votre-portee",
+      "h2": "L'expérience Citroën est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture ?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Citroën en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Citroën vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement ?"
+        },
+        {
+          "text": "En faisant appel au réseau Citroën, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Citroën. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.citroen.lu/"
+  },
+  "footer": {
+    "tagline": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.BeLux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenbelux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenbelux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenbelux"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture : on vous explique",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.citroen.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "howto_name": "Vendez votre voiture : Citroën vous accompagne",
+    "howto_description": "Citroën vous accompagne dans la vente de votre voiture, en toute simplicité. Vendez votre voiture à nos professionnels : c’est gratuit, rapide et sûr !",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.lu/lp/vendez-votre-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.citroen.lu/build/img/citroen/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

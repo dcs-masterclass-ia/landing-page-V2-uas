@@ -1,0 +1,436 @@
+{
+  "page_key": "citroen-fr-fr__lp-leasing-social-voitures-electriques",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/leasing-social-voitures-electriques",
+  "source_v1": "https://www.reprise.citroen.fr/lp/leasing-social-voitures-electriques",
+  "meta": {
+    "title": "Leasing social 2026 : voitures électriques dès 94€/mois",
+    "description": "Leasing social 2026 : découvrez qui peut en bénéficier et profitez des offres Citroën dès 94€/mois pour rouler électrique à prix réduit !",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Tout savoir sur le leasing social : roulez électrique à petit prix test"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.citroen.fr/"
+    },
+    {
+      "label": "leasing social",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Tout savoir sur le leasing social : roulez électrique à petit prix test",
+    "lead": "Leasing social 2026 : découvrez qui peut en bénéficier et profitez des offres Citroën dès 94€/mois pour rouler électrique à prix réduit !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "En résumé",
+      "anchor": "#en-resume"
+    },
+    {
+      "label": "Sommaire :",
+      "anchor": "#sommaire"
+    },
+    {
+      "label": "Points essentiels :",
+      "anchor": "#points-essentiels"
+    },
+    {
+      "label": "Points forts principaux",
+      "anchor": "#points-forts-principaux"
+    },
+    {
+      "label": "Découvrez nos offres Cit",
+      "anchor": "#decouvrez-nos-offres-citroen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "en-resume",
+      "h2": "En résumé",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le leasing social permet de louer une voiture électrique neuve avec un loyer subventionné, des conditions avantageuses, peu ou pas d’apport et une durée maîtrisée — une solution pour rouler propre sans se ruiner."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/2/d698ee0b-b5eb-414b-ad59-b3fbbd8bbf73",
+      "image_alt": "Voiture Citroën e C3 blanche roulant dans une forêt de pins",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sommaire",
+      "h2": "Sommaire :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le leasing social est une formule de location longue durée (LLD) ou location avec option d’achat (LOA) destinée aux particuliers modestes ou aux professionnels ayant des besoins de mobilité, pour un véhicule 100 % électrique."
+        }
+      ],
+      "bullets": [
+        "Qu’est-ce que le leasing social ?",
+        "Qui peut en profiter ?",
+        "Les offres Citroën 2026",
+        "Pourquoi choisir le leasing social ?",
+        "Comment procéder ?",
+        "FAQ"
+      ],
+      "image": "https://www.citroen.fr/content/dam/citroen/master/b2c/new-electric-hub/easy_charging_2880X1620.jpg?imwidth=1920",
+      "image_alt": "femme en train de recharger sa voiture dans le cadre du leasing electrique",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "points-essentiels",
+      "h2": "Points essentiels :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour bénéficier du dispositif en 2026, il faut répondre à plusieurs critères :"
+        },
+        {
+          "text": "Venez découvrir les offres proposées par Citroën dans le cadre du leasing social électrique 2026."
+        }
+      ],
+      "bullets": [
+        "Être majeur et justifier d’un domicile en France.​",
+        "Résider à plus de 10 km de votre lieu de travail et utiliser votre véhicule personnel pour vos trajets domicile-travail.​",
+        "Parcourir plus de 8 000 km par an en voiture dans le cadre de votre activité professionnelle.​"
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "points-forts-principaux",
+      "h2": "Points forts principaux",
+      "niveau_v1": "th",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "ë-C3 YOU"
+        },
+        {
+          "text": "à partir de 94€/mois"
+        },
+        {
+          "text": "Citadine 5 places, entrée de gamme"
+        },
+        {
+          "text": "ë-C3 PLUS"
+        },
+        {
+          "text": "à partir de 151€/mois"
+        },
+        {
+          "text": "Finition PLUS, équipements enrichis"
+        },
+        {
+          "text": "SUV ë-C3 Aircross"
+        },
+        {
+          "text": "à partir de 114€/mois"
+        },
+        {
+          "text": "SUV familial compact"
+        },
+        {
+          "text": "*Hors assurance, recharge, entretien et options. Premier loyer souvent à 0 € selon offre."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "decouvrez-nos-offres-citroen",
+      "h2": "Découvrez nos offres Citroën",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le leasing social présente plusieurs avantages concrets :"
+        }
+      ],
+      "bullets": [
+        "Coût réduit : loyers mensuels maîtrisés, peu ou pas d’apport.",
+        "Mobilité propre : rouler électrique aide à réduire les émissions de CO₂, accéder aux zones où les véhicules thermiques sont restreints.",
+        "Simplicité contractuelle : offres claires, durée et kilométrage prédéfinis.",
+        "Technologie moderne : modèles récents, confort, équipements actuels."
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "voici-les-etapes-pour-beneficier-du-leas",
+      "h2": "Voici les étapes pour bénéficier du leasing social :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Vérifier votre éligibilité sur le site du gouvernement : revenus, usage, résidence, ZFE selon votre lieu de vie.",
+        "Effectuer la reprise de votre voiture dans une des concessions Citroën.",
+        "Choisir un avec le dispositif."
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "simulation-personnalisee",
+      "h2": "simulation personnalisée",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Signer le contrat de LLD ou LOA, puis prendre livraison du véhicule."
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Qu'est-ce que le leasing social électrique exactement ?"
+        },
+        {
+          "text": "C'est un dispositif porté par le Gouvernement dans le cadre des certificats d'économies d'énergie, qui permet de louer une voiture électrique neuve à un loyer fixe très inférieur au marché, avec restitution du véhicule à la fin du contrat (durée d'au moins 3 ans)."
+        },
+        {
+          "text": "2. Qui est éligible au dispositif en 2026 ?"
+        },
+        {
+          "text": "Pour être éligible, il faut :"
+        },
+        {
+          "text": "3. Quel montant de loyer puis-je attendre avec Citroën ?"
+        },
+        {
+          "text": "Selon le modèle et la finition : à partir de 94 €/mois pour la ë-C3 YOU, et à partir de 114 €/mois pour le SUV ë-C3 Aircross. Ces montants s'entendent hors prestations facultatives et peuvent varier selon les options choisies."
+        },
+        {
+          "text": "4. Faut-il verser un apport initial ?"
+        },
+        {
+          "text": "Non : le 1er loyer est ramené à 0 € après déduction de l'aide au leasing social (jusqu'à 7 000 € selon le véhicule), sous réserve d'éligibilité du locataire et du véhicule au dispositif."
+        },
+        {
+          "text": "5. Combien de temps dure le contrat ?"
+        },
+        {
+          "text": "Le contrat proposé par Citroën est une Location Longue Durée de 36 mois, avec un forfait kilométrique de 45 000 km. Le dispositif gouvernemental lui-même est prévu sur la période 2026-2031, mais le volume de véhicules étant limité à environ 50 000, il devrait se clôturer en quelques semaines comme en 2024 et 2025."
+        },
+        {
+          "text": "6. Le leasing social est-il cumulable avec d'autres aides ?"
+        },
+        {
+          "text": "Non. Une personne ayant déjà bénéficié du dispositif en 2024 ou 2025 n'est pas éligible en 2026, et un véhicule ayant déjà donné lieu à une aide ne peut pas en bénéficier une seconde fois. L'aide n'est pas non plus cumulable avec d'autres primes, comme la prime « Coup de pouce Véhicule Particulier Électrique »."
+        }
+      ],
+      "bullets": [
+        "Être majeur et justifier d'un domicile en France",
+        "Avoir un revenu fiscal de référence par part inférieur à 16 880 €",
+        "Habiter à plus de 10 km de son lieu de travail et utiliser sa voiture personnelle pour s'y rendre, ou effectuer plus de 8 000 km par an en voiture dans le cadre de son activité professionnelle",
+        "Fournir une attestation de l'employeur (salariés) ou une attestation sur l'honneur et une preuve d'affiliation à un régime de sécurité sociale (non-salariés)"
+      ],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Leasing social 2026 : découvrez qui peut en bénéficier et profitez des offres Citroën dès 94€/mois pour rouler électrique à prix réduit !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Leasing social 2026 : voitures électriques dès 94€/mois",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Leasing social 2026 : découvrez qui peut en bénéficier et profitez des offres Citroën dès 94€/mois pour rouler électrique à prix réduit !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Leasing social 2026 : découvrez qui peut en bénéficier et profitez des offres Citroën dès 94€/mois pour rouler électrique à prix réduit !",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/leasing-social-voitures-electriques",
+    "medias_trouves": 9,
+    "blocs_detectes": 10,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

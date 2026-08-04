@@ -1,0 +1,226 @@
+{
+  "page_key": "alfa-romeo-it-it__lp-vendita-auto-usate",
+  "brand": "alfa-romeo",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.alfaromeo.it",
+  "slug": "/lp/vendita-auto-usate",
+  "source_v1": "https://www.valutazioneusato.alfaromeo.it/lp/vendita-auto-usate",
+  "meta": {
+    "title": "Auto usate con Alfa Romeo – una vendita senza preoccupazioni",
+    "description": "La permuta Alfa Romeo è la soluzione ideale per vendere la tua auto usata. Nostra valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo.",
+    "site_name": "Alfa Romeo IT",
+    "author": "Alfa Romeo IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "La valutazione Alfa Romeo è la soluzione ideale per vendere la tua auto usata"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.alfaromeo.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.alfaromeo.it/ "
+    },
+    {
+      "label": "Vendita auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "La valutazione Alfa Romeo è la soluzione ideale per vendere la tua auto usata",
+    "lead": "La permuta Alfa Romeo è la soluzione ideale per vendere la tua auto usata. Nostra valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.alfaromeo.it/"
+  },
+  "subnav": [
+    {
+      "label": "Vendita auto usate: valu",
+      "anchor": "#vendita-auto-usate-valutazione-gratuita-"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    },
+    {
+      "label": "Quali sono i vantaggi de",
+      "anchor": "#quali-sono-i-vantaggi-dell-utilizzo-del-"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-valutazione-gratuita-",
+      "h2": "Vendita auto usate: valutazione gratuita e senza obbligo",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Con la valutazione gratuita e senza obbligo di acquisto, potrai vendere il tuo veicolo in modo sicuro e garantito. Inoltre, potrai beneficiare di una valutazione della permuta in pochi clic, di un appuntamento veloce con il concessionario di tua scelta, dell'esperienza di un professionista autorizzato per la diagnosi e il riacquisto del tuo veicolo e di un pagamento rapido e sicuro. La descrizione accurata del tuo veicolo è un passo fondamentale nella fase di permuta. Per semplificare questo processo, ti offriamo la possibilità di compilare un breve questionario che richiederà solo 5 minuti del tuo tempo. Sarà sufficiente fornire le informazioni essenziali sul tuo veicolo, in modo da ottenere una valutazione precisa e dettagliata."
+        },
+        {
+          "text": "Se hai a disposizione il libretto di circolazione, potrai trovare la maggior parte delle informazioni richieste senza difficoltà. Questo documento ti fornirà dettagli come la marca, il modello, l'anno di immatricolazione e altre caratteristiche importanti del tuo veicolo. Inoltre, ricorda di annotare accuratamente il chilometraggio del tuo veicolo, poiché questo dato influenzerà la valutazione finale. Se non hai a portata di mano il libretto di circolazione, non preoccuparti. Possiamo identificare il tuo veicolo anche in base al modello e ad altre informazioni che ci fornirai. Il nostro obiettivo è rendere il processo di descrizione del veicolo il più semplice e rapido possibile, in modo da risparmiare tempo e ottenere una valutazione accurata. Quindi, prenditi solo qualche minuto per compilare il questionario e fornire le informazioni richieste. Questo passo fondamentale ci permetterà di avere una visione completa del tuo veicolo e di procedere con una valutazione precisa. Grazie alla tua collaborazione, potremo offrirti una permuta Alfa Romeo senza inconvenienti, basata su dati affidabili e una descrizione dettagliata del tuo veicolo"
+        },
+        {
+          "text": "Il nostro team di esperti nel settore automobilistico sarà al tuo fianco durante il processo di valutazione del tuo veicolo.Ti porremo alcune domande specifiche sulla tua auto, che ci aiuteranno a compilare una valutazione dettagliata e accurata. Utilizzando le informazioni fornite, combiniamo la nostra conoscenza del mercato automobilistico con le transazioni più recenti, garantendo così una stima affidabile del valore attuale del tuo veicolo. Sappiamo quanto sia importante per te ottenere una valutazione il più precisa possibile. Ci impegniamo a fornirti un'analisi dettagliata, considerando attentamente ogni aspetto che può influire sul valore della tua auto, come la marca, il modello, l'anno di produzione, la chilometraggio e le condizioni generali. Questa valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo, consentendoti di prendere una decisione informata sulla sua vendita. Avrai il controllo totale sulla tua scelta: se decidi di vendere, sarai sicuro di ricevere un prezzo equo basato sulle condizioni effettive del tuo veicolo. La procedura di valutazione che offriamo è priva di obblighi, il che significa che non sei vincolato a procedere con la vendita se non sei completamente soddisfatto del valore stimato."
+        },
+        {
+          "text": "Potrai utilizzare le informazioni ottenute per valutare attentamente le tue opzioni, decidendo se vendere il tuo veicolo o tenerlo ancora per un po'. Siamo qui per guidarti lungo il percorso e fornirti tutte le informazioni necessarie per prendere la decisione giusta per te e la tua auto. La tua soddisfazione è la nostra priorità assoluta, e faremo tutto il possibile per assicurarci che tu sia informato e confortevole durante l'intero processo di valutazione. Grazie alla nostra attenta e approfondita valutazione, puoi essere sicuro di ottenere un prezzo equo e vicino al valore di mercato per la tua auto usata. Non c'è alcun obbligo da parte tua di procedere con la vendita, ma se decidi di farlo, sarai contattato direttamente da un concessionario di tua scelta. L'appuntamento fissato con il concessionario è un'opportunità per te di avere un'esperienza di prima mano durante la valutazione finale della tua auto. Un esperto qualificato effettuerà una valutazione fisica dettagliata, prendendo in considerazione ogni aspetto importante per determinare il valore di permuta finale. Tutto ciò avverrà sotto la tua supervisione, garantendo una trasparenza totale durante il processo."
+        },
+        {
+          "text": "Se il prezzo di permuta finale offerto ti soddisfa, potrai procedere a vendere direttamente la tua auto usata al concessionario senza ulteriori complicazioni. Non dovrai preoccuparti di gestire documenti aggiuntivi o sostenere spese extra, in quanto ci occuperemo di tutte le formalità burocratiche per te. Ci impegniamo a rendere l'intero processo semplice, veloce e privo di stress, in modo che tu possa ottenere il massimo valore per il tuo veicolo con il minimo sforzo da parte tua. Siamo consapevoli che vendere un'auto può essere un'esperienza stressante e complessa, ma con la nostra soluzione di permuta, ci assicuriamo di semplificare il processo al massimo. Puoi avere la tranquillità di ottenere un prezzo equo, di gestire la vendita direttamente con un concessionario di fiducia e di evitare l'incertezza e le preoccupazioni legate alle vendite private. In definitiva, il nostro obiettivo è fornirti un'esperienza di vendita senza problemi, consentendoti di ottenere il massimo valore per il tuo veicolo in modo rapido e sicuro. Affidati a noi per la permuta della tua auto usata e lascia che ci occupiamo di tutto il processo, garantendoti un'esperienza positiva e soddisfacente."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/157/d0f80cb3-ebab-4bea-b3fd-bf4054a7f6ed",
+      "image_alt": "Ottieni rapidamente un preventivo con Alfa Romeo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Alfa Romeo ?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Alfa Romeo scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Alfa Romeo valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.alfaromeo.it/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "quali-sono-i-vantaggi-dell-utilizzo-del-",
+      "h2": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Alfa Romeo",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Alfa Romeo sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Alfa Romeo."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Alfa Romeo non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Alfa Romeo per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Alfa Romeo?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.alfaromeo.it/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.alfaromeo.it/"
+  },
+  "footer": {
+    "tagline": "La permuta Alfa Romeo è la soluzione ideale per vendere la tua auto usata. Nostra valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/AlfaRomeoIT/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/AlfaRomeoIT"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeoitaliaofficial/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto usate con Alfa Romeo – una vendita senza preoccupazioni",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "La permuta Alfa Romeo è la soluzione ideale per vendere la tua auto usata. Nostra valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.alfaromeo.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "La permuta Alfa Romeo è la soluzione ideale per vendere la tua auto usata. Nostra valutazione completa ti fornirà una visione chiara del valore di mercato del tuo veicolo.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.alfaromeo.it/lp/vendita-auto-usate",
+    "medias_trouves": 8,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.alfaromeo.it/build/img/alfa_romeo/chevron-up-home.s",
+      "image sans alt en V1 : https://www.valutazioneusato.alfaromeo.it/build/img/alfa_romeo/chevron-up-home.s",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

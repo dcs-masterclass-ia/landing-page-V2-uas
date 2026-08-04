@@ -1,0 +1,349 @@
+{
+  "page_key": "citroen-fr-fr__lp-prime-conversion",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/prime-conversion",
+  "source_v1": "https://www.reprise.citroen.fr/lp/prime-conversion",
+  "meta": {
+    "title": "Prime à la conversion : offres et conditions - Reprise Citroën",
+    "description": "Grâce à la prime à la conversion gouvernementale, particuliers et professionnels bénéficient d’une prime pour la reprise d’un véhicule ancien lors de d’un véhicule neuf ou d’occasion.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "LA PRIME À LA CONVERSION CHEZ CITROËN"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "LA PRIME À LA CONVERSION CHEZ CITROËN",
+    "lead": "Grâce à la prime à la conversion gouvernementale, particuliers et professionnels bénéficient d’une prime pour la reprise d’un véhicule ancien lors de d’un véhicule neuf ou d’occasion.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "La prime à la conversion",
+      "anchor": "#la-prime-a-la-conversion-gouvernementale"
+    },
+    {
+      "label": "• les véhicules essence ",
+      "anchor": "#les-vehicules-essence-immatricules-avant"
+    },
+    {
+      "label": "• Il possède le véhicule",
+      "anchor": "#il-possede-le-vehicule-depuis-au-moins-u"
+    },
+    {
+      "label": "À quel montant s'élève l",
+      "anchor": "#a-quel-montant-s-eleve-la-prime"
+    },
+    {
+      "label": "• le type de véhicule ac",
+      "anchor": "#le-type-de-vehicule-achete"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "la-prime-a-la-conversion-gouvernementale",
+      "h2": "La prime à la conversion gouvernementale : le fonctionnement",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La prime à la conversion vise à accélérer le renouvellement du parc automobile français."
+        },
+        {
+          "text": "Le principe de la prime (anciennement surnommée prime à la casse) est d’aider à acquérir un nouveau véhicule, neuf ou d’occasion, plus respectueux des normes environnementales actuelles que le modèle plus ancien dont vous allez vous débarrasser. Les particuliers et les professionnels peuvent en bénéficier du moment que la voiture ou la camionnette concernée n’excède pas 3,5 tonnes en charge."
+        },
+        {
+          "text": "Dans le cadre de la prime à la conversion 2022, les véhicules concernés sont :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-vehicules-essence-immatricules-avant",
+      "h2": "• les véhicules essence immatriculés avant 2006",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Concrètement, la prime à la conversion 2022 s’applique à votre foyer, imposable ou non."
+        },
+        {
+          "text": "Sachez que d’autres conditions s’appliquent concernant l’ancien véhicule. La prime à la conversion en effet pour but général la réduction de l’émission de gaz polluants en remplaçant les anciens moteurs par de nouveaux. Les anciens doivent donc être détruits, ce qui est possible si :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "il-possede-le-vehicule-depuis-au-moins-u",
+      "h2": "• Il possède le véhicule depuis au moins un an",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "• Le véhicule est assuré avec un contrat valide et n’a pas été déclaré « épave ». Par contre, il peut ne pas avoir passé le contrôle technique."
+        },
+        {
+          "text": "Vous disposez d'un délai de 6 mois à compter de la date de facturation de votre nouveau véhicule pour déposer votre demande."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "a-quel-montant-s-eleve-la-prime",
+      "h2": "À quel montant s'élève la prime ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le montant de l’aide est fixé grâce à un barème précis qui prend en compte :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "le-type-de-vehicule-achete",
+      "h2": "• le type de véhicule acheté",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La prime à la conversion s’applique uniquement aux véhicules dont le taux d'émission de CO2 est inférieur ou égale à 137g/km."
+        },
+        {
+          "text": "Au final, l’aide est plus généreuse que sa version précédente et va de 1 500 à 5 000 €"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "primealaconversion-gouv-fr",
+      "h2": "primealaconversion.gouv.fr",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Avec Citroën, lorsque nous vous faisons une offre de reprise et que vous souhaitez acquérir dans l’une de nos concessions un autre véhicule répondant aux critères d’éligibilité, nous ajoutons la prime à l’estimation que nous faisons de la valeur de votre ancienne voiture."
+        },
+        {
+          "text": "Notez que prime à la conversion et bonus écologique sont 2 choses différentes et cumulables jusqu’à 12 000 € pour l’achat d’une voiture électrique neuve. En effet la prime concerne la reprise d’un ancien véhicule, tandis que le bonus écologique ne dépend pas d’une reprise mais simplement du respect de normes environnementales d’un véhicule acheté neuf ou en location de longue durée (2 ans et plus)."
+        },
+        {
+          "text": "Citroën se charge de l’ensemble des démarches pour vous faire bénéficier de la prime à la conversion et vous avance le montant ou le déduit du loyer si vous optez pour une LOA ou LDD. Vous pourrez ainsi acquérir un véhicule plus respectueux de l’environnement et probablement moins gourmand en carburant, ce qui vous aidera à réaliser des économies."
+        },
+        {
+          "text": "La prime à la conversion est accessible à tous depuis le 1er janvier 2018 : découvrez les offres Citroën et les conditions dans le cadre de la reprise de votre ancien véhicule pour l'achat d'un véhicule neuf ou d'occasion"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Grâce à la prime à la conversion gouvernementale, particuliers et professionnels bénéficient d’une prime pour la reprise d’un véhicule ancien lors de d’un véhicule neuf ou d’occasion.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Prime à la conversion : offres et conditions - Reprise Citroën",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Grâce à la prime à la conversion gouvernementale, particuliers et professionnels bénéficient d’une prime pour la reprise d’un véhicule ancien lors de d’un véhicule neuf ou d’occasion.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Grâce à la prime à la conversion gouvernementale, particuliers et professionnels bénéficient d’une prime pour la reprise d’un véhicule ancien lors de d’un véhicule neuf ou d’occasion.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/prime-conversion",
+    "medias_trouves": 8,
+    "blocs_detectes": 8,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "6 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

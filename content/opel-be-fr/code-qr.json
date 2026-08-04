@@ -1,0 +1,152 @@
+{
+  "page_key": "opel-be-fr__code-qr",
+  "brand": "opel",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://www.reprise.opel.be",
+  "slug": "/code-qr",
+  "source_v1": "https://www.reprise.opel.be/code-qr",
+  "meta": {
+    "title": "Page non trouvée",
+    "description": "TODO_ARBITRAGE",
+    "site_name": "Opel BE",
+    "author": "Opel BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Page non trouvée"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "href": "https://www.reprise.opel.be"
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Page non trouvée",
+    "lead": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "subnav": [
+    {
+      "label": "404",
+      "anchor": "#404"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "404",
+      "h2": "404",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La page que vous recherchez n existe pas. Retournons ensemble vers nos dernières innovations automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "footer": {
+    "tagline": "TODO_ARBITRAGE",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Page non trouvée",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "TODO_ARBITRAGE",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.opel.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "TODO_ARBITRAGE",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.opel.be/code-qr",
+    "medias_trouves": 0,
+    "blocs_detectes": 1,
+    "notes": [
+      "meta description absente en V1",
+      "fil d'Ariane introuvable",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "pied de page introuvable",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

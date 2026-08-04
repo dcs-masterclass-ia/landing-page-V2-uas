@@ -1,0 +1,259 @@
+{
+  "page_key": "opel-it-it__lp-valutazione-auto-usate",
+  "brand": "opel",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.opel.it",
+  "slug": "/lp/valutazione-auto-usate",
+  "source_v1": "https://www.valutazioneusato.opel.it/lp/valutazione-auto-usate",
+  "meta": {
+    "title": "Valutazione auto usate online, in modo semplice e senza impegno → OPEL",
+    "description": "La valutazione online delle auto usate è un modo semplice e senza impegno per ottenere un'offerta di permuta gratuita per il tuo veicolo",
+    "site_name": "Opel IT",
+    "author": "Opel IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Valutazione auto usate online, in modo semplice e senza impegno"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Valutazione auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Valutazione auto usate online, in modo semplice e senza impegno",
+    "lead": "La valutazione online delle auto usate è un modo semplice e senza impegno per ottenere un'offerta di permuta gratuita per il tuo veicolo",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "subnav": [
+    {
+      "label": "Scegliere la permuta Ope",
+      "anchor": "#scegliere-la-permuta-opel-ti-garantisce"
+    },
+    {
+      "label": "Fase 1",
+      "anchor": "#fase-1"
+    },
+    {
+      "label": "Fase 3",
+      "anchor": "#fase-3"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    },
+    {
+      "label": "Quali sono i vantaggi de",
+      "anchor": "#quali-sono-i-vantaggi-dell-utilizzo-del-"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "scegliere-la-permuta-opel-ti-garantisce",
+      "h2": "Scegliere la permuta Opel ti garantisce:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "• Una stima online completamente gratuita, che puoi ottenere in pochi clic senza spendere nulla. • Una stima affidabile basata su osservazioni di mercato e transazioni recenti. • L'esperienza della rete Opel al tuo servizio per il ritiro del veicolo. Non hai alcun obbligo, ma se vuoi rivenderlo, mettiamo tutta la nostra rete al tuo servizio. Il processo di valutazione è semplice e veloce. Ti permette di far valutare la tua auto usata da un professionista del settore, che si basa su osservazioni di mercato e transazioni recenti per fornirti una stima precisa del valore della tua auto. Per procedere alla valutazione della tua auto usata, avrai bisogno di alcune informazioni precise, tra cui il libretto di circolazione dell'auto, il chilometraggio e un elenco dei difetti dell'auto."
+        },
+        {
+          "text": "Prima di iniziare la valutazione della tua auto usata, assicurati di avere a disposizione: • Il libretto di circolazione dell'auto • Il chilometraggio dell'auto • L'elenco dei difetti dell'auto (décla dégats selon marque). Per ottenere una valutazione precisa del valore della tua auto usata, segui i tre semplici passaggi indicati di seguito: : Fornisci le informazioni necessarie per la valutazione della tua auto usata Per ottenere una stima accurata del valore della tua auto, dovrai rispondere a una serie di domande. La compilazione richiederà meno di 5 minuti! Dovrai fornire il libretto di circolazione per identificare il modello della tua auto. Puoi fornirci alcune informazioni sul modello, come la versione, l'anno di immatricolazione, il tipo di carburante e la potenza del motore."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "fase-1",
+      "h2": "Fase 1",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": ": Ricevi la valutazione della tua auto usata online e via e-mail Una volta che hai fornito tutte le informazioni necessarie, analizzeremo il mercato per fornirti un prezzo accurato. Questa valutazione ti verrà inviata via e-mail. Il preventivo è completamente gratuito e senza alcun obbligo da parte tua. : Incontro faccia a faccia con un professionista della rete Opel Dopo la valutazione, un concessionario Opel ti contatterà per fissare un appuntamento e fornirti un preventivo definitivo per il tuo veicolo. Se sei soddisfatto della valutazione, il concessionario si occuperà della permuta del tuo veicolo senza alcun costo amministrativo per te."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "fase-3",
+      "h2": "Fase 3",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "• Valutazione auto usate online completamente gratuita: non ci sono costi nascosti! Puoi valutare la tua auto direttamente sul nostro sito web, gratuitamente. • Valutazione valida per 10 giorni: se hai bisogno di più tempo per decidere, non c'è problema! Il preventivo è valido per 10 giorni. • Rete di oltre 250 punti vendita Opel in Italia per il ritiro dell'auto: grazie alla nostra vasta rete, il ritiro dell'auto non è mai stato così facile. • Valutazione rapida dell'auto - ricevi il prezzo immediatamente: non è necessario aspettare! Appena avrai completato il modulo, riceverai la valutazione del valore della tua auto usata."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Opel?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Opel scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Opel valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "quali-sono-i-vantaggi-dell-utilizzo-del-",
+      "h2": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Opel",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Opel sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Opel."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Opel non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Opel per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Opel?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "footer": {
+    "tagline": "La valutazione online delle auto usate è un modo semplice e senza impegno per ottenere un'offerta di permuta gratuita per il tuo veicolo",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Opel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opelitalia"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opelitalia/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/opelitalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate online, in modo semplice e senza impegno → OPEL",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "La valutazione online delle auto usate è un modo semplice e senza impegno per ottenere un'offerta di permuta gratuita per il tuo veicolo",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.opel.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "La valutazione online delle auto usate è un modo semplice e senza impegno per ottenere un'offerta di permuta gratuita per il tuo veicolo",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.opel.it/lp/valutazione-auto-usate",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

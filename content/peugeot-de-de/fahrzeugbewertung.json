@@ -1,0 +1,256 @@
+{
+  "page_key": "peugeot-de-de__lp-fahrzeugbewertung",
+  "brand": "peugeot",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.peugeot.de",
+  "slug": "/lp/fahrzeugbewertung",
+  "source_v1": "https://www.autoankauf.peugeot.de/lp/fahrzeugbewertung",
+  "meta": {
+    "title": "► Kostenlose Fahrzeugbewertung | Was ist Ihr Auto Wert? ✔",
+    "description": "Errmitteln Sie den Wert Ihres Autos mit dem Online-tool von Peugeot → 100% Sicher, schnell und kostenlos",
+    "site_name": "Peugeot DE",
+    "author": "Peugeot DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": ""
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "",
+    "lead": "Errmitteln Sie den Wert Ihres Autos mit dem Online-tool von Peugeot → 100% Sicher, schnell und kostenlos",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "subnav": [
+    {
+      "label": "Berechnen Sie mein Einta",
+      "anchor": "#berechnen-sie-mein-eintauschangebot"
+    },
+    {
+      "label": "Warum sollten Sie Ihr Au",
+      "anchor": "#warum-sollten-sie-ihr-auto-auf-unserer-w"
+    },
+    {
+      "label": "Wie funktioniert die Bew",
+      "anchor": "#wie-funktioniert-die-bewertung-ihres-aut"
+    },
+    {
+      "label": "Ihr Fahzeugbewertung: Wi",
+      "anchor": "#ihr-fahzeugbewertung-wie-funktioniert-es"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "berechnen-sie-mein-eintauschangebot",
+      "h2": "Berechnen Sie mein Eintauschangebot",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wenn Sie sich für die Inzahlungnahme Ihres Autos und seine Bewertung durch PEUGEOT entscheiden, haben Sie die Garantie, dass : • Kostenlose Bewertung über einen Online-Parcours: Ermitteln Sie den Wert Ihres Autos ganz einfach von überall aus und ohne Kosten. • Eine zuverlässige Bewertung, die auf der Analyse des Marktes und der jüngsten Transaktionen basiert • Profitieren Sie von einem Netz von Peugeot-Experten, die Ihnen bei der Inzahlungnahme Ihres Autos zur Verfügung stehen. Alles wird getan, um Ihnen beim Wiederverkauf Ihres Autos zu helfen, indem wir Ihnen einen unverbindlichen Vorgang garantieren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/851094ca-b38f-4e55-8d56-1d01df021980",
+      "image_alt": "bewerten",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "warum-sollten-sie-ihr-auto-auf-unserer-w",
+      "h2": "Warum sollten Sie Ihr Auto auf unserer Website bewerten?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wir stellen Ihnen ein Tool zur Verfügung, mit dem Sie Ihr Fahrzeug schätzen können. Es basiert auf der Analyse des Marktes und der jüngsten Transaktionen sowie auf dem Know-how unserer Fachleute. Um den Wert Ihres Autos genau zu ermitteln, benötigen wir eine Reihe von Informationen. Diese können Sie ganz einfach und schnell wie folgt ausfüllen:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-funktioniert-die-bewertung-ihres-aut",
+      "h2": "Wie funktioniert die Bewertung Ihres Autos?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Liste der erforderlichen Elemente : • Marke Ihres Autos • Modell Ihres Autos • Jahr der erstzulassung • Der Kilometerstand Ihres Autos... Erhalten Sie die Bewertung für Ihr Auto in nur drei Schritten : Schritt 1. Füllen Sie alle Informationen aus, die Sie für die Bewertung Ihres Autos benötigen. Um Ihr Auto zu bewerten, beantworten Sie bitte den angebotenen Fragebogen so wahrheitsgetreu wie möglich. Erhalten Sie den Eintauschwert mit wenigen Klicks und in weniger als 5 Minuten. Schritt 2: Erhalten Sie die Bewertung Ihres Autos online und per E-Mail Schritt 3: Vereinbaren Sie einen Termin mit einem Fachmann des Peugeot-Netzes."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ihr-fahzeugbewertung-wie-funktioniert-es",
+      "h2": "Ihr Fahzeugbewertung: Wie funktioniert es?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "• 100 % kostenlose Online-Autobewertung : Sie können den Eintauschwert Ihres Fahrzeugs schnell und ohne Kosten ermitteln Dank der Kompetenzen des PEUGEOT-Netzes können Sie sicher sein, dass Sie eine professionelle und zuverlässige Bewertung erhalten. • 10 Tage lang gültiges Angebot: Sie möchten sich Zeit zum Nachdenken nehmen? Seien Sie beruhigt! Ihre Schätzung bleibt 10 Tage lang gültig. • Ein großes Netz, um Ihr Auto überall in Deutschland in Zahlung zu geben: Mit zahlreichen Verkaufsstellen ist das PEUGEOT-Netzwerk der beste Weg, Ihr Auto einfach in Zahlung zu geben. • Schnelle Autobewertung - Erhalten Sie Ihren Eintauschwert sofort! Sobald Sie den Fragebogen zu Ihrem Fahrzeug ausgefüllt haben, erfahren Sie, wie hoch der Preis für Ihr Fahrzeug ist."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "WIE WIRD DER SCHÄTZWERT FÜR DIE RÜCKNAHME MEINES AUTOS BERECHNET?"
+        },
+        {
+          "text": "Die Bewertung basiert auf : - Die Attribute Ihres Fahrzeugs: Marke, Modell, Motorisierung, Ausstattung, Kilometerstand, Zulassungsdatum. - Die Analyse des Automobilmarktes: jüngste Transaktionen, die von Fachleuten mit ähnlichen Fahrzeugen durchgeführt wurden. - Eine Berechnung der Kosten für die Instandsetzung Ihres Autos. Diese Kosten entwickeln sich je nach dem tatsächlich festgestellten Zustand des Fahrzeugs."
+        },
+        {
+          "text": "WIE FUNKTIONIERT DIE ÜBERNAHME DURCH PEUGEOT?"
+        },
+        {
+          "text": "Kostenlose Online-Bewertung: Erhalten Sie eine kostenlose Online-Bewertung, indem Sie unseren Fragebogen mit Ihren Fahrzeugdaten ausfüllen. Sie erhalten sofort eine Eintauschschätzung für Ihr Auto, die Ihnen auch per E-Mail zugesandt wird. Erhalten Sie einen Termin : Nach dieser Bewertung werden Sie innerhalb von 48 Stunden von dem von Ihnen ausgewählten Peugeot-Händler kontaktiert, um einen Termin zu vereinbaren. Er wird dann eine endgültige Bewertung Ihres Fahrzeugs vornehmen. Wenn Sie mit dieser Bewertung zufrieden sind, übernimmt Ihr Peugeot-Händler die Inzahlungnahme Ihres Fahrzeugs und die damit verbundenen administrativen Schritte! Profitieren Sie von der Peugeot Expertise: Während des Termins wird ein Experte vor Ihnen den Zustand des Fahrzeugs prüfen und Ihnen einen verbindlichen Inzahlungnahmepreis vorschlagen. Wenn wir uns einig werden, kaufen wir Ihr Auto zurück. WELCHE DOKUMENTE UND INFORMATIONEN SIND ERFORDERLICH, UM MEIN AUTO VON PEUGEOT BEWERTEN ZU LASSEN? Um den Wert Ihres Autos zu schätzen, benötigen Sie Folgendes: - Den Fahrzeugschein Ihres Autos, um die Zulassung Ihres Fahrzeugs zu erklären - Der Kilometerstand Ihres Autos Außerdem müssen Sie Angaben zum allgemeinen Zustand des Autos machen: Farbe, Karosserie, Ausstattung etc."
+        },
+        {
+          "text": "WELCHE VORTEILE HAT ES, DEN PEUGEOT-RÜCKNAHMEDIENST ZU NUTZEN?"
+        },
+        {
+          "text": "Schnelligkeit. Mit nur wenigen Klicks erhalten Sie die Bewertung des Wertes Ihres Fahrzeugs per E-Mail. Diese Eintauschschätzung ist unverbindlich. Gelassenheit - Keine bösen Überraschungen. Wenn Sie den Peugeot Rücknahme-Service in Anspruch nehmen, erhalten Sie eine Schätzung des Wertes Ihres Fahrzeugs von einem professionellen Automobilhändler. Jedes Fahrzeug wird auf der Grundlage von Marktbeobachtungen und jüngsten Transaktionen bewertet. - Sicherheit. Die Bezahlung Ihres Fahrzeugs ist garantiert und sicher. Bei der Transaktion wird die Bezahlung des Fahrzeugs durch einen Peugeot-Händler sichergestellt."
+        },
+        {
+          "text": "WOZU VERPFLICHTET MICH EINE RÜCKNAHMESCHÄTZUNG?"
+        },
+        {
+          "text": "Auto Bewertung von Peugeot ist unverbindlich. Sie erhalten unseren Vorschlag kostenlos innerhalb von 24 Stunden an Werktagen. Dies verpflichtet Sie zu nichts. Es steht Ihnen frei, einen Termin mit unseren Peugeot-Experten zu vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "footer": {
+    "tagline": "Errmitteln Sie den Wert Ihres Autos mit dem Online-tool von Peugeot → 100% Sicher, schnell und kostenlos",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/peugeotdeutschland\n"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/peugeotde?lang=de"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PEUGEOTdeutschland"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Kostenlose Fahrzeugbewertung",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Errmitteln Sie den Wert Ihres Autos mit dem Online-tool von Peugeot → 100% Sicher, schnell und kostenlos",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.peugeot.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Errmitteln Sie den Wert Ihres Autos mit dem Online-tool von Peugeot → 100% Sicher, schnell und kostenlos",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.peugeot.de/lp/fahrzeugbewertung",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

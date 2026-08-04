@@ -1,0 +1,188 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-prime-de-reprise",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-prime-de-reprise",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-prime-de-reprise",
+  "meta": {
+    "title": "Prime de reprise sur votre véhicule diesel ou essence avec DS Reprise",
+    "description": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Prime de reprise DS"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Prime de reprise DS",
+    "lead": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Les avantages de la repr",
+      "anchor": "#les-avantages-de-la-reprise-ds-automobil"
+    },
+    {
+      "label": "Les différentes primes d",
+      "anchor": "#les-differentes-primes-de-reprise-ds-aut"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "les-avantages-de-la-reprise-ds-automobil",
+      "h2": "Les avantages de la reprise DS Automobiles",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Bénéficiez de nombreux avantages en effectuant la reprise d’un véhicule diesel ou essence sur notre site de reprise DS Automobiles. La transaction est souvent plus rapide que dans le cas d’une vente directe à un particulier et le montant de la vente parfois supérieur."
+        },
+        {
+          "text": "Oubliez le parcours parfois semé d’embûches que peut constituer la vente. Vendre soi-même une voiture ne peut se faire qu’à condition que le Contrôle Technique (CT) soit valide et date de moins de six mois. Un véhicule non roulant ou dont le Contrôle Technique n’est plus à jour ne pourra être vendu comme tel ou en l’état à un particulier. Vendre soi-même son véhicule nécessite également de poster de nombreuses annonces, de réaliser soi-même les démarches administratives liées à la cession. Par ailleurs, vous risquez d’être confronté à des négociateurs exigeants, voire indélicats. Retards de paiement, acheteurs « fantômes » et négociations à la baisse peuvent rapidement compliquer une vente et allonger les délais."
+        },
+        {
+          "text": "La reprise DS Automobiles ne pose aucun de ces problèmes : votre voiture sera estimée et payée sous huit jours ouvrables, cela quel que soit son âge et son état."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS7-crossback.jpg",
+      "image_alt": "DS 7 crossback concession",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "les-differentes-primes-de-reprise-ds-aut",
+      "h2": "Les différentes primes de reprise DS Automobiles.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "DS Automobiles rachète votre ancien véhicule et peut vous faire bénéficier d’une prime de reprise sur l’estimation de départ de votre véhicule. Accédez à toute la gamme DS et bénéficiez de nombreux avantages clients en obtenant un bonus supplémentaire. DS Automobiles ne fait pas seulement la reprise de votre voiture à sa juste valeur. Grâce à des conditions préférentielles proposées ponctuellement, la prime de reprise pour votre véhicule peut devenir encore plus intéressante financièrement. Bénéficiez par exemple de primes exceptionnelles sur la reprise de votre véhicule en optant pour une DS neuve, quel que soit le modèle."
+        },
+        {
+          "text": "Une prime supplémentaire pourra vous être attribuée pour la reprise d’une voiture de marque premium : Audi, Alfa Roméo ou Volvo par exemple. Si vous êtes déjà client DS Automobiles, bénéficiez d’une prime complémentaire pour votre fidélité."
+        },
+        {
+          "text": "Comment faire pour obtenir votre prime de reprise DS Automobiles ? Pour bénéficier de la prime de reprise DS Automobiles, prenez directement contact avec l’une de nos concessions après avoir estimé en ligne la valeur de rachat de votre voiture essence ou diesel, avec ou sans Contrôle technique, roulante ou non. Votre prime de reprise est calculée en fonction du type de véhicule que vous souhaitez revendre, mais également de votre future acquisition. Prenez rendez-vous dans l’un des centres DS Automobiles proches de chez vous et nous nous occupons du reste. Pas de formalités à accomplir de votre part, tout est simple et transparent. En plus d’assurer la reprise de véhicules de toutes marques, DS Automobiles vous garantit des transactions rapides. Vous souhaitez changer de voiture ? C’est le moment de profiter des conditions proposées par DS Automobiles. Avec la prime de reprise DS, votre ancienne voiture n’a jamais eu autant de valeur."
+        },
+        {
+          "text": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/Reprise-DS7-crossback.jpg",
+      "image_alt": "DS 7 crossback concession",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Prime de reprise sur votre véhicule diesel ou essence avec DS Reprise",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Changer de véhicule sans avoir besoin de vendre soi-même son ancienne voiture est possible avec les primes de reprise proposées par DS Automobiles.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-prime-de-reprise",
+    "medias_trouves": 2,
+    "blocs_detectes": 2,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

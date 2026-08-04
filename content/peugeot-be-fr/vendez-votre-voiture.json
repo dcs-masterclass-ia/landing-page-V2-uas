@@ -1,0 +1,330 @@
+{
+  "page_key": "peugeot-be-fr__lp-vendez-votre-voiture",
+  "brand": "peugeot",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.peugeot.be",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.peugeot.be/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Comment vendre votre voiture avec Peugeot",
+    "description": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
+    "site_name": "Peugeot BE",
+    "author": "Peugeot BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Comment vendre votre voiture avec l'accompagnement de Peugeot"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.peugeot.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.peugeot.be/"
+    },
+    {
+      "label": "vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Comment vendre votre voiture avec l'accompagnement de Peugeot",
+    "lead": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.peugeot.be/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "Vendre votre voiture : p",
+      "anchor": "#vendre-votre-voiture-pourquoi-opter-pour"
+    },
+    {
+      "label": "Les avantages de notre s",
+      "anchor": "#les-avantages-de-notre-service-de-repris"
+    },
+    {
+      "label": "1 : Renseignez les carac",
+      "anchor": "#1-renseignez-les-caracteristiques-de-vot"
+    },
+    {
+      "label": "3 : Prenez rendez-vous a",
+      "anchor": "#3-prenez-rendez-vous-avec-un-professionn"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vous cherchez à vendre votre voiture ? La reprise Peugeot est une solution en ligne qui vous permet d'obtenir gratuitement une estimation de la valeur de reprise de votre véhicule. Cette estimation est fournie sans aucun engagement. En optant pour notre service, vous évitez les surprises désagréables qui peuvent survenir lors d'une vente entre particuliers. Privilégiez plutôt une solution sûre, avec un professionnel du réseau Peugeot, et bénéficiez d'un paiement garanti."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ca8653a5-477a-4377-9259-4be9547ffe76",
+      "image_alt": "Les étapes pour vendre votre voiture avec peugeot",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-pourquoi-opter-pour",
+      "h2": "Vendre votre voiture : pourquoi opter pour notre service professionnel de reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "● Notre estimation est 100% gratuite et sans engagement. ● Recevez une estimation de votre véhicule en ligne et par email. Vous pourrez ensuite décider si celle-ci vous convient. ● Un concessionnaire de notre réseau, situé près de chez vous, vous contactera pour fixer un rendez-vous à votre convenance. ● Si vous êtes satisfait de l'offre, vous pourrez conclure la transaction rapidement et en toute sécurité grâce à un paiement rapide."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/90e2b2e0-d91a-4a72-aa59-264e6be0cc0c",
+      "image_alt": "Vendez votre voiture peugeot paiement",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-avantages-de-notre-service-de-repris",
+      "h2": "Les avantages de notre service de reprise pour vendre votre voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour obtenir une estimation précise de la valeur de votre voiture, notre solution a besoin de recueillir des informations essentielles sur celle-ci. Pour cela, il vous suffit de remplir notre questionnaire facile et rapide. En moins de cinq minutes, vous aurez votre estimation. Pour commencer, indiquez le numéro d'immatriculation de votre véhicule. Grâce à celui-ci, nous pouvons identifier les principales caractéristiques de votre voiture à vendre. Pourquoi utiliser l'immatriculation ? a. Cela est plus simple : la marque, le modèle, la catégorie, la motorisation et la date de première immatriculation sont préremplis. b. Cela est plus rapide : la pré-identification de votre véhicule vous permet de gagner du temps en évitant plusieurs étapes du parcours. Si vous n'avez pas le numéro d'immatriculation en tête, ce n'est pas un problème ! Il suffit de répondre à quelques questions pour nous permettre d'identifier votre voiture : version, année de mise en circulation, carburant, motorisation, couleur, équipements, etc."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/91/9bd3d84b-e663-4001-bfe2-2b94e0329358",
+      "image_alt": "La securite pour vendre sa voiture Peugeot",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "1-renseignez-les-caracteristiques-de-vot",
+      "h2": "1 : Renseignez les caractéristiques de votre véhicule",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Une fois que vous avez fourni les informations requises, nous analysons le marché pour vous donner un prix juste, affiché à la fin du questionnaire. Cette estimation vous est également envoyée par email. Notre offre est sans engagement, vous avez donc toute liberté de décider si vous souhaitez la poursuivre ou non. Après avoir obtenu votre estimation, un concessionnaire Peugeot proche de chez vous prendra contact avec vous sous 24 heures pour convenir d'un rendez-vous en concession. Lors de ce rendez-vous, un professionnel effectuera une inspection de votre véhicule et vous proposera un prix de reprise final. Si vous êtes satisfait de l'offre, nous rachetons immédiatement votre voiture, sans aucune démarche administrative de votre part."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "3-prenez-rendez-vous-avec-un-professionn",
+      "h2": "3 : Prenez rendez-vous avec un professionnel",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Avec le réseau Peugeot, vous avez l’entière garantie d’un paiement sécurisé et rapide. Lors de la transaction, le paiement du véhicule est effectué par votre concessionnaire Peugeot. En fonction du concessionnaire choisi, le règlement du véhicule s’effectue soit par chèque soit par virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-serai-je-paye",
+      "h2": "Comment serai-je payé ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués. En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives. En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq-vendre-sa-voiture",
+      "h2": "FAQ : Vendre sa voiture",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Peugeot propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Peugeot de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "Comment s'effectue l'évaluation d'une voiture Peugeot ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-peugeot-est-a-votre-portee",
+      "h2": "L'expérience Peugeot est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Peugeot en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Peugeot vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Peugeot, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Peugeot. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.peugeot.be/"
+  },
+  "footer": {
+    "tagline": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotBelux/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotBelux"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://be.linkedin.com/company/peugeot_belux"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-6-30, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Comment vendre votre voiture avec Peugeot",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.peugeot.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Peugeot vous offre un service simple et gratuit pour vendre votre voiture ♦ Nos professionnels vous guident dans le processus de vente ♦",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.peugeot.be/lp/vendez-votre-voiture",
+    "medias_trouves": 9,
+    "blocs_detectes": 8,
+    "notes": [
+      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://reprise.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

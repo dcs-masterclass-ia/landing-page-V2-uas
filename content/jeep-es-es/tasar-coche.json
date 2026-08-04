@@ -1,0 +1,292 @@
+{
+  "page_key": "jeep-es-es__lp-tasar-coche",
+  "brand": "jeep",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.jeep.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://tasacion.jeep.es/lp/tasar-coche",
+  "meta": {
+    "title": "► Tasar coche sin compromiso - gratuitamente | Jeep.es",
+    "description": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
+    "site_name": "Jeep ES",
+    "author": "Jeep ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche sin compromiso y gratuitamente y online"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.jeep.es/"
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche sin compromiso y gratuitamente y online",
+    "lead": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasar coche con la opció",
+      "anchor": "#tasar-coche-con-la-opcion-online"
+    },
+    {
+      "label": "¿Cómo se va a tasar tu c",
+      "anchor": "#como-se-va-a-tasar-tu-coche"
+    },
+    {
+      "label": "Los pro de la tasación d",
+      "anchor": "#los-pro-de-la-tasacion-de-su-coche-en-li"
+    },
+    {
+      "label": "¡Encuentra cuánto vale t",
+      "anchor": "#encuentra-cuanto-vale-tu-coche-en-no-mas"
+    },
+    {
+      "label": "Tasar coche: Preguntas c",
+      "anchor": "#tasar-coche-preguntas-claves"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasar-coche-con-la-opcion-online",
+      "h2": "Tasar coche con la opción online",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Cual es la ventaja de tasar tu coche en el sitio? Hoy en día que hay tantos sitios web de tasación online, elegir Jeep para la tasación es la garantía de: Cero compromisos, sin embargo toda nuestra red está a tu servicio si quieres vender."
+        }
+      ],
+      "bullets": [
+        "Tasación online y gratuita: Vas a hacer la tasación de tu coche en unos cuantos clics sin tener gastos.",
+        "La tasación es fiable y se obtiene gracias a la gran experiencia de Jeep",
+        "La amplia experiencia de la red Jeep que está a tu servicio para recuperar tu vehículo, lo hace solo si quieres."
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "como-se-va-a-tasar-tu-coche",
+      "h2": "¿Cómo se va a tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si se va a tasar tu coche, ¡debes saber que nada es más fácil! Lo primero que necesitarás: Agregas todos los datos necesarios a la tasación de tu vehículo. Si buscas cómo tasar tu coche con precisión, sólo deberás responder a unas cuantas preguntas que aparecen en nuestro cuestionario. ¡Es simple y super rápido, Vas a tener que dar lo siguiente: - Los datos que identifiquen el modelo de tu coche: Cuando ingresas el registro de tu vehículo, ya podremos saber cual es el auto que quieres evaluar. Así el modelo será identificado por el registro, y eso hará que brinques varias partes del cuestionario y, por lo tanto, no te tomará mucho tiempo. Si se te ha olvidado tu registro, ¡no hay de qué preocuparse! Solo responde unas cuantas preguntas que nos ayudan a identificar tu coche: como la versión o el año de matriculación, combustible, entre otros. Mientras más datos haya, más fácil será identificar tu coche con precisión. - Información sobre tu coche: Por ejemplo el equipamiento, etc"
+        },
+        {
+          "text": "Tendrás tu tasación gratis con hacer solo 3 pasos:"
+        },
+        {
+          "text": "Etapa 1."
+        },
+        {
+          "text": "Lo llenaras en solo cinco minutos!"
+        },
+        {
+          "text": "Te llegará la tasación de tu coche en línea pero también por correo electrónico. Cuando esos datos se ingresan, hacemos análisis del mercado para brindar un precio justo que se va a dar al final del cuestionario. Esta tasación se envía también directamente a tu correo electrónico. ¡Dicha tasación no te da ningún compromiso, Si tu quieres, sigues con el proceso, sino no! Hacer una cita con uno de los profesionales de Jeep. Al hacer la tasación, el concesionario Jeep escogido por ti, se va a poner en contacto contigo para darte una cita y a su vez, lograr una tasación final para el vehículo. Si quedaste contento con esta tasación, luego el concesionario empieza la recuperación de tu vehículo con cero cargas administrativas para ti."
+        },
+        {
+          "text": "Etapa 2:"
+        },
+        {
+          "text": "Etapa 3:"
+        }
+      ],
+      "bullets": [
+        "Registro (documento) de tu coche",
+        "Kilometraje exacto del coche",
+        "Lista de los daños del coche"
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "los-pro-de-la-tasacion-de-su-coche-en-li",
+      "h2": "Los pro de la tasación de su coche en línea",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Por qué te conviene que la red Jeep recoja tu vehículo?"
+        }
+      ],
+      "bullets": [
+        "Tasación de tu coche 100% online y totalmente gratis: ¡No hay problema alguno! ¡Te dejamos tasar tu coche en nuestro sitio web de forma directa y, sobre todo, gratuitamente!",
+        "Tasación profesional y seguro: Al contar con la experiencia de la red Jeep , te aseguras de obtener una tasación en la cual confiar y que sea profesional.",
+        "Tasación va a ser válida por 10 días: ¿Estás dudando si decidir de inmediato? ¡No tienes que preocuparte! Tu tasación es válida por los próximos 10 días. Cuentas con una red amplia para vender tu coche donde quiera que estés en España: Teniendo alrededor de 100 puntos de ventas en la red Jeep, vender tu coche será muy fácil con nosotros.",
+        "Tasación pronta - Vas a obtener el precio de inmediato: ¡No necesitas esperar! Al momento en que terminas de completar el formulario, vas a recibir la tasación de tu coche."
+      ],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "encuentra-cuanto-vale-tu-coche-en-no-mas",
+      "h2": "¡Encuentra cuánto vale tu coche en no más de 5 minutos!",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿No sabes el valor de tu coche pero lo necesitas? ¡No tengas más dudas! Vas a saber cuánto es el valor de tu coche en el mercado en este momento y podrás revender facilmente."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-preguntas-claves",
+      "h2": "Tasar coche: Preguntas claves",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿DE QUÉ FORMA SE CALCULA LA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación se va a basar en: • Los datos importantes de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje. • Exploración del mercado: Se estudian las transacciones nuevas realizadas por profesionales sobre modelos parecidos. • Se deduce el costo de rehabilitación a su estado estándar. Los costos son graduables dependiendo de cómo esté el vehículo."
+        },
+        {
+          "text": "TASACIÓN POR JEEP, ¿CÓMO FUNCIONA?"
+        },
+        {
+          "text": "Tasación gratis y online: Obtendrás una tasación gratis luego de llenar en línea el formulario con la información del vehículo. Solo en 5 minutos, tendrás la tasación para tu vehículo, que es enviada igual por correo electrónico. Lograr una cita: Al llenar el formulario, tu distribuidor elegido por ti, se pondrá en contacto contigo en solo 24 horas. ¿Te pareció bien la tasación? Entonces realiza una cita en el concesionario para que puedas hacer la recuperación del coche. No dejes de disfrutar la experiencia de Jeep: Al tener dicha cita, uno de nuestros expertos chequea el estado actual del coche en tu presencia y luego te dará el precio fijo de la recuperación. Una vez que se confirme tu acuerdo, procedemos a hacer la compra del coche."
+        },
+        {
+          "text": "¿DATOS Y DOCUMENTOS INDISPENSABLES PARA TASAR MI COCHE CON JEEP?"
+        },
+        {
+          "text": "A la hora de tasar tu coche, necesitarás: - Un certificado de la matriculación del coche para rellenar el registro del mismo. - Su kilometraje actual También, vas a ingresar datos sobre el estado que tiene el coche: carrocería, equipamientos, color, etc."
+        },
+        {
+          "text": "¿VENTAJAS MÁS CLARAS AL USAR EL SERVICIO TASACIÓN JEEP?"
+        },
+        {
+          "text": "• Inmediatez. Luego de algunos clics, te brindan una tasación del valor del vehículo por correo electrónico. La tasación viene sin compromisos. Tranquilidad • Sin sorpresas malas. Cuando pides el servicio Tasación Jeep, tienes una tasación del valor de tu vehículo hecha por un profesional automotriz. Cada uno de los vehículos se valoran en función de las observaciones que da el mercado y las transacciones actuales. • Muy seguro. El pago de tu vehículo se garantiza y es seguro. Con la transacción, el pago del vehículo es llevado a cabo por el concesionario Jeep."
+        },
+        {
+          "text": "¿CON QUE ME ESTOY COMPROMETIENDO CON UNA TASACIÓN?"
+        },
+        {
+          "text": "La tasación que se propone por Tasación Jeep no conlleva compromiso. Recibirás gratuitamente nuestra propuesta dentro de 24h (durante días hábiles). Tasación con cero compromiso para ti. Puede hacer una cita con nuestros expertos Jeep."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.jeep.es/"
+  },
+  "footer": {
+    "tagline": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepESP"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_es/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/JeepEsp"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Tasar coche sin compromiso - gratuitamente",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.jeep.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Cuánto vale su coche? Puede informarse sobre nuestro servicio de tasación de coche. ¡Pruebe con alguno de los tasadores!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.jeep.es/lp/tasar-coche",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.jeep.es/build/img/jeep/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

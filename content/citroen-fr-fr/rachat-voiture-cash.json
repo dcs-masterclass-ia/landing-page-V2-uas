@@ -1,0 +1,286 @@
+{
+  "page_key": "citroen-fr-fr__lp-rachat-voiture-cash",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/rachat-voiture-cash",
+  "source_v1": "https://www.reprise.citroen.fr/lp/rachat-voiture-cash",
+  "meta": {
+    "title": "Rachat voiture cash immédiat | Vendez avec Citroën",
+    "description": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "RACHAT DE VOITURE CASH : VENDEZ SANS ATTENDRE AVEC CITROËN"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "RACHAT DE VOITURE CASH : VENDEZ SANS ATTENDRE AVEC CITROËN",
+    "lead": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi choisir le rach",
+      "anchor": "#pourquoi-choisir-le-rachat-cash"
+    },
+    {
+      "label": "Comment fonctionne notre",
+      "anchor": "#comment-fonctionne-notre-service-de-rach"
+    },
+    {
+      "label": "Tout savoir sur le leasi",
+      "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
+    },
+    {
+      "label": "Estimez la valeur de rep",
+      "anchor": "#estimez-la-valeur-de-reprise-de-votre-vo"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-choisir-le-rachat-cash",
+      "h2": "Pourquoi choisir le rachat cash ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous cherchez à vendre votre ancienne voiture cash ? Il n’est pas toujours facile de trouver le bon acheteur prêt à conclure l’affaire au prix que vous espérez, et surtout au bon moment. En effet, la cote de votre véhicule se déprécie de semaine en semaine, surtout si vous augmentez nettement son kilométrage par exemple en partant en vacances. Avec Citroën, n’attendez pas que votre auto perde trop de valeur : obtenez un rachat cash de votre voiture immédiatement !"
+        },
+        {
+          "text": "Le principe est simple :"
+        },
+        {
+          "text": "• Estimez en ligne le prix de votre véhicule : cela ne vous prend que quelques minutes et c’est entièrement gratuit"
+        },
+        {
+          "text": "• Prenez rendez-vous dans une concession Citroën pour faire affiner par l’un de nos experts l’offre de reprise : c’est gratuit et sans engagement"
+        },
+        {
+          "text": "• Concluez la vente et recevez l’argent par chèque ou par virement bancaire : le processus est entièrement sécurisé et vous repartez immédiatement avec le chèque ou recevez l’argent sur votre compte sous 8 jours maximum"
+        },
+        {
+          "text": "Libre à vous de profiter ensuite du cash pour vos projets ou réinvestir dans une auto neuve ou d’occasion ! Vous évitez ainsi de vous confronter à des acheteurs potentiellement intéressés mais cherchant surtout à faire baisser le prix demandé, aux doutes jusqu’à la dernière minute quant au paiement et l’attente du bon acheteur qui peut être longue et laisser le temps à la valeur de votre voiture de diminuer."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-fonctionne-notre-service-de-rach",
+      "h2": "Comment fonctionne notre service de rachat cash ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour savoir ce que vaut votre auto cash, c’est très simple. Notre outil d’estimation vous permet d’avoir la valeur à laquelle nous vous l’achèterions en seulement quelques minutes."
+        },
+        {
+          "text": "Vous avez 2 solutions :"
+        },
+        {
+          "text": "• Vous renseignez le questionnaire pas à pas, depuis la marque de votre voiture jusqu’à ses éventuels défauts"
+        },
+        {
+          "text": "• Vous gagnez du temps en renseignant directement le numéro de votre plaque d’immatriculation, ce qui nous permet de pré-remplir les éléments de base de notre questionnaire : marque, modèle, puissance, année…"
+        },
+        {
+          "text": "Nous nous basons sur les éléments objectifs généraux concernant votre véhicule en partant de ses caractéristiques, puis nous vous permettons de détailler son état intérieur et extérieur : en effet, des impacts ou des rayures profondes influent sur sa valeur. En nous appuyant sur les données du marché, à savoir les tendances et les dernières transactions sur des véhicules similaires, nous vous proposons un prix de reprise."
+        },
+        {
+          "text": "Si l’offre de rachat vous intéresse, nous vous invitons à prendre rendez-vous dans la concession de votre choix. Vous rencontrerez l’un de nos professionnels qui, après l’examen de votre véhicule, vous confirmera l’offre que vous avez vue en ligne ou l’affinera, en votre faveur ou non, si nécessaire. Si l’offre vous convient toujours, alors le rachat cash de votre voiture peut s’effectuer immédiatement : nous concluons l’affaire en remplissant avec vous les formalités nécessaires, puis nous vous payons. Vous avez le choix entre un chèque que vous pouvez encaisser quand vous le souhaitez, ou bien un virement bancaire qui sera effectif sous 8 jours."
+        },
+        {
+          "text": "Citroën vous propose le rachat cash de votre véhicule, que vous souhaitiez ou non acheter un autre véhicule neuf ou d'occasion de la marque. Découvrez les offres et les conditions pour la reprise cash de votre véhicule"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Rachat voiture cash immédiat",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vendez votre voiture rapidement avec notre service de rachat cash. Sans obligation d’achat, estimation gratuite, paiement rapide par virement.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/rachat-voiture-cash",
+    "medias_trouves": 8,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

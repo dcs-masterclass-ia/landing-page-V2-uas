@@ -1,0 +1,350 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-vendez-votre-voiture",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez nous votre voiture : tout ce qu’il faut savoir | DS Automobiles",
+    "description": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vendez votre voiture en toute sécurité avec le réseau «DS AUTOMOBILES»"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.dsautomobiles.fr/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture en toute sécurité avec le réseau «DS AUTOMOBILES»",
+    "lead": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Vous recevez l’estimatio",
+      "anchor": "#vous-recevez-lestimation-de-votre-voitur"
+    },
+    {
+      "label": "Quel est le processus po",
+      "anchor": "#quel-est-le-processus-pour-vendre-ma-voi"
+    },
+    {
+      "label": "Une offre de reprise pra",
+      "anchor": "#une-offre-de-reprise-pratiquement-immedi"
+    },
+    {
+      "label": "Vendez votre voiture rap",
+      "anchor": "#vendez-votre-voiture-rapidement-sans-mau"
+    },
+    {
+      "label": "Les procédures administr",
+      "anchor": "#les-procedures-administratives-sont-long"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vous-recevez-lestimation-de-votre-voitur",
+      "h2": "Vous recevez l’estimation de votre voiture directement en ligne et par email",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vous avez la possibilité de prendre un rendez-vous avec un concessionnaire selon vos disponibilités"
+        },
+        {
+          "text": "Un professionnel de notre réseau vous reçoit pour finaliser la vente de votre voiture"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ddba5804-50ae-42c1-88b2-4649591bc71f",
+      "image_alt": "transaction conclue pour vendre sa voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "quel-est-le-processus-pour-vendre-ma-voi",
+      "h2": "Quel est le processus pour vendre ma voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous obtiendrez votre évaluation gratuite en seulement 3 étapes :"
+        },
+        {
+          "text": "Étape 1. Vous ajoutez toutes les données nécessaires à l'évaluation de votre véhicule."
+        },
+        {
+          "text": "Si vous souhaitez faire vendre votre voiture au prix juste, vous devez répondre à quelques questions qui figurent dans notre questionnaire afin d’estimer votre voiture. C'est très rapide et très simple, il vous faudra 5 minutes pour le remplir !"
+        },
+        {
+          "text": "Étape 2 : Recevez l'évaluation de votre voiture en ligne et par courrier électronique."
+        },
+        {
+          "text": "Une fois ces informations remplies, nous analyserons le marché pour vous donner un prix juste qui vous sera présenté à la fin du questionnaire. Cette évaluation vous est également envoyée directement par courrier électronique. Cette évaluation est sans obligation, vous avez le choix d'aller de l'avant ou non avec le processus !"
+        },
+        {
+          "text": "Nous aurons besoin des informations suivantes :"
+        },
+        {
+          "text": "Les informations nécessaires à l'identification du modèle de la voiture :"
+        },
+        {
+          "text": "En renseignant l'immatriculation du véhicule, vous pouvez déterminer quelle voiture vous souhaitez évaluer. Le modèle sera ainsi reconnu ce qui vous permettra de sauter plusieurs étapes du questionnaire et vous fera gagner beaucoup de temps. Si vous ne vous souvenez pas de l'immatriculation, pas de problème ! Vous devrez répondre à quelques questions qui nous permettront d'identifier la voiture : par exemple, l'année d'immatriculation, le carburant, etc. Pour identifier votre voiture avec précision, nous aurons besoin d'autant d'informations que possible."
+        },
+        {
+          "text": "Informations générales de la voiture : la couleur, l'équipement, etc."
+        },
+        {
+          "text": "Etape 3: Obtiens un rendez-vous avec un professionnel du réseau « DS AUTOMOBILES »"
+        },
+        {
+          "text": "Après l'évaluation en ligne, le concessionnaire « DS AUTOMOBILES » de votre choix vous contactera pour vous donner un rendez-vous pour l'expertise finale du véhicule. Si vous êtes satisfait de cette évaluation, le concessionnaire entame la procédure de reprise de votre voiture, sans aucune charge administrative pour vous. Vendez votre voiture en toute sérénité !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "une-offre-de-reprise-pratiquement-immedi",
+      "h2": "Une offre de reprise pratiquement immédiate",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Si l'offre vous convient, nous achèterons votre véhicule dans les 24 heures !"
+        },
+        {
+          "text": "Vous avez la plus grande sécurité !"
+        },
+        {
+          "text": "Oubliez les surprises et les frais de paperasse, avec « DS AUTOMOBILES » le processus est rapide et sûr."
+        },
+        {
+          "text": "Le véhicule sera examiné par un expert « DS AUTOMOBILES» en votre présence pour garantir la transparence."
+        },
+        {
+          "text": "Une fois que vous aurez accepté l’évaluation, nous vous fournirons immédiatement l’offre d’achat."
+        },
+        {
+          "text": "Vous avez la garantie d'un paiement immédiat et très sécurisé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-rapidement-sans-mau",
+      "h2": "Vendez votre voiture rapidement sans mauvaises surprises",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous vendez votre voiture à un particulier :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-procedures-administratives-sont-long",
+      "h2": "Les procédures administratives sont longues",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vous vendez votre voiture au réseau « DS AUTOMOBILES » :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "des-processus-administratifs-plus-rapide",
+      "h2": "Des processus administratifs plus rapides",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vous pouvez vendre votre véhicule plus rapidement !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendez-votre-voiture-questions-frequente",
+      "h2": "Vendez votre voiture : Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Quel est le moyen le plus rapide de vendre ma voiture ?"
+        },
+        {
+          "text": "Avec DS AUTOMOBILES , vous pouvez vendre votre voiture plus rapidement. Tout ce que vous avez à faire est de remplir le profil du véhicule dans le formulaire. Vous nous indiquez simplement la marque, le modèle, le type de moteur, la version, le kilométrage total, etc. Une fois que vous aurez toutes ces informations, nous vous fournirons votre évaluation en seulement 5 minutes. Vous le recevrez également dans l'e-mail de votre choix. Vous recevrez un appel pour fixer un rendez-vous et obtenir une évaluation finale qui vous permettra de décider si vous souhaitez poursuivre. La procédure est ainsi beaucoup plus simple, et elle est gratuite et sans obligation."
+        },
+        {
+          "text": "2. Comment la valeur du véhicule est-elle calculée ?"
+        },
+        {
+          "text": "Elle est calculée de la manière suivante :- Avec les données de base du véhicule telles que la marque, le type de modèle, la puissance du moteur, sa version, le kilométrage de la voiture, et aussi la date d'immatriculation.- Avec les données du marché, par rapport à des évaluations déjà émises sur des modèles similaires. Des déductions pour toutes les réparations nécessaires viennent ensuite réduire la valeur déterminée. Cela dépendra de l'état du véhicule."
+        },
+        {
+          "text": "3. Comment fonctionne exactement le processus de reprise de DS AUTOMOBILES ?"
+        },
+        {
+          "text": "Il s'agit d'une évaluation gratuite que vous pouvez obtenir en remplissant simplement le formulaire. Vos données seront également envoyées à l'adresse électronique de votre choix. Vous pourrez obtenir rapidement un rendez-vous afin de faire évaluer le véhicule chez un concessionnaire, ce qui vous permettra d'obtenir un prix définitif. Avec l'expérience du réseau DS AUTOMOBILES, le processus est simple. Si vous êtes satisfait de l'offre et souhaitez vendre votre véhicule, nous l'achèterons."
+        },
+        {
+          "text": "4. Comment prendre un rendez-vous ?"
+        },
+        {
+          "text": "Il est très facile de le faire en remplissant simplement un formulaire qui vous prendra moins de5 minutes. 24 heures plus tard, vous recevrez un appel vous invitant à prendre rendez-vous pour l'inspection de votre véhicule. Vous obtiendrez alors un prix d'achat pour la voiture, ce qui vous permettra de décider si vous souhaitez la vendre ou non. Vous n’avez aucune obligation et rien à payer à ce stade."
+        },
+        {
+          "text": "5. Quel est le mode de paiement ?"
+        },
+        {
+          "text": "La garantie du réseau DS AUTOMOBILES est que vous obtiendrez la meilleure opportunité de vendre votre voiture sans complications. Si vous décidez de vendre le véhicule, le paiement se fera par chèque ou par virement, selon le concessionnaire DS AUTOMOBILES chez qui vous vous rendez."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/ff83cfa8-050e-4115-ae3e-c7c2e553b198",
+      "image_alt": "Arrière d'une voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez nous votre voiture : tout ce qu’il faut savoir",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "howto_name": "Vendez votre voiture en toute sécurité avec le réseau «DS AUTOMOBILES»",
+    "howto_description": "Vendez votre voiture : Rapide & Sécurisé ✔ | DS Automobiles",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/vendez-votre-voiture",
+    "medias_trouves": 5,
+    "blocs_detectes": 7,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

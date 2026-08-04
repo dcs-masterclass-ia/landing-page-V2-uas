@@ -1,0 +1,240 @@
+{
+  "page_key": "citroen-be-fr__page-comment",
+  "brand": "citroen",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.citroen.be",
+  "slug": "/page-comment",
+  "source_v1": "https://reprise.citroen.be/page-comment",
+  "meta": {
+    "title": "Comment est calculé une estimation ?",
+    "description": "Comment est calculé une estimation ?",
+    "site_name": "Citroen BE",
+    "author": "Citroen BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "COMMENT EST CALCULÉE L'ESTIMATION DE REPRISE ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.citroen.be/"
+    },
+    {
+      "label": "Calcul de l'estimation de reprise",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "COMMENT EST CALCULÉE L'ESTIMATION DE REPRISE ?",
+    "lead": "Comment est calculé une estimation ?",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.citroen.be/"
+  },
+  "subnav": [
+    {
+      "label": "OBTENEZ UNE ESTIMATION F",
+      "anchor": "#obtenez-une-estimation-fiable-et-gratuit"
+    },
+    {
+      "label": "UNE ESTIMATION DE VOTRE ",
+      "anchor": "#une-estimation-de-votre-auto-au-plus-pre"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Paiement rapide",
+      "anchor": "#paiement-rapide"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenez-une-estimation-fiable-et-gratuit",
+      "h2": "OBTENEZ UNE ESTIMATION FIABLE ET GRATUITE DE VOTRE VÉHICULE",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Finie l’estimation un peu hasardeuse et subjective de votre auto ! Avec Citroën, quelques clics suffisent pour recevoir en ligne une estimation de la valeur de votre véhicule. Celle-ci repose sur sa cote et différents critères précis, et non pas sur vos intérêts de vendeur et les intérêts de l’acheteur souvent contradictoires. Quelle que soit sa marque et son modèle, vous pouvez estimer votre voiture en remplissant notre questionnaire en seulement quelques minutes pour obtenir une estimation de notre offre de reprise de votre véhicule. Celle-ci vous sera confirmée ou sera affinée en point de vente avec un expert. Si vous l’acceptez, vous recevrez un paiement rapide et sécurisé sous 8 jours. Avec Citroën, c’est aussi simple que cela ! Les plus de l’estimation et de la reprise avec Citroën : - Estimation gratuite, rapide et sans engagement - Valeur calculée au plus juste sur la base d’observations du marché, des transactions récentes et de l’état du véhicule - Pas d’inconvénients administratifs - Pas de risques financiers - Le choix de vendre près de chez vous grâce au réseau Citroën"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.be/build/img/citroen/article-store.jpg",
+      "image_alt": ".",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "une-estimation-de-votre-auto-au-plus-pre",
+      "h2": "UNE ESTIMATION DE VOTRE AUTO AU PLUS PRÈS DU PRIX DU MARCHÉ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Notre cote auto nous permet de réaliser l’estimation de votre véhicule en considérant les différents éléments influant sur sa valeur. La marque, le modèle, l’année et la finition sont les critères basiques. Pour vous éviter les déconvenues, nous vous demandons des détails plus précis afin de vous faire l’offre la plus cohérente possible et en phase avec le prix du marché, et ce qui vous sera proposé en concession. Etape par étape, nous affinons l’estimation de manière objective qui ne repose pas sur une appréciation simplement globale de l’état de votre auto. Nous vous demandons des détails par exemple sur les éventuels impacts sur la carrosserie, l’état des pneus, la conservation du carnet d’entretien, la boîte de vitesses, les options qui peuvent faire la différence… Vous êtes donc certain de ne pas demander trop cher pour votre véhicule, au risque de ne pas le vendre, ou au contraire de ne pas être lésé en le vendant en-dessous de sa valeur, même s'il part rapidement. Avec la reprise par Citroën, vous savez exactement à quoi vous en tenir sans mauvaise surprise. Si la cote fournie vous convainc, alors vous pourrez faire estimer au plus juste votre véhicule en prenant rendez-vous dans un point de vente du réseau Citroën. La valeur fournie en ligne est en effet indicative : l’un de nos experts ajustera l’offre de reprise et celle-ci pourra être effective immédiatement. Cette expertise gratuite n’implique aucun engagement. Si l’offre vous convient, nous vous proposerons un paiement par chèque ou un virement sous 8 jours. Le processus est entièrement sécurisé et vous ne prenez aucun risque."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.citroen.be/build/img/citroen/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Évitez les mauvaises surprises",
+        "Votre véhicule est évalué par un professionnel de l'automobile"
+      ],
+      "image": "https://reprise.citroen.be/build/img/citroen/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Renseignez les détails et l’état de votre véhicule",
+        "Recevez immédiatement une estimation de reprise par e mail"
+      ],
+      "image": "https://reprise.citroen.be/build/img/citroen/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "paiement-rapide",
+      "h2": "Paiement rapide",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Règlement par chèque ou virement bancaire",
+        "Dans un délai de 8 jours"
+      ],
+      "image": "https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.citroen.be/"
+  },
+  "footer": {
+    "tagline": "Comment est calculé une estimation ?",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.BeLux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenbelux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenbelux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenbelux"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Comment est calculé une estimation ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Comment est calculé une estimation ?",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.citroen.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Comment est calculé une estimation ?",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.citroen.be/page-comment",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

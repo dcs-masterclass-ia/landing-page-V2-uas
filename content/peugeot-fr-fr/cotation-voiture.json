@@ -1,0 +1,255 @@
+{
+  "page_key": "peugeot-fr-fr__lp-cotation-voiture",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/lp/cotation-voiture",
+  "source_v1": "https://www.reprise.peugeot.fr/lp/cotation-voiture",
+  "meta": {
+    "title": "Cotation de votre voiture d'occasion",
+    "description": "Obtenez une cotation en quelques clics avec Reprise Peugeot !",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Cotation de voiture d'occasion"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Cotation de voiture d'occasion",
+    "lead": "Obtenez une cotation en quelques clics avec Reprise Peugeot !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "cotation de votre voitur",
+      "anchor": "#cotation-de-votre-voiture-optimisee"
+    },
+    {
+      "label": "Après la cotation, un fo",
+      "anchor": "#apres-la-cotation-un-fonctionnement-effi"
+    },
+    {
+      "label": "SÉRÉNITÉ",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "RAPIDITÉ",
+      "anchor": "#rapidite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Choisir Reprise Peugeot pour une revente en occasion, c'est avant tout s'assurer d'une , qui tienne autant compte de la réalité des conditions du marché que des caractéristiques et de l'état du véhicule. L'expertise et l'implantation du réseau Peugeot vous garantissent en effet une cote de reprise à la fois pertinente et justifiée, qui satisfera tant à vos intérêts de vendeur qu'à ceux du futur propriétaire. Autre argument majeur en faveur de la vente de votre automobile via notre service de cotation et de reprise : la sécurité sans faille de la transaction. Vous avez affaire à un partenaire dont la renommée mondiale ne peut s'accommoder d'aucune approximation ni faiblesse pour coter et reprendre des voitures : la vente s'effectue dans la plus grande transparence, en parfaite conformité avec la réglementation du marché de cotation de voitures, pour un paiement rapide et garanti. Enfin, de l'obtention d'une cotation de votre voiture fiable et réaliste, jusqu'à la finalisation d'une vente totalement sécure, vous bénéficiez d'un processus intégré dont chaque étape est optimisée pour vous éviter toute perte de temps et d'énergie inutile. Votre objectif, c'est de vendre bien et rapidement avec le minimum de tracas, nous le savons et nous mettons tout en œuvre pour vous satisfaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "cotation-de-votre-voiture-optimisee",
+      "h2": "cotation de votre voiture optimisée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Tout commence ici, en renseignant la marque du véhicule à coter ou son numéro d'immatriculation. Le questionnaire auquel vous accédez n'attend plus que vos informations détaillées pour déclencher le calcul d'une première cotation de votre voiture, que vous recevez par mail. Parallèlement, le point de vente de votre choix vous contacte pour vous proposer un rendez-vous en atelier. La cotation proposée pour la reprise vous convient ? Vous avez par conséquent accepté le rendez-vous ? Sur place, un expert Peugeot se charge en votre présence de réaliser gratuitement un bilan. Vous avez alors l'ensemble des éléments en main pour prendre votre décision en toute connaissance de cause : conclure la transaction ou décliner l'offre si la cotation ne vous convient pas. Dans les deux cas, vous n'avez rien à payer : ni commission, ni autres frais. Vous avez choisi de finaliser la vente sur la base de la cotation définitive de votre voiture ? Il ne vous reste qu'à signer et à laisser les clés au responsable Peugeot repreneur. C'est lui qui se charge de toutes les démarches administratives et de vous régler le montant de la cotation par paiement garanti, chèque ou virement bancaire. Bien sûr, si vous envisagez un renouvellement de votre véhicule par un modèle neuf ou d'occasion, ce montant pourra entrer en déduction du prix d'achat. C'est vous seul qui en décidez."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "apres-la-cotation-un-fonctionnement-effi",
+      "h2": "Après la cotation, un fonctionnement efficace et fiable",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Coter votre voiture est sans engagement."
+        },
+        {
+          "text": "La cotation est gratuite."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "SÉRÉNITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Peugeot",
+        "Une cotation sans engagement",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "RAPIDITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une cotation en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une reprise facile de votre voiture d'occasion"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "SÉCURITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance",
+        "Une cotation sécurisée et rapide",
+        "Une cotation ajustée et sûre"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Obtenez une cotation en quelques clics avec Reprise Peugeot !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Cotation de votre voiture d'occasion",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Obtenez une cotation en quelques clics avec Reprise Peugeot !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Obtenez une cotation en quelques clics avec Reprise Peugeot !",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/lp/cotation-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

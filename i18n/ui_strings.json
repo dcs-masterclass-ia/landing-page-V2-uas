@@ -1,0 +1,105 @@
+{
+  "_meta": {
+    "purpose": "Libelles d'interface generiques (badges, boutons, cartes de confiance) reutilises identiquement sur toutes les pages d'une meme langue. Ce ne sont PAS des citations verbatim du V1 -- ce sont des libelles conventionnels, ancres dans le vocabulaire reellement observe dans le corpus extrait (voir _sources), appliques uniformement la ou le V1 ne fournit pas de texte de bouton/badge distinct.",
+    "regle": "Seuls les champs de chrome UI generiques (trust cards, badge hero, libelle CTA de repli, intitules du bloc CTA final) sont couverts. Aucun texte de bloc editorial n'est genere par ce fichier.",
+    "sources": "Vocabulaire confirme par grep sur les paragraphes extraits : gratuit/kostenlos/gratis/gratuito/bezplatny/free et sans engagement/unverbindlich/vrijblijvend/sin compromiso/senza impegno/bez zobowiazan"
+  },
+  "fr": {
+    "hero_tag": "Estimation gratuite en ligne",
+    "cta_label": "Calculer mon offre de reprise",
+    "trust": [
+      { "icon": "check", "label": "100% gratuit", "sub": "Sans engagement" },
+      { "icon": "mail", "label": "Estimation en ligne", "sub": "Et par email" },
+      { "icon": "agenda", "label": "Rendez-vous a votre convenance", "sub": "En concession" },
+      { "icon": "lock", "label": "Paiement securise", "sub": "Transaction rapide" }
+    ],
+    "cta_final_tag": "Pret a vendre ?",
+    "cta_final_h2": "Estimez votre voiture maintenant.",
+    "cta_final_lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_final_cta": "Estimation gratuite"
+  },
+  "nl": {
+    "hero_tag": "Gratis online schatting",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "trust": [
+      { "icon": "check", "label": "100% gratis", "sub": "Vrijblijvend" },
+      { "icon": "mail", "label": "Online schatting", "sub": "En per e-mail" },
+      { "icon": "agenda", "label": "Afspraak wanneer het u past", "sub": "Bij de dealer" },
+      { "icon": "lock", "label": "Veilige betaling", "sub": "Snelle transactie" }
+    ],
+    "cta_final_tag": "Klaar om te verkopen?",
+    "cta_final_h2": "Schat uw auto nu in.",
+    "cta_final_lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_final_cta": "Gratis schatting"
+  },
+  "es": {
+    "hero_tag": "Tasacion gratuita en linea",
+    "cta_label": "Calcular mi oferta de recompra",
+    "trust": [
+      { "icon": "check", "label": "100% gratuito", "sub": "Sin compromiso" },
+      { "icon": "mail", "label": "Tasacion en linea", "sub": "Y por email" },
+      { "icon": "agenda", "label": "Cita a su conveniencia", "sub": "En el concesionario" },
+      { "icon": "lock", "label": "Pago seguro", "sub": "Transaccion rapida" }
+    ],
+    "cta_final_tag": "Listo para vender?",
+    "cta_final_h2": "Tase su coche ahora.",
+    "cta_final_lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_final_cta": "Tasacion gratuita"
+  },
+  "it": {
+    "hero_tag": "Valutazione gratuita online",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "trust": [
+      { "icon": "check", "label": "100% gratuita", "sub": "Senza impegno" },
+      { "icon": "mail", "label": "Valutazione online", "sub": "E via email" },
+      { "icon": "agenda", "label": "Appuntamento quando preferisci", "sub": "In concessionaria" },
+      { "icon": "lock", "label": "Pagamento sicuro", "sub": "Transazione rapida" }
+    ],
+    "cta_final_tag": "Pronto a vendere?",
+    "cta_final_h2": "Valuta la tua auto ora.",
+    "cta_final_lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_final_cta": "Valutazione gratuita"
+  },
+  "pl": {
+    "hero_tag": "Bezplatna wycena online",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "trust": [
+      { "icon": "check", "label": "100% bezplatnie", "sub": "Bez zobowiazan" },
+      { "icon": "mail", "label": "Wycena online", "sub": "I mailem" },
+      { "icon": "agenda", "label": "Termin dogodny dla Ciebie", "sub": "U dealera" },
+      { "icon": "lock", "label": "Bezpieczna platnosc", "sub": "Szybka transakcja" }
+    ],
+    "cta_final_tag": "Gotowy do sprzedazy?",
+    "cta_final_h2": "Wycen swoj samochod juz teraz.",
+    "cta_final_lead": "Podaj numer rejestracyjny lub marke swojego pojazdu.",
+    "cta_final_cta": "Bezplatna wycena"
+  },
+  "de": {
+    "hero_tag": "Kostenlose Online-Bewertung",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "trust": [
+      { "icon": "check", "label": "100% kostenlos", "sub": "Unverbindlich" },
+      { "icon": "mail", "label": "Online-Bewertung", "sub": "Und per E-Mail" },
+      { "icon": "agenda", "label": "Termin nach Ihrer Wahl", "sub": "Beim Handler" },
+      { "icon": "lock", "label": "Sichere Zahlung", "sub": "Schnelle Abwicklung" }
+    ],
+    "cta_final_tag": "Bereit zu verkaufen?",
+    "cta_final_h2": "Bewerten Sie Ihr Auto jetzt.",
+    "cta_final_lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_final_cta": "Kostenlose Bewertung"
+  },
+  "en": {
+    "hero_tag": "Free online valuation",
+    "cta_label": "Calculate my trade-in offer",
+    "trust": [
+      { "icon": "check", "label": "100% free", "sub": "No obligation" },
+      { "icon": "mail", "label": "Online valuation", "sub": "And by email" },
+      { "icon": "agenda", "label": "Appointment at your convenience", "sub": "At the dealership" },
+      { "icon": "lock", "label": "Secure payment", "sub": "Fast transaction" }
+    ],
+    "cta_final_tag": "Ready to sell?",
+    "cta_final_h2": "Value your car now.",
+    "cta_final_lead": "Enter your registration or your vehicle's make.",
+    "cta_final_cta": "Free valuation"
+  }
+}

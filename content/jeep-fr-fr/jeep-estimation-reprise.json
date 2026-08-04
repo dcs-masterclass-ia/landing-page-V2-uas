@@ -1,0 +1,168 @@
+{
+  "page_key": "jeep-fr-fr__lp-jeep-estimation-reprise",
+  "brand": "jeep",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.jeep.fr",
+  "slug": "/lp/jeep-estimation-reprise",
+  "source_v1": "https://reprise.jeep.fr/lp/jeep-estimation-reprise",
+  "meta": {
+    "title": "Chez Jeep, obtenez une offre de reprise en quelques clics",
+    "description": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "site_name": "Jeep FR",
+    "author": "Jeep FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Chez Jeep ® , estimez votre voiture gratuitement et sans engagement"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "href": "https://reprise.jeep.fr"
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Chez Jeep ® , estimez votre voiture gratuitement et sans engagement",
+    "lead": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Questions Fréquentes",
+      "anchor": "#questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment vendre ma voiture ?"
+        },
+        {
+          "text": "Vendez votre voiture facilement :Obtenez votre estimation gratuite en remplissant notre questionnaire en ligne avec les informations de votre véhicule. En moins de 5 minutes, vous obtenez une estimation pour votre véhicule, également envoyée par email."
+        },
+        {
+          "text": "Comment est estimée la valeur de la voiture que je souhaite vendre ?"
+        },
+        {
+          "text": "L’estimation prend en considération :"
+        },
+        {
+          "text": "Comment faire pour prendre un rendez-vous ?"
+        },
+        {
+          "text": "C’est simple. Lors de votre estimation en ligne, vous choisissez un point de vente Jeep autour de l’adresse postale de votre choix. Un concessionnaire Jeep vous recontactera sous 24h pour convenir ensemble d’un rendez-vous. Vous pouvez également le contacter par vous-même grâce à ses coordonnées transmises avec votre estimation."
+        }
+      ],
+      "bullets": [
+        "Obtenez un rendez-vous : Une fois le formulaire complété, vous êtes recontacté par le concessionnaire de votre choix sous 24h. L'estimation vous convient ? Notre professionnel Jeep vous propose un rendez-vous en concession le jour de votre choix pour s’occuper de la reprise de votre voiture.",
+        "Profitez de l’expertise Jeep: Lors du rendez-vous, l’un de nos experts examine avec vous le véhicule et son état et vous fait une offre de reprise ferme. L’offre vous convient ? Nous rachetons alors votre voiture en toute simplicité.",
+        "Les caractéristiques de votre voiture : marque, modèle, motorisation, version, kilométrage, date de première mise en circulation.",
+        "Les observations du marché : reprises récentes réalisées par des professionnels sur des modèles similaires.",
+        "Une déduction de frais nécessaires à la remise en état du véhicule. Ces frais sont ajustés en fonction de l'état réel du véhicule constaté par le concessionnaire."
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "footer": {
+    "tagline": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://fr-fr.facebook.com/jeepfrance/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_france/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/jeepfrance"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Chez Jeep, obtenez une offre de reprise en quelques clics",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.jeep.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous souhaitez changer de véhicule ? Jeep Automobiles vous propose une offre de reprise en seulement quelques clics et rachète votre ancienne voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.jeep.fr/lp/jeep-estimation-reprise",
+    "medias_trouves": 2,
+    "blocs_detectes": 1,
+    "notes": [
+      "fil d'Ariane introuvable",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

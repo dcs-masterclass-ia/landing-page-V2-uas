@@ -1,0 +1,246 @@
+{
+  "page_key": "ds-automobiles-it-it__lp-vendita-auto-usate",
+  "brand": "ds-automobiles",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://valutazioneusato.dsautomobiles.it",
+  "slug": "/lp/vendita-auto-usate",
+  "source_v1": "https://valutazioneusato.dsautomobiles.it/lp/vendita-auto-usate",
+  "meta": {
+    "title": "La permuta DS Automobiles offre numerosi vantaggi",
+    "description": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
+    "site_name": "Ds Automobiles IT",
+    "author": "Ds Automobiles IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "La permuta DS Automobiles offre numerosi vantaggi"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://valutazioneusato.dsautomobiles.it/"
+    },
+    {
+      "label": "Vendita auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "La permuta DS Automobiles offre numerosi vantaggi",
+    "lead": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "subnav": [
+    {
+      "label": "Vendere la tua auto usat",
+      "anchor": "#vendere-la-tua-auto-usata-senza-inconven"
+    },
+    {
+      "label": "Vendita auto usate offre",
+      "anchor": "#vendita-auto-usate-offre-numerosi-vantag"
+    },
+    {
+      "label": "Valutazione auto usate: ",
+      "anchor": "#valutazione-auto-usate-come-fare"
+    },
+    {
+      "label": "Vuoi vendere la tua auto",
+      "anchor": "#vuoi-vendere-la-tua-auto-usata-al-miglio"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendere-la-tua-auto-usata-senza-inconven",
+      "h2": "Vendere la tua auto usata senza inconvenienti, appuntamenti mancati o pagamenti in ritardo è possibile.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Grazie a noi, non comporterà appuntamenti mancati o pagamenti in ritardo. Con la permuta DS Automobiles, puoi godere di un'esperienza facile, sicura e gratuita che renderà la vendita del tuo veicolo un'operazione senza stress né sorprese spiacevoli. Per iniziare, la permuta DS Automobiles ti offre un servizio online gratuito che ti permette di ottenere una stima di permuta non vincolante per il tuo veicolo. Basta compilare un questionario semplice e veloce, fornendo informazioni dettagliate sulla tua auto. In pochi clic, riceverai una valutazione accurata del valore di mercato del tuo veicolo, basata su dati recenti e osservazioni dei nostri esperti del settore automobilistico. Optando per la permuta DS Automobiles, eviterai le brutte esperienze delle vendite private. Non dovrai preoccuparti di negoziare con potenziali acquirenti o di affrontare i rischi associati alle transazioni individuali, e avrai la garanzia di un processo rapido, sicuro e garantito. Non solo eliminerai il rischio di furto d'identità, ma avrai anche la tranquillità di non dover affrontare problemi legati ai cattivi pagatori."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ef14e6ea-b471-42ed-b9bb-013ca1c14193",
+      "image_alt": "Vendita auto usate vantaggi",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-offre-numerosi-vantag",
+      "h2": "Vendita auto usate offre numerosi vantaggi",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La permuta DS Automobiles offre numerosi vantaggi che ti renderanno la vendita del tuo veicolo ancora più conveniente. Oltre alla stima di permuta in pochi clic, avrai la possibilità di fissare rapidamente un appuntamento con il concessionario DS Automobiles di tua scelta. Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tuo veicolo e ti offrirà un prezzo finale di permuta. Potrai contare sull'esperienza di un professionista che valuterà il tuo veicolo in modo approfondito, tenendo conto di diversi fattori come il modello, l'anno, il chilometraggio e le condizioni generali. Una volta che hai raggiunto un accordo sul prezzo finale di permuta e hai accettato l'offerta, sarai pronto per concludere la vendita direttamente con il concessionario DS Automobiles. La nostra priorità è offrirti un processo di pagamento rapido, sicuro e senza complicazioni, liberandoti da ulteriori formalità amministrative. Grazie al nostro sistema efficiente e ben strutturato, potrai godere di un'esperienza di vendita fluida e senza intoppi. Dimentica lunghe attese o complesse procedure di pagamento. Il nostro team si occuperà di tutto il processo, assicurandosi che il pagamento avvenga nel minor tempo possibile. La tua tranquillità è di fondamentale importanza per noi. Puoi contare sulla nostra affidabilità nel garantire un pagamento sicuro. Abbiamo instaurato rapporti di fiducia con i nostri concessionari DS Automobiles, che si assicureranno che il pagamento venga effettuato in modo corretto e protetto."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "Valutazione auto usate come fare",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "valutazione-auto-usate-come-fare",
+      "h2": "Valutazione auto usate: come fare?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Descrivere la tua auto è la prima fase della permuta. Compila un brevissimo questionario per identificare con precisione il tuo veicolo. Potrai risparmiare tempo utilizzando il libretto di circolazione per trovare la maggior parte delle informazioni. Se non hai a portata di mano l'immatricolazione, non ti preoccupare: identificheremo il tuo veicolo in base al modello. Ma non dimenticare di avere il chilometraggio del tuo veicolo! Fase 2: stima del valore della tua auto. Dopo aver risposto al questionario, i nostri esperti del settore automobilistico calcoleranno il valore di mercato del tuo veicolo sulla base di transazioni recenti. La stima ottenuta sarà il prezzo giusto. Questo processo non ti vincola in alcun modo, sei libero di decidere se continuare o meno. Infine, puoi vendere la tua auto a un concessionario DS Automobiles. Una volta completato il percorso, un concessionario DS Automobiles ti contatterà per organizzare un incontro. Se vuoi, puoi decidere di non andare. L'esperto valuterà la tua auto fisicamente di fronte a te e ti fornirà una valutazione finale di permuta. Se sei soddisfatto di questo prezzo, puoi vendere la tua auto direttamente al concessionario, che si occuperà di tutto il resto: niente formalità amministrative o altri obblighi."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "vendere la tua auto usata al miglior prezzo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vuoi-vendere-la-tua-auto-usata-al-miglio",
+      "h2": "Vuoi vendere la tua auto usata al miglior prezzo possibile?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La stima del valore del tuo veicolo dipende da vari fattori, tra cui il marchio, il modello, la versione, la chilometraggio, l'età e molte altre informazioni. Inoltre, guardiamo anche alle transazioni recenti sul mercato automobilistico per veicoli simili al tuo. Infine, ci saranno dei costi standard di ricondizionamento da detrarre, ma questi possono variare a seconda delle condizioni effettive del tuo veicolo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "vendere la tua auto usata al miglior prezzo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con DS Automobiles?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di DS Automobiles scelto per consegnare il veicolo. Durante l'appuntamento, un esperto DS Automobiles valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        },
+        {
+          "text": "Quali sono i vantaggi dell'utilizzo del servizio di permuta DS Automobiles?"
+        },
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di DS Automobiles sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario DS Automobiles."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da DS Automobiles non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto DS Automobiles per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di DS Automobiles?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "vendere la tua auto usata al miglior prezzo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "footer": {
+    "tagline": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "La permuta DS Automobiles offre numerosi vantaggi",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://valutazioneusato.dsautomobiles.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Sarai assistito da un professionista autorizzato, esperto nel settore automobilistico, che effettuerà una diagnosi accurata del tua auto usata",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://valutazioneusato.dsautomobiles.it/lp/vendita-auto-usate",
+    "medias_trouves": 5,
+    "blocs_detectes": 5,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

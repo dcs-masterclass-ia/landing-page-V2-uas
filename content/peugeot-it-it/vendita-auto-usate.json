@@ -1,0 +1,286 @@
+{
+  "page_key": "peugeot-it-it__lp-vendita-auto-usate",
+  "brand": "peugeot",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutiamoiltuousato.peugeot.it",
+  "slug": "/lp/vendita-auto-usate",
+  "source_v1": "https://www.valutiamoiltuousato.peugeot.it/lp/vendita-auto-usate",
+  "meta": {
+    "title": "Peugeot ► Per vendere la tua auto usata un servizio gratuito",
+    "description": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
+    "site_name": "Peugeot IT",
+    "author": "Peugeot IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Per vendere la tua auto usata un servizio gratuito"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutiamoiltuousato.peugeot.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutiamoiltuousato.peugeot.it/"
+    },
+    {
+      "label": "Vendita auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Per vendere la tua auto usata un servizio gratuito",
+    "lead": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutiamoiltuousato.peugeot.it/"
+  },
+  "subnav": [
+    {
+      "label": "Calcola la mia offerta d",
+      "anchor": "#calcola-la-mia-offerta-di-ritiro"
+    },
+    {
+      "label": "Per vendere la tua auto ",
+      "anchor": "#per-vendere-la-tua-auto-usata-senza-inco"
+    },
+    {
+      "label": "Vendita auto usate : i v",
+      "anchor": "#vendita-auto-usate-i-vantaggi-di-una-per"
+    },
+    {
+      "label": "Vendita auto usate : com",
+      "anchor": "#vendita-auto-usate-come-funziona-la-perm"
+    },
+    {
+      "label": "Vendita auto usate : Vuo",
+      "anchor": "#vendita-auto-usate-vuoi-vendere-la-tua-a"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calcola-la-mia-offerta-di-ritiro",
+      "h2": "Calcola la mia offerta di ritiro",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Se hai intenzione di vendere la tua auto usata, sappiamo che può essere un'esperienza complessa e talvolta frustrante. Ma non preoccuparti, siamo qui per semplificare tutto il processo e assicurarti un'esperienza senza stress. Con il nostro supporto, vendere la tua auto diventerà facile, sicuro e completamente gratuito, senza alcuna sorpresa spiacevole lungo il cammino. La nostra priorità è offrirti un servizio affidabile e senza intoppi. Non dovrai preoccuparti di appuntamenti mancati o di rimanere in sospeso con i pagamenti. Siamo consapevoli che la vendita di un'auto può comportare una serie di sfide, ma con noi puoi dormire sonni tranquilli, sapendo che tutto sarà gestito in modo professionale e tempestivo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/51/35ca937e-1829-4a95-918e-2f013e37acdd",
+      "image_alt": "Vendi auto usata senza stress!",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "per-vendere-la-tua-auto-usata-senza-inco",
+      "h2": "Per vendere la tua auto usata senza inconvenienti.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Per chi vuole vendere la propria auto usata, Peugeot offre uno strumento online gratuito per ottenere una stima di permuta Oltre a fornire una valutazione precisa, ti garantiamo anche la massima sicurezza durante tutto il processo di vendita. Non troverai pagatori inaffidabili o possibili tentativi di furto d'identità. Siamo qui per proteggerti e assicurarti una transazione priva di rischi. La tua tranquillità è la nostra priorità assoluta. Vogliamo risparmiarti il fastidio e le complicazioni delle vendite private. Con la nostra soluzione di vendita, non dovrai cercare acquirenti, gestire negoziazioni complesse o rispondere a domande incessanti. La permuta Peugeot offre molti vantaggi, tra cui una stima accurata in pochi clic, un appuntamento fissato rapidamente con un concessionario di tua scelta, l'esperienza di un professionista autorizzato per la diagnosi e il riacquisto del veicolo, e un pagamento rapido e sicuro."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-i-vantaggi-di-una-per",
+      "h2": "Vendita auto usate : i vantaggi di una permuta",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Ecco come funziona la permuta Peugeot. Nella fase 1, descrivi la tua auto in un questionario facile e veloce. Se hai a portata di mano il libretto di circolazione, puoi saltare diversi passaggi e concludere il processo in pochi clic. In alternativa, identificherò il tuo veicolo in base al modello, ma non dimenticare di avere il chilometraggio del tuo veicolo a portata di mano. Nella fase 2, il nostro team di esperti del settore automobilistico effettuerà una valutazione dettagliata del valore di mercato del tuo veicolo. Utilizzando dati e informazioni provenienti da transazioni recenti, non solo considereremo il modello e l'anno della tua auto, ma anche il chilometraggio, le condizioni generali, le caratteristiche aggiuntive e altri fattori rilevanti. I nostri esperti sono costantemente aggiornati sul mercato automobilistico, monitorando le fluttuazioni dei prezzi e le tendenze di domanda e offerta. Questo ci consente di fornirti una stima accurata e affidabile del valore del tuo veicolo in base alle condizioni attuali del mercato."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-come-funziona-la-perm",
+      "h2": "Vendita auto usate : come funziona la permuta ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "È importante sottolineare che questa fase di stima non ti impegna in alcun modo. Riceverai semplicemente un'indicazione approssimativa del valore della tua auto, che ti aiuterà a prendere una decisione informata sulla vendita. Comprendiamo che il valore del tuo veicolo può influenzare la tua scelta di procedere con la permuta o esplorare altre opzioni. Pertanto, la nostra stima sarà trasparente e basata su dati affidabili, fornendoti una valutazione realistica della tua auto usata. Ricorda che la stima del valore di mercato fornita durante questa fase sarà confermata successivamente dall'esperto durante la diagnosi fisica dell'auto nella fase 3. In questo modo, garantiamo un processo equo e trasparente, dove potrai avere un'ulteriore conferma del valore della tua auto prima di prendere una decisione finale sulla vendita. Nella fase 3, il concessionario di tua scelta ti contatterà per fissare un appuntamento. L'esperto effettuerà una diagnosi fisica dell'auto in tua presenza e ti fornirà un prezzo finale di permuta. Se sei soddisfatto del prezzo, venderai la tua auto usata direttamente al concessionario, senza ulteriori formalità amministrative: pensiamo a tutto noi!"
+        },
+        {
+          "text": "La stima viene effettuata prendendo in considerazione diversi aspetti, tra cui: • Informazioni sull'auto: marca, modello, versione, chilometraggio, età, ecc. • Transazioni recenti relative al modello di veicolo sul mercato professionale dell'auto. • Una detrazione per i costi standard di ricondizionamento.Tale tariffa può essere modificata a seconda delle reali condizioni dell'auto durante l'ispezione fisica da parte del concessionario."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-vuoi-vendere-la-tua-a",
+      "h2": "Vendita auto usate : Vuoi vendere la tua auto usata al miglior prezzo?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Valuta la tua auto gratuitamente online. Dopo aver completato un breve questionario in meno di 5 minuti, riceverai un preventivo non vincolante tramite e-mail. Il concessionario selezionato ti contatterà per fissare un appuntamento presso uno dei suoi punti vendita. Non sei obbligato a nulla! Durante l'appuntamento, l'auto usata verrà ispezionata per determinarne le reali condizioni e stabilire il prezzo di permuta. Affida la tua auto usata alla sicurezza della permuta Peugeot: se il prezzo di permuta ti soddisfa, vendi direttamente al concessionario senza preoccuparti di oneri amministrativi o formalità. Senza rischi di rimpianti, cambiamenti di situazione o azioni legali!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Peugeot?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Peugeot scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Peugeot valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        },
+        {
+          "text": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Peugeot?"
+        },
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Peugeot sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Peugeot."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Peugeot non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Peugeot per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Peugeot?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutiamoiltuousato.peugeot.it/"
+  },
+  "footer": {
+    "tagline": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/peugeotitalia"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/peugeotitalia"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeotitalia/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/peugeotitalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Peugeot ► Per vendere la tua auto usata un servizio gratuito",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutiamoiltuousato.peugeot.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Siamo qui per offrirti un servizio completo, gratuito, sicuro. Per vendere la tua auto usata senza inconvenienti.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutiamoiltuousato.peugeot.it/lp/vendita-auto-usate",
+    "medias_trouves": 9,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.valutiamoiltuousato.peugeot.it/build/img/peugeot/chevron-up.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

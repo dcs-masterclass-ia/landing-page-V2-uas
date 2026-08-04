@@ -1,0 +1,242 @@
+{
+  "page_key": "peugeot-be-nl__het-peugeot-netwerk",
+  "brand": "peugeot",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.peugeot.be",
+  "slug": "/het-peugeot-netwerk",
+  "source_v1": "https://overname.peugeot.be/het-peugeot-netwerk",
+  "meta": {
+    "title": "Profiteer van de expertise van ons netwerk van professionals | Peugeot Overname",
+    "description": "Het Peugeot-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "site_name": "Peugeot BE",
+    "author": "Peugeot BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Peugeot netwerk"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.peugeot.be/"
+    },
+    {
+      "label": "Peugeot netwerk",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Peugeot netwerk",
+    "lead": "Het Peugeot-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "subnav": [
+    {
+      "label": "HET PEUGEOT NETWERK",
+      "anchor": "#het-peugeot-netwerk"
+    },
+    {
+      "label": "Hoe maakt je een afspraa",
+      "anchor": "#hoe-maakt-je-een-afspraak"
+    },
+    {
+      "label": "Sereniteit",
+      "anchor": "#sereniteit"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "het-peugeot-netwerk",
+      "h2": "HET PEUGEOT NETWERK",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Het deelnemende Peugeot-net staat voor je klaar om een voorstel tot overname van je wagen te doen, ongeacht het merk en de kilometerstand. Afhankelijk van je behoeften kan het Peugeot-net je ook een nieuwe wagen of een tweedehandswagen aanbieden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-maakt-je-een-afspraak",
+      "h2": "Hoe maakt je een afspraak?",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Je Peugeot adviseur of Peugeot Verdeler neemt contact met je op om een afspraak te maken en de procedure voor overname van je wagen af te ronden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sereniteit",
+      "h2": "Sereniteit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Een overnameaanbod in enkele minuten",
+        "Geen engagement van jou",
+        "Minder administratieve formaliteiten"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Kies je verkooppunt",
+        "Een vlotte en snelle overname in Brussel"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Een betrouwbare professional in Brussel",
+        "Een veilige en snelle transactie",
+        "Een aangepast overnameaanbod"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "footer": {
+    "tagline": "Het Peugeot-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotBelux/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotBelux"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/automobiles-peugeot/"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-6-30 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Profiteer van de expertise van ons netwerk van professionals",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Het Peugeot-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.peugeot.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Het Peugeot-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.peugeot.be/het-peugeot-netwerk",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-serenity.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-fast.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-safe.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

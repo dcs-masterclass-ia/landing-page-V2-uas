@@ -1,0 +1,279 @@
+{
+  "page_key": "ds-automobiles-lu-fr__lp-vendez-votre-voiture",
+  "brand": "ds-automobiles",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.dsautomobiles.lu",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.dsautomobiles.lu/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendre votre voiture en toute sécurité | DS Automobiles",
+    "description": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "site_name": "Ds Automobiles LU",
+    "author": "Ds Automobiles LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Vendre votre voiture en toute sécurité avec DS"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.dsautomobiles.lu/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendre votre voiture en toute sécurité avec DS",
+    "lead": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite-p"
+    },
+    {
+      "label": "Les avantages de notre s",
+      "anchor": "#les-avantages-de-notre-service-de-vente-"
+    },
+    {
+      "label": "Les étapes pour vendre s",
+      "anchor": "#les-etapes-pour-vendre-sa-voiture-facile"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite-p",
+      "h2": "Vendre votre voiture en toute sécurité : pourquoi choisir DS Automobiles ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vendre sa voiture peut être un processus compliqué et fastidieux, surtout si vous êtes novice dans ce domaine. C'est pour cela que DS AUTOMOBILES est là pour vous aider. Nous sommes spécialisés dans l'achat et la vente de voitures d'occasion, et nous mettons notre expertise à votre disposition pour vous aider à vendre votre voiture en toute sécurité. Notre service est entièrement gratuit et sans engagement, et notre équipe de professionnels se tient à votre disposition pour répondre à toutes vos questions et vous accompagner tout au long du processus de vente."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "Les étapes pour vendre votre voiture ds automobile",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "les-avantages-de-notre-service-de-vente-",
+      "h2": "Les avantages de notre service de vente de voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nous vous offrons les avantages suivants : ● Une estimation gratuite et sans engagement ● Une estimation envoyée en ligne et par email ● Un rendez-vous avec un concessionnaire près de chez vous, à votre convenance ● La possibilité de sécuriser votre transaction grâce à un paiement rapide"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "Les avantages de vendre votre voiture DS Automobile",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "les-etapes-pour-vendre-sa-voiture-facile",
+      "h2": "Les étapes pour vendre sa voiture facilement",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour vendre votre voiture, voici les étapes à suivre : Etape 1 : Remplissez les informations sur votre voiture Notre questionnaire facile à remplir vous permet de fournir toutes les informations essentielles sur votre véhicule pour obtenir une estimation précise. Vous pouvez commencer le questionnaire en renseignant simplement votre numéro de plaque d'immatriculation. Cette étape est rapide et simple et permet d'identifier facilement les principales caractéristiques de votre voiture. Etape 2 : Obtenez votre estimation en ligne et par email Nous analysons le marché pour vous offrir une estimation juste de la valeur de votre voiture. Cette estimation vous est envoyée en ligne et par email."
+        },
+        {
+          "text": "Etape 3 : Prenez rendez-vous avec un professionnel Après avoir obtenu votre estimation, un concessionnaire Peugeot proche de chez vous prendra contact avec vous sous 24 heures pour convenir d'un rendez-vous en concession. Lors de ce rendez-vous, un professionnel effectuera une inspection de votre véhicule et vous proposera un prix de reprise final. Si vous êtes satisfait de l'offre, nous rachetons immédiatement votre voiture, sans aucune démarche administrative de votre part."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "avantages vendre sa voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation d’achat ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives ● Vous pouvez connaître la valeur de votre voiture en moins de 5 minutes !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "avantages vendre sa voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise DS AUTOMOBILES propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire DS AUTOMOBILES de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture DS AUTOMOBILES ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "avantages vendre sa voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-ds-automobiles-est-a-votre-",
+      "h2": "L'expérience DS AUTOMOBILES est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire DS AUTOMOBILES en sélectionnant l'adresse postale de votre choix. Votre concessionnaire DS AUTOMOBILES vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau DS AUTOMOBILES, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire DS AUTOMOBILES. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "avantages vendre sa voiture DS AUTOMOBILES",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "footer": {
+    "tagline": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendre votre voiture en toute sécurité",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.dsautomobiles.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "howto_name": "Vendre votre voiture en toute sécurité avec DS",
+    "howto_description": "Avec DS Automobiles, vendez votre voiture en toute sécurité. Nous vous accompagnons durant toute la vente pour vous garantir une transaction sûre.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.lu/lp/vendez-votre-voiture",
+    "medias_trouves": 5,
+    "blocs_detectes": 6,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

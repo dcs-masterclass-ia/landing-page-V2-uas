@@ -1,0 +1,252 @@
+{
+  "page_key": "peugeot-fr-fr__lp-peugeot-vente",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/lp/peugeot-vente",
+  "source_v1": "https://www.reprise.peugeot.fr/lp/peugeot-vente",
+  "meta": {
+    "title": "Vente et revente de voiture d'occasion",
+    "description": "Vente et Revente de votre voiture rapidement à un professionnel en toutes sécurité avec Reprise Peugeot grâce à des formalités administratives réduites.",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vente et revente de votre voiture d'occasion"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vente et revente de votre voiture d'occasion",
+    "lead": "Vente et Revente de votre voiture rapidement à un professionnel en toutes sécurité avec Reprise Peugeot grâce à des formalités administratives réduites.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "son réseau de point de v",
+      "anchor": "#son-reseau-de-point-de-vente-peugeot"
+    },
+    {
+      "label": "Reprise Peugeot à Lyon",
+      "anchor": "#reprise-peugeot-a-lyon"
+    },
+    {
+      "label": "SÉRÉNITÉ",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "RAPIDITÉ",
+      "anchor": "#rapidite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Lors de la vente d’une voiture d'occasion, traiter avec un acheteur de confiance est l'élément le plus important pour réaliser . Particulier comme professionnel de l'automobile, il faudra faire attention au moyen de paiement, au respect des formalités administratives, ou encore au prix de vente auto qui devra être en concordance avec le marché de revente de véhicules d'occasion. Ce sont de nombreux paramètres qui peuvent devenir un frein pour la revente de votre automobile d'occasion, s’ils ne sont pas correctement maitrisés. Reprise Peugeot vous apportera tous ces éléments de vente, grâce à , grâce à l’expertise de vente des agents qui connaissent tous les modèles automobiles avec précision, ou encore grâce à la justesse de l’offre de revente, qui est en adéquation avec les occasions actuellement en vente. Bien entendu, La vente de votre voiture d'occasion à un professionnel est donc gage de sécurité, rapidité et fiabilité ; et encore plus avec Reprise Peugeot, qui bénéficie d’un maillage de points de vente élevé pour vous éviter de longs déplacements. Après la revente de votre auto, vous n’aurez pas à vous soucier d’éventuelles plaintes du nouvel acquéreur, c’est le point de vente Peugeot qui sera en relation avec celui-ci. La revente d’une voiture d'occasion n’a jamais été aussi simple !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "son-reseau-de-point-de-vente-peugeot",
+      "h2": "son réseau de point de vente Peugeot",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "faire une estimation de revente sur Reprise Peugeot est gratuit et sans engagement, le choix de la vente de votre voiture d'occasion vous appartient !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "reprise-peugeot-a-lyon",
+      "h2": "Reprise Peugeot à Lyon",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Dans ce bref questionnaire, il faudra décrire votre voiture d'occasion (marque, modèle, kilométrage, etc) et son état actuel, puis sélectionner le point de vente que vous souhaitez. Avec un maillage fort dans toute la France, vous trouverez forcément un point de vente proche de chez vous ou de votre lieu de travail. Vous recevrez alors une estimation de reprise pour la revente de votre voiture d'occasion, qui sera confirmée ou ajustée par le point de vente. Celui-ci vous contactera pour fixer un rendez-vous en point de vente, pour qu’il puisse expertiser votre voiture, et si vous l’acceptez, procéder à la revente de votre automobile. Un rendez-vous n’est pas synonyme de revente. Après la revente de votre voiture, il vous sera possible de profiter des , le professionnel pourra vous présenter les derniers modèles de la marque Peugeot, comme la 508SW ou la 3008. Si vous êtes intéressé par l’une d’entre elles, il sera même possible de la configurer selon vos critères et envies. , neuve ou d’occasion. Tout est compris, de la vente de votre voiture au rachat d’un nouveau véhicule neuf ou d'occasion ! Si toutefois vous ne trouvez pas votre bonheur en point de vente, il vous sera possible de consulter les voitures en vente sur le site , ou sur pour les véhicules neufs. Le nombre d’annonces de vente est suffisamment important pour que vous puissiez trouver la bonne voiture, tout en bénéficiant du montant lié à la revente de votre voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "SÉRÉNITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Peugeot",
+        "Une revente simplifiée",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "RAPIDITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une vente en quelques minutes",
+        "Choisissez votre point de vente",
+        "Une revente rapide par le professionnel"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "SÉCURITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une revente à un professionnel de l'automobile",
+        "Une revente sécurisée et rapide",
+        "Une offre de vente ajustée"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Vente et Revente de votre voiture rapidement à un professionnel en toutes sécurité avec Reprise Peugeot grâce à des formalités administratives réduites.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vente et revente de voiture d'occasion",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vente et Revente de votre voiture rapidement à un professionnel en toutes sécurité avec Reprise Peugeot grâce à des formalités administratives réduites.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vente et Revente de votre voiture rapidement à un professionnel en toutes sécurité avec Reprise Peugeot grâce à des formalités administratives réduites.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/lp/peugeot-vente",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "6 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

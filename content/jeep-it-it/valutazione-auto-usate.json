@@ -1,0 +1,259 @@
+{
+  "page_key": "jeep-it-it__lp-valutazione-auto-usate",
+  "brand": "jeep",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.jeep-official.it",
+  "slug": "/lp/valutazione-auto-usate",
+  "source_v1": "https://www.valutazioneusato.jeep-official.it/lp/valutazione-auto-usate",
+  "meta": {
+    "title": "Valutazione auto usate ⇒ Jeep",
+    "description": "Il nostro servizio online gratuito di offerte di permuta per ottimizzare la vendita de la tua auto usata",
+    "site_name": "Jeep IT",
+    "author": "Jeep IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Permettiamo di fare la valutazione del tuo usato"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.jeep-official.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.jeep-official.it/"
+    },
+    {
+      "label": "Valutazione auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Permettiamo di fare la valutazione del tuo usato",
+    "lead": "Il nostro servizio online gratuito di offerte di permuta per ottimizzare la vendita de la tua auto usata",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.jeep-official.it/"
+  },
+  "subnav": [
+    {
+      "label": "Perché valutare la tua a",
+      "anchor": "#perche-valutare-la-tua-auto-sul-nostro-s"
+    },
+    {
+      "label": "Come funziona la valutaz",
+      "anchor": "#come-funziona-la-valutazione-online-di-a"
+    },
+    {
+      "label": "I vantaggi della valutaz",
+      "anchor": "#i-vantaggi-della-valutazione-online-auto"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    },
+    {
+      "label": "Quali sono i vantaggi de",
+      "anchor": "#quali-sono-i-vantaggi-dell-utilizzo-del-"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "perche-valutare-la-tua-auto-sul-nostro-s",
+      "h2": "Perché valutare la tua auto sul nostro sito?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "In un vasto panorama di siti di valutazione online per auto usate, scegliere la permuta Jeep significa: • Ottenere una valutazione online completamente gratuita in pochi semplici clic. • Ricevere una stima affidabile basata su recenti transazioni di mercato. • Avere a disposizione l'esperienza della rete Jeep per ritirare il veicolo. Se vuoi rivenderlo, la nostra rete sarà a tua completa disposizione senza alcun obbligo da parte tua."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "come-funziona-la-valutazione-online-di-a",
+      "h2": "Come funziona la valutazione online di auto usate Jeep?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Prima di iniziare la valutazione della tua auto, assicurati di avere a disposizione: • Il libretto di circolazione dell'auto • Il chilometraggio dell'auto • L'elenco dei difetti dell'auto Se siete alla ricerca di un modo semplice ed efficiente per valutare la vostra auto usata, siete nel posto giusto. Con il nostro servizio di valutazione online, ottenere una stima del valore della vostra auto richiederà solo tre passaggi. Il primo passo consiste nel fornirci tutte le informazioni necessarie per identificare il modello della vostra auto."
+        },
+        {
+          "text": "Una volta che avremo tutte le informazioni necessarie, analizzeremo il mercato per fornirvi una stima accurata del valore della vostra auto. Riceverete il preventivo direttamente via email, senza alcun obbligo di continuare il processo. Se siete soddisfatti del preventivo, potrete fissare un appuntamento con uno dei nostri professionisti presso uno dei nostri punti vendita. In questa fase, il nostro esperto valuterà il veicolo di persona e vi fornirà un'offerta definitiva. Se accettate la proposta, vi occuperemo noi della permuta del vostro veicolo, senza alcun onere amministrativo per voi."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "i-vantaggi-della-valutazione-online-auto",
+      "h2": "I vantaggi della valutazione online auto usate",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Ci sono numerosi vantaggi nell'utilizzare il nostro servizio di valutazione online auto usate. Innanzitutto, la valutazione è completamente gratuita e affidabile grazie alla nostra esperienza nel settore Jeep. Inoltre, il preventivo è valido per 10 giorni, quindi avete tutto il tempo necessario per decidere. Infine, grazie alla nostra vasta rete di concessionari Jeep, potrete consegnare il vostro veicolo ovunque in Italia senza alcuna difficoltà. In sintesi, se state cercando un modo facile e conveniente per valutare la vostra auto usata, il nostro servizio di valutazione online è la soluzione ideale."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Jeep?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Jeep scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Jeep valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "quali-sono-i-vantaggi-dell-utilizzo-del-",
+      "h2": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Jeep",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Jeep sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Jeep."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Jeep non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Jeep per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Jeep?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.jeep-official.it/"
+  },
+  "footer": {
+    "tagline": "Il nostro servizio online gratuito di offerte di permuta per ottimizzare la vendita de la tua auto usata",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepItalia/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep.italia"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/@JeepItalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate ⇒ Jeep",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Il nostro servizio online gratuito di offerte di permuta per ottimizzare la vendita de la tua auto usata",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.jeep-official.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Il nostro servizio online gratuito di offerte di permuta per ottimizzare la vendita de la tua auto usata",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.jeep-official.it/lp/valutazione-auto-usate",
+    "medias_trouves": 6,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.jeep-official.it/build/img/jeep/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

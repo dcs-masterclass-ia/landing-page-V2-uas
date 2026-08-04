@@ -1,0 +1,235 @@
+{
+  "page_key": "jeep-fr-fr__comment-ca-marche",
+  "brand": "jeep",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.jeep.fr",
+  "slug": "/comment-ca-marche",
+  "source_v1": "https://reprise.jeep.fr/comment-ca-marche",
+  "meta": {
+    "title": "Comment ça marche ? | Reprise Jeep FR",
+    "description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
+    "site_name": "Jeep FR",
+    "author": "Jeep FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Comment ça marche ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.jeep.fr/"
+    },
+    {
+      "label": "COMMENT ÇA MARCHE ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Comment ça marche ?",
+    "lead": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Obtenez une offre de rep",
+      "anchor": "#obtenez-une-offre-de-reprise-en-6-etapes"
+    },
+    {
+      "label": "Calcul de la valeur de r",
+      "anchor": "#calcul-de-la-valeur-de-reprise"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenez-une-offre-de-reprise-en-6-etapes",
+      "h2": "Obtenez une offre de reprise en 6 étapes :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Renseignez les informations du véhicule à reprendre. 2 - Obtenez votre estimation de reprise de votre véhicule. 3 - Le distributeur de votre choix vous contacte pour prendre rendez-vous. 4 - Un expert Jeep examine, en votre présence l'état de votre véhicule. 5 - Après votre accord, nous nous engageons à une reprise immédiate. 6 - Le paiement est immédiat, garanti et sécurisé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "calcul-de-la-valeur-de-reprise",
+      "h2": "Calcul de la valeur de reprise :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La valeur d'acquisition est estimée en euros TTC, sur la base du prix du marché, des transactions récentes et des informations que vous avez fournies sur l'état et les options de votre voiture. Grâce à ces informations nous pouvons vous faire une offre de reprise (la valeur estimée n'est qu'indicative). Vous serez ensuite contacté par un distributeur Jeep qui réalisera également une expertise de votre voiture pour finaliser la transaction."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Recevez une estimation de la valeur de votre véhicule.",
+        "Estimation entièrement gratuite et sans engagement"
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Évitez les démarches administratives",
+        "Jeep Reprise permet d’évaluer votre véhicule sur la base d’observations du marché et des transactions récentes"
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Prenez rendez-vous avec votre distributeur Jeep",
+        "Le distributeur sélectionné se chargera de la reprise de votre voiture et du paiement"
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "footer": {
+    "tagline": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://fr-fr.facebook.com/jeepfrance/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_france/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/jeepfrance"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Comment ça marche ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.jeep.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Recevez une estimation gratuite par email. Prenez rendez-vous avec un membre du réseau. Profitez de l'expertise Jeep pour la reprise de votre voiture.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.jeep.fr/comment-ca-marche",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/content-serenity.jpg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/content-fast.jpg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/content-safe.jpg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

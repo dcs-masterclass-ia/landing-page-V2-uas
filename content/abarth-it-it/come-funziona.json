@@ -1,0 +1,255 @@
+{
+  "page_key": "abarth-it-it__come-funziona",
+  "brand": "abarth",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.abarth.it",
+  "slug": "/come-funziona",
+  "source_v1": "https://www.valutazioneusato.abarth.it/come-funziona",
+  "meta": {
+    "title": "Valutazione Abarth: come funziona",
+    "description": "Scegliere Abarth per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "site_name": "Abarth IT",
+    "author": "Abarth IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Come funziona ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.abarth.it/"
+    },
+    {
+      "label": "Funzionamento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Come funziona ?",
+    "lead": "Scegliere Abarth per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "subnav": [
+    {
+      "label": "Abarth Valutazione è un ",
+      "anchor": "#abarth-valutazione-e-un-servizio-online-"
+    },
+    {
+      "label": "Un ritiro facile e sicur",
+      "anchor": "#un-ritiro-facile-e-sicuro-della-vostra-a"
+    },
+    {
+      "label": "Serenità",
+      "anchor": "#serenita"
+    },
+    {
+      "label": "Rapidità",
+      "anchor": "#rapidita"
+    },
+    {
+      "label": "Sicurezza",
+      "anchor": "#sicurezza"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "abarth-valutazione-e-un-servizio-online-",
+      "h2": "Abarth Valutazione è un servizio online che ti permette di ottenere un'offerta di permuta gratuita per il tuo veicolo.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Inserisci i dati del veicolo da valutare. 2 - Richiedi la valutazione del tuo veicolo. 3 - Il concessionario di tua scelta ti contatterà per fissare un appuntamento. 4 - Un esperto Abarth esamina le condizioni del tuo veicolo in tua presenza. 5 - Con la tua conferma, ci impegniamo all'acquisto immediato. 6 - Il pagamento è immediato, garantito e sicuro."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/article-store.png",
+      "image_alt": ".",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "un-ritiro-facile-e-sicuro-della-vostra-a",
+      "h2": "Un ritiro facile e sicuro della vostra auto.",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Il valore di acquisto è stimato in euro, IVA inclusa, in base al prezzo di mercato, alle transazioni recenti e alle informazioni fornite sulle condizioni e gli optional dell'auto. Sulla base di queste informazioni, possiamo fare un'offerta di permuta (il valore stimato è solo indicativo). Sarà poi contattato da un concessionario Abarth che effettuerà anche una valutazione della vettura per concludere la transazione."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-serenity.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenita",
+      "h2": "Serenità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Abarth vi offre un'alternativa per evitare spiacevoli sorprese e procedure amministrative."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidita",
+      "h2": "Rapidità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Con pochi clic, inserisci i dati del tuo veicolo e riceverai immediatamente una stima del suo valore."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sicurezza",
+      "h2": "Sicurezza",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sei soddisfatto della nostra offerta di permuta? Fissate un appuntamento con il concessionario Abarth di vostra scelta."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "valutazione",
+      "h2": "VALUTAZIONE",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "In pochi click riceverai una stima del valore della tua auto."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "footer": {
+    "tagline": "Scegliere Abarth per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Italia"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarth_italia_official/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione Abarth: come funziona",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Scegliere Abarth per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.abarth.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Scegliere Abarth per la vendita del proprio veicolo usato significa scegliere serenità, velocità e un metodo di pagamento semplice e veloce.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.abarth.it/come-funziona",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-serenity.png",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-fast.png",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/content-safe.png",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "page_key": "ds-automobiles-es-es__porque-elegir-tasacion-ds",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/porque-elegir-tasacion-ds",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/porque-elegir-tasacion-ds",
+  "meta": {
+    "title": "Nuestros compromisos | Tasación DS",
+    "description": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "¿Por qué elegir tasación DS Automobiles?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "Nuestros compromisos",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "¿Por qué elegir tasación DS Automobiles?",
+    "lead": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "UNA TASACIÓN FÁCIL Y RÁP",
+      "anchor": "#una-tasacion-facil-y-rapida-en-ds"
+    },
+    {
+      "label": "Las etapas de la venta c",
+      "anchor": "#las-etapas-de-la-venta-con-su-ds-store"
+    },
+    {
+      "label": "1. Serenidad",
+      "anchor": "#1-serenidad"
+    },
+    {
+      "label": "2. Velocidad",
+      "anchor": "#2-velocidad"
+    },
+    {
+      "label": "3. Seguridad",
+      "anchor": "#3-seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "una-tasacion-facil-y-rapida-en-ds",
+      "h2": "UNA TASACIÓN FÁCIL Y RÁPIDA EN DS",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Rellene los datos y el estado de su vehículo y recibirá una oferta de venta por correo electrónico. Cuando solicite una oferta online, elija su DS Store más cercano. Un DS Expert Advisor del DS Store seleccionado se pondrá en contacto con usted para concertar una cita. Durante la cita, uno de nuestros expertos examinará el estado de su vehículo en su presencia. Una vez que se haya confirmado el precio y con su acuerdo, nos comprometemos a la compra inmediata. El pago está garantizado, seguro y asegurado por su DS Store."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.dsautomobiles.es/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "image_alt": "/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "las-etapas-de-la-venta-con-su-ds-store",
+      "h2": "Las etapas de la venta con su DS Store:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Durante la cita, uno de nuestros expertos examinará el estado de su vehículo en su presencia. Una vez que se haya confirmado el precio y con su acuerdo, nos comprometemos a la compra inmediata. El pago está garantizado, seguro y asegurado por un concesionario DS. El valor de tasación se calcula en euros, impuestos incluidos, en función de las observaciones del mercado, las transacciones recientes y la información proporcionada sobre el estado de su vehículo. Estos elementos nos permiten ofrecerle una oferta de venta (valor proporcionado solo a título informativo). Tenga en cuenta que un DS Store llevará a cabo una revisión física de su vehículo para darle una tasación final."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/43b75ff6-eefb-42d0-bd70-a633c4bd4e4d",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "1-serenidad",
+      "h2": "1. Serenidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Sin compromiso",
+        "Tramites simplificados"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/43b75ff6-eefb-42d0-bd70-a633c4bd4e4d",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "2-velocidad",
+      "h2": "2. Velocidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elija un punto de venta",
+        "Una tasación fácil y rápida"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/43b75ff6-eefb-42d0-bd70-a633c4bd4e4d",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "3-seguridad",
+      "h2": "3. Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza",
+        "Una transacción segura y rápida",
+        "Oferta ajustada"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/43b75ff6-eefb-42d0-bd70-a633c4bd4e4d",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Nuestros compromisos",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Simplifica sus trámites con la tasación de coche online, gratis y sin compromiso. El concesionario elegido se pondrá en contacto con usted para hablar de su proyecto.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/porque-elegir-tasacion-ds",
+    "medias_trouves": 5,
+    "blocs_detectes": 5,
+    "notes": [
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

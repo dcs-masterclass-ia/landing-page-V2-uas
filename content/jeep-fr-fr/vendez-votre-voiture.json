@@ -1,0 +1,285 @@
+{
+  "page_key": "jeep-fr-fr__lp-vendez-votre-voiture",
+  "brand": "jeep",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.jeep.fr",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.jeep.fr/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture : mode d’emploi | JEEP",
+    "description": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
+    "site_name": "Jeep FR",
+    "author": "Jeep FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vendez votre voiture : mode d’emploi | JEEP"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.jeep.fr/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture : mode d’emploi | JEEP",
+    "lead": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Vendez votre voiture : l",
+      "anchor": "#vendez-votre-voiture-la-reprise-par-jeep"
+    },
+    {
+      "label": "Un rendez-vous planifié ",
+      "anchor": "#un-rendez-vous-planifie-rapidement-chez-"
+    },
+    {
+      "label": "Vendez votre voiture : c",
+      "anchor": "#vendez-votre-voiture-comment-marche-la-r"
+    },
+    {
+      "label": "Etape 1: Décrivez nous v",
+      "anchor": "#etape-1-decrivez-nous-votre-voiture"
+    },
+    {
+      "label": "Paiement super sécurisé",
+      "anchor": "#paiement-super-securise"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-la-reprise-par-jeep",
+      "h2": "Vendez votre voiture : la reprise par Jeep",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Reprise Jeep vous propose un outil en ligne gratuit pour obtenir une estimation de reprise non-engageante pour votre véhicule. Evitez les mauvaises expériences de la vente entre particuliers et optez pour la solution rapide, sécurisé et garantie. Pas de mauvais payeurs, pas de risque d’usurpation d’identité, garantie d’une reprise ferme – c’est la solution sérénité."
+        },
+        {
+          "text": "Vous comptez vendre votre voiture ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "un-rendez-vous-planifie-rapidement-chez-",
+      "h2": "Un rendez-vous planifié rapidement chez le concessionnaire de votre choix",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "L’expertise d’un professionnel agréé pour le diagnostic et le rachat de votre véhicule"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-comment-marche-la-r",
+      "h2": "Vendez votre voiture : comment marche la reprise ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous remplissez un questionnaire en moins de 5 minutes, nous identifions précisément votre voiture grâce aux caractéristiques que vous nous avez transmises. C’est facile, rapide et sans engagement. Vous pouvez économiser du temps en utilisant l’immatriculation de votre véhicule, nous irons directement chercher la plupart des informations sur votre véhicules, vous sautez plusieurs étapes et vous finissez le parcours en quelques clics. Vous n’avez pas votre immatriculation en tête ? Pas de soucis. Nous allons identifier votre véhicule par rapport à son modèle. Mais n’oubliez pas d’avoir le kilométrage de votre véhicule à portée de main !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-1-decrivez-nous-votre-voiture",
+      "h2": "Etape 1: Décrivez nous votre voiture",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Une fois le questionnaire rempli, nous calculons la valeur de marché de votre véhicule en se basant sur les transactions récentes observées par nos experts de l’automobile. Le résultat est une estimation au plus proche du juste prix. Le processus d’estimation ne vous engage à rien, libre à vous de continuer ou non. Suite à votre parcours, la concession de votre choix vous contacte pour prendre rendez-vous. Vous pouvez accepter ou non de vous rendre en point de vente. L’expert effectuera un diagnostic physique de votre voiture en votre présence et vous donnera un prix de reprise final. Si ce prix vous convient, vous vendez votre voiture directement au concessionnaire qui reprend votre véhicule sans charges administratives supplémentaires et sans démarches – nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "paiement-super-securise",
+      "h2": "Paiement super sécurisé",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Nous prenons en charge les démarches administratives."
+        },
+        {
+          "text": "N'hésitez plus! Faites le choix du professionnalisme!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment vendre ma voiture?"
+        },
+        {
+          "text": "La reprise Jeep propose un service en ligne qui vous permet d'obtenir une évaluation gratuite de votre voiture. Pour cela, vous remplissez le profil de votre voiture dans le questionnaire prévu à cet effet. Incluez par exemple des informations telles que le kilométrage, la marque, le modèle, la version, le moteur, etc. Vous recevrez ensuite une évaluation de votre voiture lorsque vous aurez rempli le questionnaire. En 5 minutes environ, l'évaluation vous est présentée. Le concessionnaire Jeep de votre choix vous appellera pour fixer un rendez-vous pour la reprise de la voiture. Vous avez toujours le choix : Si l'offre finale ne vous convient pas, vous n'êtes pas obligé de la vendre."
+        },
+        {
+          "text": "2. Vendez-vous votre voiture au meilleur prix ?"
+        },
+        {
+          "text": "L’estimation est calculée grâce à plusieurs éléments : • Les informations de votre voiture : marque, modèle, version, kilométrage, âge, etc. • Les transactions récentes sur le marché des professionnels de l’automobile concernant votre modèle de véhicule • Une déduction de frais de remise en état standard. Ces frais pourront être ajustés selon l’état réel de votre véhicule lors de l’inspection physique effectuée par votre concessionnaire."
+        },
+        {
+          "text": "3. Comment vendre ma voiture a Jeep ?"
+        },
+        {
+          "text": "Estimez gratuitement votre véhicule grâce à notre outil en ligne, en remplissant un questionnaire de moins de 5 minutes vous obtenez une estimation non-engageante directement, estimation qui vous est également transmise par mail. Votre estimation obtenue, le concessionnaire de votre choix vous recontacte pour vous proposer un rendez-vous en point de vente. Rien n’est obligatoire ! Le rendez-vous consiste en un diagnostic physique de votre véhicule pour constater son état réel et vous donner un prix de reprise ferme ? Profitez de l’expertise et de la sérénité de la reprise Jeep – si le prix de de reprise final vous convient, vous vendez directement votre véhicule au concessionnaire qui le reprend sans charges administratives additionnelles ni démarches supplémentaires. Et sans risque de changement d’avis, d’imprévus ou de poursuite !"
+        },
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre votre voiture ?"
+        },
+        {
+          "text": "Prendre rendez-vous avec nos concessionnaires est facilité par notre outil. A la fin de votre parcours d’estimation, vous sélectionnez votre point de vente Jeep de préférence par rapport à votre code postal. Votre concessionnaire vous recontactera pour vous proposer un rendez-vous, sans obligation. Vous pouvez aussi prendre les devants et contacter directement votre concessionnaire avec les coordonnées fournies en même temps que l’estimation de votre véhicule si vous êtes dans l’urgence !"
+        },
+        {
+          "text": "5. Quid du paiement quand vous vendez votre voiture ?"
+        },
+        {
+          "text": "Quand vous vendez votre voiture au réseau Jeep, c’est la garantie d’un paiement rapide et en toute sérénité. Le règlement de votre véhicule est assuré par votre concessionnaire Jeep, par chèque ou par virement bancaire selon le point de vente choisi. Plus de mauvaises surprises, vendez votre voiture en toute sécurité !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "footer": {
+    "tagline": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://fr-fr.facebook.com/jeepfrance/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_france/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/jeepfrance"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture : mode d’emploi",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.jeep.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous vendez votre voiture ? Et vous avez peur des mauvaises surprises ? Vendez votre voiture avec nous, c'est facile, sécurisé et gratuit avec le réseau JEEP.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.jeep.fr/lp/vendez-votre-voiture",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-voiture-non-roulante",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-voiture-non-roulante",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-voiture-non-roulante",
+  "meta": {
+    "title": "La reprise d'une voiture non roulante ou en panne avec Reprise DS",
+    "description": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise d'une voiture non roulante"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise d'une voiture non roulante",
+    "lead": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Dans quels cas peut-on p",
+      "anchor": "#dans-quels-cas-peut-on-pretendre-au-rach"
+    },
+    {
+      "label": "Combien vais-je obtenir ",
+      "anchor": "#combien-vais-je-obtenir-pour-la-reprise-"
+    },
+    {
+      "label": "formulaire en ligne",
+      "anchor": "#formulaire-en-ligne"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "dans-quels-cas-peut-on-pretendre-au-rach",
+      "h2": "Dans quels cas peut-on prétendre au rachat de sa voiture non roulante ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Depuis 2009, la législation en vigueur prévoit que le rachat d’un véhicule non roulant par un particulier ou la vente à un autre particulier ne soit plus autorisé. Les mentions « véhicule non roulant » sur un contrôle technique n’existent plus et aucune carte grise ne sera délivrée pour une telle voiture. Un particulier peut toutefois conserver un véhicule non roulant : - pour réutiliser certaines pièces à des fins personnelles ; - pour le transformer, le réparer, toujours à des fins personnelles. Notez qu’un particulier désirant conserver un véhicule non roulant est tenu de faire une déclaration de « retrait de circulation »."
+        },
+        {
+          "text": "Si vous souhaitez céder une voiture en panne, accidentée, ou non roulante, vous pouvez vous adresser à un centre de recyclage. Sachez également que les professionnels de l’automobile sont habilités à faire des reprises de voitures non roulantes à des fins de destruction."
+        },
+        {
+          "text": "Comment estimer le prix de rachat de sa voiture non roulante ? Si vous utilisez notre , sachez que si vous déclarez votre véhicule comme non roulant, sa cotation initiale sera de zéro. Mais vous pourrez toutefois bénéficier d’une reprise. Un rendez-vous ultérieur avec l’un de nos experts de DS Automobiles vous permettra d’obtenir une cotation pour le rachat de votre véhicule accidenté, en panne, ou avec problème. DS Automobiles s’engage à reprendre et à payer sous huit jours ouvrables votre voiture quel que soit son état."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/reparation-atelier-DS.jpg",
+      "image_alt": "reparation ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "combien-vais-je-obtenir-pour-la-reprise-",
+      "h2": "Combien vais-je obtenir pour la reprise de mon véhicule non roulant ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si votre voiture est en panne ou non roulante, elle n’est pas pour autant toujours irréparable. Après estimation des frais nécessaires à sa remise en état, notre expert automobile pourra proposer une offre de rachat de votre voiture non roulante avec déduction de ces frais."
+        },
+        {
+          "text": "Que votre voiture soit réparable ou non, vous pourrez bénéficier de conditions de reprise préférentielles si vous effectuez la revente pour acheter une DS neuve. Si vous êtes déjà l’heureux possesseur d’un modèle DS, sachez que vous faites partie de nos clients privilégiés et pourrez bénéficier d’une prime exceptionnelle de renouvellement. Enfin, si vous faites reprendre un véhicule d’une marque premium comme BMW, Smart, MG ou Jeep, vous pourrez profiter d’une prime supplémentaire. Renseignez-vous en concession."
+        },
+        {
+          "text": "Quelles sont les démarches à effectuer ? Si vous souhaitez obtenir la reprise de votre voiture non roulante, nous vous simplifions la tâche, car vous n’aurez rien d’autre à faire que de prendre contact avec nous. Pas d’annonce à publier, pas de déplacement inutile, pas de démarche administrative, nous nous chargeons de tout. Rien n’a jamais été aussi facile qu’avec nos offres de reprise, même s’il s’agit d’un véhicule non roulant. Vous souhaitez nous confier le rachat de votre voiture en panne ou accidentée, commencez dès maintenant l’estimation avec le ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/reparation-atelier-DS.jpg",
+      "image_alt": "reparation ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "formulaire-en-ligne",
+      "h2": "formulaire en ligne",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/reparation-atelier-DS.jpg",
+      "image_alt": "reparation ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "La reprise d'une voiture non roulante ou en panne avec Reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Reprise d'une voiture en panne, non roulante, ou encore accidentée, DS Automobiles peut s'en charger, quel que soit son état.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise",
+    "medias_trouves": 2,
+    "blocs_detectes": 3,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

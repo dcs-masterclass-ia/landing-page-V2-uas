@@ -1,0 +1,274 @@
+{
+  "page_key": "jeep-be-nl__lp-Auto-verkopen",
+  "brand": "jeep",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.jeep.be",
+  "slug": "/lp/Auto-verkopen",
+  "source_v1": "https://overname.jeep.be/lp/Auto-verkopen",
+  "meta": {
+    "title": "Auto verkopen: waarom kiezen voor overname? » Jeep",
+    "description": "Verkoop uw auto gemakkelijk met Jeep. Laat onze professionals uw auto gratis kopen, zonder enige verplichting van uw kant.",
+    "site_name": "Jeep BE",
+    "author": "Jeep BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Auto verkopen: waarom kiezen voor overname?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.jeep.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.jeep.be/"
+    },
+    {
+      "label": "Auto verkopen",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Auto verkopen: waarom kiezen voor overname?",
+    "lead": "Verkoop uw auto gemakkelijk met Jeep. Laat onze professionals uw auto gratis kopen, zonder enige verplichting van uw kant.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.jeep.be/"
+  },
+  "subnav": [
+    {
+      "label": "Mijn overnamewaarde bere",
+      "anchor": "#mijn-overnamewaarde-berekenen"
+    },
+    {
+      "label": "Auto verkopen: de voorde",
+      "anchor": "#auto-verkopen-de-voordelen-van-onze-dien"
+    },
+    {
+      "label": "Gemakkelijk uw auto verk",
+      "anchor": "#gemakkelijk-uw-auto-verkopen-alle-stappe"
+    },
+    {
+      "label": "Stap 1: Voer uw voertuig",
+      "anchor": "#stap-1-voer-uw-voertuigprofiel-in"
+    },
+    {
+      "label": "Verkoop uw auto veilig",
+      "anchor": "#verkoop-uw-auto-veilig"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "mijn-overnamewaarde-berekenen",
+      "h2": "Mijn overnamewaarde berekenen",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wilt u uw auto verkopen? Met Jeep overname kunt u online gratis de inruilwaarde van uw voertuig schatten, zonder verplichtingen. Kies voor een veilige optie met een professional van het Jeep-netwerk en gegarandeerde betaling, en vermijd de vervelende verrassingen die soms optreden bij verkoop tussen particulieren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/156/065c8b88-7a70-48e2-86b8-eedba71feaaf",
+      "image_alt": "Verkoop uw auto veilig",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "auto-verkopen-de-voordelen-van-onze-dien",
+      "h2": "Auto verkopen: de voordelen van onze dienst.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "● Onze offerte is 100% gratis en vrijblijvend. ● Ontvang online en per e-mail een schatting van uw voertuig en beslis of het voor u geschikt is. ● Een dealer bij u in de buurt neemt contact op om een afspraak te maken wanneer het u uitkomt. ● Stel uw transactie veilig met een snelle betaling als de aanbieding geschikt voor u is."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "gemakkelijk-uw-auto-verkopen-alle-stappe",
+      "h2": "Gemakkelijk uw auto verkopen: alle stappen",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Onze oplossing heeft essentiële informatie nodig over uw voertuig om de waarde ervan zo nauwkeurig mogelijk te schatten. Om deze informatie te verzamelen, kunt u onze eenvoudige en snelle vragenlijst invullen. In minder dan 5 minuten heeft u uw schatting. Begin de vragenlijst door uw kenteken in te vullen. Met uw kenteken kunnen we de belangrijkste kenmerken van de auto die u wilt verkopen identificeren. Waarom kentekenplaten gebruiken? 1. Het is makkelijker: merk, model, categorie, motor en datum van eerste registratie zijn vooraf ingevuld. 2. Het vooraf identificeren van uw voertuig is sneller en bespaart u verschillende stappen in het proces, waardoor u tijd bespaart. Heeft u uw kenteken niet bij de hand? Geen probleem! Beantwoord een paar vragen zodat we uw auto kunnen identificeren: versie, bouwjaar, brandstof, motor, kleur, uitrusting, enzovoort."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "stap-1-voer-uw-voertuigprofiel-in",
+      "h2": "Stap 1: Voer uw voertuigprofiel in",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Zodra deze informatie is ingevuld, analyseren we de markt om u een eerlijke prijs te geven, die aan het einde van de vragenlijst wordt weergegeven. Deze schatting wordt ook per e-mail naar u verzonden. Ons aanbod is vrijblijvend, u beslist! De door u gekozen Jeep-dealer neemt contact met u op om een afspraak te maken in de showroom om uw auto te verkopen. Ter plaatse zal hij een inspectie van uw voertuig uitvoeren en u een definitieve inruilprijs voorstellen. Als u tevreden bent met deze prijs, kopen we uw auto onmiddellijk terug, zonder enige administratieve procedure. Wij zorgen voor alles!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "verkoop-uw-auto-veilig",
+      "h2": "Verkoop uw auto veilig",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Als een particulier uw auto koopt ● Geen enkele garantie ● Administratieve processen zijn ingewikkeld Wanneer u uw auto aan ons verkoopt: ● Een snelle online evaluatie. ● Geen verplichting. ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk. ● Betaling is veilig. ● Wij helpen u bij de administratieve procedures. Binnen 5 minuten weet u hoeveel uw auto waard is!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Hoe verkoop ik mijn auto?"
+        },
+        {
+          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze Jeep-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Jeep: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+        },
+        {
+          "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
+        },
+        {
+          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+        },
+        {
+          "text": "Hoe maak ik een afspraak?"
+        },
+        {
+          "text": "Dit is eenvoudig. Tijdens uw online schatting kiest u een Jeep-verkooppunt bij het postadres van uw keuze. Een Jeep-dealer neemt binnen 24 uur contact met u op om samen een afspraak te maken. U kunt ook zelf contact opnemen met de dealer via de contactgegevens die bij uw schatting zijn verstrekt."
+        },
+        {
+          "text": "Hoe word ik betaald?"
+        },
+        {
+          "text": "Met het Jeep-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Jeep-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.jeep.be/"
+  },
+  "footer": {
+    "tagline": "Verkoop uw auto gemakkelijk met Jeep. Laat onze professionals uw auto gratis kopen, zonder enige verplichting van uw kant.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepBelux/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/Jeep.belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto verkopen: waarom kiezen voor overname? » Jeep",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Verkoop uw auto gemakkelijk met Jeep. Laat onze professionals uw auto gratis kopen, zonder enige verplichting van uw kant.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.jeep.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Verkoop uw auto gemakkelijk met Jeep. Laat onze professionals uw auto gratis kopen, zonder enige verplichting van uw kant.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.jeep.be/lp/Auto-verkopen",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.jeep.be/build/img/jeep/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

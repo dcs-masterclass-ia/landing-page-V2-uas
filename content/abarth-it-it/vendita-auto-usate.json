@@ -1,0 +1,277 @@
+{
+  "page_key": "abarth-it-it__lp-vendita-auto-usate",
+  "brand": "abarth",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.abarth.it",
+  "slug": "/lp/vendita-auto-usate",
+  "source_v1": "https://www.valutazioneusato.abarth.it/lp/vendita-auto-usate",
+  "meta": {
+    "title": "Auto usate con Abarth ► per una vendita semplici e sicura",
+    "description": "La valutazione Abarth ti offre numerosi vantaggi. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative.",
+    "site_name": "Abarth IT",
+    "author": "Abarth IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Auto usate con Abarth, per una vendita semplici e sicura"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.valutazioneusato.abarth.it/ "
+    },
+    {
+      "label": "Vendita auto usate",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Auto usate con Abarth, per una vendita semplici e sicura",
+    "lead": "La valutazione Abarth ti offre numerosi vantaggi. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "subnav": [
+    {
+      "label": "Calcola la mia offerta d",
+      "anchor": "#calcola-la-mia-offerta-di-ritiro"
+    },
+    {
+      "label": "Ci impegniamo a garantir",
+      "anchor": "#ci-impegniamo-a-garantire-la-massima-pro"
+    },
+    {
+      "label": "Vendita auto usate : com",
+      "anchor": "#vendita-auto-usate-come-funziona"
+    },
+    {
+      "label": "Vendita auto usate : pas",
+      "anchor": "#vendita-auto-usate-passo-dopo-passo"
+    },
+    {
+      "label": "FAQ",
+      "anchor": "#faq"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calcola-la-mia-offerta-di-ritiro",
+      "h2": "Calcola la mia offerta di ritiro",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Iniziare la vendita di un'auto usata può effettivamente comportare una certa dose di stress e preoccupazione. Tuttavia, con la nostra soluzione di permuta, vogliamo rendere questo processo il più semplice, sicuro e gratuito possibile per te. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative come cattivi pagatori o rischi di furto d'identità. La tua sicurezza e tranquillità sono al centro delle nostre preoccupazioni. Ci impegniamo a garantire la massima protezione dei tuoi dati personali e a fornirti un ambiente sicuro in cui poter gestire la vendita della tua auto. Inoltre, non devi preoccuparti dei costi aggiuntivi. La valutazione del tuo veicolo, l'appuntamento con il concessionario e tutte le pratiche burocratiche necessarie per la vendita sono completamente gratuite. Non dovrai sostenere alcuna spesa amministrativa o formale durante l'intero processo. Il nostro obiettivo è fornirti un'esperienza di vendita senza problemi, in cui puoi sentirti al sicuro e concentrarti sul raggiungimento del miglior valore per la tua auto usata. Affidandoti a noi, eviterai lo stress e le incertezze che spesso accompagnano la vendita privata di un veicolo usato."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ci-impegniamo-a-garantire-la-massima-pro",
+      "h2": "Ci impegniamo a garantire la massima protezione",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Se stai cercando di vendere la tua auto usata, permuta Abarth offre uno strumento online gratuito per valutare il tuo veicolo senza alcun vincolo. Non devi preoccuparti di brutte esperienze con vendite private e transazioni incerte, perché offriamo una soluzione rapida, sicura e garantita. La permuta Abarth ti offre numerosi vantaggi, tra cui una stima gratuita della tua auto in pochi clic, la possibilità di fissare un appuntamento rapidamente con il concessionario di tua scelta e la sicurezza di lavorare con un professionista autorizzato per la diagnosi e il riacquisto del tuo veicolo. Per iniziare il processo di vendita della tua auto usata, ti invitiamo a compilare un breve questionario che richiederà meno di 5 minuti del tuo tempo. Durante la compilazione, ti chiederemo di fornire le informazioni principali sul tuo veicolo, come la marca, il modello, l'anno di produzione, il chilometraggio e le condizioni generali. Se hai a portata di mano il libretto di circolazione del veicolo, potrai utilizzarlo per accedere facilmente alle informazioni necessarie per la valutazione."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "Vendita auto usate in tutta tranquillita",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-come-funziona",
+      "h2": "Vendita auto usate : come funziona?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Il questionario ci consentirà di ottenere una panoramica accurata del tuo veicolo e di iniziare la valutazione. Le informazioni fornite saranno trattate con la massima riservatezza e utilizzate esclusivamente per la valutazione del tuo veicolo. Una volta completato il questionario, il nostro team di esperti utilizzerà le informazioni fornite insieme ai dati delle transazioni di mercato più recenti per calcolare una stima dettagliata del valore attuale del tuo veicolo. Ci impegniamo a offrirti un prezzo equo e vicino al valore di mercato. Una volta completato il questionario e inviato le informazioni sulla tua auto usata, il concessionario di tua scelta ti contatterà per fissare un appuntamento. L'appuntamento è un passo importante nel processo di permuta, in quanto ti consente di incontrare di persona un esperto del settore automobilistico."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendita-auto-usate-passo-dopo-passo",
+      "h2": "Vendita auto usate : passo dopo passo",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Durante l'appuntamento, un esperto effettuerà una diagnosi fisica della tua auto. Questo significa che esamineranno attentamente le condizioni generali del veicolo, prenderanno in considerazione eventuali usure o danni e valuteranno l'efficienza dei componenti principali. Questa fase è fondamentale per determinare il prezzo finale di permuta. Una volta completata la diagnosi, il concessionario ti fornirà un prezzo di permuta finale. Questo prezzo tiene conto non solo delle informazioni fornite nel questionario, ma anche della valutazione fisica effettuata durante l'appuntamento. Se sei soddisfatto del prezzo offerto, potrai procedere alla vendita della tua auto usata direttamente al concessionario, senza dover preoccuparti di ulteriori oneri amministrativi o formalità."
+        },
+        {
+          "text": "Ci occupiamo di tutto il processo di vendita per te, in modo che tu possa vivere un'esperienza senza problemi. La nostra priorità è garantire che tu ottenga il miglior valore per la tua auto usata, senza dover affrontare stress o complicazioni. Siamo qui per semplificare la tua vendita e assicurarci che tu sia completamente soddisfatto della transazione."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Come viene determinata la stima del valore della mia auto per la permuta?"
+        },
+        {
+          "text": "La valutazione del valore della tua auto usata si basa su diversi fattori, tra cui la marca, il modello, il motore, la finitura, il chilometraggio e la data di immatricolazione del veicolo. Inoltre, si prendono in considerazione le transazioni recenti di modelli simili effettuate da professionisti e i costi standard di ricondizionamento, che possono variare a seconda delle effettive condizioni del veicolo."
+        },
+        {
+          "text": "Qual è la procedura per effettuare la permuta con Abarth?"
+        },
+        {
+          "text": "È possibile ottenere un preventivo online gratuito attraverso un semplice questionario che richiede i dati del veicolo. In meno di 5 minuti si riceverà una stima del valore dell'auto, che verrà inviata anche via email. Una volta soddisfatti del preventivo, è possibile fissare un appuntamento con il concessionario di Abarth scelto per consegnare il veicolo. Durante l'appuntamento, un esperto Abarth valuterà le condizioni dell'auto e offrirà un prezzo definitivo. In caso di accettazione dell'offerta, si procederà con l'acquisto dell'auto"
+        },
+        {
+          "text": "Per valutare l'auto, sono necessari il libretto di circolazione, il chilometraggio dell'auto e informazioni dettagliate sulle condizioni generali del veicolo, inclusi il colore, la carrozzeria, l'equipaggiamento, ecc."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "quali-sono-i-vantaggi-dell-utilizzo-del-",
+      "h2": "Quali sono i vantaggi dell'utilizzo del servizio di permuta Abarth",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "I vantaggi dell'utilizzo del servizio di permuta di Abarth sono la rapidità, la tranquillità e la sicurezza. Riceverai una stima del valore del veicolo in pochi clic e senza alcun impegno. Inoltre, sarai al riparo da sorprese spiacevoli grazie alla valutazione effettuata da un professionista del settore automobilistico, che tiene conto delle osservazioni di mercato e delle transazioni recenti. Infine, il pagamento del veicolo è garantito e sicuro grazie al coinvolgimento di un concessionario Abarth."
+        },
+        {
+          "text": "Quali sono gli obblighi associati alla stima del valore della permuta?"
+        },
+        {
+          "text": "La stima del valore della permuta offerta da Abarth non comporta alcun obbligo da parte del cliente. La proposta è gratuita e non vincolante, e il cliente è libero di fissare un appuntamento con un esperto Abarth per approfondire la valutazione dell'auto e decidere se procedere o meno con la permuta."
+        },
+        {
+          "text": "Quali documenti e informazioni sono necessari per la valutazione della mia auto usata da parte di Abarth?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.abarth.it/"
+  },
+  "footer": {
+    "tagline": "La valutazione Abarth ti offre numerosi vantaggi. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Italia"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarth_italia_official/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto usate con Abarth ► per una vendita semplici e sicura",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "La valutazione Abarth ti offre numerosi vantaggi. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.abarth.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "La valutazione Abarth ti offre numerosi vantaggi. Ci assicuriamo che il processo di vendita della tua auto usata sia privo di sorprese negative.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.abarth.it/lp/vendita-auto-usate",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.abarth.it/build/img/abarth/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

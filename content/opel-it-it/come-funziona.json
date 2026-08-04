@@ -1,0 +1,214 @@
+{
+  "page_key": "opel-it-it__come-funziona",
+  "brand": "opel",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://www.valutazioneusato.opel.it",
+  "slug": "/come-funziona",
+  "source_v1": "https://www.valutazioneusato.opel.it/come-funziona",
+  "meta": {
+    "title": "Valutazione auto usate Opel: come funziona",
+    "description": "Ricevi un preventivo gratuito via e-mail e fissa un appuntamento senza impegno con un membro della rete. Scopri di più sul sito ufficiale Opel",
+    "site_name": "Opel IT",
+    "author": "Opel IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Come funziona ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Funzionamento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Come funziona ?",
+    "lead": "Ricevi un preventivo gratuito via e-mail e fissa un appuntamento senza impegno con un membro della rete. Scopri di più sul sito ufficiale Opel",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "subnav": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "anchor": "#todo-arbitrage"
+    },
+    {
+      "label": "Serenità",
+      "anchor": "#serenita"
+    },
+    {
+      "label": "Rapidità",
+      "anchor": "#rapidita"
+    },
+    {
+      "label": "Sicurezza",
+      "anchor": "#sicurezza"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "todo-arbitrage",
+      "h2": "TODO_ARBITRAGE",
+      "niveau_v1": "none",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "1. RICEVI UNA VALUTAZIONE GRATUITA PER EMAIL Inserisci i dati e lo stato della tua vettura e ricevi immediatamente un'offerta di acquisto via e-mail. 2. FISSA UN APPUNTAMENTO Il tuo concessionario Opel ti contatterà per fissare un appuntamento e concludere le pratiche per il ritiro del tuo veicolo. 3. APPROFITTA DELLA PERIZIA Opel Durante l'appuntamento, uno dei nostri esperti esamina, in tua presenza, lo stato del veicolo. In seguito, con il tuo accordo, ci impegniamo ad acquistare il tuo veicolo subito."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/50/545d4a99-f5b8-4817-b708-a663e3807545",
+      "image_alt": "Valuta in rapidità",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenita",
+      "h2": "Serenità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un'offerta di permuta in pochi minuti",
+        "Nessun impegno da parte vostra",
+        "Formalità amministrative ridotte"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/50/1ad40cab-6e5d-4cc5-951e-43495e019dad",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidita",
+      "h2": "Rapidità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un'offerta di ritiro in pochi minuti",
+        "Scegli il tuo punto vendita",
+        "Un ritiro facile e veloce."
+      ],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sicurezza",
+      "h2": "Sicurezza",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionista di fiducia.",
+        "Una transazione sicura e rapida",
+        "Un'offerta di ritiro aggiornata"
+      ],
+      "image": "https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://www.valutazioneusato.opel.it/"
+  },
+  "footer": {
+    "tagline": "Ricevi un preventivo gratuito via e-mail e fissa un appuntamento senza impegno con un membro della rete. Scopri di più sul sito ufficiale Opel",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Opel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opelitalia"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opelitalia/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/opelitalia"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate Opel: come funziona",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Ricevi un preventivo gratuito via e-mail e fissa un appuntamento senza impegno con un membro della rete. Scopri di più sul sito ufficiale Opel",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.valutazioneusato.opel.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Ricevi un preventivo gratuito via e-mail e fissa un appuntamento senza impegno con un membro della rete. Scopri di più sul sito ufficiale Opel",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.valutazioneusato.opel.it/come-funziona",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.valutazioneusato.opel.it/build/img/opel/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

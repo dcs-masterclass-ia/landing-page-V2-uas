@@ -1,0 +1,249 @@
+{
+  "page_key": "fiat-professional-lu-fr__pourquoi-reprise-fiatprofessional",
+  "brand": "fiat-professional",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://repriseluxembourg.fiatprofessional.com",
+  "slug": "/pourquoi-reprise-fiatprofessional",
+  "source_v1": "https://repriseluxembourg.fiatprofessional.com/pourquoi-reprise-fiatprofessional",
+  "meta": {
+    "title": "Pourquoi choisir le service reprise Fiat Professional ? | Reprise Fiat Professional LU",
+    "description": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
+    "site_name": "Fiat Professional LU",
+    "author": "Fiat Professional LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Pourquoi choisir le service reprise Fiat Professional ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://repriseluxembourg.fiatprofessional.com/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://repriseluxembourg.fiatprofessional.com/"
+    },
+    {
+      "label": "Pourquoi Fiat Professional ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Pourquoi choisir le service reprise Fiat Professional ?",
+    "lead": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://repriseluxembourg.fiatprofessional.com/"
+  },
+  "subnav": [
+    {
+      "label": "Estimez votre véhicule a",
+      "anchor": "#estimez-votre-vehicule-avec-fiat-profess"
+    },
+    {
+      "label": "Les étapes de la reprise",
+      "anchor": "#les-etapes-de-la-reprise-avec-votre-conc"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "estimez-votre-vehicule-avec-fiat-profess",
+      "h2": "Estimez votre véhicule avec Fiat Professional Reprise :",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous renseignez les détails et l'état de votre véhicule et vous recevrez une estimation de reprise par email. Lorsque vous faites une demande d'estimation en ligne, vous choisissez votre point de vente Fiat Professional le plus proche de chez vous. C'est un expert Fiat Professional du point de vente sélectionné qui vous contactera pour convenir d'un rendez-vous. Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état de votre véhicule. Une fois votre accord confirmé, nous nous engageons à une reprise immédiate. Le paiement est garanti, sécurisé et assuré par un concessionnaire Fiat Professional."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/141/591afc82-dc35-4ea6-97bb-8a7075f1af6a",
+      "image_alt": ".",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-etapes-de-la-reprise-avec-votre-conc",
+      "h2": "Les étapes de la reprise avec votre concessionnaire Fiat Professional sélectionné:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état de votre véhicule. Une fois votre accord confirmé, nous nous engageons à une reprise immédiate. Le paiement est garanti, sécurisé et assuré par un concessionnaire Fiat Professional. La valeur de reprise est estimée en euros TTC sur la base d’observations du marché, des transactions récentes, et des informations fournies sur l’état de votre véhicule. Ces éléments nous permettent de vous proposer une offre de reprise (valeur fournie à titre indicatif). A noter, une expertise physique de votre véhicule sera réalisée par un concessionnaire Fiat Professional afin de finaliser la proposition."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/141/4f3d7bd1-e0aa-4907-8e3b-cfe034bce80f",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Recevez une estimation de la valeur de votre véhicule."
+        },
+        {
+          "text": "Estimation entièrement gratuite et sans engagement"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/141/57390617-6dc9-4a1d-91d6-796e1d51f962",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Évitez les démarches administratives"
+        },
+        {
+          "text": "Fiat Professional Reprise permet d’évaluer votre véhicule sur la base d’observations du marché et des transactions récentes"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/141/990b70a8-4098-4f6c-a8be-9176d9993070",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Prenez rendez-vous avec votre concessionnaire Fiat Professional"
+        },
+        {
+          "text": "Le concessionnaire sélectionné se chargera de la reprise de votre véhicule et du paiement"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/141/0c84fc94-dac6-41fb-b66c-40bfec531751",
+      "image_alt": "serenité",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://repriseluxembourg.fiatprofessional.com/"
+  },
+  "footer": {
+    "tagline": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiatprofessional/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiatprofessional/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCzt-F9n2C4OvJu1egxQyAog"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Pourquoi choisir le service reprise Fiat Professional ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://repriseluxembourg.fiatprofessional.com",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Reprise Fiat Professional vous propose d'estimer en ligne la valeur de votre véhicule quelle que soit la marque gratuitement et sans engagement.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://repriseluxembourg.fiatprofessional.com/pourquoi-reprise-fiatprofessional",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/40220f18-dda1-4955-902f-116b53ce554d",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/4f3d7bd1-e0aa-4907-8e3b-cfe034bce80f",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/57390617-6dc9-4a1d-91d6-796e1d51f962",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/990b70a8-4098-4f6c-a8be-9176d9993070",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/141/1603aeb8-1260-4ce3-874d-4ad4478196bc",
+      "image sans alt en V1 : https://repriseluxembourg.fiatprofessional.com/build/img/fiat_pro/chevron-up-hom",
+      "image sans alt en V1 : https://repriseluxembourg.fiatprofessional.com/build/img/fiat_pro/chevron-up-hom",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

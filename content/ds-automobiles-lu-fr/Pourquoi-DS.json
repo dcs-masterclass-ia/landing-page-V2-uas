@@ -1,0 +1,199 @@
+{
+  "page_key": "ds-automobiles-lu-fr__Pourquoi-DS",
+  "brand": "ds-automobiles",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.dsautomobiles.lu",
+  "slug": "/Pourquoi-DS",
+  "source_v1": "https://reprise.dsautomobiles.lu/Pourquoi-DS",
+  "meta": {
+    "title": "Les engagements DS sur la reprise automobile | DS Automobiles",
+    "description": "Simplifiez vos démarches avec l'estimation auto en ligne, gratuite et sans engagements. La concession choisie vous recontactera pour discuter de votre projet.",
+    "site_name": "Ds Automobiles LU",
+    "author": "Ds Automobiles LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Un service sur-mesure"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.dsautomobiles.lu/"
+    },
+    {
+      "label": "Nos engagements",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Un service sur-mesure",
+    "lead": "Simplifiez vos démarches avec l'estimation auto en ligne, gratuite et sans engagements. La concession choisie vous recontactera pour discuter de votre projet.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Accéder au contenu princ",
+      "anchor": "#acceder-au-contenu-principal"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "acceder-au-contenu-principal",
+      "h2": "Accéder au contenu principal",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Simplifiez vos démarches et évitez les mauvaises surprises grâce à notre service de reprise auto. Décrivez votre véhicule, choisissez votre point de vente et découvrez notre estimation de reprise. Nous vous recontactons pour convenir d’un rendez-vous lors duquel un expert examinera votre véhicule afin d’ajuster l’offre réalisée en ligne. La reprise peut se faire immédiatement. Le paiement s’effectue par chèque ou virement bancaire sous 8 jours ouvrables."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/84/1d912179-cfa2-4c1d-9a2e-749e7b2bee1b",
+      "image_alt": "Rapidité",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Renseignez les détails et l'état de votre véhicule, quelle que soit sa marque, pour obtenir instantanément une estimation de sa valeur de reprise. *Valeur de reprise estimée en fonction du descriptif donné de votre véhicule, hors frais de remise en état. Valeur fournie à titre indicatif, sous réserve d'une expertise du véhicule par un point de vente DS, valable uniquement si le véhicule n'est pas gagé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/84/4838b4da-3aa1-4d10-9cb3-48c81d4adf33",
+      "image_alt": "DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Lorsque vous faites une demande d'estimation en ligne, nous vous invitons à sélectionner le DS STORE de votre choix. Vous serez contacté par un DS Advisor du point de vente sélectionné pour convenir d'un rendez-vous."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/84/4838b4da-3aa1-4d10-9cb3-48c81d4adf33",
+      "image_alt": "DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Lors de votre rendez-vous, l'expert examine, en votre présence l'état de votre véhicule afin d'affiner l'estimation initiale. Une fois celle-ci validée, avec votre accord, nous nous engageons à une reprise immédiate. Le paiement est garanti, sécurisé et assuré par un point de vente DS Automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/84/4838b4da-3aa1-4d10-9cb3-48c81d4adf33",
+      "image_alt": "DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "footer": {
+    "tagline": "Simplifiez vos démarches avec l'estimation auto en ligne, gratuite et sans engagements. La concession choisie vous recontactera pour discuter de votre projet.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Les engagements DS sur la reprise automobile",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Simplifiez vos démarches avec l'estimation auto en ligne, gratuite et sans engagements. La concession choisie vous recontactera pour discuter de votre projet.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.dsautomobiles.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Simplifiez vos démarches avec l'estimation auto en ligne, gratuite et sans engagements. La concession choisie vous recontactera pour discuter de votre projet.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.dsautomobiles.lu/Pourquoi-DS",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

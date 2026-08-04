@@ -1,0 +1,221 @@
+{
+  "page_key": "ds-automobiles-be-nl__DS-netwerk",
+  "brand": "ds-automobiles",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.dsautomobiles.be",
+  "slug": "/DS-netwerk",
+  "source_v1": "https://overname.dsautomobiles.be/DS-netwerk",
+  "meta": {
+    "title": "Het DS-netwerk voor uw overname – DS Automobiles",
+    "description": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
+    "site_name": "Ds Automobiles BE",
+    "author": "Ds Automobiles BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Een netwerk dat naar u luistert"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.dsautomobiles.be/"
+    },
+    {
+      "label": "DS Automobiles netwerk",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Een netwerk dat naar u luistert",
+    "lead": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "Sereniteit",
+      "anchor": "#sereniteit"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Het DS Automobiles-netwerk neemt uw wagen over, ongeacht het merk en de kilometerstand. Uw DS-verkooppunt kan u ook een nieuwe wagen of gecertificeerde tweedehandswagen aanbieden. U dient enkel ons formulier in te vullen, u ontvangt ons overnameaanbod gratis en onmiddellijk (of binnen maximaal 24 werkuren). Uw verkooppunt van DS Automobiles zal contact met u opnemen om een afspraak te maken."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/83/96eb93ac-dd1c-4e14-8ae0-fc93e1d9d9bc",
+      "image_alt": "DS Store gevel met logo",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sereniteit",
+      "h2": "Sereniteit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wie voor de overnamedienst van DS Automobiles kiest, geniet van onze persoonlijke expertise, zonder onaangename verrassingen of administratieve rompslomp. De gratis en vrijblijvende overnamedienst van DS Automobiles stelt u een professional uit de autosector ter beschikking om uw wagen zo nauwkeurig mogelijk te evalueren dankzij zijn perfecte kennis van de markt en de recente transacties. A10"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/83/2a3d7cb8-e461-4286-aba0-c611c623ec37",
+      "image_alt": "DS 7 Crossback rijdt door Parijs",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vul in enkele minuten tijd de kenmerken van uw wagen in op onze site en ontvang onmiddellijk de best mogelijke raming van de prijs."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/83/2a3d7cb8-e461-4286-aba0-c611c623ec37",
+      "image_alt": "DS 7 Crossback rijdt door Parijs",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Als u tevreden bent met de geschatte overnameprijs, maak dan een afspraak met de DS Store van uw keuze. - De experts van DS Automobiles zullen samen met u het optimale overnamebedrag voor uw wagen bepalen en regelen de overname ervan en de betaling per cheque of bankoverschrijving. - Snelle betaling gegarandeerd"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/83/2a3d7cb8-e461-4286-aba0-c611c623ec37",
+      "image_alt": "DS 7 Crossback rijdt door Parijs",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "footer": {
+    "tagline": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/dsbelux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_Belux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/ds_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCV4q3gWlCb9NGsy4iypFUiA"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
+      }
+    ],
+    "columns": [],
+    "legal": "© 2024 DS *Bonus geldig bij de aankoop van een nieuwe DS 7 tot 2026-7-31 in deelnemende netwerken.",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Het DS-netwerk voor uw overname – DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.dsautomobiles.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Het DS-netwerk kan uw wagen overnemen ongeacht het merk om een nieuwe of occasiewagen te financieren.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.dsautomobiles.be/DS-netwerk",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

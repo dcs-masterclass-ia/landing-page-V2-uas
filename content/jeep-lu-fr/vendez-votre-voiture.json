@@ -1,0 +1,295 @@
+{
+  "page_key": "jeep-lu-fr__lp-vendez-votre-voiture",
+  "brand": "jeep",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.jeep.lu",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.jeep.lu/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "► Vendez votre voiture sans stress avec Jeep",
+    "description": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "site_name": "Jeep LU",
+    "author": "Jeep LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Vendez votre voiture sans stress : on s'occupe de tout"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.jeep.lu/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture sans stress : on s'occupe de tout",
+    "lead": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Vendez votre voiture san",
+      "anchor": "#vendez-votre-voiture-sans-risques-optez-"
+    },
+    {
+      "label": "Vendez votre voiture fac",
+      "anchor": "#vendez-votre-voiture-facilement-avec-not"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-simplicite"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-sans-risques-optez-",
+      "h2": "Vendez votre voiture sans risques : optez pour la reprise professionnelle",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous cherchez à vendre votre voiture sans stress ? La reprise Jeep est la solution idéale pour une vente sécurisée et rapide. Notre service en ligne vous permet d'obtenir une estimation gratuite et sans engagement de la valeur de reprise de votre véhicule. Évitez les aléas de la vente entre particuliers et profitez de l'expertise d'un professionnel du réseau Peugeot ainsi que d'un paiement garanti."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-facilement-avec-not",
+      "h2": "Vendez votre voiture facilement avec notre service professionnel",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "● Une estimation gratuite et sans engagement en ligne, en moins de 5 minutes ● Recevez une estimation par email et décidez si cela vous convient ● Un concessionnaire proche de chez vous vous contacte pour fixer un rendez-vous à votre convenance ● Vous êtes satisfait de notre offre ? Finalisez la transaction en toute sécurité grâce à notre paiement rapide."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "vendre-votre-voiture-en-toute-simplicite",
+      "h2": "Vendre votre voiture en toute simplicité : toutes les étapes à suivre",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Étape 1 : Remplissez le formulaire pour donner toutes les informations essentielles sur votre voiture. Pour obtenir une estimation précise de la valeur de votre voiture, notre formulaire en ligne est simple et rapide à remplir. Commencez en indiquant votre numéro de plaque d'immatriculation. Nous nous occupons de tout le reste ! Pourquoi utiliser l'immatriculation ? 1. C'est plus facile : la marque, le modèle, la catégorie, la motorisation et la date de première immatriculation sont préremplis. 2. Cela vous fait gagner du temps : en pré-identifiant votre voiture, vous économisez plusieurs étapes du processus. Si vous ne connaissez pas votre immatriculation, pas de souci ! Répondez simplement à quelques questions sur votre voiture : la version, l'année de mise en circulation, le carburant, la motorisation, la couleur, les équipements, etc."
+        },
+        {
+          "text": "Étape 2 : Recevez une estimation en ligne et par email Une fois que vous avez fourni toutes les informations requises, nous analysons le marché pour vous donner une estimation juste de la valeur de votre voiture. Cette estimation vous est également envoyée par email. Notre offre est sans engagement : vous décidez ! Étape 3 : Prenez rendez-vous avec un professionnel Jeep Le vendeur chez Jeep que vous avez choisi vous contactera pour fixer un rendez-vous et finaliser la vente. Il inspectera votre voiture sur place et vous fera une offre de rachat. Si vous êtes satisfait, nous procéderons immédiatement à la transaction, sans aucune démarche administrative de votre part. Nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier : ● Vous n'avez aucune garantie ● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants : ● Une évaluation rapide et en ligne ● Pas d'obligation ● Une transaction sécurisée ● Un accompagnement pour les démarches administratives En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Jeep propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Jeep de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture Jeep ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-jeep-est-a-votre-portee",
+      "h2": "L'expérience Jeep est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Jeep en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Jeep vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Jeep, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Jeep. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.jeep.lu/"
+  },
+  "footer": {
+    "tagline": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepBelux/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep.belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCpga5Cd48vo1dP-e1uX4vpA"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants ©2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Vendez votre voiture sans stress avec Jeep",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.jeep.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "howto_name": "Vendez votre voiture sans stress : on s'occupe de tout",
+    "howto_description": "Confiez la vente de votre voiture à Jeep en toute sérénité. Nos professionnels s'occupent de tout, de l'estimation à la transaction finale.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.jeep.lu/lp/vendez-votre-voiture",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.jeep.lu/build/img/jeep/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

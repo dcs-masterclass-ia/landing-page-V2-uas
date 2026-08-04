@@ -1,0 +1,368 @@
+{
+  "page_key": "alfa-romeo-de-de__weitere-informationen",
+  "brand": "alfa-romeo",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://autoankauf.alfaromeo.de",
+  "slug": "/weitere-informationen",
+  "source_v1": "https://autoankauf.alfaromeo.de/weitere-informationen",
+  "meta": {
+    "title": "Häufig gestellte Fragen zur Autobewertung - FAQ | ALFA ROMEO",
+    "description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
+    "site_name": "Alfa Romeo DE",
+    "author": "Alfa Romeo DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": ""
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://autoankauf.alfaromeo.de/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "",
+    "lead": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "subnav": [
+    {
+      "label": "WAS IST ALFA ROMEO KAUFT",
+      "anchor": "#was-ist-alfa-romeo-kauft-ihr-auto"
+    },
+    {
+      "label": "WIE FUNKTIONIERT DER SER",
+      "anchor": "#wie-funktioniert-der-service"
+    },
+    {
+      "label": "WIE WIRD DER WERT IHRES ",
+      "anchor": "#wie-wird-der-wert-ihres-autos-geschatzt"
+    },
+    {
+      "label": "WELCHE VORTEILE BIETET D",
+      "anchor": "#welche-vorteile-bietet-die-nutzung-von-a"
+    },
+    {
+      "label": "WOZU VERPFLICHTET MICH D",
+      "anchor": "#wozu-verpflichtet-mich-die-online-bewert"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "was-ist-alfa-romeo-kauft-ihr-auto",
+      "h2": "WAS IST ALFA ROMEO KAUFT IHR AUTO?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "ALFA ROMEO KAUFT IHR AUTO ist ein kostenloser Web-Service, mit dem Sie Ihr Auto unverbindlich schätzen lassen können. Sie erhalten direkt nach der Eingabe Ihrer Daten eine unverbindliche Fahrzeugbewertung. Anschließend wird Sie der von Ihnen ausgewählte Alfa Romeo Partner kontaktieren, um einen Termin zur Begutachtung Ihres Autos zu vereinbaren.​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-funktioniert-der-service",
+      "h2": "WIE FUNKTIONIERT DER SERVICE?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie geben die Details und den Zustand Ihres Autos an und erhalten eine unverbindliche Fahrzeugbewertung.​"
+        },
+        {
+          "text": "Ihr Alfa Romeo-Händler wird Sie anschließend kontaktieren, um einen Termin zu vereinbaren und die weiteren Schritte für eine Begutachtung und einen möglichen Ankauf Ihres Autos in die Wege zu leiten.​"
+        },
+        {
+          "text": "Bei dem Termin wird Ihr Auto in Ihrem Beisein von einem unserer Experten bewertet, um ein verbindliches Angebot abzugeben. Bei erzielter Einigung kauft der Alfa Romeo Partner Ihr Auto an.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-wird-der-wert-ihres-autos-geschatzt",
+      "h2": "WIE WIRD DER WERT IHRES AUTOS GESCHÄTZT?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie erhalten eine kostenlose und unverbindliche Fahrzeugbewertung für Ihr Auto in Euro einschließlich Mw St. Diese basiert auf Marktbeobachtungen, aktuellen Verkäufen von Vergleichsfahrzeugen und Ihren Informationen zum Zustand des Fahrzeugs.​"
+        },
+        {
+          "text": "Bitte beachten Sie, dass die unverbindliche Online-Schätzung nicht den konkreten Zustand Ihres Autos berücksichtigt. Eine verbindliche Bewertung kann nur durch Begutachtung beim Händler vor Ort erfolgen.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "welche-vorteile-bietet-die-nutzung-von-a",
+      "h2": "WELCHE VORTEILE BIETET DIE NUTZUNG VON ALFA ROMEO KAUFT IHR AUTO?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Mit nur wenigen Klicks erhalten Sie online eine völlig kostenlose und unverbindliche Bewertung Ihres Autos.​ ALFA ROMEO KAUFT IHR AUTO bietet Ihnen durch den Online-Service eine unkomplizierte Möglichkeit, Ihr Autos unverbindlich bewerten zu lassen. So vermeiden Sie unnötige Formalitäten.​ Bei der Begutachtung vor Ort wird der ausgewählte Alfa Romeo Partner Ihr Auto professionell bewerten und Ihnen ein verbindliches Angebot unterbreiten, sofern der Zustand Ihres Autos den online gemachten Angaben entspricht. Stimmen Sie dem Angebot zu, wird der Alfa Romeo Partner die Übernahme und sichere Zahlung Ihres Autos direkt in die Wege leiten.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wozu-verpflichtet-mich-die-online-bewert",
+      "h2": "WOZU VERPFLICHTET MICH DIE ONLINE-BEWERTUNG?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Die Fahrzeugbewertung von ALFA ROMEO KAUFT IHR AUTO ist völlig unverbindlich und verpflichtet Sie zu nichts.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "kostet-mich-dieser-service-etwas",
+      "h2": "KOSTET MICH DIESER SERVICE ETWAS?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Der Service ALFA ROMEO KAUFT IHR AUTO steht Ihnen völlig kostenlos zur Verfügung.​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ich-kann-mein-auto-auf-der-website-nicht",
+      "h2": "ICH KANN MEIN AUTO AUF DER WEBSITE NICHT FINDEN.​​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kontaktieren Sie uns bitte, wenn Sie Ihr Auto nicht auf unserer Website finden. Beachten Sie bitte, dass Autos nicht korrekt bewertet werden können, wenn sie zu alt oder auf dem Markt zu selten vorkommen.​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-kann-ich-einen-termin-vereinbaren",
+      "h2": "WIE KANN ICH EINEN TERMIN VEREINBAREN?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Bei der Onlinebewertung Ihres Autos wählen Sie Ihren bevorzugten Alfa Romeo Partner aus. Dieser wird Sie dann bezüglich eines Termins zur Begutachtung Ihres Autos kontaktieren.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "was-muss-ich-zu-diesem-termin-mitbringen",
+      "h2": "WAS MUSS ICH ZU DIESEM TERMIN MITBRINGEN?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Folgende Unterlagen einen Ausweis (Führerschein, Personalausweis oder Pass) sollten Sie beim Termin mit Ihrem Alfa Romeo Partner dabeihaben:​"
+        },
+        {
+          "text": "Fahrzeugpapiere: Zulassungsbescheinigung Teil I und II, COC (Certificate of Conformity) ​"
+        },
+        {
+          "text": "Falls vorhanden: Das vollständige Benutzerhandbuch Ihres Autos sowie das Serviceheft und sämtliche Nachweise über ausgeführte Reparaturen am Fahrzeug.​"
+        },
+        {
+          "text": "Sämtliche Fahrzeugschlüssel sowie den Sicherheitscode für Ersatzschlüssel.​"
+        },
+        {
+          "text": "Falls vorhanden: Schlüssel zur Diebstahlsicherung Ihrer Räder, alle Speichermedien zum Navigationssystem ...​"
+        },
+        {
+          "text": "Ihre Bankdaten​"
+        },
+        {
+          "text": "Und natürlich Ihr Auto!​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-erhalte-ich-mein-geld",
+      "h2": "WIE ERHALTE ICH MEIN GELD?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Nach Verkaufsabschluss kümmert sich Ihr Alfa Romeo Partner um eine zügige Überweisung, damit Sie schnell und sicher Ihr Geld erhalten.​ ​"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-kann-ich-alfa-romeo-kauft-ihr-auto-k",
+      "h2": "WIE KANN ICH ALFA ROMEO KAUFT IHR AUTO KONTAKTIEREN?​",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie haben die Antwort auf Ihre Frage nicht gefunden? Kontaktieren Sie uns unter"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "footer": {
+    "tagline": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/AlfaRomeoDeutschland"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfa_romeo_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/AlfaRomeoDE"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/alfa-romeo/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Häufig gestellte Fragen zur Autobewertung - FAQ",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://autoankauf.alfaromeo.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von ALFA ROMEO --> jetzt informieren",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://autoankauf.alfaromeo.de/weitere-informationen",
+    "medias_trouves": 2,
+    "blocs_detectes": 11,
+    "notes": [
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "11 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

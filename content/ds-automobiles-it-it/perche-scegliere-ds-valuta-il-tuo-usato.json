@@ -1,0 +1,184 @@
+{
+  "page_key": "ds-automobiles-it-it__perche-scegliere-ds-valuta-il-tuo-usato",
+  "brand": "ds-automobiles",
+  "market": "IT",
+  "lang": "it",
+  "locale": "it_IT",
+  "template": "shared",
+  "domain": "https://valutazioneusato.dsautomobiles.it",
+  "slug": "/perche-scegliere-ds-valuta-il-tuo-usato",
+  "source_v1": "https://valutazioneusato.dsautomobiles.it/perche-scegliere-ds-valuta-il-tuo-usato",
+  "meta": {
+    "title": "Valutazione auto usate DS: perché sceglierci",
+    "description": "Scopri perché conviene scegliere DS per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
+    "site_name": "Ds Automobiles IT",
+    "author": "Ds Automobiles IT",
+    "geo_region": "IT",
+    "geo_country": "Italie",
+    "og_image_alt": "Perché scegliere DS?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://valutazioneusato.dsautomobiles.it/"
+    },
+    {
+      "label": "Perché DS",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Valutazione gratuita online",
+    "h1": "Perché scegliere DS?",
+    "lead": "Scopri perché conviene scegliere DS per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
+    "cta_label": "Calcola la mia offerta di permuta",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "subnav": [
+    {
+      "label": "Serenità",
+      "anchor": "#serenita"
+    },
+    {
+      "label": "Rapidità",
+      "anchor": "#rapidita"
+    },
+    {
+      "label": "Sicurezza",
+      "anchor": "#sicurezza"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuita",
+      "sub": "Senza impegno"
+    },
+    {
+      "icon": "mail",
+      "label": "Valutazione online",
+      "sub": "E via email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Appuntamento quando preferisci",
+      "sub": "In concessionaria"
+    },
+    {
+      "icon": "lock",
+      "label": "Pagamento sicuro",
+      "sub": "Transazione rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "serenita",
+      "h2": "Serenità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La valutazione dell'usato DS offre un'alternativa per evitare spiacevoli sorprese ed eliminare le pratiche amministrative: 'DS Automobiles valuta il tuo usato' valuta il tuo usato sulla base delle osservazioni di mercato e delle transazioni recenti effettuate da professionisti, gratuitamente e senza impegno."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/74e8352d-62ba-43f4-a281-c53495801e4f",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidita",
+      "h2": "Rapidità",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "In pochi click riceverai una stima del valore della tua auto."
+        },
+        {
+          "text": "La nostra offerta di permuta è completamente gratuita e senza impegno."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/74e8352d-62ba-43f4-a281-c53495801e4f",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sicurezza",
+      "h2": "Sicurezza",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Fissa un appuntamento con il tuo DS Store."
+        },
+        {
+          "text": "Se la tua auto è conforme al preventivo effettuato online, il concessionario procederà al ritiro."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/77/74e8352d-62ba-43f4-a281-c53495801e4f",
+      "image_alt": "Valuta in sicurezza",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pronto a vendere?",
+    "h2": "Valuta la tua auto ora.",
+    "lead": "Inserisci la targa o indica la marca del tuo veicolo.",
+    "cta_label": "Valutazione gratuita",
+    "cta_href": "https://valutazioneusato.dsautomobiles.it/"
+  },
+  "footer": {
+    "tagline": "Scopri perché conviene scegliere DS per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Valutazione auto usate DS: perché sceglierci",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Scopri perché conviene scegliere DS per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://valutazioneusato.dsautomobiles.it",
+    "area_served": "Italie",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q38",
+    "offer_description": "Scopri perché conviene scegliere DS per vendere la tua auto. Seleziona la tua auto e scopri il suo valore.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://valutazioneusato.dsautomobiles.it/perche-scegliere-ds-valuta-il-tuo-usato",
+    "medias_trouves": 4,
+    "blocs_detectes": 3,
+    "notes": [
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

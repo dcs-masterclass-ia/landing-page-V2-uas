@@ -1,0 +1,360 @@
+{
+  "page_key": "citroen-fr-fr__lp-achat-de-voiture-avec-reprise",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/achat-de-voiture-avec-reprise",
+  "source_v1": "https://www.reprise.citroen.fr/lp/achat-de-voiture-avec-reprise",
+  "meta": {
+    "title": "Achat voiture avec reprise : estimation gratuite Citroën",
+    "description": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Achat d'une voiture Citroën avec reprise de votre ancienne voiture"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Achat d'une voiture Citroën avec reprise de votre ancienne voiture",
+    "lead": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi acheter une voi",
+      "anchor": "#pourquoi-acheter-une-voiture-avec-repris"
+    },
+    {
+      "label": "et sans engagement",
+      "anchor": "#et-sans-engagement"
+    },
+    {
+      "label": "Nous vous faisons une of",
+      "anchor": "#nous-vous-faisons-une-offre-de-reprise-s"
+    },
+    {
+      "label": "Comment fonctionne la re",
+      "anchor": "#comment-fonctionne-la-reprise-de-votre-v"
+    },
+    {
+      "label": "prime à la conversion go",
+      "anchor": "#prime-a-la-conversion-gouvernementale"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-acheter-une-voiture-avec-repris",
+      "h2": "Pourquoi acheter une voiture avec reprise chez Citroën ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous souhaitez acquérir un véhicule Citroën neuf? L’un de nos modèles vous plait mais vous avez besoin de revendre votre ancienne auto? Vous pouvez le faire facilement avec nos offres de reprises pour une voiture neuve! Sans conditions sur la marque ou le modèle de votre ancienne auto, même non roulante (ce que seul un professionnel habilité peut reprendre) ou sans contrôle technique validé, et quelle que soit la nouvelle que vous convoitez:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "et-sans-engagement",
+      "h2": "et sans engagement",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Nous affinons celle-ci en concession, que ce soit à la hausse ou à la baisse selon son état"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "nous-vous-faisons-une-offre-de-reprise-s",
+      "h2": "Nous vous faisons une offre de reprise selon sa cote",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pour l’achat d’une voiture neuve, nous déduisons le montant de cette offre du prix de celle-ci"
+        },
+        {
+          "text": "Nous déduisons aussi les aides éventuelles et autres primes dont vous pouvez bénéficier"
+        },
+        {
+          "text": "A chaque étape, rien ne vous engage et vous n’avez rien à débourser. Notez que notre offre vaut aussi bien pour un véhicule neuf que pour une LOA (Location avec Option d’Achat) ou LDD (Location Longue Durée)."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-fonctionne-la-reprise-de-votre-v",
+      "h2": "Comment fonctionne la reprise de votre voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Dans un premier temps, nous vous faisons une offre de reprise en ligne basée sur la cote de votre voiture et les dernières transactions enregistrées. Ainsi, cette estimation se veut objective et vous donne un ordre d’idée du montant que vous pourriez déduire du prix d’une Citroën neuve."
+        },
+        {
+          "text": "Si vous souhaitez aller plus loin, vous serez accueilli(e) en concession afin qu’un expert examine gratuitement en détails votre ancienne auto et vous fasse une offre définitive."
+        },
+        {
+          "text": "De là, nous discuterons ensemble de la reprise pour l’achat du modèle neuf de votre choix et notamment de l’éventuelle prime de reprise (selon l’année de votre ancien véhicule et des conditions d’éligibilité) ou encore d’une offre spéciale si une est en cours (selon le modèle neuf choisi ou d’autres conditions particulières)."
+        },
+        {
+          "text": "Par exemple, vous aimeriez acheter un C4 Cactus dans la version Feel neuf à 20450€. Si votre reprise est à 2800€, vous pouvez donc soustraire cette somme à ce prix. Et si par ailleurs il se trouve que votre véhicule a plus de 12 ans, vous pouvez profiter de la Reprise Eco Inspired de 3000€, cumulable avec un éventuel bonus de reprise et la"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "prime-a-la-conversion-gouvernementale",
+      "h2": "prime à la conversion gouvernementale",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": ". Vous débourserez donc pour le C4 Cactus 14650€ voire moins, soit l’équivalent d’une remise de plus de 28%!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapide-et-gratuite-de-loffre-de-reprise-",
+      "h2": "rapide et gratuite de l’offre de reprise possible",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Différentes primes et bonus de reprise possibles en fonction de l’ancien véhicule et de la voiture neuve choisie"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "citroen-soccupe-de-tous-les-aspects-admi",
+      "h2": "Citroën s’occupe de tous les aspects administratifs",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Aucun des tracas habituels de la revente d’un véhicule d’occasion: estimation juste, pas de recherche d’un acheteur, transaction sécurisée"
+        },
+        {
+          "text": "Pour l’achat d’une voiture neuve, Citroën vous propose la reprise de votre ancien véhicule au meilleur prix. Estimation gratuite, prime de reprise, offres spéciales"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Achat voiture avec reprise : estimation gratuite Citroën",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Faites reprendre votre ancien véhicule et achetez une Citroën neuve. Estimation gratuite, sans engagement. Reprise possible avec ou sans prime.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/reprise-pour-achat-voiture-neuve",
+    "medias_trouves": 8,
+    "blocs_detectes": 9,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "7 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

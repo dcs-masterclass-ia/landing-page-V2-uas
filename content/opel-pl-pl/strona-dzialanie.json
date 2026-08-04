@@ -1,0 +1,210 @@
+{
+  "page_key": "opel-pl-pl__strona-dzialanie",
+  "brand": "opel",
+  "market": "PL",
+  "lang": "pl",
+  "locale": "pl_PL",
+  "template": "shared",
+  "domain": "https://www.odkup.opel.pl",
+  "slug": "/strona-dzialanie",
+  "source_v1": "https://www.odkup.opel.pl/strona-dzialanie",
+  "meta": {
+    "title": "Jak to działa? | Odkup samochodu przez Opel",
+    "description": "Otrzymaj bezpłatną wycenę samochodu mailem. Umów wizytę u dealera. Skorzystaj z doświadczenia Opel, żeby sprzedać swój samochód",
+    "site_name": "Opel PL",
+    "author": "Opel PL",
+    "geo_region": "PL",
+    "geo_country": "Pologne",
+    "og_image_alt": "JAK TO DZIAŁA?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Strona główna",
+      "href": "https://www.odkup.opel.pl/"
+    },
+    {
+      "label": "Jak to działa?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Bezplatna wycena online",
+    "h1": "JAK TO DZIAŁA?",
+    "lead": "Otrzymaj bezpłatną wycenę samochodu mailem. Umów wizytę u dealera. Skorzystaj z doświadczenia Opel, żeby sprzedać swój samochód",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "subnav": [
+    {
+      "label": "Usługa Opel z odkupem to",
+      "anchor": "#usuga-opel-z-odkupem-to-usuga-umozliwiaj"
+    },
+    {
+      "label": "Wygodnie",
+      "anchor": "#wygodnie"
+    },
+    {
+      "label": "Szybko",
+      "anchor": "#szybko"
+    },
+    {
+      "label": "Bezpiecznie",
+      "anchor": "#bezpiecznie"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% bezplatnie",
+      "sub": "Bez zobowiazan"
+    },
+    {
+      "icon": "mail",
+      "label": "Wycena online",
+      "sub": "I mailem"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin dogodny dla Ciebie",
+      "sub": "U dealera"
+    },
+    {
+      "icon": "lock",
+      "label": "Bezpieczna platnosc",
+      "sub": "Szybka transakcja"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "usuga-opel-z-odkupem-to-usuga-umozliwiaj",
+      "h2": "Usługa Opel z odkupem to usługa umożliwiająca uzyskanie online bezpłatnej wyceny twojego samochodu",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Wprowadź informacje o samochodzie, który chcesz sprzedać. 2 - Uzyskaj wycenę samochodu. 3 - Wybrany przez ciebie dealer skontaktuje się z tobą w celu uzgodnienia terminu wizyty. 4 - Ekspert Opel sprawdzi w twojej obecności stan samochodu. 5 - Po ocenie technicznej, o ile dwie strony dojdą do porozumienie, odkupimy Twój samochód 6 - Płatność jest gwarantowana i bezpieczna"
+        },
+        {
+          "text": "Skorzystaj z oferty odkupu samochodu w 6 krokach:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/7c45c07c-81fb-4df4-9050-9b4a17d5dce6",
+      "image_alt": "Opel",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wygodnie",
+      "h2": "Wygodnie",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Opel odkup pozwala ocenić swój pojazd na podstawie obserwacji rynkowych i ostatnich transakcji przez profesjonalistę. Wycena jest zawsze bezpłatna"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/6f08bd3b-fcae-4e69-9d07-c8ab602b5c52",
+      "image_alt": "Opel",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "szybko",
+      "h2": "Szybko",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Kilkoma kliknięciami wprowadź dane techniczne samochodu.",
+        "Otrzymaj natychmiastową wycenę jego wartości."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/ecd2e252-bad2-48ef-9e87-fd26803de401",
+      "image_alt": "Opel",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "bezpiecznie",
+      "h2": "Bezpiecznie",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Umów się na wizytę z wybranym dealerem Opel.",
+        "Jeśli samochód okaże się zgodny z wyceną dokonaną online, dealer zajmie się całą procedurą odkupu.",
+        "Gwarantowana szybka płatność"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/153/c0bc91b4-95f7-47fd-a0ef-c6b645927d07",
+      "image_alt": "Opel",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Gotowy do sprzedazy?",
+    "h2": "Wycen swoj samochod juz teraz.",
+    "lead": "Podaj numer rejestracyjny lub marke swojego pojazdu.",
+    "cta_label": "Bezplatna wycena",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "footer": {
+    "tagline": "Otrzymaj bezpłatną wycenę samochodu mailem. Umów wizytę u dealera. Skorzystaj z doświadczenia Opel, żeby sprzedać swój samochód",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelPL"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/watch?v=LzKK4t0aMNs&list=PL-ycsZq2mnvzsrx9Q3peDW7nx7lYkKxMy"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Jak to działa?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Otrzymaj bezpłatną wycenę samochodu mailem. Umów wizytę u dealera. Skorzystaj z doświadczenia Opel, żeby sprzedać swój samochód",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.odkup.opel.pl",
+    "area_served": "Pologne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q36",
+    "offer_description": "Otrzymaj bezpłatną wycenę samochodu mailem. Umów wizytę u dealera. Skorzystaj z doświadczenia Opel, żeby sprzedać swój samochód",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.odkup.opel.pl/strona-dzialanie",
+    "medias_trouves": 8,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

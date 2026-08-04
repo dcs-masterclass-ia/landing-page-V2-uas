@@ -1,0 +1,182 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-simulation-en-ligne",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-simulation-en-ligne",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-simulation-en-ligne",
+  "meta": {
+    "title": "Simulation de Reprise DS, un prix au plus près du marché.",
+    "description": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Simulation de reprise"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Simulation de reprise",
+    "lead": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Choisissez la simplicité",
+      "anchor": "#choisissez-la-simplicite-vendez-votre-ve"
+    },
+    {
+      "label": "Comment est calculée la ",
+      "anchor": "#comment-est-calculee-la-cote-de-ma-voitu"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "choisissez-la-simplicite-vendez-votre-ve",
+      "h2": "Choisissez la simplicité, vendez votre véhicule à un professionnel",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Chacun sait que vendre son véhicule peut parfois s’avérer complexe, notamment s’il s’agit d’un modèle peu recherché, ou s’il mérite quelques travaux de remise en état, ou encore si vous avez peur qu’il ne passe pas au contrôle technique. DS Automobiles vous épargne les démarches liées à la vente entre particuliers et vous rachète votre voiture sans formalités fastidieuses. Nous nous occupons de tout et vous recevez un paiement rapide et garanti sous 8 jours ouvrables. En vous adressant à un professionnel, vous bénéficiez en plus d’une estimation de reprise de votre véhicule représentant véritablement la tendance du marché. Contrairement aux idées reçues, il n’est pas nécessaire de racheter un véhicule neuf pour profiter de cette reprise. Quel que soit votre type d’achat, DS Automobiles vous fera bénéficier de conditions préférentielles sous la forme de primes et bonus qui viendront s’ajouter au montant initial de votre estimation et baisseront d’autant le prix de votre voiture neuve ou d’occasion. Il en sera de même si vouschoisissez la location (LOA ou LLD).Comment estimer la reprise de ma voiture?Quelle que soit la marque de votre voiture, faites tout simplement votresur notre site. Remplissez le questionnaire prévu à cet effet en y indiquant les caractéristiques du véhicule à reprendre et vous recevrez directement par mail une première estimation de reprise de votre voiture. Elle devra être affinée ultérieurement par l’un de nos experts, sur présentation physique de celle-ci dans l’une de nos concessions. Après examen, le montant du rachat sera ajusté et vous recevrez une offre ferme et définitive. Si vous l’acceptez, votre véhicule sera repris chez le concessionnaire choisi et payé sous 8 jours (ouvrables)."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/18fa6264-a62b-4918-9bbb-42b106034abb",
+      "image_alt": "rendez vous DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-calculee-la-cote-de-ma-voitu",
+      "h2": "Comment est calculée la cote de ma voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour réaliser l’estimation du prix de votre véhicule, DS Automobiles ne se base pas uniquement sur des cotes de référence comme l’Argus par exemple. Nos experts étudient également les tendances réelles du marché, les dernières ventes réalisées et la facilité de revente de votre véhicule. Il n’y a pas ici les négociations que vous pourriez avoir lors d’une vente à un particulier. Tout est clair et transparent. Une fois la première simulation de reprise de votre véhicule réalisée, sachez cependant que cette dernière n’est fournie (si votre voiture n’est pas gagée) qu’à titre indicatif et sera affinée sur présentation du véhicule dans un centre de votre choix. Le prix initial pourra éventuellement être revu à la baisse si des réparations sont nécessaires, mais pourra également être corrigé à la hausse si son état le justifie. En fonction de l’acquisition que vous envisagez de faire, vous ajouterez au montant de cette simulation de reprise celui des différents bonus et primes proposés par DS Automobiles, auxquels peuvent encore s’additionner des bonus supplémentairesdans certains cas :"
+        },
+        {
+          "text": "si vous revendez un véhicule d’une marque premium (Mercedes, Mini, Land Rover...);"
+        },
+        {
+          "text": "si vous revendez votre ancienne DS."
+        },
+        {
+          "text": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/5/18fa6264-a62b-4918-9bbb-42b106034abb",
+      "image_alt": "rendez vous DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Simulation de Reprise DS, un prix au plus près du marché.",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous souhaitez connaître la valeur de votre voiture ? Rien de plus simple grâce à la simulation de reprise en ligne DS Automobiles. Toutes marques, gratuit et sans engagement",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-simulation-en-ligne",
+    "medias_trouves": 2,
+    "blocs_detectes": 2,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

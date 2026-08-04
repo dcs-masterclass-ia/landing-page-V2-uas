@@ -1,0 +1,392 @@
+{
+  "page_key": "peugeot-de-de__weitere-informationen",
+  "brand": "peugeot",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.peugeot.de",
+  "slug": "/weitere-informationen",
+  "source_v1": "https://www.autoankauf.peugeot.de/weitere-informationen",
+  "meta": {
+    "title": "Häufig gestellte Fragen zur Autobewertung - FAQ | PEUGEOT",
+    "description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
+    "site_name": "Peugeot DE",
+    "author": "Peugeot DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": ""
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.autoankauf.peugeot.de/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "",
+    "lead": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "subnav": [
+    {
+      "label": "WAS IST PEUGEOT KAUFT IH",
+      "anchor": "#was-ist-peugeot-kauft-ihr-auto"
+    },
+    {
+      "label": "WIE FUNKTIONIERT DER SER",
+      "anchor": "#wie-funktioniert-der-service"
+    },
+    {
+      "label": "WIE WIRD DER WERT IHRES ",
+      "anchor": "#wie-wird-der-wert-ihres-fahrzeugs-gescha"
+    },
+    {
+      "label": "Schnell",
+      "anchor": "#schnell"
+    },
+    {
+      "label": "Einfach",
+      "anchor": "#einfach"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "was-ist-peugeot-kauft-ihr-auto",
+      "h2": "WAS IST PEUGEOT KAUFT IHR AUTO?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "PEUGEOT KAUFT IHR AUTO ist ein kostenloser Web-Service, mit dem Sie ihr Fahrzeug unverbindlich schätzen lassen können. Sie erhalten direkt nach der Eingabe Ihrer Daten eine unverbindliche Fahrzeugbewertung. Anschließend wird Sie der von Ihnen ausgewählte PEUGEOT Partner kontaktieren, um einen Termin zur Begutachtung Ihres Fahrzeugs zu vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-funktioniert-der-service",
+      "h2": "WIE FUNKTIONIERT DER SERVICE?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Sie geben die Details und den Zustand Ihres Fahrzeugs an und erhalten eine unverbindliche Fahrzeugbewertung."
+        },
+        {
+          "text": "Ihr PEUGEOT Partner wird Sie anschließend kontaktieren, um einen Termin zu vereinbaren und die weiteren Schritte für eine Begutachtung und einen möglichen Ankauf Ihres Fahrzeugs in die Wege zu leiten."
+        },
+        {
+          "text": "Bei dem Termin wird Ihr Fahrzeug in Ihrem Beisein von einem unserer Experten bewertet, um ein verbindliches Angebot abzugeben. Bei erzielter Einigung kauft der PEUGEOT Partner Ihr Fahrzeug an."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-wird-der-wert-ihres-fahrzeugs-gescha",
+      "h2": "WIE WIRD DER WERT IHRES FAHRZEUGS GESCHÄTZT?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Sie erhalten eine kostenlose und unverbindliche Fahrzeugbewertung für Ihr Auto in Euro einschließlich Mw St. Diese basiert auf Marktbeobachtungen, aktuellen Verkäufen von Vergleichsfahrzeugen und Ihren Informationen zum Zustand des Fahrzeugs."
+        },
+        {
+          "text": "Bitte beachten Sie, dass die unverbindliche Schätzung nicht den konkreten Zustand Ihres Fahrzeugs berücksichtigt. Eine verbindliche Bewertung kann nur durch Begutachtung beim Händler vor Ort erfolgen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "schnell",
+      "h2": "Schnell",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Mit nur wenigen Klicks erhalten Sie online eine völlig kostenlose und unverbindliche Bewertung Ihres Fahrzeugs."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "einfach",
+      "h2": "Einfach",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "PEUGEOT KAUFT IHR AUTO bietet Ihnen durch den Online-Service eine unkomplizierte Möglichkeit, Ihr Altfahrzeug unverbindlich bewerten zu lassen. So vermeiden Sie unnötige Formalitäten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sicher",
+      "h2": "Sicher",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Bei der Begutachtung vor Ort wird der ausgewählte PEUGEOT Partner Ihr Fahrzeug professionell bewerten und Ihnen ein verbindliches Angebot unterbreiten, sofern der Zustand Ihres Fahrzeugs den online gemachten Angaben entspricht. Stimmen Sie dem Angebot zu, wird der PEUGEOT Partner die Übernahme und sichere Zahlung Ihres Fahrzeugs direkt in die Wege leiten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wozu-verpflichtet-mich-die-online-bewert",
+      "h2": "WOZU VERPFLICHTET MICH DIE ONLINE-BEWERTUNG?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Die Fahrzeugbewertung von PEUGEOT KAUFT IHR AUTO ist völlig unverbindlich und verpflichtet Sie zu nichts."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "kostet-mich-dieser-service-etwas",
+      "h2": "KOSTET MICH DIESER SERVICE ETWAS?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Der Service PEUGEOT KAUFT IHR AUTO steht Ihnen völlig kostenlos zur Verfügung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ich-finde-mein-fahrzeug-auf-der-website-",
+      "h2": "ICH FINDE MEIN FAHRZEUG AUF DER WEBSITE NICHT",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Kontaktieren Sie uns bitte, wenn Sie Ihr Fahrzeug nicht auf unserer Website finden. Beachten Sie bitte, dass Fahrzeuge nicht korrekt bewertet werden können, wenn sie zu alt oder auf dem Markt zu wenig verbreitet sind."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-kann-ich-einen-termin-vereinbaren",
+      "h2": "WIE KANN ICH EINEN TERMIN VEREINBAREN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Bei der Onlinebewertung Ihres Fahrzeugs wählen Sie Ihren bevorzugten PEUGEOT Partner aus. Dieser wird Sie dann bezüglich eines Termins zur Begutachtung Ihres Fahrzeugs kontaktieren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "was-muss-ich-zu-diesem-termin-mitbringen",
+      "h2": "WAS MUSS ICH ZU DIESEM TERMIN MITBRINGEN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Folgende Dinge sollten Sie beim Termin mit Ihrem PEUGEOT Partner dabeihaben:"
+        }
+      ],
+      "bullets": [
+        "Die Fahrzeugpapiere",
+        "Einen Ausweis (Führerschein, Personalausweis oder Pass)",
+        "Falls vorhanden: Das vollständige Benutzerhandbuch Ihres Fahrzeugs sowie das Serviceheft und sämtliche Nachweise über ausgeführte Reparaturen am Fahrzeug.",
+        "Sämtliche Fahrzeugschlüssel sowie den Sicherheitscode für Ersatzschlüssel.",
+        "Falls vorhanden: abnehmbare Front des Autoradios, Schlüssel zur Diebstahlsicherung Ihrer Räder, alle Speichermedien zum Navigationssystem ...",
+        "Ihre Bankdaten",
+        "Und natürlich Ihr Fahrzeug!"
+      ],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-erhalte-ich-mein-geld",
+      "h2": "WIE ERHALTE ICH MEIN GELD?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nach Verkaufsabschluss kümmert sich Ihr PEUGEOT Partner um eine zügige Überweisung, damit Sie schnell und sicher Ihren Verkaufspreis erhalten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-kann-ich-peugeot-kauft-ihr-auto-kont",
+      "h2": "WIE KANN ICH PEUGEOT KAUFT IHR AUTO KONTAKTIEREN?",
+      "niveau_v1": "h4",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Sie haben die Antwort auf Ihre Frage nicht gefunden? Kontaktieren Sie uns unter"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.peugeot.de/"
+  },
+  "footer": {
+    "tagline": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/peugeotdeutschland\n"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/peugeotde?lang=de"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PEUGEOTdeutschland"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Häufig gestellte Fragen zur Autobewertung - FAQ",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.peugeot.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von PEUGEOT --> jetzt informieren",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.peugeot.de/weitere-informationen",
+    "medias_trouves": 3,
+    "blocs_detectes": 13,
+    "notes": [
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.autoankauf.peugeot.de/build/img/peugeot/chevron-up.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

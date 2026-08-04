@@ -1,0 +1,218 @@
+{
+  "page_key": "peugeot-fr-fr__page-pourquoi",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/page-pourquoi",
+  "source_v1": "https://www.reprise.peugeot.fr/page-pourquoi",
+  "meta": {
+    "title": "Pourquoi Peugeot ?",
+    "description": "Reprise Peugeot vous propose d'estimer en ligne la valeur de votre voiture quelle que soit la marque gratuitement et sans engagement.",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Pourquoi choisir le service Reprise Peugeot ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.peugeot.fr/"
+    },
+    {
+      "label": "Pourquoi Peugeot ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Pourquoi choisir le service Reprise Peugeot ?",
+    "lead": "Reprise Peugeot vous propose d'estimer en ligne la valeur de votre voiture quelle que soit la marque gratuitement et sans engagement.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Accéder au contenu princ",
+      "anchor": "#acceder-au-contenu-principal"
+    },
+    {
+      "label": "Sérénité",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "Rapidité",
+      "anchor": "#rapidite"
+    },
+    {
+      "label": "Sécurité",
+      "anchor": "#securite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "acceder-au-contenu-principal",
+      "h2": "Accéder au contenu principal",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pourquoi choisir le service Reprise Peugeot ?"
+        },
+        {
+          "text": "Béneficiez d'une estimation gratuite et sans engagement de votre véhicule quelle que soit sa marque."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "Sérénité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "REPRISE PEUGEOT vous propose une alternative pour éviter les mauvaises surprises et les démarches administratives.",
+        "Le service de REPRISE PEUGEOT vous permet d’évaluer votre véhicule sur la base d’observations du marché et des transactions récentes, par un professionnel de l’automobile, le tout gratuitement et sans engagement."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/2eedca71-c6d3-4959-a8ca-5064c8734f73",
+      "image_alt": "La serenite de la Reprise gratuite Peugeot",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "Rapidité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "En seulement quelques clics, renseignez les caractéristiques de votre véhicule et recevez une estimation immédiate de sa valeur."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/ac04be24-18aa-473c-8627-2e17582d0dcb",
+      "image_alt": "la rapidite de la Reprise gratuite Peugeot",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "Sécurité",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Notre offre de reprise vous convient ? Prenez rendez-vous avec le concessionnaire Peugeot de votre choix.",
+        "Si votre véhicule est conforme à l’estimation faite en ligne, votre concessionnaire se chargera de la reprise de votre véhicule et du paiement par chèque ou virement bancaire une fois votre accord confirmé.",
+        "Rapidité de paiement garantie."
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/4/35e44e2b-c621-43e6-9e9d-2ce3d1844ecf",
+      "image_alt": "la securite de la Reprise gratuite Peugeot",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Reprise Peugeot vous propose d'estimer en ligne la valeur de votre voiture quelle que soit la marque gratuitement et sans engagement.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Pourquoi Peugeot ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise Peugeot vous propose d'estimer en ligne la valeur de votre voiture quelle que soit la marque gratuitement et sans engagement.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Reprise Peugeot vous propose d'estimer en ligne la valeur de votre voiture quelle que soit la marque gratuitement et sans engagement.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/page-pourquoi",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

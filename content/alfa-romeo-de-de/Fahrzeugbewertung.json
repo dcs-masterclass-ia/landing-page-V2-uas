@@ -1,0 +1,244 @@
+{
+  "page_key": "alfa-romeo-de-de__lp-Fahrzeugbewertung",
+  "brand": "alfa-romeo",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://autoankauf.alfaromeo.de",
+  "slug": "/lp/Fahrzeugbewertung",
+  "source_v1": "https://autoankauf.alfaromeo.de/lp/Fahrzeugbewertung",
+  "meta": {
+    "title": "►Kostenloser Kostenvoranschlag für Ihr Auto | Alfa Romeo",
+    "description": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "site_name": "Alfa Romeo DE",
+    "author": "Alfa Romeo DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Kostenvoranschlag für Ihr Auto unverbindlich und 100 % kostenlos"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://autoankauf.alfaromeo.de/ "
+    },
+    {
+      "label": "FAHRZEUGBEWERTUNG",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Kostenvoranschlag für Ihr Auto unverbindlich und 100 % kostenlos",
+    "lead": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "subnav": [
+    {
+      "label": "Warum sollten Sie Ihr Au",
+      "anchor": "#warum-sollten-sie-ihr-auto-auf-unserer-w"
+    },
+    {
+      "label": "Holen Sie sich einen Kos",
+      "anchor": "#holen-sie-sich-einen-kostenvoranschlag-f"
+    },
+    {
+      "label": "Häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "warum-sollten-sie-ihr-auto-auf-unserer-w",
+      "h2": "Warum sollten Sie Ihr Auto auf unserer Website bewerten lassen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Heutzutage gibt es zahlreiche Internetseiten, die Ihnen ermöglichen, ein Inzahlungnahmeangebot zu generieren. Allerdings sind die Prozesse oft umständlich und die Angebote nicht immer marktgerecht. Bei uns erhalten Sie unkompliziert ein faires Angebot und das mit nur zwei Unterlagen. Wenn Sie sich für die Inzahlungnahme von Alfa Romeo entscheiden, erhalten Sie Folgendes:​"
+        },
+        {
+          "text": "Eine Online-Bewertung, ohne Anreise und völlig kostenlos: Durch die Beantwortung eines Fragebogens mit wenigen Klicks erhalten Sie die Bewertung für Ihr Auto auch direkt online.​"
+        },
+        {
+          "text": "Eine absolut zuverlässige Schätzung, die auf Marktbeobachtungen basiert ist.​"
+        },
+        {
+          "text": "Bei der Rücknahme Ihres Autos steht Ihnen das Fachwissen des Alfa Romeo-Händlernetzes zur Verfügung. Sie gehen keine Verpflichtung ein, aber wir stellen Ihnen unser gesamtes Händlernetz zur Verfügung, wenn Sie es weiterverkaufen möchten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "holen-sie-sich-einen-kostenvoranschlag-f",
+      "h2": "Holen Sie sich einen Kostenvoranschlag für Ihr Auto über das Alfa Romeo-Händlernetz: So funktioniert es",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Liste der benötigten Unterlagen:​"
+        },
+        {
+          "text": "Der Fahrzeugschein Ihres Autos​"
+        },
+        {
+          "text": "Der Kilometerstand Ihres Autos​"
+        },
+        {
+          "text": "​Erhalten Sie die Online-Bewertung Ihres Autos in nur 3 Schritten:​​Schritt 1: Geben Sie alle für die Schätzung Ihres Autos erforderlichen Informationen ein. Um die Schätzung Ihres Autos vorzunehmen, beantworten Sie bitte den bereitgestellten Fragebogen so genau wie möglich.​Erhalten Sie den Wert mit wenigen Klicks und in weniger als 5 Minuten.​Hier sind die Informationen, die Sie benötigen, um das Modell Ihres Autos zu identifizieren: Version, Zulassungsjahr, Kraftstoff und Motorleistung."
+        },
+        {
+          "text": "Schritt 2: Sie erhalten die Bewertung für Ihr Auto direkt online und auch per E-Mailbasierend auf den bereitgestellten Informationen, unserer Erfahrung im Automobilmarkt und unserem Datenerfassungssystem präsentieren wir am Ende des Fragebogens einen fairen Preis. Diese Bewertung wird Ihnen auch direkt per E-Mail zugesandt.​Sie sind an diese Schätzung in keiner Weise gebunden, Sie haben die Wahl, den Prozess fortzusetzen oder nicht!​​Schritt 3: Sie können einen Termin bei einem Händler mit einem Experten aus dem Alfa Romeo-Händlernetz vereinbaren.​"
+        },
+        {
+          "text": "​In dem von Ihnen ausgefüllten Fragebogen haben Sie ein Feld ausgewählt, zu wem Sie gehen möchten, um den Prozess fortzusetzen. Nach der Bewertung werden Sie von dem von Ihnen ausgewählten Alfa Romeo-Händler kontaktiert, um einen Termin zu vereinbaren. Ziel dieses Treffens ist es, die Bewertung Ihres Autos fertigzustellen. Wenn diese Einschätzung zu Ihnen passt, kümmert sich Ihr Händler um die Aufnahme Ihres Autos, ohne dass für Sie Verwaltungsaufwand entsteht!​"
+        },
+        {
+          "text": "100 % kostenlose Online-Bewertung Ihres Autos: Dank der Kompetenz des Alfa Romeo-Händlernetzes können Sie den Inzahlungnahmewert Ihres Autos schnell und kostenlos ermitteln und erhalten mit Sicherheit einen professionellen und zuverlässigen Kostenvoranschlag.​Die Bewertung ist für 10 Tage gültig: Möchten Sie sich die Zeit nehmen, darüber nachzudenken? ​Ein großflächiges Netzwerk für die Rücknahme Ihres Autos überall in Deutschland: Händlernetz die beste Möglichkeit, Ihr Auto problemlos wieder in Besitz zu nehmen.​Schnelle Fahrzeugschätzung – Erhalten Sie sofort den Wert Ihres Autos bei Inzahlungnahme! Sobald Sie den mit Ihrem Autoverknüpften Fragebogen ausgefüllt haben, erfahren Sie die Bewertung des Preises."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "Häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "WIE WIRD DER ÜBERNAHMEWERT BERECHNET ?"
+        },
+        {
+          "text": "Die Merkmale Ihres Fahrzeugs: Marke, Modell, Motorisierung, Ausstattung, Kilometerstand, Zulassungsdatum.Die Analyse des Automobilmarktes: Jüngste Transaktionen, die von Fachleuten mit gleichwertigen Modellen durchgeführt wurden.Ein Abzug für die Kosten der Standardinstandsetzung. Diese Kosten sind je nach dem tatsächlichen Zustand des Fahrzeugs, der im Autohaus festgestellt wurde, anpassbar."
+        },
+        {
+          "text": "DIE ALFA ROMEO-ÜBERNAHME BESSER VERSTEHEN ?"
+        },
+        {
+          "text": "Kostenlose Online-Schätzung: Erhalten Sie eine kostenlose Online-Schätzung, indem Sie unseren Online-Fragebogen mit den Informationen über Ihr zu verkaufendes Fahrzeug ausfüllen. Innerhalb von 5 Minuten erhalten Sie einen Eintauschwert für Ihr Fahrzeug, der Ihnen auch per E-Mail zugesandt wird. Vereinbaren Sie einen Termin. Sobald Sie das Formular ausgefüllt haben, werden Sie innerhalb von 24 Stunden von dem Händler Ihrer Wahl kontaktiert. Sind Sie mit dem angegebenen Preis zufrieden? Vereinbaren Sie einen Termin im Autohaus, um Ihr Auto zu verkaufen.Profitieren Sie von der Alfa Romeo Expertise: Beim Termin prüft einer unserer Experten in Ihrem Beisein den Zustand des Fahrzeugs und schlägt Ihnen einen verbindlichen Inzahlungnahme-Preis vor. Sobald Ihre Zustimmung bestätigt ist, kaufen wir Ihr Auto zurück."
+        },
+        {
+          "text": "WIE LÄUFT EIN TERMIN IM AUTOHAUS AB ?"
+        },
+        {
+          "text": "Es ist ganz einfach. Nachdem Sie Ihren Antrag auf eine Schätzung online gestellt haben, wählen Sie Ihre Alfa Romeo-Verkaufsstelle aus, indem Sie die Postadresse Ihrer Wahl angeben. Ihr Alfa Romeo-Händler wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen, um einen Termin nach Ihren Wünschen zu vereinbaren."
+        },
+        {
+          "text": "WIE WIRD DIE ZAHLUNG VORGENOMMEN ?"
+        },
+        {
+          "text": "Mit dem Alfa Romeo-Netzwerk haben Sie die Garantie einer schnellen und sicheren Bezahlung. Bei der Transaktion für den Verkauf Ihres Autos wird die Bezahlung des Fahrzeugs von einem Händler des Alfa Romeo-Netzes übernommen. Je nachdem, welchen Händler Sie wählen, erfolgt die Bezahlung des Fahrzeugs per Scheck oder Banküberweisung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "footer": {
+    "tagline": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/AlfaRomeoDeutschland"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfa_romeo_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/AlfaRomeoDE"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/alfa-romeo/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "►Kostenloser Kostenvoranschlag für Ihr Auto",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://autoankauf.alfaromeo.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "howto_name": "Kostenvoranschlag für Ihr Auto unverbindlich und 100 % kostenlos",
+    "howto_description": "Schätzen Sie Ihr Auto einfach, schnell und unverbindlich! Ermitteln Sie schnell und ohne Anreise den Wert Ihres Fahrzeugs!",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.peugeot.de//lp/auto-Schtzung",
+    "medias_trouves": 6,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

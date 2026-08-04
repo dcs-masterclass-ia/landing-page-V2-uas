@@ -1,0 +1,316 @@
+{
+  "page_key": "alfa-romeo-de-de__lp-autoverkauf",
+  "brand": "alfa-romeo",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://autoankauf.alfaromeo.de",
+  "slug": "/lp/autoverkauf",
+  "source_v1": "https://autoankauf.alfaromeo.de/lp/autoverkauf",
+  "meta": {
+    "title": "▷ Verkaufen Sie Ihr Auto ganz einfach mit Alfa Romeo ✔",
+    "description": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "site_name": "Alfa Romeo DE",
+    "author": "Alfa Romeo DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Sind Sie bereit, Ihr Auto zu verkaufen?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://autoankauf.alfaromeo.de/ "
+    },
+    {
+      "label": "AUTOVERKAUF",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Sind Sie bereit, Ihr Auto zu verkaufen?",
+    "lead": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "subnav": [
+    {
+      "label": "Alfa Romeo Inzahlungnahm",
+      "anchor": "#alfa-romeo-inzahlungnahme-die-option-wen"
+    },
+    {
+      "label": "Auto verkaufen: Warum mi",
+      "anchor": "#auto-verkaufen-warum-mit-alfa-romeo"
+    },
+    {
+      "label": "Auto verkaufen in 3 einf",
+      "anchor": "#auto-verkaufen-in-3-einfachen-schritten"
+    },
+    {
+      "label": "Verkaufen Sie Ihr Auto s",
+      "anchor": "#verkaufen-sie-ihr-auto-schnell-und-siche"
+    },
+    {
+      "label": "Häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "alfa-romeo-inzahlungnahme-die-option-wen",
+      "h2": "Alfa Romeo Inzahlungnahme: die Option, wenn Sie Ihr Auto verkaufen möchten.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Kennen Sie die Übernahme von Alfa Romeo?Dabei handelt es sich um einen Web-Service Autos bietet. Wenn Sie sich für den Verkauf zwischen Privatpersonen entscheiden, scheint dies auf den ersten Blick vorteilhaft zu sein, es kann jedoch zu schlechten Erfahrungen kommen, wie z. B. dem Risiko einer falschen Identität, einem schlechten Zahler oder zu intensiven Verhandlungen. Um all diese unangenehmen Situationen zu vermeiden, stellen wir Ihnen unseren Online-Bewertungsservice zur Verfügung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "auto-verkaufen-warum-mit-alfa-romeo",
+      "h2": "Auto verkaufen: Warum mit Alfa Romeo?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wir senden Ihnen mit nur wenigen Klicks und kostenlos die Bewertung für Ihr Auto per E-Mail​"
+        },
+        {
+          "text": "Wir verfügen über ein großes Netzwerk, in dem Sie Ihren Termin bei einem Händler ganz nach Ihren Wünschen vereinbaren können​"
+        },
+        {
+          "text": "Wir sind überall in Deutschland präsent, um Ihr Auto problemlos abzuholen​"
+        },
+        {
+          "text": "Sichern Sie Ihre Autoverkaufstransaktion mit schneller Zahlung"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "auto-verkaufen-in-3-einfachen-schritten",
+      "h2": "Auto verkaufen in 3 einfachen Schritten",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wichtige Informationen​Der Kostenvoranschlag für den Verkauf Ihres Autos basiert auf den Informationen, die Sie online in unserem Formular machen. Es ist ganz einfach und dauert nur 5 Minuten.​ Erhalten Sie schnell die Schätzung Ihres Autos​"
+        },
+        {
+          "text": "Schritt 1:"
+        },
+        {
+          "text": "Schritt 2:"
+        },
+        {
+          "text": "Verkaufen Sie Ihr Auto online. Nachdem wir Ihre Angaben erhalten haben, führen wir eine Marktanalyse durch, um Ihnen den fairsten Preis anbieten zu können. Dieses Angebot wird Ihnen umgehend per E-Mail zugesandt. Sie sind nicht verpflichtet, dieses Angebot anzunehmen und können den Verkauf Ihres Autos jederzeit abbrechen. Um das Modell Ihres Autos zu bestimmen, verwenden wir das Kennzeichen Ihres Autos. Dafür gibt es mehrere Gründe: Erstens ist es einfacher und schneller, da Sie einige Schritte überspringen können. Auf diese Weise ist es sehr einfach, Ihr Auto zu verkaufen. Sie kennen das Kennzeichen nicht auswendig? Kein Problem. Sie können auch andere Fragen ausfüllen, wie z. B. Version, MEC-Jahr, Kraftstoff, Motorleistung, Farbe, Ausstattung usw., die uns helfen, Ihr Auto richtig zu identifizieren.​"
+        },
+        {
+          "text": "Persönliches Treffen mit einem unserer Experten"
+        },
+        {
+          "text": "Schritt 3:"
+        },
+        {
+          "text": "Der von Ihnen ausgewählte Alfa Romeo Händler wird sich mit Ihnen in Verbindung setzen, um einen Termin vor Ort zu vereinbaren, bei dem er Ihr Auto besichtigt und Ihnen einen Preis für die Inzahlungnahme vorschlägt. Wenn Sie mit diesem Preis einverstanden sind, nehmen wir Ihr Auto sofort in Zahlung und erledigen alle notwendigen Schritte für Sie. Sie verkaufen Ihr Auto über uns und wir bezahlen Sie."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "verkaufen-sie-ihr-auto-schnell-und-siche",
+      "h2": "Verkaufen Sie Ihr Auto schnell und sicher",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wenn Sie Ihr Auto an eine Privatperson verkaufen:​"
+        },
+        {
+          "text": "Die Zahlung ist nicht sicher​"
+        },
+        {
+          "text": "Sie haben nur wenige Garantien​"
+        },
+        {
+          "text": "Die Verwaltungsverfahren sind langwierig​"
+        },
+        {
+          "text": "Wenn Sie uns Ihr Auto verkaufen:​"
+        },
+        {
+          "text": "erhalten Sie sofort eine Online-Bewertung​"
+        },
+        {
+          "text": "Ohne Bedingungen​"
+        },
+        {
+          "text": "Sie profitieren von Garantien des Alfa Romeo-Händlernetzes​"
+        },
+        {
+          "text": "Ihre Zahlung ist sicher​"
+        },
+        {
+          "text": "Die Verwaltungsprozesse laufen schneller ab​"
+        },
+        {
+          "text": "So erfahren Sie schneller den Wert Ihres Autos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "Häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wie wird der Übernahmewert berechnet ?"
+        },
+        {
+          "text": "Die Bewertung basiert auf : Die Merkmale Ihres Fahrzeugs: Marke, Modell, Motorisierung, Ausstattung, Kilometerstand, Zulassungsdatum.Die Analyse des Automobilmarktes: Jüngste Transaktionen, die von Fachleuten mit gleichwertigen Modellen durchgeführt wurden.Ein Abzug für die Kosten der Standardinstandsetzung. Diese Kosten sind je nach dem tatsächlichen Zustand des Fahrzeugs, der im Autohaus festgestellt wurde, anpassbar."
+        },
+        {
+          "text": "Die Alfa Romeo-Übernahme besser verstehen ?"
+        },
+        {
+          "text": "Kostenlose Online-Schätzung : Erhalten Sie eine kostenlose Online-Schätzung, indem Sie unseren Online-Fragebogen mit den Informationen über Ihr zu verkaufendes Fahrzeug ausfüllen. Innerhalb von 5 Minuten erhalten Sie einen Eintauschwert für Ihr Fahrzeug, der Ihnen auch per E-Mail zugesandt wird.Vereinbaren Sie einen Termin. Sobald Sie das Formular ausgefüllt haben, werden Sie innerhalb von 24 Stunden von dem Händler Ihrer Wahl kontaktiert. Sind Sie mit dem angegebenen Preis zufrieden? Vereinbaren Sie einen Termin im Autohaus, um Ihr Auto zu verkaufen.Profitieren Sie von der Alfa Romeo Expertise : Beim Termin prüft einer unserer Experten in Ihrem Beisein den Zustand des Fahrzeugs und schlägt Ihnen einen verbindlichen Inzahlungnahme-Preis vor. Sobald Ihre Zustimmung bestätigt ist, kaufen wir Ihr Auto zurück."
+        },
+        {
+          "text": "Wie läuft ein Termin im Autohaus ab ?"
+        },
+        {
+          "text": "Es ist ganz einfach. Nachdem Sie Ihren Antrag auf eine Schätzung online gestellt haben, wählen Sie Ihre Alfa Romeo-Verkaufsstelle aus, indem Sie die Postadresse Ihrer Wahl angeben. Ihr Alfa Romeo-Händler wird sich innerhalb von 24 Stunden mit Ihnen in Verbindung setzen, um einen Termin nach Ihren Wünschen zu vereinbaren."
+        },
+        {
+          "text": "Wie wird die Zahlung vorgenommen ?"
+        },
+        {
+          "text": "Mit dem Alfa Romeo-Netzwerk haben Sie die Garantie einer schnellen und sicheren Bezahlung. Bei der Transaktion für den Verkauf Ihres Autos wird die Bezahlung des Fahrzeugs von einem Händler des Alfa Romeo-Netzes übernommen. Je nachdem, welchen Händler Sie wählen, erfolgt die Bezahlung des Fahrzeugs per Scheck oder Banküberweisung."
+        }
+      ],
+      "bullets": [],
+      "image": "https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://autoankauf.alfaromeo.de/"
+  },
+  "footer": {
+    "tagline": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/AlfaRomeoDeutschland"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfa_romeo_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/AlfaRomeoDE"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/alfa-romeo/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "▷ Verkaufen Sie Ihr Auto ganz einfach mit Alfa Romeo ✔",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://autoankauf.alfaromeo.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "howto_name": "Sind Sie bereit, Ihr Auto zu verkaufen?",
+    "howto_description": "Mit Alfa Romeo verkaufen Sie Ihr Auto ganz einfach ✓ ohne komplizierte Verfahren ✓ und in völliger Sicherheit dank des Alfa Romeo France-Netzwerks ✓.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.alfaromeot.de//lp/autoverkaufen",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://autoankauf.alfaromeo.de/build/img/alfa_romeo/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

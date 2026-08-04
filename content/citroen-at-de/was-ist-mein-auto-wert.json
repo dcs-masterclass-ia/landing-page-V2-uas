@@ -1,0 +1,182 @@
+{
+  "page_key": "citroen-at-de__was-ist-mein-auto-wert",
+  "brand": "citroen",
+  "market": "AT",
+  "lang": "de",
+  "locale": "de_AT",
+  "template": "shared",
+  "domain": "https://www.citroen-kauft-ihr-auto.at",
+  "slug": "/was-ist-mein-auto-wert",
+  "source_v1": "https://www.citroen-kauft-ihr-auto.at/was-ist-mein-auto-wert",
+  "meta": {
+    "title": "Was ist mein Auto wert? - Professionelle Beratung | CITROËN",
+    "description": "Nutzen Sie den CITROËN Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "site_name": "Citroen AT",
+    "author": "Citroen AT",
+    "geo_region": "AT",
+    "geo_country": "Autriche",
+    "og_image_alt": "WAS IST MEIN AUTO WERT?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.citroen-kauft-ihr-auto.at/"
+    },
+    {
+      "label": "WAS IST MEIN AUTO WERT?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "WAS IST MEIN AUTO WERT?",
+    "lead": "Nutzen Sie den CITROËN Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "subnav": [
+    {
+      "label": "Terminvereinbarung",
+      "anchor": "#terminvereinbarung"
+    },
+    {
+      "label": "Profi Begutachtung",
+      "anchor": "#profi-begutachtung"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "terminvereinbarung",
+      "h2": "Terminvereinbarung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "„Was ist mein Auto wert?“ ist eine von vielen Fragen, die Sie beschäftigen? Wählen Sie im Online-Formular einfach Ihren bevorzugten Citroën Partner aus. Nach einer ersten, unverbindlichen Online-Bewertung wird der Citroën Partner Sie dann kontaktieren und mit Ihnen einen Termin zur Begutachtung Ihres Fahrzeugs vereinbaren. So erfahren Sie verbindlich, was Ihr Auto wert ist. Natürlich beraten Sie die geprüften Automobilverkäufer und -verkäuferinnen von Citroën auch gerne bei allen anderen Fragen rund um Neu-, Vorführ- und Qualitäts-Gebrauchtwagen."
+        },
+        {
+          "text": "Ein Citroën Partner Ihrer Wahl begutachtet in Ihrem Beisein Ihr Fahrzeug und beantwortet Ihnen verbindlich die Frage, was Ihr Auto wert ist. Bei beiderseitigem Interesse unterbreitet er Ihnen zudem ein konkretes Ankaufangebot. Wenn Sie sich einig werden, organisiert er die Fahrzeugübernahme und veranlasst natürlich auch die Zahlung des vereinbarten Ankaufpreises. So unkompliziert ist der Autoverkauf mit Citroën!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "profi-begutachtung",
+      "h2": "Profi Begutachtung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wenn Sie den Verkauf mit Citroën abgeschlossen haben, kümmert sich Ihr Citroën Partner um alles Weitere. Er terminiert die Fahrzeugübergabe und stellt sicher, dass der Ankaufpreis an Sie überwiesen wird. So können Sie sicher sein, dass Sie schnell Ihr Geld bekommen. So komfortabel ist der Autoverkauf an Citroën."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.at/"
+  },
+  "footer": {
+    "tagline": "Nutzen Sie den CITROËN Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/citroen.austria/ "
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroen_austria/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenAT"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/citroen-oesterreich/ "
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Was ist mein Auto wert? - Professionelle Beratung",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Nutzen Sie den CITROËN Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.citroen-kauft-ihr-auto.at",
+    "area_served": "Autriche",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q40",
+    "offer_description": "Nutzen Sie den CITROËN Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.citroen-kauft-ihr-auto.at/was-ist-mein-auto-wert",
+    "medias_trouves": 5,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.at/build/img/citroen/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

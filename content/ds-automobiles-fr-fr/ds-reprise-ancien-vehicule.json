@@ -1,0 +1,213 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-ancien-vehicule",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-ancien-vehicule",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-ancien-vehicule",
+  "meta": {
+    "title": "Reprise de votre ancien véhicule de plus de 10 ans par Reprise DS",
+    "description": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre ancien véhicule"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre ancien véhicule",
+    "lead": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Une transaction simple, ",
+      "anchor": "#une-transaction-simple-rapide-et-fiable"
+    },
+    {
+      "label": "Comment est estimé le mo",
+      "anchor": "#comment-est-estime-le-montant-de-la-repr"
+    },
+    {
+      "label": "estimation en ligne",
+      "anchor": "#estimation-en-ligne"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "une-transaction-simple-rapide-et-fiable",
+      "h2": "Une transaction simple, rapide et fiable",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Plutôt que la vente entre particuliers, optez pour la sérénité et demandez la reprise de votre ancien véhicule. On ne s’improvise pas vendeur et se séparer de sa voiture peut parfois être plus complexe que prévu. Acheteurs qui ne donnent plus signe de vie, ventes non réalisées, tracas administratifs et difficultés en tous genres peuvent vraiment compliquer la vente. DS Automobiles propose la reprise de votre ancien véhicule quelle que soit sa marque."
+        },
+        {
+          "text": "Pour l’achat d’une DS neuve ou d’occasion, voire pour débuter une location avec option d’achat ou une location de longue durée, voyons comment gérer la reprise de votre ancien véhicule à sa juste valeur, c’est-à-dire celle du marché."
+        },
+        {
+          "text": "Commencez par la description de votre véhicule en ligne et bénéficiez directement d’une première estimation. Si celle-ci vous convient, nous vous proposons de prendre rendez-vous dans l’un de nos centres DS Store ou DS Salon à votre convenance. Un expert examinera votre véhicule et affinera l’estimation initiale en fonction de son état réel. Si un accord est conclu, DS s’engage à une reprise immédiate avec garantie de paiement par l’un des nombreux points de vente DS Automobiles. Cela simplifie les choses. Aucune annonce à publier, pas de démarche administrative à effectuer de votre côté, et à la clé un paiement rapide et garanti sous huit jours ouvrables."
+        },
+        {
+          "text": "Votre contrôle technique n’est plus à jour ou votre véhicule est non roulant ? DS Automobiles vous le reprend également, chose que seuls les professionnels sont habilités à faire. Vous pensez que votre véhicule n’est pas assez récent pour bénéficier d’une offre de reprise ? DS peut aussi faire une offre de reprise pour une voiture de plus de 10 ans."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/garage-ds.jpg",
+      "image_alt": "garage ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-estime-le-montant-de-la-repr",
+      "h2": "Comment est estimé le montant de la reprise d'un ancien véhicule ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le processus de reprise DS Automobiles se détermine par 2 étapes : - ; - et la validation par un expert lors du rendez-vous qui suit."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/garage-ds.jpg",
+      "image_alt": "garage ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimation-en-ligne",
+      "h2": "estimation en ligne",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "L’estimation du montant réel de la reprise d’un ancien véhicule est basée sur plusieurs critères : - la tendance du marché ; - l’observation des transactions récentes ; - et les informations fournies par le propriétaire sur l’état de son auto."
+        },
+        {
+          "text": "Sachez que l’estimation initiale n’est donnée qu’à titre indicatif et devra être affinée sous réserve de présentation du véhicule, avec déduction des frais de remise en état le cas échéant."
+        },
+        {
+          "text": "Les offres de reprise préférentielles DS. Pour l’achat d’une DS neuve, nous proposons régulièrement des offres de reprises d’anciens véhicules supérieures à l’estimation initiale, grâce à l’attribution de primes exceptionnelles pour l’achat d’un véhicule de la gamme. Ces sommes sont à ajouter à la valeur de reprise de l’ancien véhicule estimée initialement par nos experts. En outre, si vous êtes déjà client DS, vous pouvez bénéficier d’une prime de renouvellement. Enfin, si vous revendez un véhicule d’une marque premium comme Mercedes, Land Rover, Lexus ou Volvo dans le but d’acquérir une DS, vous pourrez obtenir un bonus supplémentaire. Rendez-vous en point de vente DS Automobiles pour davantage d’informations."
+        },
+        {
+          "text": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/garage-ds.jpg",
+      "image_alt": "garage ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise de votre ancien véhicule de plus de 10 ans par Reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Optez pour la reprise de votre ancien véhicule pour l'achat d'une DS. Estimez sa valeur en ligne et prenez rendez-vous avec nos experts pour affiner son évaluation.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-ancien-vehicule",
+    "medias_trouves": 2,
+    "blocs_detectes": 3,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

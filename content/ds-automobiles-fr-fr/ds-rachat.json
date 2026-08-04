@@ -1,0 +1,185 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-rachat",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-rachat",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-rachat",
+  "meta": {
+    "title": "Le rachat de votre véhicule par DS Automobiles",
+    "description": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Rachat de véhicule"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Rachat de véhicule",
+    "lead": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi opter pour un r",
+      "anchor": "#pourquoi-opter-pour-un-rachat-de-vehicul"
+    },
+    {
+      "label": "Un véritable service sur",
+      "anchor": "#un-veritable-service-sur-mesure"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-opter-pour-un-rachat-de-vehicul",
+      "h2": "Pourquoi opter pour un rachat de véhicule par un professionnel ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vendre soi-même un véhicule peut parfois devenir compliqué, surtout si l’on n’est pas habitué à ce genre de transaction. Entre les annonces à publier, les négociateurs exigeants, les rendez-vous non honorés, certaines réparations rendues nécessaires après le passage au contrôle technique, obligatoire pour vendre votre véhicule à un particulier, l’opération s’avère parfois plus complexe et moins intéressante que vous le pensiez. Au contraire, le rachat de véhicule par un professionnel est simple et transparent, car nous nous occupons de tout, de l’estimation jusqu’au paiement, en passant par les formalités administratives. S’offrir un véhicule neuf devient un véritable plaisir avec le rachat par un professionnel comme DS Automobiles."
+        },
+        {
+          "text": "Rachat de véhicule : quel type de voiture est concerné ? DS Automobiles propose le rachat de tous types de véhicules. Que le Contrôle Technique soit valable ou non, que votre véhicule soit roulant ou non, en panne ou même accidenté, DS Automobiles vous propose une estimation par des experts et, le cas échéant, un règlement en seulement 8 jours ouvrables. Quel que soit l’âge, le type ou l’état de votre voiture, sa reprise par un professionnel vous permettra d’en tirer le prix le plus juste. Lors d’une vente à un particulier, il est nécessaire de présenter un Contrôle Technique valide datant de moins de 6 mois pour les véhicules de 4 ans ou plus. Ceci est obligatoire sous peine de nullité de la vente, même si le véhicule est vendu pour pièces. La mentions « vendu dans l’état sans CT » sur la carte grise n’a plus de valeur juridique depuis 2009. Sachez également qu’elles ne protègent en aucun cas un vendeur en cas de vice caché ou de litige ultérieur. En plus de sa simplicité, le rachat de véhicule par un professionnel évite ce type de tracas. Les professionnels peuvent parfaitement reprendre des véhicules dont le Contrôle Technique n’est pas valable. La mise en conformité ou les réparations éventuelles sont alors à leur charge."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/rachat-DS-volant.jpg",
+      "image_alt": "Volant DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "un-veritable-service-sur-mesure",
+      "h2": "Un véritable service sur-mesure",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "En optant pour le rachat de votre véhicule par DS Automobiles, vous bénéficiez d’un véritable service sur-mesure. Vous n’aurez qu’à faire votre estimation et prendre contact avec nous via notre site en ligne : les experts de DS Automobile se chargeront du reste. Offre de reprise, évaluation au plus juste par nos soins, pas de démarches administratives fastidieuses, tout est fait pour vous simplifier la vie. En choisissant le rachat de votre ancienne voiture par DS Automobiles, vous bénéficiez des services de professionnels expérimentés et vous ne vous adressez pas à des acheteurs potentiels dont le seul but est de revoir le prix de votre voiture à la baisse."
+        },
+        {
+          "text": "Faut-il acheter un véhicule neuf pour bénéficier de tous ces avantages ? Les services présentés par DS Automobiles sont proposés quel que soit le type d’acquisition que vous souhaitez faire. Que ce soit pour un véhicule neuf ou un véhicule d’occasion, vous bénéficiez de nombreux avantages client. Et si vous n’envisagez pas d’acquisition, vous pouvez opter pour une location avec option d’achat ou longue durée. Dans ce cas DS Automobiles reprend votre voiture en ajoutant les éventuelles primes liées aux conditions préférentielles applicables au moment du rachat."
+        },
+        {
+          "text": "Il ne vous reste plus qu’à estimer en ligne la valeur de votre véhicule, nous nous chargeons du reste."
+        },
+        {
+          "text": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/rachat-DS-volant.jpg",
+      "image_alt": "Volant DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Le rachat de votre véhicule par DS Automobiles",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Voiture neuve, d'occasion, ou location longue durée, quel que soit votre choix, optez pour le rachat de véhicule proposé par DS Automobiles.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-rachat",
+    "medias_trouves": 2,
+    "blocs_detectes": 2,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

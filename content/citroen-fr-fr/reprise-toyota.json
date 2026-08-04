@@ -1,0 +1,314 @@
+{
+  "page_key": "citroen-fr-fr__lp-reprise-toyota",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/reprise-toyota",
+  "source_v1": "https://www.reprise.citroen.fr/lp/reprise-toyota",
+  "meta": {
+    "title": "Reprise Toyota | Estimation gratuite avec Citroën",
+    "description": "Faites reprendre votre Toyota par Citroën : estimation en ligne gratuite, sans engagement. Yaris, Corolla, RAV4 inclus.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre voiture Toyota par Citroën"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre voiture Toyota par Citroën",
+    "lead": "Faites reprendre votre Toyota par Citroën : estimation en ligne gratuite, sans engagement. Yaris, Corolla, RAV4 inclus.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi faire reprendre",
+      "anchor": "#pourquoi-faire-reprendre-votre-toyota"
+    },
+    {
+      "label": "estimation de votre voit",
+      "anchor": "#estimation-de-votre-voiture"
+    },
+    {
+      "label": "Pourquoi utiliser le ser",
+      "anchor": "#pourquoi-utiliser-le-service-de-reprise-"
+    },
+    {
+      "label": "En résumé",
+      "anchor": "#en-resume"
+    },
+    {
+      "label": "Des primes accessibles s",
+      "anchor": "#des-primes-accessibles-si-vous-etes-inte"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-faire-reprendre-votre-toyota",
+      "h2": "Pourquoi faire reprendre votre Toyota ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Revendre sa Toyota, c’est évidemment chose possible, mais ce n’est pas toujours très simple: entre l’envie d’en tirer le juste prix, la publication et le suivi d’une annonce, les rendez-vous avec les acheteurs, les négociations et les semaines qui passent sans avoir avancé ni pouvoir se projeter sur un autre véhicule, les nerfs peuvent être mis à rude épreuve. En revanche, la reprise de votre Toyota dans notre réseau, quel que soit l’état et le modèle, peut s’effectuer rapidement et à un prix reposant sur des critères objectifs."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimation-de-votre-voiture",
+      "h2": "estimation de votre voiture",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "gratuite est très simple et ne vous engage aucunement ni à une vente ni à un achat. Renseignez simplement les différentes informations dans notre formulaire (5 minutes maximum) ou gagnez du temps en saisissant directement le numéro d’immatriculation de votre Toyota actuelle pour une première proposition de reprise."
+        },
+        {
+          "text": "Si le montant vous parait en phase avec vos attentes, l’étape suivante sera la prise de rendez-vous dans la concession Citroën la plus proche de votre domicile. En effet un professionnel pourra alors examiner en détail votre véhicule et les éventuels documents que vous pourrez nous fournir (carnet d’entretien, factures) pour une offre de reprise de votre Toyota la plus juste."
+        },
+        {
+          "text": "L’un de nos collaborateurs prendra contact avec vous pour en discuter et si l’offre vous semble équitable, vous pourrez prendre rendez-vous chez le concessionnaire Citroën de votre ville ou le plus proche afin d’obtenir une offre plus fine et définitive. Mieux, vous pourrez en repartir directement avec un chèque ou bien avec un virement en cours (versement sous 8 jours maximum). Nous vous aiderons naturellement sur les aspects administratifs: même si en tant que vendeur vous rendre en préfecture n’est pas nécessaire, il est plus confortable de se faire aider et de repartir serein!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "pourquoi-utiliser-le-service-de-reprise-",
+      "h2": "Pourquoi utiliser le service de reprise Citroën pour votre Toyota ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "La reprise de votre Toyota avec Citroën est un véritable gain de temps, mais c’est aussi un gain d’argent! Envie d’acquérir un véhicule d’occasion? Il a forcément une auto qui vous plaira au sein de notre réseau. Envie d’acheter une Citroën neuve? La reprise devient alors d’autant plus intéressante que selon les offres du moment et la Toyota dont vous vous séparez, vous pouvez bénéficier d’une prime en plus du montant de la reprise. Le montant sera soit déduit du prix d’achat, soit de l’apport ou des mensualités si vous vous orientez vers une LOA/LDD."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "en-resume",
+      "h2": "En résumé",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "La reprise de votre Toyota dans notre réseau, c’est:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "des-primes-accessibles-si-vous-etes-inte",
+      "h2": "Des primes accessibles si vous êtes intéressé(e) par une Citroën neuve",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Réalisez gratuitement et sans engagement une estimation pour la reprise de votre Toyota quel que soit son modèle – Cote et proposition en quelques minutes"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Faites reprendre votre Toyota par Citroën : estimation en ligne gratuite, sans engagement. Yaris, Corolla, RAV4 inclus.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise Toyota",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Faites reprendre votre Toyota par Citroën : estimation en ligne gratuite, sans engagement. Yaris, Corolla, RAV4 inclus.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Faites reprendre votre Toyota par Citroën : estimation en ligne gratuite, sans engagement. Yaris, Corolla, RAV4 inclus.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/reprise-toyota",
+    "medias_trouves": 8,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

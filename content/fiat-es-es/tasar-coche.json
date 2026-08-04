@@ -1,0 +1,319 @@
+{
+  "page_key": "fiat-es-es__lp-tasar-coche",
+  "brand": "fiat",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.fiat.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://tasacion.fiat.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche en línea : Gratis y Rápido | Fiat España",
+    "description": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
+    "site_name": "Fiat ES",
+    "author": "Fiat ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche Gratis y en línea - Nuestro servicio sin compromiso"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.fiat.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.fiat.es/"
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche Gratis y en línea - Nuestro servicio sin compromiso",
+    "lead": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.fiat.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasar coche totalmente e",
+      "anchor": "#tasar-coche-totalmente-en-linea"
+    },
+    {
+      "label": "¿Cómo se puede tasar tu ",
+      "anchor": "#como-se-puede-tasar-tu-coche"
+    },
+    {
+      "label": "Las ventajas de la tasac",
+      "anchor": "#las-ventajas-de-la-tasacion-de-su-coche-"
+    },
+    {
+      "label": "¡En unos 5 minutos, desc",
+      "anchor": "#en-unos-5-minutos-descubre-cuanto-vale-t"
+    },
+    {
+      "label": "Tasar coche: Preguntas m",
+      "anchor": "#tasar-coche-preguntas-mucho-mas-comunes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasar-coche-totalmente-en-linea",
+      "h2": "Tasar coche totalmente en línea",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Por qué tasar con nosotros tu coche? Ahorita en medio de la enorme cantidad de sitios web de tasación online, Fiat te da la garantía al elegirla de: No vas a tener compromiso con nosotros, pero aún así, ponemos toda nuestra red a tu alcance si quieres en verdad venderlo."
+        },
+        {
+          "text": "Para realizar la tasación, ¡No hay nada más fácil! Primero tendrás que dar: Rellenar todos los datos relevantes a la tasación de tu vehículo Al tasar tu coche lo hacemos con la mayor precisión que se puede, nada más tendrás que responder a unas preguntas del cuestionario. Tendrás que brindar: Datos propios que identifiquen el modelo de tu coche: Al hacer el registro del vehículo, reconocemos el coche que tienes que evaluar. Tu modelo se identifica por medio de ese registro, y se brinca varias etapas del cuestionario así, ahorraras un buen tiempo. Si olvidas el registro, ¡tranquilo! Solo respondes unas preguntas para poder identificar el coche: versión, combustible, año de matriculación, potencia del motor, etc. Tantos datos que nos ayudará a identificar tu coche con precisión. - Los Datos propios de tu coche: color, etc"
+        }
+      ],
+      "bullets": [
+        "Tasación online y 100% gratis: Tasamos tu coche luego de dar unos clics sin gasto alguno.",
+        "Una tasación confiable que se te brinda gracias a la experiencia que posee Fiat",
+        "La experticia de la red Fiat que está a tu servicio para recuperación de tu vehículo solo si es lo que quieres:"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/4dfcc22c-e73f-491f-b29a-e4f8e27a1a91",
+      "image_alt": "descubre cuánto vale tu coche",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "como-se-puede-tasar-tu-coche",
+      "h2": "¿Cómo se puede tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tasación gratis en 3 pasos:"
+        },
+        {
+          "text": "Etapa 1."
+        },
+        {
+          "text": "¡Será rápido y fácil, en menos de 5 minutos lo completas!"
+        },
+        {
+          "text": "Se te da la tasación de tu coche en línea y por correo electrónico Una vez agregas estos datos, se analiza el mercado para poder darte el precio justo que se te presenta al final de nuestro cuestionario. Esta tasación te será mandada directamente por correo electrónico. Tener una cita con un profesional de red Fiat. Al final de la tasación, el concesionario Fiat que tú mismo eliges se pondrá en contacto para concertar cita y llegar a una tasación final para tu vehículo. Si estás entusiasmado con esta tasación, tu concesionario se encargará de la recuperación del vehículo sin que incurras en carga administrativa."
+        },
+        {
+          "text": "Etapa 2:"
+        },
+        {
+          "text": "¡Nuestra tasación no va sujeta a compromiso, eliges seguir o no con la venta!"
+        },
+        {
+          "text": "Etapa 3:"
+        },
+        {
+          "text": "¿Ventajas de hacerlo con la red Fiat y que recoja tu vehículo?"
+        }
+      ],
+      "bullets": [
+        "Documento con el registro del coche que vendes",
+        "Kilometraje actual",
+        "Daños presentes en el coche"
+      ],
+      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "las-ventajas-de-la-tasacion-de-su-coche-",
+      "h2": "Las ventajas de la tasación de su coche en línea con Fiat",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Tasación de tu coche 100% en línea y gratis en su totalidad: ¡No te estreses! ¡Te permitimos tasar tu coche directo en nuestro sitio online y, sobre todo, Gratis!",
+        "Tasación profesional y muy confiable: Con su experiencia la red Fiat, se asegura de darte una tasación profesional y sobre todo confiable.",
+        "Tasación tiene validez por 10 días: ¿No puedes decidir ya? ¡No te preocupes por eso! Tu tasación tiene validez de 10 días exactos. Tenemos una red amplia para vender tu coche en cualquier parte de España: Con los 100 puntos de ventas en la red Fiat, vender tu coche es realmente sencillo.",
+        "Tasación expedita - Recibo del precio en el momento: ¡Se acabó la espera! Tan pronto como completes el formulario, llegara una tasación para tu coche."
+      ],
+      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "en-unos-5-minutos-descubre-cuanto-vale-t",
+      "h2": "¡En unos 5 minutos, descubre cuánto vale tu coche!",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Quieres conocer el valor del coche? ¡No tengas dudas! Sabrás cuánto vale tu coche hoy en día, en el mercado lo podrás revender sin complicaciones"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-preguntas-mucho-mas-comunes",
+      "h2": "Tasar coche: Preguntas mucho más comunes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿CÓMO SE LOGRA CALCULAR LA TASACIÓN DE DICHO COCHE?"
+        },
+        {
+          "text": "La tasación se hace así: • Se toman las características de tu vehículo: modelo, motor, marca, fecha de entrada en servicio, kilometraje, • Luego se hacen observaciones de mercado: Todas las recientes transacciones que se hicieron por profesionales sobre modelos iguales al tuyo. • Se hace deducción del costo de rehabilitación con el estado estándar. Dichos costos se ajustan en dependencia de las condiciones del vehículo."
+        },
+        {
+          "text": "¿CÓMO SE HACE LA TASACIÓN POR MEDIO DE FIAT?"
+        },
+        {
+          "text": "La tasación es gratis y lo mejor es que es en línea: Se te otorga una tasación en línea gratuita al finalizar nuestro cuestionario online con datos del vehículo. En menos de 5 minutos, obtienes una tasación de tu vehículo, que también es enviada a ti, por correo electrónico. Debes concertar una cita: Una vez completado todo el formulario, el distribuidor que tú escogiste, te contacta en un plazo de 24 horas. Haz una cita en el concesionario para recuperar ese coche. No dejes de disfrutar de la experiencia de Fiat: Al estar en la cita, uno de nuestros expertos chequea el estado del coche contigo allí, y te ofrece un precio actual de recuperación. Una vez que se confirme tu acuerdo, procedemos a comprar tu coche."
+        },
+        {
+          "text": "¿Estás contento con la tasación?"
+        },
+        {
+          "text": "¿QUÉ DOCUMENTOS Y DATOS NECESITO PARA TASAR MI COCHE POR FIAT?"
+        },
+        {
+          "text": "Para tasar tu coche, debes de tener: - El certificado de la matriculación del coche para así rellenar el registro de tu coche - El kilometraje de tu coche también, debes de rellenar datos sobre el estado que se encuentra el coche: color, carrocería, etc."
+        },
+        {
+          "text": "VENTAJAS DE USAR EL SERVICIO TASACIÓN FIAT, ¿CUALES SON?"
+        },
+        {
+          "text": "• Con unos pocos clics, te damos una tasación del valor de tu vehículo por correo electrónico. La tasación no te da ningún compromiso con nosotros. Mucha serenidad. Al usar el servicio de Tasación Fiat, la tasación que recibes del valor de tu vehículo es hecha por un profesional automotriz. Todo vehículo se valora en función de las observaciones que surgen del mercado y las últimas transacciones. •. El pago de tu vehículo se garantiza y es bien seguro. Durante la transacción, el pago del vehículo es hecho por un concesionario de Fiat."
+        },
+        {
+          "text": "Agilidad."
+        },
+        {
+          "text": "• Evita sorpresas molestas."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "100-seguro",
+      "h2": "100% seguro",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿EN QUE ME COMPROMETO CUANDO HAGO UNA TASACIÓN?"
+        },
+        {
+          "text": "La tasación propuesta por Tasación de Fiat no te da ningún compromiso. Recibirás gratis nuestra propuesta dentro de 24 horas (días hábiles). Tasación sin compromiso de tu parte. Puede concertar una cita con uno de nuestros expertos Fiat."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.fiat.es/"
+  },
+  "footer": {
+    "tagline": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Fiat.es/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_es"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/c/fiatespa%C3%B1a"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche en línea : Gratis y Rápido",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.fiat.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Te interesa saber el valor de tu coche? Aquí puedes informarte de nuestro servicio de tasación de coche. ¡Pruebe a nuestro tasador experto!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.fiat.es/lp/tasar-coche",
+    "medias_trouves": 9,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/separator-breadcrumb.png",
+      "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.fiat.es/build/img/fiat/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

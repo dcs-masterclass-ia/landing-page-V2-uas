@@ -1,0 +1,379 @@
+{
+  "page_key": "citroen-fr-fr__lp-vendre-sa-voiture",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/vendre-sa-voiture",
+  "source_v1": "https://www.reprise.citroen.fr/lp/vendre-sa-voiture",
+  "meta": {
+    "title": "Vendez votre voiture simplement | Reprise Citroën",
+    "description": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vendez votre voiture en toute simplicité avec Citroën"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://www.reprise.citroen.fr/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture en toute simplicité avec Citroën",
+    "lead": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi vendre votre vo",
+      "anchor": "#pourquoi-vendre-votre-voiture-avec-repri"
+    },
+    {
+      "label": "Étape 1: Renseigner les ",
+      "anchor": "#etape-1-renseigner-les-informations-de-v"
+    },
+    {
+      "label": "Étape 2: Recevez l’estim",
+      "anchor": "#etape-2-recevez-lestimation-de-votre-voi"
+    },
+    {
+      "label": "1 c’est plus simple: vot",
+      "anchor": "#1-cest-plus-simple-votre-modele-est-iden"
+    },
+    {
+      "label": "Étape 3: Rendez-vous ave",
+      "anchor": "#etape-3-rendez-vous-avec-un-professionne"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-vendre-votre-voiture-avec-repri",
+      "h2": "Pourquoi vendre votre voiture avec reprise Citroën ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Souhaitez-vous vendre votre voiture ?"
+        },
+        {
+          "text": "Reprise Citroën est un service en ligne qui vous permet d’obtenir gratuitement une estimation de reprise de votre véhicule, sans engagement."
+        },
+        {
+          "text": "Pour éviter de mauvaises expériences lors de la vente entre particuliers, choisissez l’option plus sûre, sans risque de fausse identité, mauvais payeur ou négociation trop lourde."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/0684bbc1-3f3a-4479-93cb-64170ed18d3c",
+      "image_alt": "poignée de main pour vendre votre voiture",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-1-renseigner-les-informations-de-v",
+      "h2": "Étape 1: Renseigner les informations de votre véhicule",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pour pouvoir estimer votre voiture avec le plus de précision possible, nous avons besoin d’informations essentielles. Pour cela, vous aurez un questionnaire facile et rapide à renseigner en moins de 5min."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-2-recevez-lestimation-de-votre-voi",
+      "h2": "Étape 2: Recevez l’estimation de votre voiture en ligne et par email",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Une fois ces informations renseignées, nous analysons le marché pour vous donner le prix juste qui vous est présenté à la fin du questionnaire. Cette estimation vous est aussi envoyée directement par mail. Celle-ci est sans engagement, vous avez le choix de continuer ou non le processus !"
+        },
+        {
+          "text": "Pour cela, vous aurez un questionnaire simple et rapide à renseigner avec l’immatriculation de votre voiture. En utilisant l’immatriculation, nous identifions la voiture que vous souhaitez évaluer."
+        },
+        {
+          "text": "Pourquoi utiliser l’immatriculation ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-cest-plus-simple-votre-modele-est-iden",
+      "h2": "1 c’est plus simple: votre modèle est identifié grâce à votre immatriculation,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "2. c’est plus rapide, l’identification de votre voiture vous fait sauter plusieurs étapes du parcours et donc vous fait gagner du temps"
+        },
+        {
+          "text": "Si vous ne possédez pas l’immatriculation entête, pas de souci! Vous pouvez répondre à quelques questions pour nous permettre d’identifier votre voiture : version, année de MEC, carburant, puissance moteur. Bien que d’autres Informations générales : couleur, équipements"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-3-rendez-vous-avec-un-professionne",
+      "h2": "Étape 3: Rendez-vous avec un professionnel du réseau Citroën",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le concessionnaire Citroën de votre choix vous contacte pour prendre rendez-vous en concession. Sur place, il effectuera une inspection de votre véhicule et vous proposera un prix de reprise final de votre véhicule. Si ce prix vous satisfait, nous rachetons immédiatement votre voiture, sans aucune démarche administrative. Nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "le-paiement-est-effectue-de-maniere-secu",
+      "h2": "Le paiement est effectué de manière sécurisée et rapide",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Avec nous, vous pourrez vendre votre voiture en 24h!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment puis-je vendre ma voiture ?"
+        },
+        {
+          "text": "Avec le service d'évaluation Citroën, une grande partie du processus se fait en ligne pour une évaluation rapide de votre voiture.Il suffit de remplir le profil de la voiture lorsque nous vous donnons accès au questionnaire. Pour cela, vous devez nous fournir des informations sur la marque, le kilométrage, le modèle, la couleur, etc.Ensuite, vous pourrez obtenir l'évaluation une fois le questionnaire rempli. Nous vous enverrons l'évaluation du véhicule par e-mail juste après.Une fois reçu, le concessionnaire Citroën de votre choix vous appellera pour fixer un rendez-vous. Vous pouvez choisir de le vendre lorsque vous avez l'offre officielle, ou si vous préférez attendre. Vous n'êtes pas obligé de le vendre dans tous les cas."
+        },
+        {
+          "text": "Comment est calculée la valeur de ma voiture ?"
+        },
+        {
+          "text": "Celle-ci prendra en compte les éléments suivants :• Les caractéristiques les plus pertinentes telles que le modèle, le type de moteur, la marque, la date d'immatriculation et le kilométrage.• Le marché et les professionnels qui effectuent ce type de transactions en permanence.• Les déductions de coûts seront enfin effectuées en fonction de l'état de la voiture."
+        },
+        {
+          "text": "Comment fonctionne le processus de reprise Citroën ?"
+        },
+        {
+          "text": "Une évaluation en ligne totalement gratuite peut être obtenue en remplissant un questionnaire avec les détails de la voiture.Une fois les détails fournis, une évaluation de la voiture est générée dans les 5 minutes. Le concessionnaire de votre choix vous contactera sous 24 h.Si l’offre vous convient, un rendez-vous sera fixé pour vérifier l’état de votre voiture.Nous achetons votre voiture si vous êtes prêt à la vendre. L’expertise Citroën vous garantit un prix juste et favorable. Si ce prix vous convient, nous procédons immédiatement à l’achat."
+        },
+        {
+          "text": "Comment obtenir un rendez-vous avec un concessionnaire Citroën ?"
+        },
+        {
+          "text": "Rien de plus simple.Lorsque vous faites une demande d’estimation en ligne, vous choisissez votre point de vente Citroën en renseignant l’adresse postale de votre choix.Votre concessionnaire vous recontactera sous 24h pour convenir d’un rendez-vous. Vous pouvez également l’appeler vous-même grâce aux coordonnées transmises dans votre estimation."
+        },
+        {
+          "text": "Comment le paiement est-il fait ?"
+        },
+        {
+          "text": "Avec le réseau Citroën, vous avez la garantie d’un paiement rapide et sécurisé.Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Citroën.Selon le concessionnaire choisi, le règlement du véhicule est effectué par chèque ou par virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture simplement",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vendez votre voiture d’occasion à Citroën en toute simplicité. Estimation gratuite et transaction rapide.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/vendez-votre-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 9,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "7 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

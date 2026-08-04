@@ -1,0 +1,306 @@
+{
+  "page_key": "alfa-romeo-es-es__lp-tasar-coche",
+  "brand": "alfa-romeo",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.alfaromeo.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://tasacion.alfaromeo.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche online y gratuito| Alfa Romeo",
+    "description": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
+    "site_name": "Alfa Romeo ES",
+    "author": "Alfa Romeo ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche en línea"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.alfaromeo.es/ "
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche en línea",
+    "lead": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasación de coche gratis",
+      "anchor": "#tasacion-de-coche-gratis-y-sin-ningun-co"
+    },
+    {
+      "label": "¿Cómo se logra tasar tu ",
+      "anchor": "#como-se-logra-tasar-tu-coche"
+    },
+    {
+      "label": "Tus ventajas con la tasa",
+      "anchor": "#tus-ventajas-con-la-tasacion-de-su-coche"
+    },
+    {
+      "label": "¡Sabrás el valor de tu c",
+      "anchor": "#sabras-el-valor-de-tu-coche-en-menos-de-"
+    },
+    {
+      "label": "Tasar coche: Preguntas c",
+      "anchor": "#tasar-coche-preguntas-comunes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasacion-de-coche-gratis-y-sin-ningun-co",
+      "h2": "Tasación de coche gratis y sin ningún compromiso",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Por qué tasar tu coche con nosotros? Hoy, cuando hay demasiados sitios web de tasación online, elegir la tasación Alfa Romeo te da estas garantías:"
+        },
+        {
+          "text": "Para tasarlo, ¡no hay nada más sencillo! En primer lugar, vas a tener que dar : Tendrás tu tasación gratis en solo 3 pasos: Llenarás todos los datos relevantes a la tasación de tu vehículo. Si deseas tasar tu coche con alta precisión, nada más tendrás que responder unas cuantas preguntas en nuestro cuestionario. ¡Es rápido y sencillo, te llevará no más de 5 minutos hacerlo! Tendrás que darnos: Todos los datos para identificar el modelo correcto del coche. Al incluir el registro de tu vehículo, identificamos el coche que quieres evaluar. El modelo del mismo se identifica entonces por medio de tu registro, y se brincan varias etapas del cuestionario y, eso logra que ahorres tiempo. Si olvidas tu registro, ¡no hay problema! Solo responde algunas preguntas para ayudarnos a determinar cuál es tu coche: año de matriculación, versión, potencia del motor, combustible, color, etc. Todos estos datos nos ayudarán a identificar tu coche fácilmente. - Los Datos generales sobre tu coche: equipamiento, etc"
+        }
+      ],
+      "bullets": [
+        "Una tasación gratuita y online: Puedes tasar tu coche con pocos clics sin ningún gasto",
+        "Una tasación que es fiable y la tendrás gracias a la experiencia de Alfa Romeo",
+        "La experiencia que posee la red Alfa Romeo a tu servicio para recuperar tu vehículo si así lo quieres: no tendrás compromiso alguno, aún así, ponemos toda la red con que contamos a tu servicio si quieres venderlo."
+      ],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "como-se-logra-tasar-tu-coche",
+      "h2": "¿Cómo se logra tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Etapa 1."
+        },
+        {
+          "text": "Obtendrás la tasación de tu coche en línea y por correo electrónico. Luego de ingresar esos datos, hacemos análisis del mercado para brindarle el precio correcto que se te presenta al terminar el cuestionario. Esta tasación se envía también por correo electrónico. Hacer una cita con profesional de la red Alfa Romeo. Luego de la tasación, el concesionario Alfa Romeo que escogiste te contactará para concertar una cita y alcanzar una tasación final de tu vehículo. Si estás contento con esta tasación, tu concesionario se hará cargo de la recuperación de tu vehículo y no tendrás ninguna carga administrativa."
+        },
+        {
+          "text": "Etapa 2:"
+        },
+        {
+          "text": "¡Esta tasación no posee compromiso, tienes la elección de continuar o dejar el proceso!"
+        },
+        {
+          "text": "Etapa 3:"
+        }
+      ],
+      "bullets": [
+        "El documento que tiene el registro del coche",
+        "Kilometraje de tu coche",
+        "La lista de cualquier daño que tenga tu coche"
+      ],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tus-ventajas-con-la-tasacion-de-su-coche",
+      "h2": "Tus ventajas con la tasación de su coche online",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Tasación de tu coche 100% online y gratis: ¡No hay problema! ¡Te dejamos tasar tu coche directo en nuestro sitio web y, sobre todo, 100% gratis!",
+        "Tasación fiable y muy profesional: Por medio de la experiencia de la red Alfa Romeo, estás seguro de tener una tasación fiable y altamente profesional.",
+        "Tasación válida por 10 días: ¿Te cuesta decidir de inmediato? ¡Tampoco hay problema! Tu tasación continua válida por 10 días. Tenemos una red amplia para vender tu coche en cualquier parte de España: Tenemos más de 100 puntos de ventas con la red Alfa Romeo, vender tu coche jamas ha sido más fácil antes.",
+        "Tasación rápida - Recibes el precio al instante: ¡No tendrás que esperar nada! Apenas termines de llenar el formulario, vas a recibir una tasación para tu coche."
+      ],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sabras-el-valor-de-tu-coche-en-menos-de-",
+      "h2": "¡Sabrás el valor de tu coche en menos de 5 minutos!",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Quieres conocer el valor de tu coche? ¡No tengas dudas! Sabrás ese valor en el mercado hoy y podrás revenderlo sin inconvenientes."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-preguntas-comunes",
+      "h2": "Tasar coche: Preguntas comunes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿COMO SE CALCULA LA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación se rige por: • Características de tu vehículo: motor, fecha de entrada del servicio, marca, modelo, kilometraje. • Observaciones del mercado: cualquier transacción reciente realizada por profesionales sobre cualquier modelo equivalente. • La deducción del costo de rehabilitación al estado normal. Estos costos se ajustan dependiendo de la condición que presente el vehículo."
+        },
+        {
+          "text": "¿CÓMO TRABAJA LA TASACIÓN POR ALFA ROMEO?"
+        },
+        {
+          "text": "Tasación gratis y en línea: Tendrás una tasación en línea y gratis completando el cuestionario en línea con los datos de tu vehículo. En solo 5 min, tienes una tasación para tu vehículo, que igual se envía por correo electrónico. Obtenga una cita: Al llenar el formulario, el distribuidor que elegiste, se pondrá en contacto contigo en unas 24 horas. ¿Te parece la tasación? Realiza una cita en el concesionario para la recuperación del coche. Disfruta de la experiencia que posee Alfa Romeo: En la cita, un experto Alfa Romeo examina el estado del coche frente a ti y te ofrece un precio fijo de la recuperación. Al confirmar el acuerdo, de inmediato compramos tu coche."
+        },
+        {
+          "text": "¿CUALES SON LOS DATOS Y DOCUMENTOS NECESARIOS PARA TASAR MI COCHE POR ALFA ROMEO?"
+        },
+        {
+          "text": "Para tasar tu coche, vas a necesitar: - Certificado de matriculación del coche para llenar el registro de tu coche - Kilometraje de tu coche Por otro lado, tendrás que llenar datos sobre el estado que el coche tiene en general: equipamiento, color, carrocería, etc."
+        },
+        {
+          "text": "¿CUALES SON LAS PRINCIPALES VENTAJAS EN USAR EL SERVICIO TASACIÓN ALFA ROMEO?"
+        },
+        {
+          "text": "• . Luego de unos cuantos clics, recibe una tasación con el valor de tu vehículo por medio de correo electrónico. La tasación viene sin compromiso. • No tendrás sorpresas desagradables. Cuando pides el servicio Tasación Alfa Romeo, tendrás una tasación del valor total de tu vehículo realizada por un profesional automotriz. Cada vehículo se valora de acuerdo a las observaciones del mercado y a todas las transacciones recientes. • El pago de tu vehículo es seguro y 100% garantizado. En la transacción, el pago del vehículo lo hace un concesionario Alfa Romeo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Con Serenidad."
+        },
+        {
+          "text": "La Seguridad."
+        },
+        {
+          "text": "¿CUAL ES MI COMPROMISO CON UNA TASACIÓN?"
+        },
+        {
+          "text": "La tasación que es propuesta por Tasación Alfa Romeo viene sin compromiso. Tendrás gratuitamente la propuesta dentro de 24h en días hábiles. La Tasación es sin compromiso. Podrás concertar una cita con alguno de los expertos Alfa Romeo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.alfaromeo.es/"
+  },
+  "footer": {
+    "tagline": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.espana.oficial/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeoofficial/?hl=es"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/alfaromeooficial"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche online y gratuito",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.alfaromeo.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Necesitas saber el valor del coche? Vea la información de nuestros servicios de tasación de coche. ¡Prueba uno de nuestros tasadores!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.alfaromeo.es/lp/tasar-coche",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.alfaromeo.es/build/img/alfa_romeo/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

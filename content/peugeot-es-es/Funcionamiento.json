@@ -1,0 +1,178 @@
+{
+  "page_key": "peugeot-es-es__Funcionamiento",
+  "brand": "peugeot",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.peugeot.es",
+  "slug": "/Funcionamiento",
+  "source_v1": "https://tasacion.peugeot.es/Funcionamiento",
+  "meta": {
+    "title": "Funcionamiento | Tasación Peugeot",
+    "description": "Reciba una tasación gratuita por correo electrónico. Haga una cita con un miembro de la red. Benefície de la experiencia de Peugeot para la recuperación de tu automóvil.",
+    "site_name": "Peugeot ES",
+    "author": "Peugeot ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasación en Peugeot"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.peugeot.es/"
+    },
+    {
+      "label": "Funcionamiento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasación en Peugeot",
+    "lead": "Reciba una tasación gratuita por correo electrónico. Haga una cita con un miembro de la red. Benefície de la experiencia de Peugeot para la recuperación de tu automóvil.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "subnav": [
+    {
+      "label": "Seguridad",
+      "anchor": "#seguridad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una tasación en solo unos minutos",
+        "Sin compromiso",
+        "De forma sencilla"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/21/ed3a33a8-6474-486d-8e66-bcff79406050",
+      "image_alt": "Peugeot serenidad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elige un punto de venta",
+        "Una tasación fácil y rápida",
+        "Profesionales de confianza",
+        "Una operación rápida y segura",
+        "Oferta competitiva"
+      ],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "footer": {
+    "tagline": "Reciba una tasación gratuita por correo electrónico. Haga una cita con un miembro de la red. Benefície de la experiencia de Peugeot para la recuperación de tu automóvil.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotEspana"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/PeugeotEs"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeotes/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotES"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Funcionamiento",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reciba una tasación gratuita por correo electrónico. Haga una cita con un miembro de la red. Benefície de la experiencia de Peugeot para la recuperación de tu automóvil.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.peugeot.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Reciba una tasación gratuita por correo electrónico. Haga una cita con un miembro de la red. Benefície de la experiencia de Peugeot para la recuperación de tu automóvil.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.peugeot.es/Funcionamiento",
+    "medias_trouves": 8,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

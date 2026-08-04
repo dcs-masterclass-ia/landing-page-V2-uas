@@ -1,0 +1,202 @@
+{
+  "page_key": "ds-automobiles-lu-fr__fonctionnement-de-la-reprise-DS",
+  "brand": "ds-automobiles",
+  "market": "LU",
+  "lang": "fr",
+  "locale": "fr_LU",
+  "template": "shared",
+  "domain": "https://reprise.dsautomobiles.lu",
+  "slug": "/fonctionnement-de-la-reprise-DS",
+  "source_v1": "https://reprise.dsautomobiles.lu/fonctionnement-de-la-reprise-DS",
+  "meta": {
+    "title": "Fonctionnement du calcul de la reprise DS |DS Automobiles",
+    "description": "Fonctionnement",
+    "site_name": "Ds Automobiles LU",
+    "author": "Ds Automobiles LU",
+    "geo_region": "LU",
+    "geo_country": "Luxembourg",
+    "og_image_alt": "Fonctionnement de la reprise auto : comment la valeur de reprise est-elle calculée ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.dsautomobiles.lu/"
+    },
+    {
+      "label": "Fonctionnement",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Fonctionnement de la reprise auto : comment la valeur de reprise est-elle calculée ?",
+    "lead": "Fonctionnement",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "subnav": [
+    {
+      "label": "Accéder au contenu princ",
+      "anchor": "#acceder-au-contenu-principal"
+    },
+    {
+      "label": "1. Estimation du véhicul",
+      "anchor": "#1-estimation-du-vehicule"
+    },
+    {
+      "label": "2. Prise de rendez-vous",
+      "anchor": "#2-prise-de-rendez-vous"
+    },
+    {
+      "label": "3. Expertise du véhicule",
+      "anchor": "#3-expertise-du-vehicule"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "acceder-au-contenu-principal",
+      "h2": "Accéder au contenu principal",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le montant du rachat auto est estimé en euros TVAC sur la base d'observations du marché, des transactions récentes, et des informations fournies sur l'état de votre véhicule."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.dsautomobiles.lu/build/img/ds/ds_online_store_M88-352x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-estimation-du-vehicule",
+      "h2": "1. Estimation du véhicule",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Renseignez les détails et l'état de votre véhicule, quelle que soit sa marque, pour obtenir instantanément une estimation de sa valeur de reprise. *Valeur de reprise estimée en fonction du descriptif donné de votre véhicule, hors frais de remise en état. Valeur fournie à titre indicatif, sous réserve d'une expertise du véhicule par un point de vente DS, valable uniquement si le véhicule n'est pas gagé."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.dsautomobiles.lu/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "2-prise-de-rendez-vous",
+      "h2": "2. Prise de rendez-vous",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Lorsque vous faites une demande d'estimation en ligne, nous vous invitons à sélectionner le DS STORE de votre choix. Vous serez contacté par un expert du point de vente sélectionné pour convenir d'un rendez-vous."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.dsautomobiles.lu/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "3-expertise-du-vehicule",
+      "h2": "3. Expertise du véhicule",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Lors de votre rendez-vous, l'expert examine, en votre présence, l'état de votre véhicule afin d'affiner l'estimation initiale. Une fois celle-ci validée, avec votre accord, nous nous engageons à une reprise immédiate. Le paiement est garanti, sécurisé et assuré par un point de vente DS Automobiles."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.dsautomobiles.lu/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.dsautomobiles.lu/"
+  },
+  "footer": {
+    "tagline": "Fonctionnement",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Fonctionnement du calcul de la reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Fonctionnement",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.dsautomobiles.lu",
+    "area_served": "Luxembourg",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q32",
+    "offer_description": "Fonctionnement",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.dsautomobiles.lu/fonctionnement-de-la-reprise-DS",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://reprise.dsautomobiles.lu/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "image sans alt en V1 : https://reprise.dsautomobiles.lu/build/img/ds/ds_online_store_M88-352x.png",
+      "image sans alt en V1 : https://reprise.dsautomobiles.lu/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

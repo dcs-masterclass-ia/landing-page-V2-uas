@@ -1,0 +1,303 @@
+{
+  "page_key": "fiat-professional-fr-fr__lp-vendez-votre-voiture",
+  "brand": "fiat-professional",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.fiatprofessional.com",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.fiatprofessional.com/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "► Vendez votre voiture ou utilitaire en ligne | Fiat Professional",
+    "description": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
+    "site_name": "Fiat Professional FR",
+    "author": "Fiat Professional FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Vendez votre voiture avec le réseau Fiat Pro"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiatprofessional.com/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.fiatprofessional.com/"
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture avec le réseau Fiat Pro",
+    "lead": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiatprofessional.com/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi opter pour la r",
+      "anchor": "#pourquoi-opter-pour-la-reprise-pour-vend"
+    },
+    {
+      "label": "Vendez votre voiture en ",
+      "anchor": "#vendez-votre-voiture-en-quelques-etapes-"
+    },
+    {
+      "label": "Étape 2: Obtenez l’estim",
+      "anchor": "#etape-2-obtenez-lestimation-de-votre-uti"
+    },
+    {
+      "label": "Vendez votre voiture de ",
+      "anchor": "#vendez-votre-voiture-de-maniere-sure"
+    },
+    {
+      "label": "Aucun engagement",
+      "anchor": "#aucun-engagement"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-opter-pour-la-reprise-pour-vend",
+      "h2": "Pourquoi opter pour la reprise pour vendre votre voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Reprise Fiat Professional est un service en ligne sans engagement qui vous permet de recevoir gratuitement une estimation de reprise de votre utilitaire. Afin d’éviter de mauvaises expériences lors de la vente entre particuliers, choisissez la sécurité et la fiabilité du réseau Fiat Professional."
+        },
+        {
+          "text": "Souhaitez-vous vendre votre voiture utilitaire ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/144/56b4b611-f924-4a81-ba95-b438961e0b6e",
+      "image_alt": "logo fiat professional",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-en-quelques-etapes-",
+      "h2": "Vendez votre voiture en quelques étapes simples",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nous avons besoin d’informations essentielles pour pouvoir estimer votre utilitaire avec le plus de précision possible. Pour cela, vous aurez un questionnaire rapide et facile à renseigner en moins de 5min. Nous analysons le marché une fois ces informations renseignées, pour vous donner le prix juste qui vous est présenté à la fin du questionnaire. Cette estimation vous est également envoyée directement par email. Vous avez le choix de continuer ou non le processus, celle-ci est sans engagement! Pour cela, vous aurez un questionnaire rapide et simple à compléter avec l’immatriculation de votre utilitaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-2-obtenez-lestimation-de-votre-uti",
+      "h2": "Étape 2: Obtenez l’estimation de votre utilitaire en ligne et par email",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "En renseignant l’immatriculation, nous identifions le véhicule utilitaire que vous souhaitez évaluer. Utiliser l’immatriculation est beaucoup plus simple et plus rapide car votre modèle est retrouvé grâce à votre immatriculation, et vous sautez plusieurs étapes du parcours grâce à cette identification et donc vous gagnez du temps Ne vous en faites pas si vous ne connaissez pas l’immatriculation de votre véhicule utilitaire! Pour nous permettre d’identifier votre voiture, vous pouvez répondre à quelques questions: version, année de MEC, carburant, puissance moteur. Ainsi que d’autres informations générales : couleur, équipements Le concessionnaire Fiat Professional que vous avez choisi vous contacte pour prendre rendez-vous en concession. Sur place, il vous proposera un prix de reprise final de votre véhicule utilitaire après une inspection de celui-ci. Nous rachetons immédiatement votre voiture si ce prix vous satisfait, sans aucune démarche administrative. Nous nous occupons de tout !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-de-maniere-sure",
+      "h2": "Vendez votre voiture de manière sûre",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Quand vous vendez votre utilitaire à un particulier, vous avez:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "aucun-engagement",
+      "h2": "Aucun engagement",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le réseau professionnel Fiat est sûr et très fiable. 100% de sécurité de paiement"
+        },
+        {
+          "text": "Nous vous aidons dans vos démarches administratives."
+        },
+        {
+          "text": "Vous connaîtrez le prix de votre voiture en 5 minutes !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment la reprise fonctionne t-elle?"
+        },
+        {
+          "text": "Reprise Fiat Professional propose un service en ligne, qui vous permet d'obtenir une évaluation gratuite de votre voiture. Si vous en voulez un, vous devez inclure le profil de votre voiture dans notre questionnaire. Vous devez y indiquer le kilométrage, le modèle, la marque et aussi la version, etc. En faisant cela vous aurez à la fin du questionnaire, après 5 minutes, une évaluation, non seulement vous l'aurez dans vos mains, mais vous l'aurez aussi dans votre email. Ensuite, le concessionnaire Fiat Professional de votre choix vous contactera et fixera un rendez-vous pour récupérer votre voiture. Une autre option s'offre à vous : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre la voiture."
+        },
+        {
+          "text": "2.Comment est calculée l’estimation de reprise de mon véhicule utilitaire ?"
+        },
+        {
+          "text": "L’estimation est établie sur : • Les caractéristiques de votre véhicule utilitaire : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. • Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule utilitaire."
+        },
+        {
+          "text": "3. Comment fonctionne la reprise par Fiat Professional ?"
+        },
+        {
+          "text": "recevez une estimation gratuite en ligne en remplissant en ligne notre questionnaire avec les informations concernant votre véhicule utilitaire. Vous obtenez une estimation pour votre utilitaire en moins de 5min, qui vous sera également transmise par email. : vous serez recontacté par le concessionnaire de votre choix sous 24 h, une fois le formulaire renseigné. L’estimation vous satisfait ? Pour la reprise de votre utilitaire, convenez d’un rendez-vous en concession. : l’un de nos experts examine, lors du rendez-vous et en votre présence l’état du véhicule utilitaire et vous propose un prix de reprise ferme. Nous rachetons votre voiture utilitaire, une fois votre accord confirmé."
+        },
+        {
+          "text": "Estimation gratuite en ligne :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "profitez-de-lexpertise-fiat-professional",
+      "h2": "Profitez de l’expertise Fiat Professional",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment faire pour prendre un rendez-vous ?"
+        },
+        {
+          "text": "Rien de plus simple. Vous choisissez votre point de vente Fiat Professional lorsque vous faites une demande d’estimation en ligne, en renseignant l’adresse postale de votre choix. Votre concessionnaire Fiat Professional vous recontactera sous 24h pour convenir d’un rendez-vous. Grâce aux coordonnées transmises dans votre estimation, vous pouvez également l’appeler vous-même."
+        },
+        {
+          "text": "5. Comment serai-je payé ?"
+        },
+        {
+          "text": "Vous avez la garantie d’un paiement rapide et sécurisé avec le réseau Fiat Professional. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire Fiat Professional. Le règlement du véhicule est effectué par chèque ou par virement bancaire selon le concessionnaire choisi."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.fiatprofessional.com/"
+  },
+  "footer": {
+    "tagline": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Fiat-Professional-France-346353942508593/"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/fiat-professional-france"
+      }
+    ],
+    "columns": [],
+    "legal": "Pour les trajets courts, privilégiez la marche ou le vélo #Se Déplacer Moins Polluer. 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Vendez votre voiture ou utilitaire en ligne",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.fiatprofessional.com",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Nous vous accompagnons pour vendre votre voiture ou utilitaire sans mauvaises surprises ! Avec Fiat Professional, c'est rapide ✔ et sans engagement ✔",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.fiatprofessional.com/lp/vendez-votre-voiture",
+    "medias_trouves": 9,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/separator-breadcrumb.png",
+      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.fiatprofessional.com/build/img/fiat_pro/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

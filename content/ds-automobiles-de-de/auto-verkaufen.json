@@ -1,0 +1,219 @@
+{
+  "page_key": "ds-automobiles-de-de__lp-auto-verkaufen",
+  "brand": "ds-automobiles",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.dsautomobiles.de",
+  "slug": "/lp/auto-verkaufen",
+  "source_v1": "https://www.autoankauf.dsautomobiles.de/lp/auto-verkaufen",
+  "meta": {
+    "title": "► Verkaufen Sie Ihr Auto einfach mit DS Automobiles ✓​",
+    "description": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "site_name": "Ds Automobiles DE",
+    "author": "Ds Automobiles DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Verkaufen Sie Ihr Auto in wenigen Schritten!"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.autoankauf.dsautomobiles.de/"
+    },
+    {
+      "label": "Auto Verkaufen",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Verkaufen Sie Ihr Auto in wenigen Schritten!",
+    "lead": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "subnav": [
+    {
+      "label": "Warum sollten Sie sich d",
+      "anchor": "#warum-sollten-sie-sich-dafur-entscheiden"
+    },
+    {
+      "label": "Verkaufen Sie Ihr Auto: ",
+      "anchor": "#verkaufen-sie-ihr-auto-diese-vorteile-ve"
+    },
+    {
+      "label": "Verkaufen Sie Ihr Auto: ",
+      "anchor": "#verkaufen-sie-ihr-auto-wo-fange-ich-an"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "warum-sollten-sie-sich-dafur-entscheiden",
+      "h2": "Warum sollten Sie sich dafür entscheiden, Ihr Auto bei DS Automobiles in zu verkaufen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "DS Automobiles bietet Ihnen einen einfachen und unverbindlichen Weg, den Schätzwert Ihres Fahrzeugs zu berechnen. Mit dieser Option können Sie sich in Ruhe entscheiden, ohne das Risiko einzugehen, dass schlechte Erfahrungen mit dem Verkauf zwischen Privatpersonen gemacht werden. Nutzen Sie die Netzwerke und den professionellen Service, um Betrug, säumige Zahler und lange Verhandlungen zu vermeiden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "gebrauchtwagen-ds-automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "verkaufen-sie-ihr-auto-diese-vorteile-ve",
+      "h2": "Verkaufen Sie Ihr Auto: Diese Vorteile versichern wir Ihnen:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Die Schätzung Ihres Autos kann einfach per E-Mail erhalten werden. - Der Termin kann mit jeglichen Händlern in Ihrer Nähe vereinbart werden. - Unser breites Expertennetzwerk steht vor Ort zu Ihrer Verfügung. - Wir versichern Ihnen eine schnelle Transaktion."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "gebrauchtwagen-ds-automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "verkaufen-sie-ihr-auto-wo-fange-ich-an",
+      "h2": "Verkaufen Sie Ihr Auto: Wo fange ich an?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Schritt 1: Teilen Sie Ihre Fahrzeuginformationen mit uns. Um sein Auto für den besten Preis zu verkaufen, benötigen wir einige Informationen von Ihnen. Füllen Sie ganz unkompliziert und in weniger als 5 Minuten einen speziell dafür erstellten Fragebogen aus. Schritt 2: Verkaufen Sie Ihr Auto online. Nachdem wir Ihre Informationen erhalten haben, werden wir eine Marktanalyse durchführen, um Ihnen den gerechtesten Preis anzubieten. Diese Schätzung wird Ihnen sofort per E-Mail zugesendet. Sie sind nicht verpflichtet, sie anzunehmen und haben die Freiheit, den Verkaufsprozess Ihres Autos fortzuführen oder abzubrechen. Um das Modell Ihres Fahrzeugs zu bestimmen, verwenden wir das Kennzeichen Ihres Autos. Es gibt einige Gründe, warum wir auf diese Weise vorgehen: Erstens ist es einfacher und schneller, da Sie einige Schritte überspringen können. Auf diesem Weg ist sehr einfach sein Auto zu verkaufen. Sie wissen nicht auswendig, wie es lautet? Machen Sie sich keine Sorgen. Sie können auch andere Fragen ausfüllen, wie Version, MEC-Jahr, Kraftstoff, Motorleistung, Farbe, Ausstattung, etc., die uns helfen, Ihr Auto richtig zu identifizieren. Schritt 3: Persönliches Treffen mit einem unserer Profis. Der von Ihnen ausgewählte DS-Händler wird Sie kontaktieren, um einen Termin vor Ort zu vereinbaren, an dem er Ihr Fahrzeug inspiziert und Ihnen einen Eintauschpreis vorschlägt. Wenn Ihnen dieser Preis zusagt, nehmen wir Ihr Auto sofort zurück und erledigen alle notwendigen Schritte für Sie. Sie können durch uns Ihr Auto verkaufen und wir bezahlen Sie."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "gebrauchtwagen-ds-automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Was wird verwendet, um den Übernahmewert zu berechnen?"
+        },
+        {
+          "text": "Um einen gerechten Preis zu kalkulieren, verwenden wir: - Marke, Modell, Motorisierung, Ausstattung, Kilometerstand und Zulassungsdatum des Wagens - Unsere Erfahrungen im Automobilmarkt. Welche Modelle wurden von unseren Fachleuten in naher Vergangenheit für welchen Preis verkauft? - Die Kosten der Instandsetzung. Diese sind abhängig von dem Stand des Wagens. Nachdem dieser im Autohaus festgestellt wurde, kann verhandelt werden wie viel von dem Endpreis abgezogen wird."
+        },
+        {
+          "text": "Wie läuft die Übernahme ab?"
+        },
+        {
+          "text": "Gratisschätzung Online: unser bereitgestellter Fragebogen lässt sich in nur 5 Minuten ausfüllen. Das Ergebnis gibt Ihnen dann eine erste Einschätzung des Preises, den wir Ihnen anbieten können, sollten Sie Ihr Auto verkaufen wollen. Sie erhalten auch eine E-Mail mit dem Ergebnis. Terminvereinbarung: Sollten sie mit dem geschätzten Preis zufrieden sein, werden Sie von einem ausgewählten Händler in den folgenden 24 Stunden kontaktiert. Verkauf: Der letzte Schritt ist der Vorschlag eines verbindlichen Preises von einem unserer Experten. Sollten Sie damit zufrieden sein, kaufen wir Ihren Wagen zurück."
+        },
+        {
+          "text": "Was passiert bei einem Termin im Autohaus?"
+        },
+        {
+          "text": "Der Termin im Autohaus verläuft unkompliziert. Wenn Sie eine Schätzung online erhalten haben, können Sie mithilfe einer Postadresse eine DS-Verkaufsstelle auswählen, bei der Sie Ihr Auto verkaufen können. In den folgenden 24 Stunden wird sich dann ein Mitarbeiter bei Ihnen melden, um sich auf einen Termin zu einigen. Es ist auch möglich sich selbst zu melden, in dem sie während des Anrufs Ihre Kontaktdetails teilen."
+        },
+        {
+          "text": "Wie Sie bezahlt werden:"
+        },
+        {
+          "text": "Der Verkauf durch DS verläuft sicher und schnell. Wir übernehmen selbst den Verkauf ihres Fahrzeuges und lassen Ihnen Ihr Geld entweder als Check oder per Banküberweisung zukommen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "gebrauchtwagen-ds-automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "footer": {
+    "tagline": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Verkaufen Sie Ihr Auto einfach mit DS Automobiles ✓​",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.dsautomobiles.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "howto_name": "Verkaufen Sie Ihr Auto in wenigen Schritten!",
+    "howto_description": "Besten verkaufspreis Online erhalten → Termin bei einem DS Automobiles-Händler → Verkaufen Sie Ihr Auto zum besten Preis",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.dsautomobiles.de/lp/auto-verkaufen",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

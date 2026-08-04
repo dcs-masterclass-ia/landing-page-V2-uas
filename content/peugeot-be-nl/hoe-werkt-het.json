@@ -1,0 +1,230 @@
+{
+  "page_key": "peugeot-be-nl__hoe-werkt-het",
+  "brand": "peugeot",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.peugeot.be",
+  "slug": "/hoe-werkt-het",
+  "source_v1": "https://overname.peugeot.be/hoe-werkt-het",
+  "meta": {
+    "title": "Hoe werkt het ? | Peugeot Overname",
+    "description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
+    "site_name": "Peugeot BE",
+    "author": "Peugeot BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "HOE WERKT HET ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.peugeot.be/"
+    },
+    {
+      "label": "Hoe werkt het?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "HOE WERKT HET ?",
+    "lead": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "Sereniteit",
+      "anchor": "#sereniteit"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "HOE WERKT HET ?"
+        },
+        {
+          "text": "Peugeot Overname is een onlinedienst waarmee je gratis een overnamewaarde voor je wagen kan berekenen."
+        },
+        {
+          "text": "1 - Vul de informatie van de wagen in die je wilt laten overnemen. 2 - Verkrijg de overnamewaarde voor je wagen. 3 – Het verkooppunt van je keuze neemt contact met je op om een afspraak te maken. 4 - Een Peugeot-expert onderzoekt in je aanwezigheid de staat van je wagen. 5 - Na jouw akkoord doen wij het nodige om de wagen over te nemen. 6 - Betaling is onmiddellijk, gegarandeerd en veilig."
+        },
+        {
+          "text": "Ontvang een overnameschatting in 6 stappen:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.peugeot.be/build/img/peugeot/article-car.jpg",
+      "image_alt": ".",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "sereniteit",
+      "h2": "Sereniteit",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Een overnameaanbod in enkele minuten",
+        "Geen engagement voor jou",
+        "Minder administratieve formaliteiten"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Kies je verkooppunt",
+        "Een vlotte en snelle overname in Brussel"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Een betrouwbare professional in Brussel",
+        "Een veilige en snelle transactie",
+        "Een aangepast overnameaanbod"
+      ],
+      "image": "https://overname.peugeot.be/build/img/peugeot/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.peugeot.be/"
+  },
+  "footer": {
+    "tagline": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotBelux/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotBelux"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/automobiles-peugeot/"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-6-30 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Hoe werkt het ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.peugeot.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een medewerker van het netwerk. Profiteer van de expertise van Peugeot voor het de overname van je wagen.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.peugeot.be/hoe-werkt-het",
+    "medias_trouves": 7,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-serenity.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-fast.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/content-safe.jpg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://overname.peugeot.be/build/img/peugeot/chevron-up.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

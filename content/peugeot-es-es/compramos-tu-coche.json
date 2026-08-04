@@ -1,0 +1,418 @@
+{
+  "page_key": "peugeot-es-es__lp-compramos-tu-coche",
+  "brand": "peugeot",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.peugeot.es",
+  "slug": "/lp/compramos-tu-coche",
+  "source_v1": "https://tasacion.peugeot.es/lp/compramos-tu-coche",
+  "meta": {
+    "title": "Compramos tu coche con pago seguro | PEUGEOT",
+    "description": "Compramos tu coche de la forma más rápida y sencilla posible ✓ obtiene el mejor precio ✓ sin papeleo ➝ ¡Más información aquí con la Red Peugeot!",
+    "site_name": "Peugeot ES",
+    "author": "Peugeot ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche al precio justo"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.peugeot.es/"
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche al precio justo",
+    "lead": "Compramos tu coche de la forma más rápida y sencilla posible ✓ obtiene el mejor precio ✓ sin papeleo ➝ ¡Más información aquí con la Red Peugeot!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "subnav": [
+    {
+      "label": "Compramos tu coche sin c",
+      "anchor": "#compramos-tu-coche-sin-complicaciones"
+    },
+    {
+      "label": "menos de 5 mn",
+      "anchor": "#menos-de-5-mn"
+    },
+    {
+      "label": "sin compromiso",
+      "anchor": "#sin-compromiso"
+    },
+    {
+      "label": "rápido a rellenar",
+      "anchor": "#rapido-a-rellenar"
+    },
+    {
+      "label": "1. es más sencillo: tu m",
+      "anchor": "#1-es-mas-sencillo-tu-modelo-esta-identif"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-complicaciones",
+      "h2": "Compramos tu coche sin complicaciones",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Para poder tasar tu coche con la mejor precisión posible, necesitamos datos esenciales de tu coche. Para eso, tendrás un cuestionario fácil y rápido a rellenar en ."
+        },
+        {
+          "text": "Etapa 1:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "menos-de-5-mn",
+      "h2": "menos de 5 mn",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Una vez esos datos rellenados, analizaremos el mercado para darte el precio justo que te esta presentado al final del cuestionario. Esta tasación te esta mandada también directamente por correo electrónico. Esta tasación está , ¡tienes la elección de seguir o no con el proceso!"
+        },
+        {
+          "text": "Etapa 2:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sin-compromiso",
+      "h2": "sin compromiso",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Para eso, tendrás un cuestionario y con:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapido-a-rellenar",
+      "h2": "rápido a rellenar",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pasando por el registro, identificaremos el coche que deseas tasar. Rellenando tu registro"
+        },
+        {
+          "text": "Identificación de tu coche:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "1-es-mas-sencillo-tu-modelo-esta-identif",
+      "h2": "1. es más sencillo: tu modelo está identificado gracias a tu registro,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "2. es más rápido, la identificación de tu coche te hace saltar varias etapas del cuestionario y entonces te hace ganar tiempo"
+        },
+        {
+          "text": "Si no tienes tu registro en memoria, ¡no pasa nada! Puedes contestar unas preguntas para permitirnos identificar tu coche:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "version-ano-de-matriculacion-combustible",
+      "h2": "versión, año de matriculación, combustible, potencia",
+      "niveau_v1": "em",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "color, equipamiento, kilometraje, versión, etc."
+        },
+        {
+          "text": "Datos generales:"
+        },
+        {
+          "text": "El concesionario Peugeot de tu elección te contacta para concertar una cita en concesión. En el sitio, llevará a cabo una inspección de tu coche y te propondrá un precio final de tu coche. Si este precio te satisface, , sin ningún proceso administrativo. ¡Nos encargamos de todo!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-con-profesionalidad",
+      "h2": "Compramos tu coche con profesionalidad",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es sencillo!"
+        },
+        {
+          "text": "¡Obtienes una evaluación de tu coche en unos clics!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "no-mas-malas-sorpresas-ni-tramites-admin",
+      "h2": "No más malas sorpresas ni trámites administrativo con la Red Peugeot,",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡nos encargamos de todo!"
+        },
+        {
+          "text": "Un experto Peugeot examina, en tu presencia el estado de tu coche."
+        },
+        {
+          "text": "Después de tu acuerdo, nos comprometemos a una recuperación inmediata."
+        },
+        {
+          "text": "El pago es ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "apoyo-a-los-procesos-administrativos",
+      "h2": "Apoyo a los procesos administrativos",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡Descubre cuánto vale tu coche en menos de 5min!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-preguntas-frecuentes",
+      "h2": "Compramos tu coche: Preguntas frecuentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. ¿Como vender mi coche?"
+        },
+        {
+          "text": "Tasación Peugeot es un servicio online que te permite obtener una tasación gratuita para tu coche. Para obtener tu tasación, rellene el perfil de tu coche en nuestro cuestionario. Indicar, por ejemplo, su marca, modelo, motor, versión, kilometraje, etc. A continuación, recibirás una tasación de tu coche al final del cuestionario. En , obtienes una tasación para tu vehículo, que también se te estará mandada por correo electrónico. El concesionario Peugeot de tu elección te devolverá la llamada para concertar una cita y recuperar tu coche. Siempre puedes elegir: si la oferta final no te satisface, ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "no-tienes-ninguna-obligacion-de-vender-t",
+      "h2": "no tienes ninguna obligación de vender tu coche",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "2. ¿Como está calculado el valor de adquisición de mi coche?"
+        },
+        {
+          "text": "La tasación está establecida con: : marca, modelo, motor, versión, kilometraje, fecha de matriculación. : transacciones recientes realizadas por profesionales sobre modelos equivalentes. . Estas tarifas son ajustables dependiendo de la condición real del coche."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "una-deduccion-por-costos-estandar-de-rec",
+      "h2": "Una deducción por costos estándar de recuperación",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "3. ¿Como funciona la tasación por peugeot?"
+        },
+        {
+          "text": "obtén una tasación gratuita online rellenando nuestro cuestionario online con los datos de tu coche. En menos de 5min, obtén una tasación para tu coche, que también recibirás por correo electrónico. Una vez completado el formulario, el distribuidor de tu elección se pondrá en contacto contigo en un plazo de 24 horas. ¿Estás satisfecho con la tasación? Concierta una cita en el concesionario para la recuperación de tu coche. durante la cita, uno de nuestros expertos examina el estado del coche en tu presencia y te ofrece un precio fijo de recuperación. Una vez que se confirme tu acuerdo, compramos tu coche."
+        },
+        {
+          "text": "Tasación online gratuita:"
+        },
+        {
+          "text": "Obtén una cita:"
+        },
+        {
+          "text": "Disfruta de la experiencia de Peugeot:"
+        },
+        {
+          "text": "4. ¿Como concertar una cita?"
+        },
+        {
+          "text": "Nada es más fácil. Cuando solicita una tasación online, elige tu punto de venta Peugeot ingresando la dirección postal de tu elección. Tu concesionario Peugeot se pondrá en contacto contigo en un plazo de 24 horas para concertar una cita. También puedes llamarlo tú mismo utilizando los datos de contacto proporcionados en su tasación. De este modo, obtendrá una oferta rápida y siempre basada en la valoración de su coche y el precio de mercado."
+        },
+        {
+          "text": "5. ¿Como me pagaran?"
+        },
+        {
+          "text": "Con la red Peugeot, tienes garantizado , no más sorpresas desagradables. Durante la transacción, el pago del coche lo realiza un concesionario Peugeot. Dependiendo del concesionario elegido, el pago del coche se realiza mediante cheque o transferencia bancaria."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.peugeot.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche de la forma más rápida y sencilla posible ✓ obtiene el mejor precio ✓ sin papeleo ➝ ¡Más información aquí con la Red Peugeot!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotEspana"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/PeugeotEs"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeotes/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotES"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos tu coche con pago seguro",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche de la forma más rápida y sencilla posible ✓ obtiene el mejor precio ✓ sin papeleo ➝ ¡Más información aquí con la Red Peugeot!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.peugeot.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche de la forma más rápida y sencilla posible ✓ obtiene el mejor precio ✓ sin papeleo ➝ ¡Más información aquí con la Red Peugeot!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.peugeot.es/lp/compramos-tu-coche",
+    "medias_trouves": 8,
+    "blocs_detectes": 12,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://tasacion.peugeot.es/build/img/peugeot/chevron-up.svg",
+      "9 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

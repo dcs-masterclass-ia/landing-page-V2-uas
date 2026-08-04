@@ -1,0 +1,255 @@
+{
+  "page_key": "peugeot-fr-fr__lp-peugeot-offre",
+  "brand": "peugeot",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.peugeot.fr",
+  "slug": "/lp/peugeot-offre",
+  "source_v1": "https://www.reprise.peugeot.fr/lp/peugeot-offre",
+  "meta": {
+    "title": "Offre de reprise pour voiture d'occasion",
+    "description": "Reprise Peugeot vous propose une offre de reprise en quelques minutes, peu importe la marque de votre voiture d'occasion !",
+    "site_name": "Peugeot FR",
+    "author": "Peugeot FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Offre de reprise pour votre voiture d'occasion"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Offre de reprise pour votre voiture d'occasion",
+    "lead": "Reprise Peugeot vous propose une offre de reprise en quelques minutes, peu importe la marque de votre voiture d'occasion !",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "Pourquoi choisir l'offre",
+      "anchor": "#pourquoi-choisir-l-offre-de-reprise-peug"
+    },
+    {
+      "label": "> La Marque Peugeot",
+      "anchor": "#la-marque-peugeot"
+    },
+    {
+      "label": "SÉRÉNITÉ",
+      "anchor": "#serenite"
+    },
+    {
+      "label": "RAPIDITÉ",
+      "anchor": "#rapidite"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Le service d'offre de reprise de voitures du réseau Peugeot vous propose de nombreux avantages dont le premier, et non des moindres, est la maîtrise des informations et de vos décisions à tous les niveaux du processus. Les dispositifs d'offre de reprise de voitures d'occasion ne manquent pas sur le marché de l'automobile, que ce soit par une offre Internet, ou via les circuits traditionnels de revendeurs de voiture d'occasions. Il n'est pas facile de s'y retrouver pour être sûr de réaliser Avec l'offre Peugeot, vous n'êtes pas démarché par un appel indésirable : c'est vous qui prenez l'initiative de vendre votre voiture en vous connectant sur notre site et en remplissant le questionnaire. Après avoir rempli toutes les informations liées à votre automobile d'occasion, une première offre de reprise pour votre automobile d'occasion vous sera donnée. Cette offre de reprise est en parfaite adéquation avec le marché actuel de l'automobile d'occasion. Le montant de cette offre de reprise vous parviendra instantanément. C'est gratuit, et vous ne prenez à ce stade aucun engagement pour aucune offre ! Si la première offre de reprise pour votre voiture vous convient, il ne vous reste qu'à honorer la proposition de rendez-vous que vous fera un responsable Peugeot proche de chez vous, pour un bilan en atelier dont les conclusions confirmeront le montant de l'offre de reprise ou le préciseront en fonction de l'état réel de votre auto. Toujours gracieusement et sans aucune obligation de votre part."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "pourquoi-choisir-l-offre-de-reprise-peug",
+      "h2": "Pourquoi choisir l'offre de reprise Peugeot ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "la vente de votre voiture à la meilleure offre de reprise."
+        },
+        {
+          "text": "Rien de plus simple avec les offres Peugeot !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "la-marque-peugeot",
+      "h2": "> La Marque Peugeot",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Avec les offres de reprise Peugeot, votre voiture d'occasion bénéficie de cette double estimation en deux étapes pour la plus grande transparence d'estimation finale - si vous acceptez notre offre de reprise bien sûr. En effet, il n'est jamais simple pour un particulier de savoir à quoi correspondent exactement les offres de reprise qui peuvent être formulées ici ou là, et notamment quels sont les critères sur lesquels elles ont été établies. L'offre initiale que nous vous proposons pour votre voiture - celle qui découle des informations du questionnaire en ligne que vous aurez renseigné - se base sur des données concrètes en totale adéquation avec les conditions du marché automobile pour le modèle de voiture d'occasion que vous souhaitez revendre, à kilométrage et âge équivalents, et en fonction de ses équipements et de l'état du véhicule tels que vous les avez détaillés. conforme à la valeur du marché de l'automobile d'occasion. Quant à l'offre de reprise Peugeot, qu'elle soit confirmée ou qu'elle soit impactée par l'examen physique de la voiture, elle se fonde sur des éléments incontestables, mis en évidence en votre présence par un technicien expérimenté, par ailleurs membre d'un réseau Peugeot dont la notoriété et la réputation de sérieux ne sont plus à démontrer. Vous avez alors , la décision vous appartient."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "serenite",
+      "h2": "SÉRÉNITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Rendez-vous avec un point de vente Peugeot",
+        "Aucun engagement de votre part",
+        "Des formalités administratives réduites"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidite",
+      "h2": "RAPIDITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Une offre de reprise en quelques minutes",
+        "Choisissez votre point de vente",
+        "Un ajustement précis de votre offre de reprise"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "securite",
+      "h2": "SÉCURITÉ",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Un professionnel de confiance",
+        "Une transaction sécurisée et rapide",
+        "Une offre Peugeot ajustée en concession"
+      ],
+      "image": "https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.peugeot.fr/"
+  },
+  "footer": {
+    "tagline": "Reprise Peugeot vous propose une offre de reprise en quelques minutes, peu importe la marque de votre voiture d'occasion !",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotFrance"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/Peugeotfr"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/PeugeotFrance"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Peugeot neuf, pour toute commande passée avant le 31 août 2026 dans le réseau Peugeot participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Offre de reprise pour voiture d'occasion",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Reprise Peugeot vous propose une offre de reprise en quelques minutes, peu importe la marque de votre voiture d'occasion !",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.peugeot.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Reprise Peugeot vous propose une offre de reprise en quelques minutes, peu importe la marque de votre voiture d'occasion !",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.peugeot.fr/lp/peugeot-offre",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/4/50422fdc-6a38-45a5-b590-5d6061def908",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.reprise.peugeot.fr/build/img/peugeot/chevron-up.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

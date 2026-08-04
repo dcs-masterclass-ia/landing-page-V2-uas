@@ -1,0 +1,259 @@
+{
+  "page_key": "jeep-pl-pl__lp-Wycena-pojazdu",
+  "brand": "jeep",
+  "market": "PL",
+  "lang": "pl",
+  "locale": "pl_PL",
+  "template": "shared",
+  "domain": "https://odkup.jeep.pl",
+  "slug": "/lp/Wycena-pojazdu",
+  "source_v1": "https://odkup.jeep.pl/lp/Wycena-pojazdu",
+  "meta": {
+    "title": "Bezpłatna wycena pojazdu | Ile wart jest Twój samochód? ✔",
+    "description": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
+    "site_name": "Jeep PL",
+    "author": "Jeep PL",
+    "geo_region": "PL",
+    "geo_country": "Pologne",
+    "og_image_alt": "ILE JEST WART MÓJ SAMOCHÓD? W JEEP MAMY DLA CIEBIE ODPOWIEDŹ."
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://odkup.jeep.pl/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Strona główna",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Bezplatna wycena online",
+    "h1": "ILE JEST WART MÓJ SAMOCHÓD? W JEEP MAMY DLA CIEBIE ODPOWIEDŹ.",
+    "lead": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://odkup.jeep.pl/"
+  },
+  "subnav": [
+    {
+      "label": "DLACZEGO WARTO WYCENIĆ S",
+      "anchor": "#dlaczego-warto-wycenic-swoj-samochod-na-"
+    },
+    {
+      "label": "JAK DZIAŁA WYCENA SAMOCH",
+      "anchor": "#jak-dziaa-wycena-samochodu"
+    },
+    {
+      "label": "WYCENA POJAZDU: JAK TO D",
+      "anchor": "#wycena-pojazdu-jak-to-dziaa"
+    },
+    {
+      "label": "ZALETY WYCENY SAMOCHODU ",
+      "anchor": "#zalety-wyceny-samochodu-online"
+    },
+    {
+      "label": "Często zadawane pytania",
+      "anchor": "#czesto-zadawane-pytania"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% bezplatnie",
+      "sub": "Bez zobowiazan"
+    },
+    {
+      "icon": "mail",
+      "label": "Wycena online",
+      "sub": "I mailem"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin dogodny dla Ciebie",
+      "sub": "U dealera"
+    },
+    {
+      "icon": "lock",
+      "label": "Bezpieczna platnosc",
+      "sub": "Szybka transakcja"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "dlaczego-warto-wycenic-swoj-samochod-na-",
+      "h2": "DLACZEGO WARTO WYCENIĆ SWÓJ SAMOCHÓD NA NASZEJ STRONIE?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Decydując się na wymianę samochodu i jego wycenę przez Jeep, masz gwarancję, że :- Bezpłatna wycena za pośrednictwem kursu online: poznaj wartość swojego samochodu z łatwością z dowolnego miejsca i bez żadnych kosztów.- Wiarygodną wycenę opartą na analizach rynku i ostatnich transakcjach.- Skorzystanie z sieci ekspertów Jeep, którzy są do Twojej dyspozycji podczas wymiany samochodu. Wszystko po to, aby pomóc w odsprzedaży samochodu, gwarantując niezobowiązujący proces."
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "jak-dziaa-wycena-samochodu",
+      "h2": "JAK DZIAŁA WYCENA SAMOCHODU?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Udostępniamy Ci narzędzie, którego możesz użyć do wyceny swojego pojazdu. Opiera się ono na analizie rynku i ostatnich transakcji, a także na wiedzy naszych specjalistów.Aby dokładnie określić wartość samochodu, potrzebujemy szeregu informacji. Możesz je szybko i łatwo wypełnić w następujący sposób:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wycena-pojazdu-jak-to-dziaa",
+      "h2": "WYCENA POJAZDU: JAK TO DZIAŁA?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Lista wymaganych elementów :- Marka samochodu- Model samochodu- Rok pierwszej rejestracji- Przebieg samochodu...Uzyskaj wycenę swojego samochodu w zaledwie trzech krokach:Krok 1: Wypełnij wszystkie informacje potrzebne do wyceny samochodu.Aby wycenić samochód, prosimy o udzielenie jak najbardziej zgodnych z prawdą odpowiedzi na pytania zawarte w kwestionariuszu. Uzyskaj wartość wymiany za pomocą kilku kliknięć i w mniej niż 5 minut.Krok 2: Otrzymaj wycenę swojego samochodu online i e-mailem.Krok 3: Umów się na spotkanie z ekspertem z sieci Jeep."
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "zalety-wyceny-samochodu-online",
+      "h2": "ZALETY WYCENY SAMOCHODU ONLINE",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "W 100% darmowa wycena samochodu online:Możesz szybko i bezpłatnie poznać wartość wymiany swojego pojazdu.Dzięki doświadczeniu sieci Opel możesz być pewien profesjonalnej i rzetelnej wyceny.- Oferta ważna przez 10 dni: chcesz się zastanowić? Możesz być spokojny! Twoja wycena pozostaje ważna przez 10 dni.- Duża sieć umożliwiająca wymianę samochodu w dowolnym miejscu we Francji: Dzięki xxx punktom sprzedaży sieć Opel to najlepszy sposób na łatwą wymianę samochodu.- Szybka wycena samochodu - natychmiastowa wartość wymiany! Po wypełnieniu kwestionariusza dotyczącego pojazdu dowiesz się, ile wart jest Twój samochód."
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "czesto-zadawane-pytania",
+      "h2": "Często zadawane pytania",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "JAK OBLICZANA JEST SZACUNKOWA WARTOŚĆ PRZEJĘCIA MOJEGO SAMOCHODU?"
+        },
+        {
+          "text": "Wycena opiera się na :- Atrybuty pojazdu: marka, model, silnik, wyposażenie, przebieg, data rejestracji. - Analiza rynku samochodowego: ostatnie transakcje przeprowadzone przez profesjonalistów z podobnymi pojazdami. - Obliczenie kosztów naprawy samochodu. Koszty te różnią się w zależności od faktycznego stanu pojazdu."
+        },
+        {
+          "text": "JAK DZIAŁA PRZYJĘCIE PRZEZ JEEP?"
+        },
+        {
+          "text": "Bezpłatna wycena online:Uzyskaj bezpłatną wycenę online, wypełniając nasz kwestionariusz z danymi pojazdu. Natychmiast otrzymasz wycenę swojego samochodu, która zostanie wysłana do Ciebie e-mailem. Umów się na spotkanie: Po dokonaniu wyceny wybrany dealer Jeep skontaktuje się z Tobą w ciągu 48 godzin w celu umówienia spotkania. Następnie dokona on ostatecznej oceny pojazdu. Jeśli jesteś zadowolony z tej wyceny, Twój dealer Jeep zajmie się wymianą Twojego pojazdu i związanymi z tym czynnościami administracyjnymi! Skorzystaj z wiedzy Jeep: podczas spotkania ekspert sprawdzi stan pojazdu i zaproponuje wiążącą cenę wymiany. Jeśli dojdziemy do porozumienia, odkupimy Twój samochód.JAKIE DOKUMENTY I INFORMACJE SĄ WYMAGANE DO WYCENY MOJEGO SAMOCHODU PRZEZ JEEP?Do oszacowania wartości samochodu potrzebne będą następujące dokumenty:- Dowód rejestracyjny samochodu, aby zadeklarować rejestrację samochodu- Przebieg samochodu Należy również podać informacje na temat ogólnego stanu samochodu: Kolor, karoseria, wyposażenie itp."
+        },
+        {
+          "text": "JAKIE SĄ ZALETY KORZYSTANIA Z USŁUGI JEEP TAKE-BACK?"
+        },
+        {
+          "text": "Szybkość. Wystarczy kilka kliknięć, aby otrzymać wycenę wartości pojazdu pocztą elektroniczną. Ta wycena nie jest wiążąca. Spokój - bez przykrych niespodzianek. Korzystając z usługi wymiany Jeep, otrzymasz wycenę wartości swojego pojazdu od profesjonalnego dealera samochodowego. Każdy pojazd jest wyceniany na podstawie obserwacji rynku i ostatnich transakcji.- Bezpieczeństwo. Płatność za pojazd jest gwarantowana i bezpieczna. Podczas transakcji płatność za pojazd jest gwarantowana przez dealera Jeep."
+        },
+        {
+          "text": "JAKI JEST OBOWIĄZEK WYCENY WYMIANY?"
+        },
+        {
+          "text": "Wycena samochodu Jeep jest niezobowiązująca. Naszą propozycję otrzymasz bezpłatnie w ciągu 24 godzin w dni robocze. To do niczego nie zobowiązuje. Możesz umówić się na spotkanie z naszymi ekspertami Jeep."
+        }
+      ],
+      "bullets": [],
+      "image": "https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Gotowy do sprzedazy?",
+    "h2": "Wycen swoj samochod juz teraz.",
+    "lead": "Podaj numer rejestracyjny lub marke swojego pojazdu.",
+    "cta_label": "Bezplatna wycena",
+    "cta_href": "https://odkup.jeep.pl/"
+  },
+  "footer": {
+    "tagline": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/JeepPL/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/JeepPolska"
+      },
+      {
+        "network": "instagram",
+        "href": "http://instagram.com/jeeppolska"
+      },
+      {
+        "network": "youtube",
+        "href": "http://www.youtube.com/jeeppolska"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/fca-fleet-&-business/"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Bezpłatna wycena pojazdu",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://odkup.jeep.pl",
+    "area_served": "Pologne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q36",
+    "offer_description": "Określ wartość swojego samochodu za pomocą narzędzia online Jeep → w 100% bezpiecznie, szybko i bezpłatnie",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.odkup.jeep.pl/lp/wycena-pojazdu",
+    "medias_trouves": 6,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://odkup.jeep.pl/build/img/jeep/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

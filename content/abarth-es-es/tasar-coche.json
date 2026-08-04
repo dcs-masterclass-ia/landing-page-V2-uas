@@ -1,0 +1,313 @@
+{
+  "page_key": "abarth-es-es__lp-tasar-coche",
+  "brand": "abarth",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.abarth.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://tasacion.abarth.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche Gratis, en línea y sin compromiso | Abarth",
+    "description": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
+    "site_name": "Abarth ES",
+    "author": "Abarth ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche Todo el linea"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.abarth.es/ "
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche Todo el linea",
+    "lead": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "subnav": [
+    {
+      "label": "Calcular mi tasación",
+      "anchor": "#calcular-mi-tasacion"
+    },
+    {
+      "label": "Tasación de coche es gra",
+      "anchor": "#tasacion-de-coche-es-gratis-y-sin-ningun"
+    },
+    {
+      "label": "¿Cómo se hace el proceso",
+      "anchor": "#como-se-hace-el-proceso-de-tasar-tu-coch"
+    },
+    {
+      "label": "Ventajas de tener la tas",
+      "anchor": "#ventajas-de-tener-la-tasacion-de-su-coch"
+    },
+    {
+      "label": "Tasar coche: Preguntas m",
+      "anchor": "#tasar-coche-preguntas-mas-frecuentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calcular-mi-tasacion",
+      "h2": "Calcular mi tasación",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Ventajas de tasar tu coche en el sitio? Hoy en día que hay tantos sitios web de tasación online, elegir Abarth para tasación es la garantía de:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/9a0f4ed6-c721-42d4-9c7d-a233511f9162",
+      "image_alt": "tasacion coche",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tasacion-de-coche-es-gratis-y-sin-ningun",
+      "h2": "Tasación de coche es gratis y sin ningún tipo de compromiso",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si quieres tasar el coche, ¡nada es más fácil que esto! Vas a necesitar: Adicionas todos los datos que necesite a la tasación de tu vehículo Si andas buscando tasar tu coche con la mejor precisión, tienes que responder algunas preguntas que se incluyen en nuestro cuestionario. ¡Es muy rápido y bastante sencillo, Te tomará 5 minutos rellenarlo! Proporcionar los siguientes datos: - Datos necesarios para la identificación del modelo del coche: Al incluir el registro del vehículo, se puede determinar cuál es el auto que deseas evaluar. Así se conoce el modelo y será identificado por medio del registro, lo que te permite que saltes varias etapas del cuestionario, lo cual te ahorrará mucho tiempo. Si no puedes recordar el registro,¡No hay ningún problema! Tendrás que responder algunas preguntas que nos permitan identificar el coche: Por ejemplo, el año de matriculación, combustible, etc. Para identificar tu coche con precisión, necesitaremos la mayor cantidad de datos posibles. - Datos del coche: Entre ellos el color, equipamiento."
+        }
+      ],
+      "bullets": [
+        "Tasación online y gratuita: La tasación del coche se hará solo con unos clics sin más gastos.",
+        "La tasación es segura y se da gracias a la gran experiencia que posee Abarth.",
+        "La mayor experiencia de la red Abarth que siempre está a tu servicio para la recuperación de tu vehículo, se hará así: Nada de compromisos, pero siempre toda nuestra red va a estar a tu servicio si quieres vender."
+      ],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "como-se-hace-el-proceso-de-tasar-tu-coch",
+      "h2": "¿Cómo se hace el proceso de tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vas a tener tu tasación gratuita con solo estos 3 pasos:"
+        },
+        {
+          "text": "Etapa 1."
+        },
+        {
+          "text": "Recibirás la tasación de tu coche en línea pero además por medio de correo electrónico. Al meter estos datos, se hace un análisis del mercado para darte un precio justo que se otorga al final del cuestionario. Esta tasación es enviada a tu correo electrónico, de igual manera. Concerta cita con un profesional de Abarth Luego de la tasación, un concesionario Abarth que fue de tu elección, se va a poner en contacto para darte una cita y además, lograr una última tasación para el vehículo. Si te parece bien esta tasación, el concesionario empieza el proceso de recuperación del coche, lo que es mejor, sin cargas administrativas para ti."
+        },
+        {
+          "text": "Etapa 2:"
+        },
+        {
+          "text": "¡Esta tasación la tendrás sin compromiso, ¡Si lo deseas, sigues con el proceso, o no continuas!"
+        },
+        {
+          "text": "Etapa 3:"
+        },
+        {
+          "text": "¿Por qué es mejor que la red Abarth recoja tu vehículo?"
+        }
+      ],
+      "bullets": [
+        "Registro (documento de compra) de tu carro",
+        "Kilometraje exacto del carro",
+        "Todos los daños del coche en una lista"
+      ],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "ventajas-de-tener-la-tasacion-de-su-coch",
+      "h2": "Ventajas de tener la tasación de su coche online",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿No conoces el valor de tu carro pero lo quieres? ¡No dudes! Conocerás el valor de tu coche en el mercado ahorita y lo podrás revender rápido."
+        }
+      ],
+      "bullets": [
+        "Tasación del coche 100% en línea y gratis: ¡No tienes de qué preocuparte! ¡Tasamos tu coche en nuestra página web de forma directa y lo que es mejor gratuitamente!",
+        "Tasación fiable y muy profesional: Cuando se tiene la experiencia de la red Abarth, es seguro obtener una tasación muy profesional y confiable.",
+        "Tasación será válida por 10 días: ¿Te está costando decidir? ¡No hay ningún problema! La tasación es válida para ti por 10 días. Tienes una red amplia que podrá vender tu coche en toda España: Con un poco más de 100 puntos de ventas de la red Abarth, tu coche se venderá fácil con nosotros.",
+        "Tasación con rapidez - Vas a obtener el precio de inmediato: ¡No necesitas esperar! Al final de que terminas de completar el formulario, la tasación será entregada de inmediato."
+      ],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-preguntas-mas-frecuentes",
+      "h2": "Tasar coche: Preguntas más frecuentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿CÓMO CALCULAN LA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación está siempre basada en: • Las características más relevantes del vehículo: Kilometraje, modelo, marca, fecha de entrada en servicio. • Reconocimiento del mercado: Se ven las transacciones realizadas por profesionales sobre modelos parecidos al tuyo. Una deducción del costo de rehabilitación al estado estándar. Los costos se ajustan dependiendo de cómo está el vehículo (condición)."
+        },
+        {
+          "text": "¿CÓMO SE REALIZA LA TASACIÓN DE ABARTH?"
+        },
+        {
+          "text": "Recibirás una tasación gratis luego de rellenar online el formulario con datos generales del vehículo. En 5 minutos, recibirás la tasación para el vehículo, que es enviada de igual forma, por correo electrónico. Concertar cita: Al completar el formulario,el distribuidor que escogiste, se pondrá en contacto contigo en un máximo de 24 horas. ¿de acuerdo con la tasación? Procede a realizar una cita en el concesionario para lograr recuperar tu coche. Disfruta y aprovecha la experiencia de Abarth: Ya con la cita, uno de nuestros expertos verifica el estado del coche al frente tuyo y luego te dará el precio fijo de la recuperación. Una vez que se confirme tu acuerdo, vamos a comprar tu coche."
+        },
+        {
+          "text": "Tasación gratis y online:"
+        },
+        {
+          "text": "¿DATOS IMPRESCINDIBLES PARA TASAR MI COCHE POR ABARTH?"
+        },
+        {
+          "text": "Cuando se va a tasar tu coche, debes de tener: - La matriculación del coche para rellenar el registro (certificado). - El kilometraje en ese momento Por otro lado, debes de ingresar datos del estado que tiene el coche: equipamientos, carrocería, etc."
+        },
+        {
+          "text": "¿VENTAJAS AL USAR EL SERVICIO TASACIÓN ABARTH?"
+        },
+        {
+          "text": "Luego de dar unos clics, se te otorga una tasación del valor del vehículo por medio de tu correo electrónico. La tasación no tiene ataduras ni compromisos. La tranquilidad •. Al solicitar servicio de Tasación Abarth, te dan tasación del valor de tu vehículo y la misma es hecha por un profesional automotriz. Todos y cada uno de los vehículos se valoran de acuerdo con las observaciones que da el mercado y sus transacciones. . Ese pago de tu vehículo es seguro y garantizado. Con dicha transacción, el pago del vehículo se hace a través del concesionario Abarth."
+        },
+        {
+          "text": "• Es inmediato."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "mas-que-seguro",
+      "h2": "• Más que seguro",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿CON QUÉ ME COMPROMETE UNA TASACIÓN?"
+        },
+        {
+          "text": "La tasación es propuesta por la Tasación de Abarth no genera compromiso. La tendrás gratuitamente dentro de 24h (solo en días hábiles). Tasación que no representa compromiso. Debes hacer una cita con nuestros expertos de Abarth."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "footer": {
+    "tagline": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Spain"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarthspain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche Gratis, en línea y sin compromiso",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.abarth.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Precio de su coche? Infórmese aquí sobre nuestro excelente servicio de tasación de coche.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.abarth.es/lp/tasar-coche",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

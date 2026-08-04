@@ -1,0 +1,196 @@
+{
+  "page_key": "peugeot-at-de__was-ist-mein-auto-wert",
+  "brand": "peugeot",
+  "market": "AT",
+  "lang": "de",
+  "locale": "de_AT",
+  "template": "shared",
+  "domain": "https://www.wir-kaufen-ihr-auto.peugeot.at",
+  "slug": "/was-ist-mein-auto-wert",
+  "source_v1": "https://www.wir-kaufen-ihr-auto.peugeot.at/was-ist-mein-auto-wert",
+  "meta": {
+    "title": "Was ist mein Auto wert? - Professionelle Beratung | PEUGEOT",
+    "description": "Nutzen Sie den PEUGEOT Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "site_name": "Peugeot AT",
+    "author": "Peugeot AT",
+    "geo_region": "AT",
+    "geo_country": "Autriche",
+    "og_image_alt": "WAS IST MEIN AUTO WERT?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.wir-kaufen-ihr-auto.peugeot.at/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.wir-kaufen-ihr-auto.peugeot.at/"
+    },
+    {
+      "label": "WAS IST MEIN AUTO WERT?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "WAS IST MEIN AUTO WERT?",
+    "lead": "Nutzen Sie den PEUGEOT Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.wir-kaufen-ihr-auto.peugeot.at/"
+  },
+  "subnav": [
+    {
+      "label": "Terminvereinbarung",
+      "anchor": "#terminvereinbarung"
+    },
+    {
+      "label": "Profi Begutachtung",
+      "anchor": "#profi-begutachtung"
+    },
+    {
+      "label": "Zügige Abwicklung",
+      "anchor": "#zugige-abwicklung"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "terminvereinbarung",
+      "h2": "Terminvereinbarung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "„Was ist mein Auto wert?“ ist eine von vielen Fragen, die Sie beschäftigen? Wählen Sie im Online-Formular einfach Ihren bevorzugten Peugeot Partner aus. Nach einer ersten, unverbindlichen Online-Bewertung wird der Peugeot Partner Sie dann kontaktieren und mit Ihnen einen Termin zur Begutachtung Ihres Fahrzeugs vereinbaren. So erfahren Sie verbindlich, was Ihr Auto wert ist. Natürlich beraten Sie die geprüften Automobilverkäufer und -verkäuferinnen von Peugeot auch gerne bei allen anderen Fragen rund um Neu-, Vorführ- und Qualitäts-Gebrauchtwagen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "profi-begutachtung",
+      "h2": "Profi Begutachtung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ein Peugeot Partner Ihrer Wahl begutachtet in Ihrem Beisein Ihr Fahrzeug und beantwortet Ihnen verbindlich die Frage, was Ihr Auto wert ist. Bei beiderseitigem Interesse unterbreitet er Ihnen zudem ein konkretes Ankaufangebot. Wenn Sie sich einig werden, organisiert er die Fahrzeugübernahme und veranlasst natürlich auch die Zahlung des vereinbarten Ankaufspreises. So unkompliziert ist der Autoverkauf mit Peugeot!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "zugige-abwicklung",
+      "h2": "Zügige Abwicklung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wenn Sie den Verkauf mit Peugeot abgeschlossen haben, kümmert sich Ihr Peugeot Partner um alles Weitere. Er terminiert die Fahrzeugübergabe und stellt sicher, dass der Ankaufpreis an Sie überwiesen wird. So können Sie sicher sein, dass Sie schnell Ihr Geld bekommen. So komfortabel ist der Autoverkauf an Peugeot"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/chevron-up.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.wir-kaufen-ihr-auto.peugeot.at/"
+  },
+  "footer": {
+    "tagline": "Nutzen Sie den PEUGEOT Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/PeugeotAT/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/peugeot/?hl=en"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/PeugeotAustriaGmbH"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Was ist mein Auto wert? - Professionelle Beratung",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Nutzen Sie den PEUGEOT Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.wir-kaufen-ihr-auto.peugeot.at",
+    "area_served": "Autriche",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q40",
+    "offer_description": "Nutzen Sie den PEUGEOT Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.wir-kaufen-ihr-auto.peugeot.at/was-ist-mein-auto-wert",
+    "medias_trouves": 6,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-serenity.jp",
+      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-fast.jpg",
+      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/content-safe.jpg",
+      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/chevron-up.svg",
+      "image sans alt en V1 : https://www.wir-kaufen-ihr-auto.peugeot.at/build/img/peugeot/chevron-up.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

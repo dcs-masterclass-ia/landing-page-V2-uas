@@ -1,0 +1,299 @@
+{
+  "page_key": "citroen-es-es__lp-tasar-coche",
+  "brand": "citroen",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.citroen.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://www.tasacion.citroen.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche online sin costo extra | Citroën España",
+    "description": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "site_name": "Citroen ES",
+    "author": "Citroen ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche online sin costo extra - servicio sin obligaciones"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.citroen.es/"
+    },
+    {
+      "label": "Tasación coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche online sin costo extra - servicio sin obligaciones",
+    "lead": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasación de coche gratis",
+      "anchor": "#tasacion-de-coche-gratis-y-sin-obligacio"
+    },
+    {
+      "label": "¿Cómo puedes tasar tu co",
+      "anchor": "#como-puedes-tasar-tu-coche"
+    },
+    {
+      "label": "Cuales son las ventajas ",
+      "anchor": "#cuales-son-las-ventajas-de-la-tasacion-d"
+    },
+    {
+      "label": "Tasación de tu coche 100",
+      "anchor": "#tasacion-de-tu-coche-100-sin-costo-y-en-"
+    },
+    {
+      "label": "¡Date cuenta del valor d",
+      "anchor": "#date-cuenta-del-valor-de-tu-vehiculo-en-"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasacion-de-coche-gratis-y-sin-obligacio",
+      "h2": "Tasación de coche gratis y sin obligaciones",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Por qué deberías tasar tu carro en nuestro sitio web? Ahora, entre tantos sitios web de tasación, elegir la tasación de la marca Citroën es la mejor garantía de tener: Una tasación enteramente gratuita: tasa tu carro en pocos clics y sin costo. Una tasación apropiada que se obtiene con la experiencia de la marca Citroën. El conocimiento de la red Citroën a tu servicio para recuperar tu carro si tú lo deseas: no tienes obligación alguna, pero toda nuestra red estará a tu servicio si deseas hacer la venta."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/046aad16-55a2-4e5a-8a3e-26ba710b9729",
+      "image_alt": "tasacion coche no esperes mas",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "como-puedes-tasar-tu-coche",
+      "h2": "¿Cómo puedes tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Para la tasación de tu carro, te ayudamos a hacerlo fácil. Esto es lo que necesitarás: Rellena los datos que se requieren para la tasación de tu vehículo. Para llegar a tasar tu coche con los mejores resultados posibles, solo tendrás que responder a una pequeña cantidad de preguntas que están en el formulario. Solo debes de brindarnos lo siguiente: La información que nos permite identificar el modelo de tu carro. Una vez ingresado el registro de tu carro, identificaremos el que deseas llevar a evaluación. Tu modelo es identificado gracias al registro, y este saltara varias etapas del cuestionario para así ahorrar mucho tiempo. Si se te olvido tu registro, ¡no hay problema! Puedes responder una serie de preguntas para que identifiquemos tu carro: la versión, el año de matriculación, tipo de combustible, la potencia del motor, su color, etc. Todos estos son datos que nos permitirán identificar tu carro con precisión. Los datos básicos del vehículo: su color, su equipamiento..."
+        },
+        {
+          "text": "Recibe tu tasación sin costo en 3 simples pasos:"
+        },
+        {
+          "text": "Paso 1."
+        },
+        {
+          "text": "¡Es veloz y sencillo, y te tomará menos de 5 minutos finalizarlo!"
+        },
+        {
+          "text": "Recibir la tasación de tu coche por internet y por medio de correo electrónico. Ya cuando estén ingresados estos datos, analizaremos todo el mercado para darte un precio ideal que se presenta al final del cuestionario. La tasación también se enviará por medio de correo electrónico. ¡Recibir esta tasación es algo sin compromiso alguno, igual puedes elegir si seguir con el proceso o si no continuar! Una reunión con un representante de Citroën. Una vez que tengas la tasación, el concesionario Citroën de tu elección se contactara contigo para elegir una fecha para una cita y establecer una tasación definitiva para el coche. Si sientes que estás satisfecho con la tasación, tu concesionario estará encargado de la recuperación del coche sin costos administrativos para ti de ningún tipo."
+        },
+        {
+          "text": "Paso 2:"
+        },
+        {
+          "text": "Paso 3:"
+        }
+      ],
+      "bullets": [
+        "El documento con datos de registro de tu coche",
+        "El kilometraje actual de tu coche",
+        "Una lista de daños si los hay de tu coche"
+      ],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "cuales-son-las-ventajas-de-la-tasacion-d",
+      "h2": "Cuales son las ventajas de la tasación de su coche en la web",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Qué ventajas tiene que sea la red Citroën la que evalúe tu coche? ¡No hay porque preocuparse! ¡Puedes tasar tu coche desde nuestra página, y lo mejor es que puedes hacerlo completamente gratis!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tasacion-de-tu-coche-100-sin-costo-y-en-",
+      "h2": "Tasación de tu coche 100% sin costo y en internet",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Tasación profesional confiable: La gran experiencia de la red Citroen te permite la seguridad de una tasación realmente viable.",
+        "Tasación con validez de hasta 10 días: ¿No quieres decidir inmediatamente? ¡No te preocupes! Tienes 10 días para decidir. Puedes elegir en una gran red para vender tu vehículo en España: Existen más de 100 puntos de venta en toda la red de Citroën, y es por ello que vender tu vehículo nunca será tan fácil.",
+        "Tasación veloz – recibe el costo de inmediato: ¡No hay razón para esperar! Al terminar el formulario, tendrás tu tasación."
+      ],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "date-cuenta-del-valor-de-tu-vehiculo-en-",
+      "h2": "¡Date cuenta del valor de tu vehículo en 5 minutos!",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Deseas saber cuánto vale tu carro? ¡No esperes más! Ahora podrás saber el valor de mercado de tu vehículo para su venta."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "preguntas-comunes",
+      "h2": "Preguntas comunes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿COMO SE CALCULA LA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación está basada en: • Varios factores sobre tu coche: como la marca, el modelo, el motor, el kilometraje, la fecha de entrada, etc. • Se observa el mercado: nuestros expertos conocen como se maneja el mercado con modelos similares a los de tu vehículo. • Hay costos de reparación para el vehículo. Estos dependerán de la condición en la cual se encuentra el vehículo."
+        },
+        {
+          "text": "¿DE QUE MANERA FUNCIONA LA TASACIÓN POR CITROEN?"
+        },
+        {
+          "text": "Tasación gratuita online: Puedes obtener una tasación al completar nuestro formulario en línea usando la información de tu coche. Solo toma 5 minutos obtener la tasación y también se enviará a tu correo. Decide un día para una cita: 24 horas después de rellenar el formulario, se contactará un representante contigo. ¿Estas contento con el proceso de tasación? Concreta una cita con el concesionario de elección para la tasación oficial del vehículo. La experiencia Citroen es inigualable: nuestros expertos examinarán el vehículo y te brindarán una oferta basada en este análisis. Al confirmar un acuerdo, se hará la compra de tu vehículo."
+        },
+        {
+          "text": "¿QUÉ DOCUMENTOS NECESITO PARA TASAR MI COCHE CON CITROEN?"
+        },
+        {
+          "text": "Para tasar tu coche, se requiere lo necesario: - La matrícula del vehículo para rellenar todo lo que requiere el registro del mismo - El kilometraje actual que tiene tu coche. De igual forma, tendrás también que rellenar datos sobre cuál es el estado general del automóvil: su color, su carrocería, sus equipamientos, etc."
+        },
+        {
+          "text": "¿QUÉ VENTAJAS TIENE LA TASACIÓN CON CITROEN?"
+        },
+        {
+          "text": "• Muy veloz sin compromisos y con unos cuantos clics tendrás tu tasación en 5 minutos. • No hay sorpresas al utilizar el servicio de Citroen para tu tasación. Todos los vehículos son valorados en función de todo lo que sucede en el mercado y las tasaciones recientes en modelos similares. • Total seguridad. Tu pago estará garantizado una vez todo este proceso finalice y esto es algo que puedes tener seguridad de obtener al terminar el proceso de tasación."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "footer": {
+    "tagline": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/citroen.es"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenespana"
+      },
+      {
+        "network": "instagram",
+        "href": "https://instagram.com/citroenespana"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenEspana"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche online sin costo extra",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.citroen.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "howto_name": "Tasar coche online sin costo extra - servicio sin obligaciones",
+    "howto_description": "Le invitamos a informarse del servicio de tasación de coche. ¡Pruebe el mejor tasador!",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.citroen.es/lp/tasar-coche",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

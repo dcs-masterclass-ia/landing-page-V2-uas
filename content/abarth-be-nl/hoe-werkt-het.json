@@ -1,0 +1,263 @@
+{
+  "page_key": "abarth-be-nl__hoe-werkt-het",
+  "brand": "abarth",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.abarthbelgium.be",
+  "slug": "/hoe-werkt-het",
+  "source_v1": "https://overname.abarthbelgium.be/hoe-werkt-het",
+  "meta": {
+    "title": "Hoe werkt het ? | Overname Abarth BE",
+    "description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
+    "site_name": "Abarth BE",
+    "author": "Abarth BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "HOE WERKT HET ?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.abarthbelgium.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.abarthbelgium.be/"
+    },
+    {
+      "label": "Hoe werkt het?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "HOE WERKT HET ?",
+    "lead": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.abarthbelgium.be/"
+  },
+  "subnav": [
+    {
+      "label": "TODO_ARBITRAGE",
+      "anchor": "#todo-arbitrage"
+    },
+    {
+      "label": "Berekening van de overna",
+      "anchor": "#berekening-van-de-overnamewaarde"
+    },
+    {
+      "label": "Gemoedsrust",
+      "anchor": "#gemoedsrust"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "todo-arbitrage",
+      "h2": "TODO_ARBITRAGE",
+      "niveau_v1": "none",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "1. Vul de informatie van de wagen in die je wilt laten overnemen.2. Ontvang de overnamewaarde voor je wagen.3. De verkooppunten van je keuze neemt contact met je op om een afspraak te maken.4. Een Abarth-expert onderzoekt in je aanwezigheid de staat van je wagen.5. Na jouw akkoord doen wij het nodige om de wagen over te nemen.6. Betaling is onmiddellijk, gegarandeerd en veilig."
+        },
+        {
+          "text": "Bepaal de overnamewaarde in 6 stappen:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/136/7e81f90e-bb51-42ae-9f76-84c7ff6913f6",
+      "image_alt": "Een rode Abarth staat onder kleurrijke tunnelverlichting",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "berekening-van-de-overnamewaarde",
+      "h2": "Berekening van de overnamewaarde",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "De overnamewaarde wordt geschat in euro incl. btw, op basis van de marktprijs, recente transacties en informatie die je gaf over de staat en opties van je wagen. Met deze informatie kunnen we je een overnameaanbod doen (de geschatte waarde is louter indicatief). Vervolgens word je gecontacteerd door een Abarth-verkooppunten die ook een expertise van je wagen zal uitvoeren om het aanbod te finaliseren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/136/d1e11c65-ee3f-4c11-9a7f-c26ef4af9e5c",
+      "image_alt": "Dubbele uitlaatpijpen van een rode Abarth",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "gemoedsrust",
+      "h2": "Gemoedsrust",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een overnameaanbod in enkele minuten"
+        },
+        {
+          "text": "Geen engagement voor jou"
+        },
+        {
+          "text": "Minder administratieve formaliteiten"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.abarthbelgium.be/build/img/abarth/content-fast.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kies je dichtstbijzijnde verkooppunten"
+        },
+        {
+          "text": "Een vlotte en snelle overname"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.abarthbelgium.be/build/img/abarth/content-safe.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een betrouwbare professional"
+        },
+        {
+          "text": "Een veilige en snelle transactie"
+        },
+        {
+          "text": "Een aangepast overnameaanbod"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.abarthbelgium.be/"
+  },
+  "footer": {
+    "tagline": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.belgium/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarth_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/abarth/"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Hoe werkt het ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.abarthbelgium.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Ontvang een gratis schatting per e-mail. Maak een afspraak met een verkooppunten van ons netwerk. Geniet van de expertise van Abarth voor de overname van je wagen.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.abarthbelgium.be/hoe-werkt-het",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-serenity.png",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-fast.png",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/content-safe.png",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

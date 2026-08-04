@@ -1,0 +1,154 @@
+{
+  "page_key": "abarth-es-es__preguntas-frecuentes",
+  "brand": "abarth",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://tasacion.abarth.es",
+  "slug": "/preguntas-frecuentes",
+  "source_v1": "https://tasacion.abarth.es/preguntas-frecuentes",
+  "meta": {
+    "title": "Preguntas frecuentes | Tasación Abarth ES",
+    "description": "Preguntas frecuentes",
+    "site_name": "Abarth ES",
+    "author": "Abarth ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "¿Por qué elegir Tasación Abarth?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://tasacion.abarth.es/"
+    },
+    {
+      "label": "Preguntas frecuentes",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "¿Por qué elegir Tasación Abarth?",
+    "lead": "Preguntas frecuentes",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿CÓMO VENDER MI COCHE ? Tasación Abarth es un servicio online que te permite obtener una oferta gratuita para la compra de tu vehículo. Si la oferta te convence, por favor cierra una cita con tu concesionario Abarth. ¿CÓMO FUNCIONA ? Obten un presupuesto gratuito por correo electrónico. Rellena los detalles y el estado de tu vehículo y recibirás una oferta de compra por correo electrónico. Disfrutar de la experiencia de Abarth. Durante tu cita, uno de nuestros expertos examinará en el estado de tu vehículo en el momento. Una vez confirmado el precio, nos comprometemos a comprar tu vehículo. ¿CÓMO SE CALCULA EL VALOR DE RECOMPRA DE UN COCHE? El valor de tasación se estima en euros sobre la base de las observaciones del mercado, las transacciones recientes y la información que nos has proporcionado sobre el estado de tu vehículo. Estos elementos nos permiten ofrecerte una oferta de compra competitiva. A tener en cuenta: la tasación física de tu vehículo se llevará a cabo por un concesionario de Abarth para poder darte una tasación final. Naturalmente, esta revisión se lleva en a cabo contigo. ¿ME COMPROMETE TASAR MI VEHÍCULO? La oferta de venta es sin ningún compromiso. Recibirás una propuesta dentro de 24 horas siguientes (días laborables). Esta oferta es sin compromiso de tu parte. Tú decides si conciertas una cita con nuestros expertos cuando ellos se pongan en contacto con ti. ¿ES UN SERVICIO GRATUITO? Tasación Abarth es un servicio totalmente gratuito. NO ENCUENTRO MI VEHÍCULO EN EL DESPLEGABLE Si no puedes encontrar tu vehículo en nuestro sitio, no dudes en ponerte en contacto con nosotros para que podamos hacerte una oferta. Ten en cuenta que algunos vehículos son antiguos o demasiado específicos en el mercado para ser valorados por un precio razonable. NO HE RECIBIDO MI ESTIMACIÓN POR CORREO ELECTRÓNICO Puede ser que algunos proveedores de correo electrónico identifiquen erróneamente nuestra dirección de correo electrónico como spam. En este caso, por favor revisa tu 'correo no deseado' y configura un buzón distinto. De todas formas, si finalmente no recibes tu estimación por correo electrónico, ponte en contacto con nosotros dejando tus datos para que podamos enviarte de nuevo tu oferta de compra. ¿CÓMO CERRAR UNA CITA? Es muy simple. Cuando solicitas una estimación, eliges tu concesionario Abarth más adecuado. Un experto Abarth del concesionario se pondrá en contacto contigo para programar una cita. ¿QUÉ DOCUMENTOS TENGO QUE REUNIR? Durante tu cita en la concesión será necesario que traigas los siguientes documentos : - El permiso de circulación de tu vehículo - Un documento de identidad (DNI o pasaporte) - Datos completos de tu cuenta bancaria - La guía completa de utilización de tu vehículo, así como el registro de los mantenimientos y el historial de todas las reparaciones del vehículo y todas las facturas - Los 2 juegos de llaves de tu vehículo, así como el código de seguridad para acceder al sistema. - Dependiendo el caso, la parte delantera desmontable de la radio, la llave de las tuercas anti-robo de las ruedas, todos los CD's necesarios para el funcionamiento del sistema de navegación ... -Y, por supuesto, ¡tú, y tu vehículo! ¿CÓMO RECIBIRÉ MI PAGO ? El pago del vehículo está asegurado por un concesionario de Abarth. En el caso de adquirir un vehículo nuevo o de ocasión, el importe formará parte de la operación final. En caso únicamente de venta el concesionario acordará contigo la forma de hacer el pago. ¿CÓMO CONTACTAR CON ABARTH TASACIÓN? Si no has encontrado la respuesta a tu pregunta, no dudes en ponerte en contacto haciendo clic"
+        },
+        {
+          "text": "aquí."
+        }
+      ],
+      "bullets": [],
+      "image": "https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://tasacion.abarth.es/"
+  },
+  "footer": {
+    "tagline": "Preguntas frecuentes",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.Spain"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarthspain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Preguntas frecuentes",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Preguntas frecuentes",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://tasacion.abarth.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Preguntas frecuentes",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://tasacion.abarth.es/preguntas-frecuentes",
+    "medias_trouves": 3,
+    "blocs_detectes": 1,
+    "notes": [
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://tasacion.abarth.es/build/img/abarth/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

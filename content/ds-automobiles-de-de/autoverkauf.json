@@ -1,0 +1,202 @@
+{
+  "page_key": "ds-automobiles-de-de__autoverkauf",
+  "brand": "ds-automobiles",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.dsautomobiles.de",
+  "slug": "/autoverkauf",
+  "source_v1": "https://www.autoankauf.dsautomobiles.de/autoverkauf",
+  "meta": {
+    "title": "Auto verkaufen bei DS - jetzt informieren",
+    "description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von DS hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "site_name": "Ds Automobiles DE",
+    "author": "Ds Automobiles DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "AUTO VERKAUFEN"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.autoankauf.dsautomobiles.de/"
+    },
+    {
+      "label": "Auto Verkauf",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "AUTO VERKAUFEN",
+    "lead": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von DS hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "Erfolgreich verkaufen",
+      "anchor": "#erfolgreich-verkaufen"
+    },
+    {
+      "label": "Autoverkauf an DS",
+      "anchor": "#autoverkauf-an-ds"
+    },
+    {
+      "label": "Autoankauf durch DS",
+      "anchor": "#autoankauf-durch-ds"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie möchten Ihr Auto verkaufen? Dann sind Sie bei DS genau richtig! Wir bieten Ihnen eine zuverlässige Lösung für den Autoverkauf. Von der Fahrzeugbewertung bis hin zum möglichen Ankauf Ihres Fahrzeugs werden Sie kompetent beraten und betreut."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.dsautomobiles.de/build/img/ds/ds_online_store_M88-352x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "erfolgreich-verkaufen",
+      "h2": "Erfolgreich verkaufen",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sie möchten Ihr altes Auto verkaufen? Dann denken Sie vielleicht über einen Privatverkauf nach. Der kostet allerdings Zeit und Mühe – vom Erstellen des Inserats bis hin zur Verkaufsverhandlung. Bei DS ist der Autoverkauf einfacher. DS ermittelt kostenlos und unverbindlich den möglichen Ankaufwert Ihres Gebrauchtwagens, so dass Sie eine erste Vorstellung vom Wert Ihres Fahrzeugs haben. Bei beiderseitigem Interesse kauft Ihnen der von Ihnen ausgewählte DS Partner Ihr Fahrzeug auch gleich ab."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.dsautomobiles.de/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "autoverkauf-an-ds",
+      "h2": "Autoverkauf an DS",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Zunächst übermitteln Sie die Eckdaten Ihres Fahrzeugs über das Onlineformular. Wir ermitteln dann den Schätzwert Ihres Fahrzeugs, der auf aktuellen Preisvergleichen und Marktanalysen basiert. Im zweiten Schritt begutachtet ein DS Partner Ihr Fahrzeug und unterbreitet Ihnen bei beiderseitigem Interesse ein realistisches Ankaufangebot. Wenn Sie mit diesem einverstanden sind, kann die Übernahme und die Zahlung direkt in die Wege geleitet werden. So einfach und unkompliziert ist der Autoverkauf an DS!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.dsautomobiles.de/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "autoankauf-durch-ds",
+      "h2": "Autoankauf durch DS",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Entscheiden Sie sich für den Verkauf Ihres Autos an DS, erledigt Ihr DS Partner alle weiteren Schritte für Sie: Er kümmert sich um den Kaufvertrag und überweist Ihnen die Kaufsumme. Der Autoankauf bei DS ist für Sie also besonders unkompliziert – und vor allem sicher. Denn Sie haben immer einen kompetenten Ansprechpartner, der den Markt kennt und Sie persönlich berät."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.autoankauf.dsautomobiles.de/build/img/ds/DS_3_CROSSBACK_XXL16-92x.png",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "footer": {
+    "tagline": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von DS hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Auto verkaufen bei DS - jetzt informieren",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von DS hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.dsautomobiles.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Sie möchten Ihr altes Auto verkaufen oder in Zahlung geben? Der kostenlose Service von DS hilft Ihnen dabei – von der Bewertung bis zum möglichen Ankauf!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.dsautomobiles.de/autoverkauf",
+    "medias_trouves": 3,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.autoankauf.dsautomobiles.de/build/img/ds/DS_lease_benefits_S71-552x.",
+      "image sans alt en V1 : https://www.autoankauf.dsautomobiles.de/build/img/ds/ds_online_store_M88-352x.pn",
+      "image sans alt en V1 : https://www.autoankauf.dsautomobiles.de/build/img/ds/DS_3_CROSSBACK_XXL16-92x.pn",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

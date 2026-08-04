@@ -1,0 +1,206 @@
+{
+  "page_key": "ds-automobiles-be-nl__pagina-faq",
+  "brand": "ds-automobiles",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.dsautomobiles.be",
+  "slug": "/pagina-faq",
+  "source_v1": "https://overname.dsautomobiles.be/pagina-faq",
+  "meta": {
+    "title": "Veelgestelde vragen",
+    "description": "Veelgestelde vragen",
+    "site_name": "Ds Automobiles BE",
+    "author": "Ds Automobiles BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "VAAK GESTELDE VRAGEN (FAQ)"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.dsautomobiles.be/"
+    },
+    {
+      "label": "Veelgestelde vragen",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "VAAK GESTELDE VRAGEN (FAQ)",
+    "lead": "Veelgestelde vragen",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "subnav": [
+    {
+      "label": "DS Automobiles beantwoor",
+      "anchor": "#ds-automobiles-beantwoordt-uw-vragen"
+    },
+    {
+      "label": "IK HEB GEEN E-MAIL MET S",
+      "anchor": "#ik-heb-geen-e-mail-met-schatting-ontvang"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "ds-automobiles-beantwoordt-uw-vragen",
+      "h2": "DS Automobiles beantwoordt uw vragen",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Overname DS Automobiles is een online dienst waarmee u gratis een schatting voor de overname van uw wagen kunt aanvragen. Als u tevreden bent met de opgegeven overnameprijs, nodigen wij u uit om een afspraak te maken bij de DS Automobiles-concessie van uw keuze om een definitief overnamebod te ontvangen. De schatting is gebaseerd op: • De kenmerken van uw wagen: merk, model, motorversie, uitvoering, kilometerstand, datum van inverkeerstelling. • Marktobservaties: recente transacties door professionals voor gelijkaardige modellen. • Een aftrek van standaard herstelkosten. Deze kosten kunnen worden bijgesteld volgens de werkelijke staat van het voertuig. Ontvang gratis een online schatting. Om een gratis schatting via e-mail te ontvangen, geeft u de kenmerken van uw voertuig in. Maak een afspraak. Gaat u akkoord met de schatting? Maak dan een afspraak bij de DS Automobiles-concessie van uw keuze. Profiteer van de expertise van DS Automobiles. Tijdens de afspraak bekijkt een van onze experts in uw aanwezigheid de staat van de wagen en stelt hij u een definitieve overnameprijs voor. Zodra uw akkoord is bevestigd, verbinden wij ons ertoe uw wagen over te nemen. Snelheid • Enkele klikken volstaan om een e-mail met de geschatte overnameprijs van uw voertuig te ontvangen. Deze overnameschatting is vrijblijvend. Sereniteit • Vermijd onaangename verrassingen. Wanneer u een beroep doet op de overnameservice van DS Automobiles wordt de waarde van uw wagen geschat door een professional uit de autosector. Elk voertuig wordt beoordeeld op basis van markttrends en recente transacties. Veiligheid • De betaling van uw wagen is gegarandeerd en beveiligd. Bij de transactie wordt het voertuig betaald door een concessiehouder van DS Automobiles. De overnameraming die Overname DS Automobiles aanbiedt, is vrijblijvend. U ontvangt ons voorstel gratis en binnen 24 uur op werkdagen. Vrijblijvende schatting. Het staat u vrij al dan niet een afspraak te maken met onze experts van DS Automobiles. De dienst Overname DS Automobiles is volledig gratis voor u. Als u uw wagen niet op onze website vindt, aarzel dan niet om contact met ons op te nemen zodat we u een gepersonaliseerde overnameschatting kunnen geven. Sommige voertuigen zijn te oud of te weinig courant op de markt om correct te worden geschat. Sommige leveranciers van e-mailadressen identificeren de mails van Overname DS Automobiles ten onrechte als spam. In dat geval vragen we u de map ‘Ongewenste e-mail/spam’ te raadplegen en de instellingen van uw mailbox aan te passen. Als u de e-mail met prijsraming nog steeds niet ontvangt, aarzel dan niet om contact met ons op te nemen en uw gegevens achter te laten, zodat wij u uw overnameschatting kunnen bezorgen. Dat is kinderspel. Wanneer u online een schatting aanvraagt, selecteert u uw DS Automobiles-verkooppunt. Ofwel neemt het verkooppunt contact met u op ofwel belt u zelf om een afspraak te maken. Bij uw afspraak in de concessie is het wenselijk dat u met uw wagen komt, voorzien van de volgende documenten: • Het inschrijvingsbewijs van uw wagen • Een identiteitsbewijs (rijbewijs, identiteitskaart of paspoort) • Een bewijs van woonplaats (telefoon- of elektriciteitsrekening jonger dan drie maanden) • Een RIB-attest (attest identificatie bankrekening) • Het onderhoudsboekje en de onderhouds- en reparatiefacturen van alle uitgevoerde reparaties aan deze wagen • De twee sleutels van uw auto en de veiligheidscode voor nieuwe sleutels • Indien van toepassing, de sleutel van de antidiefstalmoeren van uw wielen Bij de transactie wordt het voertuig betaald door een concessiehouder van DS Automobiles. Naargelang de gekozen concessiehouder gebeurt de betaling van het voertuig per cheque of bankoverschrijving. Indien u het antwoord op uw vraag niet hebt gevonden, aarzel dan niet om contact met ons op te nemen."
+        },
+        {
+          "text": "HOE VERKOOP IK MIJN WAGEN?"
+        },
+        {
+          "text": "HOE WORDT DE OVERNAMEPRIJS VAN MIJN WAGEN BEREKEND?"
+        },
+        {
+          "text": "HOE WERKT DE OVERNAME DOOR DS Automobiles?"
+        },
+        {
+          "text": "WELKE VOORDELEN BIEDT DE OVERNAMEDIENST VAN DS Automobiles?"
+        },
+        {
+          "text": "WELK ENGAGEMENT BRENGT EEN OVERNAMERAMING MET ZICH MEE?"
+        },
+        {
+          "text": "IS DEZE DIENST BETALEND?"
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ik-heb-geen-e-mail-met-schatting-ontvang",
+      "h2": "IK HEB GEEN E-MAIL MET SCHATTING ONTVANGEN",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "HOE MAAK IK EEN AFSPRAAK?"
+        },
+        {
+          "text": "WELKE DOCUMENTEN MOET U MEEBRENGEN NAAR DE AFSPRAAK?"
+        },
+        {
+          "text": "HOE WORD IK BETAALD?"
+        },
+        {
+          "text": "HOE NEEMT U CONTACT OP MET DS Automobiles?"
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.dsautomobiles.be/"
+  },
+  "footer": {
+    "tagline": "Veelgestelde vragen",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/dsbelux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_Belux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/ds_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCV4q3gWlCb9NGsy4iypFUiA"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-automobiles-belgium/"
+      }
+    ],
+    "columns": [],
+    "legal": "© 2024 DS *Bonus geldig bij de aankoop van een nieuwe DS 7 tot 2026-7-31 in deelnemende netwerken.",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Veelgestelde vragen",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Veelgestelde vragen",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.dsautomobiles.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Veelgestelde vragen",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.dsautomobiles.be/pagina-faq",
+    "medias_trouves": 0,
+    "blocs_detectes": 2,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

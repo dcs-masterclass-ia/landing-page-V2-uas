@@ -1,0 +1,244 @@
+{
+  "page_key": "opel-es-es__Funcionamiento",
+  "brand": "opel",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.opel.es",
+  "slug": "/Funcionamiento",
+  "source_v1": "https://www.tasacion.opel.es/Funcionamiento",
+  "meta": {
+    "title": "Funcionamiento - Tasación Opel España",
+    "description": "Te enviamos la tasación de tu vehículo por email. Reserva una cita con un experto del concesionario Opel de tu elección.",
+    "site_name": "Opel ES",
+    "author": "Opel ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "¿Cómo funciona?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.opel.es/"
+    },
+    {
+      "label": "Funcionamiento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "¿Cómo funciona?",
+    "lead": "Te enviamos la tasación de tu vehículo por email. Reserva una cita con un experto del concesionario Opel de tu elección.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "subnav": [
+    {
+      "label": "TASA TU COCHE GRATIS Y S",
+      "anchor": "#tasa-tu-coche-gratis-y-sin-compromiso-en"
+    },
+    {
+      "label": "TASA TU COCHE CON VALORE",
+      "anchor": "#tasa-tu-coche-con-valores-de-mercado"
+    },
+    {
+      "label": "Tranquilidad",
+      "anchor": "#tranquilidad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    },
+    {
+      "label": "Seguridad",
+      "anchor": "#seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasa-tu-coche-gratis-y-sin-compromiso-en",
+      "h2": "TASA TU COCHE GRATIS Y SIN COMPROMISO EN OPEL",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡En Opel Tasación puedes realizar la valoración de tu coche en solo unos clics! Es gratuito, rápido y sin ningún compromiso. Nos pondremos en contacto contigo para concretar una cita, y una vez en el concesionario, uno de nuestros expertos examinará tu vehículo para ajustar la tasación del coche realizada. Así de sencillo."
+        },
+        {
+          "text": "¿POR QUÉ ELEGIR TASACIÓN OPEL?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/8cb7ddcf-20bc-4d4b-9bbf-7dabd2ac50c3",
+      "image_alt": "Mokka",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tasa-tu-coche-con-valores-de-mercado",
+      "h2": "TASA TU COCHE CON VALORES DE MERCADO",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Opel Tasación hace una valoración de tu coche en función de diferentes criterios como marca, modelo, antigüedad y acabado. Para poder darte un valor lo más preciso posible, debes facilitarnos toda la información lo más detallada posible como daños en la carrocería, estado de los neumáticos, estado mecánico, equipamiento del coche, etc."
+        },
+        {
+          "text": "Una vez realizada la valoración, solicita una cita con tu concesionario Opel más cercano, y si el vehículo cumple con lo establecido en la estimación online, el concesionario se hará cargo de la recompra de tu vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/3c4c28e9-704a-459b-b317-8d7306d34c6b",
+      "image_alt": "opel2",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tranquilidad",
+      "h2": "Tranquilidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Sin compromiso",
+        "Formalidades simplificadas"
+      ],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elige un punto de venta",
+        "Una tasación fácil y rápida en Opel"
+      ],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza en Opel",
+        "Una transacción segura y rápida",
+        "Oferta ajustada"
+      ],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "footer": {
+    "tagline": "Te enviamos la tasación de tu vehículo por email. Reserva una cita con un experto del concesionario Opel de tu elección.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://es-es.facebook.com/OpelSpain/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opel_spain?lang=es"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_spain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelspainGM"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Funcionamiento - Tasación Opel España",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Te enviamos la tasación de tu vehículo por email. Reserva una cita con un experto del concesionario Opel de tu elección.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.opel.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Te enviamos la tasación de tu vehículo por email. Reserva una cita con un experto del concesionario Opel de tu elección.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.opel.es/Funcionamiento",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

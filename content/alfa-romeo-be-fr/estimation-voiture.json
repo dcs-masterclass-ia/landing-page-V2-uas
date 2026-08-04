@@ -1,0 +1,242 @@
+{
+  "page_key": "alfa-romeo-be-fr__lp-estimation-voiture",
+  "brand": "alfa-romeo",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.alfaromeo.be",
+  "slug": "/lp/estimation-voiture",
+  "source_v1": "https://reprise.alfaromeo.be/lp/estimation-voiture",
+  "meta": {
+    "title": "Alfa Romeo ► Obtenez une estimation de votre voiture",
+    "description": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "site_name": "Alfa Romeo BE",
+    "author": "Alfa Romeo BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Obtenez une estimation gratuite et professionnelle de votre voiture"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.alfaromeo.be/ "
+    },
+    {
+      "label": "Estimation voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Obtenez une estimation gratuite et professionnelle de votre voiture",
+    "lead": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi choisir Reprise",
+      "anchor": "#pourquoi-choisir-reprise-alfa-romeo-pour"
+    },
+    {
+      "label": "Estimer votre Voiture : ",
+      "anchor": "#estimer-votre-voiture-les-3-etapes-a-sui"
+    },
+    {
+      "label": "Étape 3 : Votre rendez-v",
+      "anchor": "#etape-3-votre-rendez-vous-avec-un-profes"
+    },
+    {
+      "label": "Questions Fréquentes",
+      "anchor": "#questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-choisir-reprise-alfa-romeo-pour",
+      "h2": "Pourquoi choisir Reprise Alfa Romeo pour estimer votre voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Reprise Alfa Romeo vous offre une estimation 100% en ligne et gratuite en moins de 5 minutes. Nous vous garantissons une estimation fiable et raisonnable pour votre voiture."
+        },
+        {
+          "text": "L'estimation de votre voiture est basée sur les transactions récentes réalisées par les professionnels de l'automobile et les observations du marché. Pour obtenir une estimation précise, nous avons besoin d'informations complètes sur votre véhicule. Obtenez une estimation de la valeur de votre voiture en moins de 5 minutes grâce à ces 3 étapes faciles"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "estimer-votre-voiture-les-3-etapes-a-sui",
+      "h2": "Estimer votre Voiture : les 3 étapes à suivre",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Renseignez l’immatriculation de votre véhicule et nous pourrons identifier rapidement les caractéristiques essentielles de votre voiture. Si vous n’avez pas votre immatriculation, pas de probleme. Grâce à ces informations, nous sommes en mesure de procéder à une analyse approfondie du marché et de vous retourner une estimation précise et raisonnable de la valeur de votre voiture en ligne ou par e-mail. Vous pourrez ainsi prendre tout le temps nécessaire pour décider si vous souhaitez poursuivre le processus de reprise de votre voiture en toute confiance. Une fois que nous aurons évalué votre voiture, votre concessionnaire Alfa Romeo préféré prendra contact avec vous pour fixer un rendez-vous et établir une estimation finale. Nous sommes confiants que vous serez satisfait de notre estimation, et nous nous occupons de la reprise de votre véhicule en toute simplicité !"
+        },
+        {
+          "text": "Étape 1 : Renseignez toutes les caractéristiques de votre véhicule nécessaires à son estimation."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-3-votre-rendez-vous-avec-un-profes",
+      "h2": "Étape 3 : Votre rendez-vous avec un professionnel du réseau Alfa Romeo",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "● Obtenez une estimation entièrement gratuite et en ligne pour votre voiture : évaluez-la en toute confiance ! Chez Alfa Romeo, nous vous garantissons une estimation fiable et professionnelle. ● Obtenez une estimation rapide pour votre voiture : obtenez une estimation instantanée une fois que nous avons identifié votre véhicule. ● Obtenez une estimation valable pendant 10 jours : votre estimation sera valable pour les 10 prochains jours. ● Nous avons un réseau étendu de reprise de voitures Alfa Romeo dans toute la France : il y a forcément une concession Alfa Romeo près de chez vous !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment est calculée l'estimation de reprise donnée à ma voiture ?"
+        },
+        {
+          "text": "L'estimation reçue est établie sur les caractéristiques du véhicule, les observations du marché sur des mêmes modèles, et les frais nécessaires à la remise en état du véhicule déduits de votre estimation."
+        },
+        {
+          "text": "Comment fonctionne la reprise d'une voiture ?"
+        },
+        {
+          "text": "Procédez à l'estimation de votre véhicule grâce à notre service de reprise en ajoutant ses caractéristiques. L'estimation de votre voiture est prête en moins de 5 minutes. Une fois votre estimation obtenue, vous êtes recontacté par le concessionnaire Alfa Romeo de votre choix dans les 24 heures. Si l'estimation vous convient, le concessionnaire vous propose un rendez-vous en point de vente pour reprendre votre véhicule. Une fois en concession, l'un de nos experts examine avec vous l'état du véhicule et vous propose alors un prix de reprise ferme. Si l'offre vous convient, le concessionnaire rachète votre véhicule."
+        },
+        {
+          "text": "Quels sont les documents et informations nécessaires pour procéder à l'estimation de ma voiture ?"
+        },
+        {
+          "text": "Afin d'évaluer votre voiture, vous aurez besoin de sa carte grise, son kilométrage, sa version/finition, et d'autres informations supplémentaires sur le véhicule telles que sa couleur, carrosserie, ses équipements, etc."
+        },
+        {
+          "text": "L'estimation de reprise de mon véhicule m'engage-t-elle ?"
+        },
+        {
+          "text": "Notre service d'estimation est sans engagement. Vous obtenez directement l'estimation de votre voiture à la fin du parcours. Le concessionnaire que vous aurez choisi vous rappelle sous 24 heures pour vous proposer un rendez-vous pour la reprise de votre véhicule. Vous décidez alors si vous souhaitez poursuivre ou non le processus."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.alfaromeo.be/"
+  },
+  "footer": {
+    "tagline": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeo_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus de reprise conditionnel valable pour l’achat d’une nouvelle Alfa Romeo Giulia ou Stelvio (sauf Quadrifoglio) jusqu’au 2026-7-31",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Alfa Romeo ► Obtenez une estimation de votre voiture",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.alfaromeo.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "howto_name": "Obtenez une estimation gratuite et professionnelle de votre voiture",
+    "howto_description": "Vous pouvez obtenir une estimation professionnelle et gratuite de la valeur de votre voiture en moins de 5 minutes grâce à notre site. Estimation fiable.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.alfaromeo.be/lp/estimation-voiture",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

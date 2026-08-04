@@ -1,0 +1,337 @@
+{
+  "page_key": "ds-automobiles-es-es__lp-Compramos-tu-coche",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/lp/Compramos-tu-coche",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/lp/Compramos-tu-coche",
+  "meta": {
+    "title": "Compramos su coche con pago seguro | DS AUTOMOBILES",
+    "description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Compramos tu coche con pago seguro y en 24 horas"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "Compramos tu coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Compramos tu coche con pago seguro y en 24 horas",
+    "lead": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "Compramos tu coche sin m",
+      "anchor": "#compramos-tu-coche-sin-mucha-complicacio"
+    },
+    {
+      "label": "ningún compromiso",
+      "anchor": "#ningun-compromiso"
+    },
+    {
+      "label": "Compramos tu coche con a",
+      "anchor": "#compramos-tu-coche-con-alto-profesionali"
+    },
+    {
+      "label": "Obtendrás una oferta de ",
+      "anchor": "#obtendras-una-oferta-de-recuperacion-de-"
+    },
+    {
+      "label": "Compramos tu coche en al",
+      "anchor": "#compramos-tu-coche-en-alrededor-de-24h"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-sin-mucha-complicacio",
+      "h2": "Compramos tu coche sin mucha complicación",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si quieres que tu coche sea tasado con la mejor precisión, requerimos los datos esenciales del mismo. Por esa razón, llenaras un cuestionario fácil y rápido en . Ya cuando los datos se hayan llenado, se analiza el mercado y se te da el precio justo que aparece cuando terminas el cuestionario. Esta tasación se te mandará de la misma forma por correo electrónico. Esta tasación no te genera , ¡tú decides si sigues con el proceso o no! Por eso, obtendrás un cuestionario ágil y sencillo de llenar con los datos siguientes:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ningun-compromiso",
+      "h2": "ningún compromiso",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Informaciones para identificar tu coche:"
+        },
+        {
+          "text": "Al pasar por el registro, identificamos el coche que quieres tasar cuando rellenas tu registro. Las ventajas de rellenar el registro son que es más fácil y mucho más ágil porque al identificar tu coche, te saltarás varias etapas del cuestionario y eso te hará ganar más tiempo. Si tu registro no está en la memoria, ¡no hay problema! Con solo contestar unas preguntas, identificaremos tu coche: año de matrícula, combustible, potencia, versión."
+        },
+        {
+          "text": "Kilometraje, equipamiento, color, versión, entre otros."
+        },
+        {
+          "text": "Información general:"
+        },
+        {
+          "text": "El concesionario DS Automobiles que elijas te contactará para concretar una cita en concesión. En el lugar, se realizará una inspección de tu coche y te hará una propuesta final sobre tu coche. Si te sientes satisfecho con el precio, , de ningún tipo. ¡Nosotros lo hacemos todo!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-con-alto-profesionali",
+      "h2": "Compramos tu coche con alto profesionalismo",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Es simple!"
+        },
+        {
+          "text": "¡Tendrás una evaluación de tu coche con solo unos clics!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "obtendras-una-oferta-de-recuperacion-de-",
+      "h2": "Obtendrás una oferta de recuperación de forma inmediata",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Te parece bien nuestra oferta de recuperación?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "compramos-tu-coche-en-alrededor-de-24h",
+      "h2": "Compramos tu coche en alrededor de 24h*",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡Es bien seguro!"
+        },
+        {
+          "text": "Sin sorpresas desagradables ni mucho trámite administrativo con la Red DS Automobiles, ¡nos hacemos cargo de todo!"
+        },
+        {
+          "text": "Un experto Peugeot examinará tu coche frente a ti."
+        },
+        {
+          "text": "Después de llegar a un acuerdo, una recuperación inmediata es nuestro compromiso."
+        },
+        {
+          "text": "El pago es seguro, garantizado y de forma inmediata."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "apoyamos-todos-los-procesos-administrati",
+      "h2": "Apoyamos todos los procesos administrativos",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¡Vas a saber cuál es el precio de tu coche en menos de 5 minutos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "compramos-tu-coche-preguntas-mas-comunes",
+      "h2": "Compramos tu coche: Preguntas más comunes",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "1. ¿Cómo puedo vender mi coche?"
+        },
+        {
+          "text": "Tasación DS Automobile es un servicio en línea, que te permite tener una tasación gratis para tu coche. Si deseas tu tasación, rellena toda la información de tu coche en el cuestionario adjunto. Señalar, por ejemplo, su modelo, marca, kilometraje, motor, versión, etc. Luego recibirás una tasación de tu coche cuando concluyas el cuestionario. En no más de 5 min, tendrás una tasación para tu vehículo, la cual vas a recibir de igual forma por correo electrónico. El concesionario DS Automobiles que elijas devolverá tu llamada para hacer una cita y para que recuperes tu coche. Siempre puedes elegir: si la oferta final no es de tu satisfacción, no te verás obligado a venderlo."
+        },
+        {
+          "text": "2. ¿Cómo se calcula el valor de adquisición de mi coche?"
+        },
+        {
+          "text": "La tasación se establece así: motor, versión, fecha de matriculación, marca, modelo, kilometraje. Cualquier transacción reciente realizada por profesionales sobre los modelos similares. . Estas tarifas van a variar dependiendo de la condición que el coche tenga actualmente."
+        },
+        {
+          "text": "1. Las características del coche:"
+        },
+        {
+          "text": "2. Las observaciones del mercado:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "3-una-deduccion-por-costos-basicos-de-re",
+      "h2": "3. Una deducción por costos básicos de recuperación",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "3. ¿Cómo funciona la tasación ds automobiles?"
+        },
+        {
+          "text": "Tendrás una tasación gratis en línea, rellenando nuestro cuestionario con la información de tu coche. En menos de 5 minutos, obtendrás una tasación para tu coche, que también se te mandará por correo electrónico. Una vez que se llena el formulario, el distribuidor que hayas elegido se pondrá en contacto contigo en más o menos 24 horas. ¿Estás complacido con la tasación? Realiza una cita en el concesionario para que puedas recuperar tu coche. En el transcurso de la cita, uno de nuestros expertos revisa el estado del coche en frente tuyo y te ofrece un precio específico de recuperación. Una vez que se hace la confirmación del acuerdo, compramos tu coche."
+        },
+        {
+          "text": "Tasación gratuita en línea:"
+        },
+        {
+          "text": "Consigue una cita:"
+        },
+        {
+          "text": "Aprovecha la experiencia de DS Automobiles:"
+        },
+        {
+          "text": "4. ¿Cómo realizar una cita?"
+        },
+        {
+          "text": "Es realmente muy fácil. Cuando pides una tasación online, escoges tu punto de venta DS Automobiles agregando la dirección postal que tu elijas. Tu concesionario DS Automobiles te va a contactar en un plazo de 24 horas para que organicen una cita. También puedes llamarlo tú mismo usando los datos de contacto que se presentan en su tasación. De esta forma, tendrás una oferta inmediata y siempre basada en la valoración del coche y el precio que existe en el mercado."
+        },
+        {
+          "text": "5. ¿Cómo me harán el pago?"
+        },
+        {
+          "text": "Por medio de la red DS Automobiles, te garantizas un pago seguro y ágil, sin sorpresas desagradables. Durante el proceso de transacción, el pago del coche lo hace un concesionario DS Automobiles. Dependiendo del concesionario que escojas, el pago del coche se realiza mediante cheque o por medio de una transferencia bancaria."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ec191b37-aa98-41bd-97ee-56dc510ac98e",
+      "image_alt": "coche DS Automobiles",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Compramos su coche con pago seguro",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Compramos tu coche con rapidez y de forma simple ✓ Tendrás un mejor precio ✓ Sin engorroso papeleo ➝ ¡Ve aquí si quieres más información!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "",
+    "medias_trouves": 5,
+    "blocs_detectes": 8,
+    "notes": [
+      "6 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "page_key": "alfa-romeo-be-nl__waarom-alfaromeo-overname",
+  "brand": "alfa-romeo",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.alfaromeo.be",
+  "slug": "/waarom-alfaromeo-overname",
+  "source_v1": "https://overname.alfaromeo.be/waarom-alfaromeo-overname",
+  "meta": {
+    "title": "Waarom kiezen voor de diensten van Alfa Romeo Overname ? | Overname Alfa Romeo BE",
+    "description": "Alfa Romeo Overname biedt je gratis en vrijblijvend een online schatting van de waarde van je wagen, ongeacht het merk.",
+    "site_name": "Alfa Romeo BE",
+    "author": "Alfa Romeo BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Waarom kiezen voor de diensten van Alfa Romeo Overname?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.alfaromeo.be/"
+    },
+    {
+      "label": "Waarom Alfa Romeo ?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Waarom kiezen voor de diensten van Alfa Romeo Overname?",
+    "lead": "Alfa Romeo Overname biedt je gratis en vrijblijvend een online schatting van de waarde van je wagen, ongeacht het merk.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "LAAT JE WAGEN SCHATTEN D",
+      "anchor": "#laat-je-wagen-schatten-door-alfa-romeo"
+    },
+    {
+      "label": "DE STAPPEN VAN DE OVERNA",
+      "anchor": "#de-stappen-van-de-overname-door-je-alfa-"
+    },
+    {
+      "label": "Gemoedsrust",
+      "anchor": "#gemoedsrust"
+    },
+    {
+      "label": "Snel",
+      "anchor": "#snel"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Waarom kiezen voor de diensten van Alfa Romeo Overname?"
+        },
+        {
+          "text": "Ontvang een gratis en vrijblijvende prijsofferte voor je wagen, ongeacht het merk en de kilometerstand."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/132/d59ca767-7114-4934-8228-93bfd875d7dd",
+      "image_alt": "Close-up van het Alfa Romeo-logo op een rode wagen",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "laat-je-wagen-schatten-door-alfa-romeo",
+      "h2": "LAAT JE WAGEN SCHATTEN DOOR ALFA ROMEO",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Je vult de gegevens, opties en de staat van je wagen in en je ontvangt een schatting van de waarde per e-mail. Wanneer je online een schatting aanvraagt, kies je jouw dichtstbijzijnde Alfa Romeo-verdeler. Deze zal contact met je opnemen om een ​​afspraak te maken. Tijdens de afspraak onderzoekt een van onze experts in jouw bijzijn de staat van je wagen. Zodra je jouw akkoord geeft, streven we naar een onmiddellijke overname. De betaling is gegarandeerd, veilig en verzekerd door een Alfa Romeo-verdeler."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/132/4597cd36-eeeb-4d6c-90dc-c4efe1a813fc",
+      "image_alt": "Man opent de deur van een donkerblauwe auto bij zonsondergang",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "de-stappen-van-de-overname-door-je-alfa-",
+      "h2": "DE STAPPEN VAN DE OVERNAME DOOR JE ALFA ROMEO-VERDELER",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Tijdens je afspraak onderzoekt één van onze experts in jouw bijzijn de staat van je wagen. Zodra jouw akkoord is bevestigd, streven we naar een onmiddellijke overname. De betaling is gegarandeerd, veilig en verzekerd door een Alfa Romeo-verdeler. De overnamewaarde wordt geschat in euro's inclusief btw op basis van marktobservaties, recente transacties en verstrekte informatie over de staat van je wagen. Deze elementen stellen ons in staat je een overnamewaarde aan te bieden (waarde wordt alleen ter informatie verstrekt). Let op, een fysieke expertise van uw voertuig zal worden uitgevoerd door een Alfa Romeo-dealer om het voorstel af te ronden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/132/806fafd2-2aee-4a7d-befb-6985989a2fc7",
+      "image_alt": "Rode Alfa Romeo Giulia voor modern gebouw",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "gemoedsrust",
+      "h2": "Gemoedsrust",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ontvang een schatting van de waarde van je wagen."
+        },
+        {
+          "text": "De schatting is geheel gratis en vrijblijvend."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "snel",
+      "h2": "Snel",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Vermijd administratieve procedures."
+        },
+        {
+          "text": "Met Alfa Romeo Overname kan je je wagen laten schatten op basis van marktobservaties en recente transacties."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "veilig",
+      "h2": "Veilig",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Is een overname iets voor jou? Maak een afspraak met je dichtstbijzijnde Alfa Romeo-verdeler."
+        },
+        {
+          "text": "Na een fysieke expertise en waardebepaling zal de verdeler je wagen overnemen en betalen per cheque of bankoverschrijving zodra je je akkoord is bevestigd."
+        },
+        {
+          "text": "Een snelle betaling gegarandeerd."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "footer": {
+    "tagline": "Alfa Romeo Overname biedt je gratis en vrijblijvend een online schatting van de waarde van je wagen, ongeacht het merk.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeo_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
+      }
+    ],
+    "columns": [],
+    "legal": "*Voorwaardelijke overname geldig bij aankoop van een nieuwe Alfa Romeo Giulia of Stelvio (behalve Quadrifoglio) tot 2026-7-31",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Waarom kiezen voor de diensten van Alfa Romeo Overname ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Alfa Romeo Overname biedt je gratis en vrijblijvend een online schatting van de waarde van je wagen, ongeacht het merk.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.alfaromeo.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Alfa Romeo Overname biedt je gratis en vrijblijvend een online schatting van de waarde van je wagen, ongeacht het merk.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.alfaromeo.be/waarom-alfaromeo-overname",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/content-fast.jpg",
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/content-safe.jpg",
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

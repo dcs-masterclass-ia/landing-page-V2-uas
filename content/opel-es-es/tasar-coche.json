@@ -1,0 +1,288 @@
+{
+  "page_key": "opel-es-es__lp-tasar-coche",
+  "brand": "opel",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.opel.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://www.tasacion.opel.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche desde internet y sin costo | Opel España",
+    "description": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
+    "site_name": "Opel ES",
+    "author": "Opel ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasar coche desde internet y sin costo – un servicio que no requiere obligaciones"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.opel.es/"
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasar coche desde internet y sin costo – un servicio que no requiere obligaciones",
+    "lead": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasación de coche sin co",
+      "anchor": "#tasacion-de-coche-sin-costo-y-sin-ningun"
+    },
+    {
+      "label": "¿Cómo es que puedes reci",
+      "anchor": "#como-es-que-puedes-recibir-nuestra-ayuda"
+    },
+    {
+      "label": "El paso 1",
+      "anchor": "#el-paso-1"
+    },
+    {
+      "label": "La numerosas ventajas de",
+      "anchor": "#la-numerosas-ventajas-de-la-tasacion-de-"
+    },
+    {
+      "label": "Tasar coche: Las pregunt",
+      "anchor": "#tasar-coche-las-preguntas-mas-comunmente"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasacion-de-coche-sin-costo-y-sin-ningun",
+      "h2": "Tasación de coche sin costo y sin ningún tipo de compromiso para ti",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿Qué ventajas tiene tasar tú vehículo con nosotros? La tasación de Opel es la que te permite obtener resultados realmente beneficiosos. Esta tasación se da en línea y no tiene costo alguno: Solo unos clics y estarás tasando tu coche rápidamente. La experiencia que tiene Opel de tantas décadas hace que sea muy fácil de utilizar el servicio. Recuerda que no hay compromiso una vez recibes la tasación, pero si deseas vender, te brindamos lo que requieres."
+        },
+        {
+          "text": "Solo necesitas lo siguiente: . Rellena los datos que necesitas para la tasación de tu vehículo. Si deseas poder tasar tu coche con total precisión, solo debes responder las preguntas del cuestionario. ¡Es rápido y fácil, te llevará menos de 5 minutos completarlo! Tendrás que proporcionarnos: Los datos para identificar el modelo de tu coche: Al ingresar el registro de tu vehículo, identificamos el coche que deseas evaluar. Tu modelo se identifica entonces gracias a tu registro, y se salta varias etapas del cuestionario y, por lo tanto, ahorras tiempo. Si tienes problemas recordando tu registro, solo debes responder algunas preguntas que harán fácil identificar el coche. Entre ellas la versión, el año de matriculación, cual combustible utiliza, cual es la potencia del motor, color del carro por fuera, etc. Con todo esto será más fácil identificar el vehículo para el proceso. También los datos generales como color y que tipo de equipo tiene"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "como-es-que-puedes-recibir-nuestra-ayuda",
+      "h2": "¿Cómo es que puedes recibir nuestra ayuda para tasar tu coche?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡Tasarlo con nosotros es más fácil de lo que imaginas!"
+        },
+        {
+          "text": "Puedes obtener tu tasación gratuita en 3 fáciles pasos:"
+        }
+      ],
+      "bullets": [
+        "El registro del vehículo",
+        "El kilometraje actual que tiene",
+        "Los daños y detalles que pueda tener"
+      ],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "el-paso-1",
+      "h2": "El paso 1",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "recibe rápidamente la tasación de tu coche desde internet y también a tu correo. Cuando tenemos todos los datos del vehículo, serán evaluados y de esta manera será posible lograr obtener la tasación. Ya al tenerla, te brindamos el dato y tú decides si deseas hacer la venta del vehículo. Una cita con Opel. Al finalizar la tasación, se comunicarán contigo de Opel para decidir la tasación final para tu vehículo. Si te ha gustado el precio que se te brinda para la tasación, tu concesionario se hará cargo de recuperar el carro y esto no tendrá costos para ti."
+        },
+        {
+          "text": "El paso 2:"
+        },
+        {
+          "text": "¡La tasación no tiene compromiso alguno, tú decides si sigues o si no quieres venderlo!"
+        },
+        {
+          "text": "Etapa 3:"
+        },
+        {
+          "text": "¿Qué ventajas tiene Opel en este proceso? Tasación de tu coche. Esto es completamente gratuito: ¡No hay que preocuparse de nada absolutamente! ¡Puedes tasar tu vehículo directamente con nuestra web y sin pagar nada! Tasación Servicio de calidad y confiable: Mucha experiencia de Opel para obtener los mejores resultados. Tasación puede esperar 10 días: ¿No quiere decidir rápidamente? ¡Eso está bien! La tasación tiene validez de 10 días y puedes elegir entre muchos lugares en espala donde vender tu vehículo con nosotros. Tasación muy rápida – El precio se da de inmediato y esto lo hace muy fácil para el que desea obtener resultados rápidos y sin compromiso."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "la-numerosas-ventajas-de-la-tasacion-de-",
+      "h2": "La numerosas ventajas de la tasación de su coche en la web",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¡En 5 minutos sabrás el valor de tu vehículo así que no lo dudes más!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-las-preguntas-mas-comunmente",
+      "h2": "Tasar coche: Las preguntas más comúnmente vistas",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿COMO ES EL PROCESO PARA QUE CALCULEN LA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación se hace con determinados factores como: • Los datos básicos del carro: su marca, el modelo de vehículo, el tipo de motor y su poder, el kilometraje que este tiene, y la fecha en que comenzó su uso. • Se observa cómo se mueve el mercado: Se revisan transacciones de modelos equivalentes. • Se deducen los costos de rehabilitación y estará en dependencia de cómo se encuentra el vehículo en ese momento."
+        },
+        {
+          "text": "¿EXACTAMENTE COMO FUNCIONA LA TASACIÓN CON OPEL?"
+        },
+        {
+          "text": "Tasación completamente sin costo: Solo con la información del vehículo se puede obtener esta tasación sin compromiso y todo en menos de 5 minutos. También la enviaremos por correo electrónico. Pide tu cita: Al completar el formulario, estaremos comunicándonos contigo desde un concesionario de Opel. Si la tasación te pareció buena, puedes elegir una fecha para la cita con el concesionario de tu elección. Una vez este en Opel, podrás obtener los resultados que buscas fácilmente. Un experto evaluará el carro y te dirá cuál es el precio que se puede pagar por él. Tú decides si la oferta te parece buena o si la rechazas. Todo sin obligaciones."
+        },
+        {
+          "text": "¿QUE TIPO DE DOCUMENTOS DEBO BRINDAR PARA PODER TASAR MI COCHE EN OPEL?"
+        },
+        {
+          "text": "Si quieres iniciar el proceso de tasar tu coche, necesitarás: - El certificado que trae la matrícula del carro - El kilometraje total que tiene el carro hasta el momento - Todos los datos de carrocería, colores, equipos y extras serán también incluidos."
+        },
+        {
+          "text": "¿Y LAS VENTAJAS DE USAR LA TASACIÓN DE OPEL?"
+        },
+        {
+          "text": "• Todo se hace con mucha facilidad y rápidamente con unos cuantos clics y listo. • No tienes que preocuparte por nada ya que todo esto es sin ninguna obligación y esto significa que tu decides. • Todo es seguro y el pago de tu vehículo una vez que lo tasamos será algo que brindaremos rápidamente."
+        },
+        {
+          "text": "¿EN QUE ME COMPROMETO CON UNA TASACIÓN?"
+        },
+        {
+          "text": "No hay compromiso alguno con la tasación de Opel y tú decides si quieres venderlo o no. Tampoco hay costo y es muy rápido obtenerla de un representante de Opel."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "footer": {
+    "tagline": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://es-es.facebook.com/OpelSpain/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opel_spain?lang=es"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_spain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelspainGM"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche desde internet y sin costo",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.opel.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Le gustaría saber el valor de su carro en este momento? Obtenga información de nuestra tasación de coche. ¡Utilice el tasador que ofrecemos!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.opel.es/lp/tasar-coche",
+    "medias_trouves": 7,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

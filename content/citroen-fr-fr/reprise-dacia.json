@@ -1,0 +1,303 @@
+{
+  "page_key": "citroen-fr-fr__lp-reprise-dacia",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/reprise-dacia",
+  "source_v1": "https://www.reprise.citroen.fr/lp/reprise-dacia",
+  "meta": {
+    "title": "Reprise Dacia | Estimez votre voiture chez Citroën",
+    "description": "Faites reprendre votre Dacia par Citroën, sans engagement. Estimation gratuite en ligne pour Sandero, Duster, Logan et plus.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "REPRISE DE VOTRE DACIA D'OCCASION TEST"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "REPRISE DE VOTRE DACIA D'OCCASION TEST",
+    "lead": "Faites reprendre votre Dacia par Citroën, sans engagement. Estimation gratuite en ligne pour Sandero, Duster, Logan et plus.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi faire reprendre",
+      "anchor": "#pourquoi-faire-reprendre-votre-dacia"
+    },
+    {
+      "label": "Pourquoi utiliser le ser",
+      "anchor": "#pourquoi-utiliser-le-service-de-reprise-"
+    },
+    {
+      "label": "estimations de voiture",
+      "anchor": "#estimations-de-voiture"
+    },
+    {
+      "label": "A savoir",
+      "anchor": "#a-savoir"
+    },
+    {
+      "label": "Tout savoir sur le leasi",
+      "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-faire-reprendre-votre-dacia",
+      "h2": "Pourquoi faire reprendre votre Dacia ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Votre Duster, Sandero ou Logan ne vous convient plus et vous avez en vue un autre modèle? Le marché de l’occasion pour une Dacia n’est pas facile si vous n’en n’avez pas l’habitude. Le prix de base modeste de ce type de véhicule l’a rendu populaire: l’offre est en conséquence abondante. En affichant un prix de revente de seulement 100 ou 200€ supérieur au marché, vous êtes assuré(e) d’avoir votre auto sur les bras plusieurs semaines parce que d’autres vendeurs, nombreux, auront proposé une meilleure affaire. Mais si vous n’êtes pas trop gourmand(e) et si vous souhaitez faire avancer vos autres projets, la reprise de votre Dacia dans notre réseau peut s’effectuer très rapidement et au juste prix."
+        },
+        {
+          "text": "Il vous suffit simplement de renseigner dans notre outil soit votre numéro de plaque d’immatriculation, soit de remplir pas à pas le questionnaire qui nous aidera à déterminer quelle offre de reprise serait possible pour votre Dacia Duster, Sandero, Logan ou quel que soit le modèle. En 5 minutes maximum, vous aurez déjà une première idée de sa valeur."
+        },
+        {
+          "text": "L’un de nos collaborateurs prendra contact avec vous pour en discuter et si l’offre vous semble équitable, vous pourrez prendre rendez-vous chez le concessionnaire Citroën de votre ville ou le plus proche afin d’obtenir une offre plus fine et définitive. Mieux, vous pourrez en repartir directement avec un chèque ou bien avec un virement en cours (versement sous 8 jours maximum)."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "pourquoi-utiliser-le-service-de-reprise-",
+      "h2": "Pourquoi utiliser le service de reprise Citroën pour votre Dacia ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Le marché des Dacia d’occasion est tel que vous pouvez y perdre beaucoup de temps, passer à côté d’un véhicule qui vous fait envie et finalement vendre votre voiture à un prix plus faible que celui que vous attendiez. Au contraire, nos offres de reprise sont rapides et les"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimations-de-voiture",
+      "h2": "estimations de voiture",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "s’appuient sur des données objectives, qu’elles soient en votre faveur ou non. Nous examinons tout ce qui fera la différence pour le futur acheteur (carnet d’entretien, usure des pneus, état de la carrosserie…) et nous nous reposons sur le montant des dernières transactions réalisées sur le type de véhicule (Duster, Sandero, année, moteur, version…)."
+        },
+        {
+          "text": "Par ailleurs, le paiement est entièrement sécurisé: vous avez la garantie du sérieux du réseau Citroën et vous ne prenez pas le risque d’un chèque refusé ou d’un moyen de paiement qui ne vous inspire pas confiance. De même, nous remplissons avec vous les différents documents d’usage et nous nous occupons des démarches: vous repartez donc l’esprit tranquille une fois la reprise de votre Dacia effectuée."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "a-savoir",
+      "h2": "A savoir",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": ": Une reprise d’une Dacia pour l’achat d’une Citroënneuve, une LOA ou une LDD vous tente ? Selon les offres du moment, nous ajoutons à la valeur de la reprise certains bonus : ils seront à déterminer avec votre concessionnaire Citroën"
+        },
+        {
+          "text": "Réalisez gratuitement et sans engagement une estimation pour la reprise de votre Dacia – Duster, Logan, autres modèles – Cote et proposition en quelques minutes"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Faites reprendre votre Dacia par Citroën, sans engagement. Estimation gratuite en ligne pour Sandero, Duster, Logan et plus.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise Dacia",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Faites reprendre votre Dacia par Citroën, sans engagement. Estimation gratuite en ligne pour Sandero, Duster, Logan et plus.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Faites reprendre votre Dacia par Citroën, sans engagement. Estimation gratuite en ligne pour Sandero, Duster, Logan et plus.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/reprise-dacia",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

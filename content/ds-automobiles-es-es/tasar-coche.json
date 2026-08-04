@@ -1,0 +1,253 @@
+{
+  "page_key": "ds-automobiles-es-es__lp-tasar-coche",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/lp/tasar-coche",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/lp/tasar-coche",
+  "meta": {
+    "title": "Tasar coche online sin obligaciones | DS Automobiles",
+    "description": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "tasar coche",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo",
+    "lead": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "Tasación de coche con ni",
+      "anchor": "#tasacion-de-coche-con-ningun-costo-y-sin"
+    },
+    {
+      "label": "Algún daño que pueda ten",
+      "anchor": "#algun-dano-que-pueda-tener-de-cualquier-"
+    },
+    {
+      "label": "Las numerosas ventajas d",
+      "anchor": "#las-numerosas-ventajas-de-la-tasacion-de"
+    },
+    {
+      "label": "Tasar coche: Preguntas c",
+      "anchor": "#tasar-coche-preguntas-comunes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "tasacion-de-coche-con-ningun-costo-y-sin",
+      "h2": "Tasación de coche con ningún costo y sin obligarte a nada",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Cuál es la razón para tasar tu vehículo con nosotros? Al tasar con DS, puedes asegurarte de que obtendrás los resultados que deseas. Se trata de una tasación en internet que es completamente gratuita. Es confiable y fácil de obtener gracias a que DS es una empresa con mucha experiencia. Puedes decidir si quieres vender tu vehículo o si no deseas hacerlo aun y esto es algo que no tiene ningún tipo de obligación o costo."
+        },
+        {
+          "text": "¿Cómo es que puedes fácilmente tasar tu coche?"
+        },
+        {
+          "text": "¡Con DS, tasar tu carro es algo extremadamente fácil de lograr! Solo requieres lo siguiente:"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/63d34105-a0ed-4b38-a6a6-50f2fc106a66",
+      "image_alt": "como tasar facilmente coche parte 2",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "algun-dano-que-pueda-tener-de-cualquier-",
+      "h2": "Algún daño que pueda tener de cualquier tipo",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Brindarnos los datos relevantes para la tasación de tu vehículo. Si realmente deseas tasar tu coche apropiadamente, lo mejor es que te tomes el tiempo de responder el formulario y puedes lograrlo en menos de 5 minutos. Necesitaremos lo siguiente: Los datos que se requieren para identificar el coche. Cuando ingresas el registro del vehículo, será fácil poder identificarlo y de esta manera no tendrás que pasar por muchas etapas del proceso. En caso de que te parezca difícil recordar los datos, con solo tener la versión, el año de matriculación, el tipo de gasolina, la potencia y modelo del motor, color, etc. será más fácil obtener informaciones."
+        },
+        {
+          "text": "La tasación gratuita con solo 3 pasos:"
+        },
+        {
+          "text": "Etapa del proceso 1."
+        },
+        {
+          "text": ": Obtén la tasación de tu coche desde nuestra web y a tu correo de elección. Ya cuando ingreses los datos, tendremos más información para hacer el análisis y compáralo con otros vehículos de similar uso y modelos. ¡Realmente es una tasación que no tiene compromiso alguno y tú decides sin costo alguno! Reúnete con un profesional de DS. Al tener la tasación, se te contactará desde DS para poder hacer la tasación final para tu carro. Si cuando esto se haga te parece que es justa la tasación, se hará el proceso de obtener el vehículo y hacer el pago."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "las ventajas tasar coche ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "las-numerosas-ventajas-de-la-tasacion-de",
+      "h2": "Las numerosas ventajas de la tasación de su coche en la web",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "¿Cuáles son las numerosas ventajas de usar DS para este proceso?"
+        },
+        {
+          "text": "Tasación de tu coche: Todo es gratuito y se hace en línea. Este proceso es completamente sin costo alguno para ti y eso lo hace ideal. Tasación es muy profesional y confiable en todo aspecto: Con la experiencia grande de esta red, es algo de esperar que todo se hará de manera profesional y rápida."
+        },
+        {
+          "text": "Tasación. Tienes 10 días para decidir: ¡No tienes por qué decidir nada inmediatamente! La tasación tendrá validez por 10 días y hay una gran red de puntos de ventas de DS para este propósito."
+        },
+        {
+          "text": "Tasación muy rápida y eficiente – Obtén tu tasación rápidamente con solo rellenar el formulario y esto hace el proceso muy fácil."
+        },
+        {
+          "text": "¡Descubre el valor de tu vehículo en solo 5 minutos y con un servicio muy eficiente sin compromisos!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "las ventajas tasar coche ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "tasar-coche-preguntas-comunes",
+      "h2": "Tasar coche: Preguntas comunes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "¿CUAL ES EL PROCESO PARA PODER TENER UNA TASACIÓN DE MI COCHE?"
+        },
+        {
+          "text": "La tasación se encuentra basada en: • Danos los datos básicos como: Su marca, el modelo, el tipo de motor y su poder, su kilometraje, y fecha en que se puso a rodar. • Las observaciones del mercado son importantes: Comparar vehículos similares es de mucha ayuda. • Una deducción dependiendo de cuanto deba trabajarse en reparar el vehículo para que esté en condiciones ideales. Estos costos dependerán de la condición del vehículo."
+        },
+        {
+          "text": "¿COMO ES QUE FUNCIONA UN PROCESO DE TASACIÓN BRINDADO POR DS?"
+        },
+        {
+          "text": "Tasación desde el internet: Se trata de una tasación muy fácil de obtener rápidamente y la tendrás en 5 minutos por medio de la web sin problemas. Una vez que completes el formulario, podrás concretar una cita con el contacto de DS que te contactara a 24 horas en días hábiles de completar el formulario. Si te ha gustado la idea, puedes concretar la cita para la tasación final. Una vez que se haga todo el análisis del vehículo, será mucho más fácil obtener los datos necesarios. Esto es algo que permite que obtengas una oferta sin compromisos ni costo alguno por tu vehículo."
+        },
+        {
+          "text": "¿QUE NECESITO PARA TASAR MI COCHE CON DS?"
+        },
+        {
+          "text": "Si quieres tasar tu coche, necesitarás lo siguiente: - El registro de tu carro - El total kilometraje que tiene el vehículo - Datos básicos de color, los accesorios extra y algunos detalles más también deben ser incluidos."
+        },
+        {
+          "text": "¿QUE VENTAJAS HAY CON LA TASACIÓN POR PARTE DE DS?"
+        },
+        {
+          "text": "• Es un proceso muy rápido que es fácil de lograr sin problemas. • Puedes tener paz mental de que esto será un proceso que no tendrá ningún costo para ti ni estará ligado a obligaciones o contratos. • Puedes tener seguridad de que se te pagará el precio que se ofrece por tu vehículo una vez que la tasación final este finalizada."
+        },
+        {
+          "text": "¿COMO ME COMPROMETE ESTE PROCESO DE TASACIÓN?"
+        },
+        {
+          "text": "No hay compromiso y tendrás tu tasación rápidamente cuando la necesites y sin ningún costo. Así puedes decidir cómo y cuándo vender tu vehículo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/86b01aea-257b-409c-a9d6-cef8a017b37a",
+      "image_alt": "las ventajas tasar coche ds",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Tasar coche online sin obligaciones",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Nuestro servicio de tasación de coche de permite saber el valor de tu vehículo ¡Prueba nuestro tasador!",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/lp/tasar-coche",
+    "medias_trouves": 4,
+    "blocs_detectes": 4,
+    "notes": [
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

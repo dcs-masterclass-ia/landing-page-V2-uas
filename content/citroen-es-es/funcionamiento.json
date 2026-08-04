@@ -1,0 +1,259 @@
+{
+  "page_key": "citroen-es-es__funcionamiento",
+  "brand": "citroen",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.citroen.es",
+  "slug": "/funcionamiento",
+  "source_v1": "https://www.tasacion.citroen.es/funcionamiento",
+  "meta": {
+    "title": "Funcionamiento | Tasación Citroën",
+    "description": "Tasación Citroën te ofrece la recompra de tu coche de segunda mano. Es gratis, rápido y sin compromiso.",
+    "site_name": "Citroen ES",
+    "author": "Citroen ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasación Citroën"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.citroen.es/"
+    },
+    {
+      "label": "Funcionamiento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasación Citroën",
+    "lead": "Tasación Citroën te ofrece la recompra de tu coche de segunda mano. Es gratis, rápido y sin compromiso.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "subnav": [
+    {
+      "label": "Una tasación fácil y ráp",
+      "anchor": "#una-tasacion-facil-y-rapida"
+    },
+    {
+      "label": "oferta de recompra",
+      "anchor": "#oferta-de-recompra"
+    },
+    {
+      "label": "tasación y recompra de t",
+      "anchor": "#tasacion-y-recompra-de-tu-coche"
+    },
+    {
+      "label": "Tranquilidad",
+      "anchor": "#tranquilidad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "una-tasacion-facil-y-rapida",
+      "h2": "Una tasación fácil y rápida",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Indica los detalles y el estado de tu vehículo y recibe inmediatamente una por email."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "oferta-de-recompra",
+      "h2": "oferta de recompra",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "El concesionario Citroën que hayas elegido te contactará para fijar una cita y finalizar el proceso de la . Durante la cita, uno de nuestros expertos examinará en tu presencia el estado del vehículo, sea cual sea su marca y modelo."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tasacion-y-recompra-de-tu-coche",
+      "h2": "tasación y recompra de tu coche",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Cuando vayas al concesionario, uno de nuestros expertos examinará contigo tu coche. Una vez revisado el coche, y estando de acuerdo en su estado y valor, el concesionario se compromete a retomar el coche. Es gratuito, rápido y sin compromiso. Sólo necesitarás unos minutos para describir tu vehículo y conocer la tasación estimada. El servicio de tasación de coches Citroën realiza la tasación de vehículos sobre la base de la observación del mercado y de las tasaciones recientes. Tasación Citroën es un servicio que te permite tasar tu vehículo rápidamente y sin compromiso, pudiendo cerrar una cita con el concesionario Citroën más cercano."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tranquilidad",
+      "h2": "Tranquilidad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Gratuita",
+        "Sin compromiso",
+        "Oferta ajustada al valor de mercado"
+      ],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Solicita una cita con un punto de venta",
+        "Oferta personalizada en tu email"
+      ],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza",
+        "Tasación rápida y sin compromiso",
+        "Tramites simplificados"
+      ],
+      "image": "https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.citroen.es/"
+  },
+  "footer": {
+    "tagline": "Tasación Citroën te ofrece la recompra de tu coche de segunda mano. Es gratis, rápido y sin compromiso.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/citroen.es"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenespana"
+      },
+      {
+        "network": "instagram",
+        "href": "https://instagram.com/citroenespana"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenEspana"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Funcionamiento",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Tasación Citroën te ofrece la recompra de tu coche de segunda mano. Es gratis, rápido y sin compromiso.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.citroen.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Tasación Citroën te ofrece la recompra de tu coche de segunda mano. Es gratis, rápido y sin compromiso.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.citroen.es/funcionamiento",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-serenity.jpg",
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-fast.jpg",
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/content-safe.jpg",
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.citroen.es/build/img/citroen/chevron-up-home.svg",
+      "5 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

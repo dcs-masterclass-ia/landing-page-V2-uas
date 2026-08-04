@@ -1,0 +1,255 @@
+{
+  "page_key": "citroen-de-de__lp-fahrzeugbewertung",
+  "brand": "citroen",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.citroen-kauft-ihr-auto.de",
+  "slug": "/lp/fahrzeugbewertung",
+  "source_v1": "https://www.citroen-kauft-ihr-auto.de/lp/fahrzeugbewertung",
+  "meta": {
+    "title": "▷ Was ist mein Auto Wert ? | Kostenlos Bewertung bei Citroën ✔",
+    "description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
+    "site_name": "Citroen DE",
+    "author": "Citroen DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Was ist mein Auto Wert? Wir bei Citroen haben die Antwort für Sie."
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Was ist mein Auto Wert? Wir bei Citroen haben die Antwort für Sie.",
+    "lead": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "subnav": [
+    {
+      "label": "Warum lohnt sich die Fah",
+      "anchor": "#warum-lohnt-sich-die-fahrzeugbewertung-b"
+    },
+    {
+      "label": "Ermitteln Sie den geschä",
+      "anchor": "#ermitteln-sie-den-geschatzten-wert-ihres"
+    },
+    {
+      "label": "Holen Sie ein Sachverstä",
+      "anchor": "#holen-sie-ein-sachverstandigengutachten-"
+    },
+    {
+      "label": "Wieso es sich für Sie lo",
+      "anchor": "#wieso-es-sich-fur-sie-lohnt-ihr-auto-onl"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "warum-lohnt-sich-die-fahrzeugbewertung-b",
+      "h2": "Warum lohnt sich die Fahrzeugbewertung bei Citroen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wir bei Citroen wissen, wie wichtig es ist, den besten Wert für Ihr Fahrzeug zu erhalten. Deshalb bietet Ihnen unser Wertermittlungsservice die folgenden Vorteile: - Kostenfrei: Unser Online-tool zur Fahrzeugbewertung ist einfach zu bedienen und völlig kostenlos. - Genaue Marktanalyse: Wir stützen unsere Schätzungen auf aktuelle Markttrends und jüngste Transaktionen. - Fachkundige Unterstützung: Unser Netzwerk von Citroen-Experten steht Ihnen bei der Inzahlungnahme unverbindlich zur Seite. Entscheiden Sie sich für Citroen, um Ihr Auto bewerten zu lassen und das Beste für Ihre Inzahlungnahme zu erhalten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ermitteln-sie-den-geschatzten-wert-ihres",
+      "h2": "Ermitteln Sie den geschätzten Wert Ihres Autos.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Unser Fahrzeugbewertungstool liefert Ihnen auf der Grundlage der gesammelten Daten einen Schätzwert für Ihr Auto. Erforderliche Daten: - Marke - Modell - Jahr der Erstzulassung - Kilometerstand"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "holen-sie-ein-sachverstandigengutachten-",
+      "h2": "Holen Sie ein Sachverständigengutachten ein.",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Unsere Experten können Ihnen eine genauere Antwort über den Wert Ihres Fahrzeugs geben. Sie können Ihnen eine Einschätzung geben, die auf ihrer Erfahrung und Marktkenntnis beruht. Um Ihr Auto zu bewerten, beantworten Sie bitte die gestellten Fragen so genau wie möglich. Beantworten Sie einfach einige Fragen zu Version, Jahr der Erstzulassung, Kraftstoff und Motorleistung. Nachdem Sie diese Informationen eingesendet haben, analysiert unser Algorithmus den Markt und Sie erhalten die Bewertung Ihres Fahrzeugs online und per E-Mail. Der von Ihnen gewählte Citroen-Händler wird sich mit Ihnen in Verbindung setzen, um einen Termin zu vereinbaren, bei dem er Ihnen einen endgültigen Schätzwert für Ihr Fahrzeug nennen wird. Wenn Sie mit dieser Einschätzung zufrieden sind, kümmert er sich um die Inzahlungnahme und alle damit verbundenen Formalitäten."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wieso-es-sich-fur-sie-lohnt-ihr-auto-onl",
+      "h2": "Wieso es sich für Sie lohnt, Ihr Auto online bewerten zu lassen:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Holen Sie sich eine genaue und kostenlose Fahrzeugbewertung über das Citroen-Netzwerk. Unser Fachwissen garantiert Ihnen einen professionellen und zuverlässigen Preis. Außerdem können Sie sich in aller Ruhe entscheiden, denn der Kostenvoranschlag ist 10 Tage lang gültig. Mit zahlreichen Verkaufsstellen in ganz Deutschland bietet Ihnen das Citroen-Netz die beste Möglichkeit, Ihr Auto problemlos in Zahlung zu geben. Sie erhalten den Inzahlungnahme-Wert Ihres Autos sofort, nachdem Sie den Fragebogen zu Ihrem Fahrzeug ausgefüllt haben."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Was ist mein Auto Wert?"
+        },
+        {
+          "text": "Die Bewertung basiert auf: - Die Merkmale des Fahrzeugs wie Marke, Modell, Motor, Ausstattung, Kilometerstand und Zulassungsdatum. - Analyse des Automobilmarktes mit den jüngsten Transaktionen ähnlicher Fahrzeuge durch Experten. - Schätzung der Kosten für Reparaturen, die je nach dem aktuellen Zustand des Fahrzeugs erforderlich sind."
+        },
+        {
+          "text": "Wie wird mein Auto übernommen?"
+        },
+        {
+          "text": "Erhalten Sie eine Bewertung: Füllen Sie unseren Fragebogen mit Ihren Fahrzeugdaten aus, um eine kostenlose Online-Schätzung zu erhalten. Sie erhalten umgehend einen Kostenvoranschlag für die Inzahlungnahme, den wir Ihnen ebenfalls per E-Mail zusenden. Wenn Sie mit dieser Schätzung zufrieden sind, kümmert sich der Citroen-Händler um die Inzahlungnahme Ihres Fahrzeugs und den damit verbundenen Papierkram! Ernten Sie die Früchte der Citroen-Meisterschaft: Während des Termins wird ein Experte den Zustand Ihres Autos vor Ihnen begutachten und Ihnen einen verbindlichen Inzahlungnahme-Wert vorschlagen. Wenn wir uns einig sind, kaufen wir Ihr Fahrzeug an. Um den Wert Ihres Autos zu ermitteln, müssen Sie einige Dokumente und Informationen zur Verfügung stellen, z. B. den Kilometerstand und Angaben zum allgemeinen Zustand (Farbe, Karosserie, Ausstattung usw.)."
+        },
+        {
+          "text": "Was für Vorteile sind enthalten?"
+        },
+        {
+          "text": "Erleben Sie mühelose Schnelligkeit mit dem Inzahlungnahme-Service von Citroen. Mit nur wenigen Klicks erhalten Sie eine unverbindliche Einschätzung des Wertes Ihres Fahrzeugs direkt an Ihre E-Mail-Adresse. - Mit der Sicherheitsgarantie von Citroen können Sie darauf vertrauen, dass Ihre Zahlung garantiert und sicher ist. - Mit dem Inzahlungnahme-Service von Citroen erleben Sie keine bösen Überraschungen."
+        },
+        {
+          "text": "Wozu bin ich als Verkäufer verpflichtet?"
+        },
+        {
+          "text": "Unsere Bewertung des Rücknahmeangebots von Reprise Citroen ist unverbindlich. Sie können unser Angebot innerhalb von 24 Stunden an Werktagen kostenlos und unverbindlich erhalten. Sie haben die Möglichkeit, einen Beratungstermin mit unseren Citroen-Experten zu vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "footer": {
+    "tagline": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://de-de.facebook.com/citroendeutschland/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroen_de"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroen.deutschland/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenDeutschland"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "▷ Was ist mein Auto Wert ?",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.citroen-kauft-ihr-auto.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Mit unserem kostenlose Fahrzeugbewertung service, können Sie den Wert Ihres Fahrzeugs schnell und einfach schätzen.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.citroen-kauft-ihr-auto.de/lp/fahrzeugbewertung",
+    "medias_trouves": 6,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "page_key": "citroen-be-nl__lp-auto-verkopen",
+  "brand": "citroen",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.citroen.be",
+  "slug": "/lp/auto-verkopen",
+  "source_v1": "https://overname.citroen.be/lp/auto-verkopen",
+  "meta": {
+    "title": "Uw auto veilig verkopen aan een professional → Citroën",
+    "description": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "site_name": "Citroen BE",
+    "author": "Citroen BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Uw auto veilig verkopen aan een professional"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.citroen.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.citroen.be/"
+    },
+    {
+      "label": "Auto verkopen",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Uw auto veilig verkopen aan een professional",
+    "lead": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.citroen.be/"
+  },
+  "subnav": [
+    {
+      "label": "Mijn overnamebod bereken",
+      "anchor": "#mijn-overnamebod-berekenen"
+    },
+    {
+      "label": "Voordelen van onze diens",
+      "anchor": "#voordelen-van-onze-dienst"
+    },
+    {
+      "label": "Verkoop uw auto in slech",
+      "anchor": "#verkoop-uw-auto-in-slechts-een-paar-stap"
+    },
+    {
+      "label": "Ontvang een online en pe",
+      "anchor": "#ontvang-een-online-en-per-e-mail-schatti"
+    },
+    {
+      "label": "Maak een afspraak met ee",
+      "anchor": "#maak-een-afspraak-met-een-professional-v"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "mijn-overnamebod-berekenen",
+      "h2": "Mijn overnamebod berekenen",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wilt u uw auto verkopen? Bij Reprise Citroën kunt u uw auto gratis online laten schatten zonder verplichtingen. Kies voor veiligheid en betrouwbaarheid met een professional van het Citroën -netwerk en gegarandeerde betaling. Zo vermijdt u de risico's die soms optreden bij de verkoop tussen particulieren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/8d353cef-d9d1-4f8b-ae15-5211fe2d7fa8",
+      "image_alt": "Verkoop uw auto in slechts een paar stappen",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "voordelen-van-onze-dienst",
+      "h2": "Voordelen van onze dienst",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Onze offerte is 100% gratis en vrijblijvend. Ontvang online en per e-mail een schatting van uw auto en beslis of het voor u geschikt is. Een dealer bij u in de buurt neemt contact op om een afspraak te maken wanneer het u uitkomt. Verkoop uw auto veilig en betrouwbaar aan een professional van het Citroën-netwerk met een snelle betaling. Voer uw autogegevens in Om een nauwkeurige schatting te kunnen maken, hebben we essentiële informatie nodig over uw auto. Vul onze eenvoudige en snelle vragenlijst in om deze informatie te verzamelen. Binnen vijf minuten ontvangt u de schatting van uw auto. Begin de vragenlijst door uw kenteken in te voeren. Op deze manier kunnen we de belangrijkste kenmerken van de auto die u wilt verkopen, identificeren. Waarom kentekenplaten gebruiken? 1. Het is gemakkelijker: merk, model, categorie, motor en datum van eerste registratie zijn vooraf ingevuld. 2. Het vooraf identificeren van uw voertuig is sneller en bespaart u verschillende stappen in het proces, waardoor u tijd bespaart."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/33/46840766-e709-43c4-9c1d-13b8242c1969",
+      "image_alt": "Verkoop veilig uw auto met gemak",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "verkoop-uw-auto-in-slechts-een-paar-stap",
+      "h2": "Verkoop uw auto in slechts een paar stappen",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Stap 1:"
+        },
+        {
+          "text": "Als u uw kenteken niet bij de hand heeft, is dat geen probleem. Beantwoord gewoon een paar vragen om uw auto te identificeren, zoals het model, bouwjaar, brandstoftype, motor, kleur, uitrusting, enzovoort."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "ontvang-een-online-en-per-e-mail-schatti",
+      "h2": "Ontvang een online en per e-mail schatting van uw auto",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Stap 2:"
+        },
+        {
+          "text": "Zodra u deze informatie heeft ingevuld, zullen wij de markt analyseren om u een eerlijke prijs aan te bieden. Deze prijs zal aan het einde van de vragenlijst worden weergegeven en zal ook per e-mail naar u worden verzonden. Ons aanbod is vrijblijvend, u beslist!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "maak-een-afspraak-met-een-professional-v",
+      "h2": "Maak een afspraak met een professional van het Citroën-netwerk",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Stap 3:"
+        },
+        {
+          "text": "De door u gekozen Citroën-dealer neemt contact met u op om een afspraak te maken in de showroom om uw auto te verkopen. Ter plaatse zal hij een inspectie van uw auto uitvoeren en u een definitieve inruilprijs voorstellen. Als u tevreden bent met deze prijs, kopen we uw auto onmiddellijk terug, zonder enige administratieve procedure. Wij zorgen voor alles!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "verkoop-veilig-uw-auto-met-gemak",
+      "h2": "Verkoop veilig uw auto met gemak",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Als u uw auto verkoopt aan een particulier: ● Geen garanties ● Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt: ● Snelle online evaluatie ● Geen verplichting ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk ● Veilige betaling ● Wij helpen u met de administratieve procedures Binnen 5 minuten weet u hoeveel uw auto waard is!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Auto verkopen?"
+        },
+        {
+          "text": "Verkoop uw auto gemakkelijk: ● Ontvang uw gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, wordt u binnen 24 uur gecontacteerd door de door u gekozen dealer. Bevalt de schatting u? Onze Citroën-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Citroën: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+        },
+        {
+          "text": "Auto verkopen - Hoe wordt de waarde geschat?"
+        },
+        {
+          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+        },
+        {
+          "text": "Auto verkopen - Hoe maak ik een afspraak?"
+        },
+        {
+          "text": "● Dit is eenvoudig. Tijdens uw online schatting kiest u een Citroën-verkooppunt bij het postadres van uw keuze. Een Citroën-dealer neemt binnen 24 uur contact met u op om samen een afspraak te maken. U kunt ook zelf contact opnemen met de dealer via de contactgegevens die bij uw schatting zijn verstrekt."
+        },
+        {
+          "text": "Auto verkopen - Hoe word ik betaald?"
+        },
+        {
+          "text": "● Met het Citroën-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Citroën-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.citroen.be/"
+  },
+  "footer": {
+    "tagline": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.BeLux"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroenbelux"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenbelux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/citroenbelux"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citro%C3%ABn-belux"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Uw auto veilig verkopen aan een professional → Citroën",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.citroen.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "howto_name": "Uw auto veilig verkopen aan een professional",
+    "howto_description": "Citroën begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals.",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.citroen.be/lp/auto-verkopen",
+    "medias_trouves": 7,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.citroen.be/build/img/citroen/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

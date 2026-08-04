@@ -1,0 +1,346 @@
+{
+  "page_key": "citroen-fr-fr__lp-cote-voiture",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/cote-voiture",
+  "source_v1": "https://www.reprise.citroen.fr/lp/cote-voiture",
+  "meta": {
+    "title": "Cote voiture : estimation gratuite en ligne | Citroën",
+    "description": "Obtenez votre cote voiture en ligne : estimation fiable et gratuite, reprise toutes marques avec Citroën.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Cote voiture : calculez la valeur de votre véhicule"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Cote voiture : calculez la valeur de votre véhicule",
+    "lead": "Obtenez votre cote voiture en ligne : estimation fiable et gratuite, reprise toutes marques avec Citroën.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi connaître la co",
+      "anchor": "#pourquoi-connaitre-la-cote-de-votre-vehi"
+    },
+    {
+      "label": "estimation auto",
+      "anchor": "#estimation-auto"
+    },
+    {
+      "label": "Comment est calculée la ",
+      "anchor": "#comment-est-calculee-la-cote-auto"
+    },
+    {
+      "label": "Finition: Attraction, Co",
+      "anchor": "#finition-attraction-confort-exclusive-se"
+    },
+    {
+      "label": "Dernières transactions e",
+      "anchor": "#dernieres-transactions-effectuees-sur-de"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-connaitre-la-cote-de-votre-vehi",
+      "h2": "Pourquoi connaître la cote de votre véhicule ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour connaitre la valeur de votre véhicule, vous avez besoin de savoir quelle est sa cote. Avec Citroën, la cote proposée est encore plus concrète: il s’agit purement et simplement d’une offre de reprise, peu importe la marque ou le modèle de votre auto, et que vous souhaitiez acheter un véhicule neuf ou d’occasion."
+        },
+        {
+          "text": "Pour connaitre en particulier la cote de votre véhicule Citroën (C3, C4, C4 Picasso, Berlingo ou autre), voici comment faire:"
+        },
+        {
+          "text": "Renseignez votre plaque d’immatriculation dans notre outil ou bien répondez à un questionnaire simple qui vous demandera toutes les informations nécessaires"
+        },
+        {
+          "text": "Nous vous recontactons pour vous proposer la cote correspondante et l’éventuelle offre de reprise à laquelle vous pourriez prétendre"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimation-auto",
+      "h2": "estimation auto",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "plus fine, rendez-vous dans une concession Citroën pour un examen plus détaillé de votre véhicule"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "comment-est-calculee-la-cote-auto",
+      "h2": "Comment est calculée la cote auto ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Lorsque vous remplissez notre questionnaire en ligne ou que vous renseignez le numéro de votre plaque d’immatriculation dans notre outil, nous nous appuyons sur l’ensemble des critères traditionnels:"
+        },
+        {
+          "text": "Modèle: C3, C4, C4 Picasso, Berlingo… C’est le point de départ pour la cote."
+        },
+        {
+          "text": "Année de mise en circulation: outre l’ancienneté en tant que telle, elle permet aussi de déterminer la version de votre modèle. Par exemple, le C4 Picasso est devenu le C4 Space Tourer depuis mai 2018"
+        },
+        {
+          "text": "Mécanique: motorisation (diesel, essence…), boîte de vitesse, nombre de chevaux fiscaux, puissance moteur…"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "finition-attraction-confort-exclusive-se",
+      "h2": "Finition: Attraction, Confort, Exclusive, série spéciale… et équipements",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kilométrage et état. Les défauts, l’usure et le suivi de l’entretien influent sur la cote de votre voiture. Notez que même non roulante, nous reprenons votre Citroën ou tout autre marque de véhicule"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "dernieres-transactions-effectuees-sur-de",
+      "h2": "Dernières transactions effectuées sur des modèles semblables",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Pour autant, une cote plus fine vous sera donnée en concession si vous souhaitez aller plus loin. L’un de nos experts vous accueillera pour discuter et observer les détails de votre voiture qui impacteront sa cote. Certaines des options proposées sur nos modèles C3 et C4 peuvent, en plus du niveau de finition choisi et moyennant un très bon état général, faire pencher la balance pour une cote plus importante. Pour le C4 Picasso, les versions 7 places sont parfois davantage recherchées; la longueur de votre Berlingo (pour le III, 4,40m et 4,75m) ou sa version (XTR, électrique…) pourra également vous être favorable."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "de-la-cote-a-la-reprise-citroen",
+      "h2": "De la cote à la reprise Citroën…",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "… il n’y a qu’un pas! En effet l’estimation que nous vous proposons vaut pour offre de reprise. La cote de votre voiture vous permet soit une offre de reprise pour un véhicule neuf, soit un rachat pour une voiture d’occasion, une LOA ou LDD, ou encore une reprise cash."
+        },
+        {
+          "text": "Envie de connaître la valeur de votre voiture ? Citroën vous calcule gratuitement sa cote quel que soit son modèle : C3, C4, C4 Picasso, Berlingo…"
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Obtenez votre cote voiture en ligne : estimation fiable et gratuite, reprise toutes marques avec Citroën.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Cote voiture : estimation gratuite en ligne",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Obtenez votre cote voiture en ligne : estimation fiable et gratuite, reprise toutes marques avec Citroën.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Obtenez votre cote voiture en ligne : estimation fiable et gratuite, reprise toutes marques avec Citroën.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/cote-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 8,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "6 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

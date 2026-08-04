@@ -1,0 +1,179 @@
+{
+  "page_key": "opel-es-es__comentario",
+  "brand": "opel",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.opel.es",
+  "slug": "/comentario",
+  "source_v1": "https://www.tasacion.opel.es/comentario",
+  "meta": {
+    "title": "¿Cómo se calcula el precio de mi coche? - Tasación Opel España",
+    "description": "¿Cómo se calcula el precio de mi coche?",
+    "site_name": "Opel ES",
+    "author": "Opel ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Tasación en Opel"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.opel.es/"
+    },
+    {
+      "label": "¿Cómo se calcula el precio de mi coche?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Tasación en Opel",
+    "lead": "¿Cómo se calcula el precio de mi coche?",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "subnav": [
+    {
+      "label": "Seguridad",
+      "anchor": "#seguridad"
+    },
+    {
+      "label": "Rapidez",
+      "anchor": "#rapidez"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "seguridad",
+      "h2": "Seguridad",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Sin compromiso",
+        "Formalidades simplificadas"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/c436c28e-00f0-4820-9a7e-77db80f1a0b2",
+      "image_alt": "opel3",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "rapidez",
+      "h2": "Rapidez",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [],
+      "bullets": [
+        "Elige un punto de venta",
+        "Profesionales de confianza",
+        "Una transacción segura y rápida",
+        "Oferta ajustada"
+      ],
+      "image": "https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.opel.es/"
+  },
+  "footer": {
+    "tagline": "¿Cómo se calcula el precio de mi coche?",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://es-es.facebook.com/OpelSpain/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opel_spain?lang=es"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_spain/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelspainGM"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "¿Cómo se calcula el precio de mi coche? - Tasación Opel España",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "¿Cómo se calcula el precio de mi coche?",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.opel.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "¿Cómo se calcula el precio de mi coche?",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.opel.es/comentario",
+    "medias_trouves": 8,
+    "blocs_detectes": 2,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/46/8211ac1a-52ee-4db8-8fea-6e80ddbd6fb3",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/46/498a597a-2475-4380-bb5c-c6c8548d538b",
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.tasacion.opel.es/build/img/opel/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

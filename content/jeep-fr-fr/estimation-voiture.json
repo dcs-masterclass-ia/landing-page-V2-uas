@@ -1,0 +1,257 @@
+{
+  "page_key": "jeep-fr-fr__lp-estimation-voiture",
+  "brand": "jeep",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://reprise.jeep.fr",
+  "slug": "/lp/estimation-voiture",
+  "source_v1": "https://reprise.jeep.fr/lp/estimation-voiture",
+  "meta": {
+    "title": "Estimation voiture : Solution en ligne rapide & sûre ✔ | Jeep ®",
+    "description": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "site_name": "Jeep FR",
+    "author": "Jeep FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Estimation de votre voiture en ligne, en toute simplicité et sans engagement !"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.jeep.fr/"
+    },
+    {
+      "label": "estimation voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Estimation de votre voiture en ligne, en toute simplicité et sans engagement !",
+    "lead": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi évaluer votre v",
+      "anchor": "#pourquoi-evaluer-votre-voiture-sur-notre"
+    },
+    {
+      "label": "Comment fonctionne l’est",
+      "anchor": "#comment-fonctionne-lestimation-de-ma-voi"
+    },
+    {
+      "label": "Les avantages de faire l",
+      "anchor": "#les-avantages-de-faire-lestimation-de-vo"
+    },
+    {
+      "label": "Questions Fréquentes",
+      "anchor": "#questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-evaluer-votre-voiture-sur-notre",
+      "h2": "Pourquoi évaluer votre voiture sur notre site ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Aujourd'hui, au milieu de la quantité de sites internet d'évaluation en ligne, choisir la reprise JEEP, c'est la garantie de : Vous n'avez aucun engagement, mais nous mettons tout notre réseau à votre service si vous souhaitez la revendre."
+        }
+      ],
+      "bullets": [
+        "Une estimation totalement en ligne et gratuite : estimez votre voiture en quelques clics sans rien dépenser",
+        "Une estimation fiable, établie sur la base d’observations du marché et des transactions récentes",
+        "L'expertise du réseau JEEP à votre service pour reprendre votre véhicule."
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "comment-fonctionne-lestimation-de-ma-voi",
+      "h2": "Comment fonctionne l’estimation de ma voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nous vous permettons de faire l’estimation de votre voiture sur la base d’observations du marché et des transactions récentes, par un professionnel de l’automobile. Afin de pouvoir évaluer et vous donner une estimation, nous avons besoin d'informations précises. Renseignez toutes les informations nécessaires à l'évaluation de votre véhicule Vous aurez à nous fournir les informations pour identifier le modèle de votre voiture. En renseignant l’immatriculation de votre véhicule, nous identifions la voiture que vous souhaitez évaluer. Votre modèle est alors identifié grâce à votre immatriculation, et vous sautez plusieurs étapes du parcours, et donc vous gagnez du temps. Vous avez oublié votre immatriculation? pas de soucis ! Vous pouvez répondre à quelques questions pour nous permettre d’identifier votre voiture : version, année de MEC, carburant, puissance moteur"
+        },
+        {
+          "text": "Étape 1."
+        },
+        {
+          "text": "Recevez l’estimation de votre voiture en ligne et par email Une fois ces informations renseignées, nous analysons le marché pour vous donner le prix juste qui vous est présenté à la fin du questionnaire. Cette estimation vous est aussi envoyée directement par mail. Cette estimation est sans engagement, vous avez le choix de continuer ou non le processus ! Rendez-vous présentiel avec un professionnel du réseau JEEP À la suite de votre évaluation, vous serez recontacté par le concessionnaire JEEP que vous aurez choisi pour convenir d'un rendez-vous et établira une estimation finale de votre véhicule. Si cette évaluation vous satisfait, votre concessionnaire se chargera de la reprise de votre véhicule sans charge administrative pour vous !"
+        },
+        {
+          "text": "Étape 2 :"
+        },
+        {
+          "text": "Étape 3 :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-avantages-de-faire-lestimation-de-vo",
+      "h2": "Les avantages de faire l’estimation de voiture en ligne",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Estimation de votre voiture 100 % gratuite et en ligne : pas d'inquiétude à avoir ! Nous vous permettons d'évaluer votre voiture directement sur notre site internet et surtout gratuitement ! Avec notre expérience JEEP, vous avez la certitude d'obtenir une évaluation professionnelle et fiable.",
+        "Estimation valable pendant 10 jours : vous avez mal à vous décider immédiatement ? Aucun problème ! Votre estimation est valable durant 10 jours.",
+        "Un réseau large pour faire reprendre votre voiture partout en France : faire reprendre votre voiture n'aura jamais été aussi facile.",
+        "Estimation de voiture rapide — Réception du prix instantanément : pas besoin d'attendre ! Aussitôt que vous finissez de remplir le formulaire, vous obtenez l'estimation de votre voiture."
+      ],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. COMMENT EST CALCULÉE L’ESTIMATION DE REPRISE DE MA VOITURE ?"
+        },
+        {
+          "text": "L’estimation est établie sur : • Les caractéristiques de votre véhicule : marque, modèle, motorisation, finition, kilométrage, date de mise en circulation. • Les observations du marché : transactions récentes réalisées par des professionnels sur des modèles équivalents. • Une déduction de frais de remise en état standard. Ces frais sont ajustables en fonction de l'état réel du véhicule."
+        },
+        {
+          "text": "2. COMMENT FONCTIONNE LA REPRISE PAR JEEP ?"
+        },
+        {
+          "text": "Estimation gratuite en ligne : Obtenez une estimation gratuite en ligne en remplissant notre questionnaire en ligne avec les informations concernant votre véhicule. En moins de 5min, vous obtenez une estimation pour votre véhicule, qui vous sera également transmise par email. Obtenez un rendez-vous : Une fois le formulaire renseigné, vous serez recontacté par le concessionnaire de votre choix sous 24 h.L'estimation vous satisfait ? Convenez d’un rendez-vous en concession pour la reprise de votre voiture. Profitez de l’expertise JEEP : Lors du rendez-vous, l’un de nos experts examine, en votre présence l’état du véhicule et vous propose un prix de reprise ferme. Une fois votre accord confirmé, nous rachetons votre voiture."
+        },
+        {
+          "text": "3. QUELS DOCUMENTS SONT NÉCESSAIRES POUR ÉVALUER MA VOITURE PAR JEEP ?"
+        },
+        {
+          "text": "Pour évaluer votre voiture, vous aurez besoin de : - La carte grise de votre voiture pour renseigner l'immatriculation de votre voiture - Le kilométrage de votre voiture ; Par ailleurs, vous devrez renseigner des informations sur l'état général de la voiture : couleur, carrosserie, équipements, etc."
+        },
+        {
+          "text": "4. QUELS SONT LES AVANTAGES À UTILISER LE SERVICE REPRISE PAR JEEP ?"
+        },
+        {
+          "text": "• Rapidité. En seulement quelques clics, recevez une estimation de la valeur de votre véhicule par email. L’estimation de reprise est sans engagement. • Sérénité. Évitez les mauvaises surprises. En sollicitant le service de Reprise JEEP vous recevez une estimation de la valeur de votre véhicule par un professionnel de l’automobile. Chaque véhicule est évalué sur la base d’observations du marché et des transactions récentes. • Sécurité. Le paiement de votre véhicule est garanti et sécurisé. Lors de la transaction, le paiement du véhicule est assuré par un concessionnaire JEEP."
+        },
+        {
+          "text": "5. A QUOI M’ENGAGE UNE ESTIMATION DE REPRISE ?"
+        },
+        {
+          "text": "L’estimation de reprise proposée par Reprise JEEP est sans engagement. Vous recevrez gratuitement notre proposition sous 24h les jours ouvrés. Estimation sans engagement de votre part. Libre à vous de prendre un rendez-vous avec nos experts JEEP."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.jeep.fr/"
+  },
+  "footer": {
+    "tagline": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://fr-fr.facebook.com/jeepfrance/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/jeep_france/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/jeepfrance"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Estimation voiture : Solution en ligne rapide & sûre ✔",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.jeep.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "howto_name": "Estimation de votre voiture en ligne, en toute simplicité et sans engagement !",
+    "howto_description": "Vous souhaitez estimer votre voiture ? En quelques clics, obtenez la valeur de votre véhicule grâce à notre solution Jeep - C'est simple, rapide et sécurisé ✔",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.jeep.fr/lp/estimation-voiture",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.jeep.fr/build/img/jeep/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

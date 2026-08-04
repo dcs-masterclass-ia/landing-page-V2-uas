@@ -1,0 +1,216 @@
+{
+  "page_key": "opel-de-de__lp-fahrzeugbewertung",
+  "brand": "opel",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.opel-kauft-dein-auto.de",
+  "slug": "/lp/fahrzeugbewertung",
+  "source_v1": "https://www.opel-kauft-dein-auto.de/lp/fahrzeugbewertung",
+  "meta": {
+    "title": "Was ist mein Auto Wert? → Direkt Online Angebot von Opel ✔",
+    "description": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
+    "site_name": "Opel DE",
+    "author": "Opel DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Was ist mein Auto Wert? Wir bei Opel haben die Antwort für Sie."
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Was ist mein Auto Wert? Wir bei Opel haben die Antwort für Sie.",
+    "lead": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "subnav": [
+    {
+      "label": "Warum solltest du dein A",
+      "anchor": "#warum-solltest-du-dein-auto-bei-opel-bew"
+    },
+    {
+      "label": "Das Ergebnis & Terminver",
+      "anchor": "#das-ergebnis-terminvereinbarung"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "warum-solltest-du-dein-auto-bei-opel-bew",
+      "h2": "Warum solltest du dein Auto bei Opel bewerten lassen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wenn du Opel mit der Fahrzeugbewertung beauftragst, erhältst du eine Reihe von Vorteilen: - Du erhältst in kürzester Zeit eine kostenlose Online-Schätzung des Wertes deines Fahrzeugs. - Zuverlässige und genaue Bewertung auf der Grundlage von Marktanalysen und aktuellen Transaktionen. - Profitiere von der Expertise des Opel-Netzwerks für einen reibungslosen Inzahlungnahme-Prozess."
+        },
+        {
+          "text": "Dir wird ein Tool zur Verfügung gestellt, welches aktuelle Transaktionen und das angeeignete Fachwissen unserer Fachleute anwendet. Damit wird dein Auto akkurat bewertet und der Wert des Autos ermittelt. Um dein Auto genau bewerten zu lassen, füllst du den mitgelieferten Fragebogen mit allen notwendigen Angaben aus. Das sollte nicht länger als 5 Minuten dauern und mit ein paar Klicks erhältst du den Inzahlungnahme-Wert deines Autos. Beantwortest du ein paar Fragen zur Version, zum Baujahr, zum Kraftstoff und zur Motorleistung, und du kannst eine Schätzung erhalten. Übermittel schließlich die Informationen und unser Algorithmus wird den Markt analysieren, um dir den Inzahlungnahme-Wert deines Fahrzeugs zu ermitteln, sowohl online als auch per E-Mail."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "das-ergebnis-terminvereinbarung",
+      "h2": "Das Ergebnis & Terminvereinbarung",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Sobald ein Ergebnis der Fahrzeugbewertung erhalten wurde, wird dieses dir zukommen. Der Wert ist vorerst geschätzt, enthält jedoch trotzdem einen Bericht, welcher die Details des Ergebnisses erklärt. Dein ausgewählter Opel-Händler wird sich nach der Bewertung mit dir in Verbindung setzen, um einen Termin zu vereinbaren. Bei diesem Termin wird er dir einen endgültigen Schätzwert für dein Auto nennen. Wenn du mit dieser Schätzung zufrieden bist, kümmert er sich um die Inzahlungnahme und den notwendigen Papierkram."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Was ist mein Auto Wert?"
+        },
+        {
+          "text": "Die Bewertung basiert auf: Der Marke, dem Modell, dem Motor, der Ausstattung, dem Kilometerstand, dem Zulassungsdatum des Fahrzeugs, der Analyse des Automobilmarktes für die jüngsten Transaktionen mit ähnlichen Fahrzeugen und den Kosten für die Reparatur des Fahrzeugs, die sich je nach Zustand ändern können."
+        },
+        {
+          "text": "Wie läuft die Übernahme ab?"
+        },
+        {
+          "text": "Erhalte eine kostenlose Fahrzeugbewertung: Füll unseren Fragebogen mit den Angaben zu deinem Fahrzeug aus und erhalte eine kostenlose Online-Schätzung. Du erhältst den Kostenvoranschlag sofort und per E-Mail. Nimm Kontakt mit einem Opel-Händler auf: Der Opel-Händler deiner Wahl wird sich innerhalb von 48 Stunden mit dir in Verbindung setzen, um einen Termin zu vereinbaren. Bei diesem Termin wird der Experte dein Auto kostenlos bewerten und dir einen verbindlichen Inzahlungnahme-Wert anbieten. Wenn du einverstanden bist, kümmert er sich um den Papierkram und kauft dein Auto. Genieße die Vorteile der Opel-Erfahrung: Profitiere von der Expertise von Opel und erhalte eine zuverlässige Bewertung deines Fahrzeugs. Der Händler wird dir einen fairen Inzahlungnahme-Wert nennen und dir den Prozess erleichtern. Um den Wert deines Autos zu ermitteln, benötigen wir den Kilometerstand und Informationen über den Zustand des Autos (Farbe, Karosserie, Ausstattung usw.)."
+        },
+        {
+          "text": "Welche Vorteile erwarten mich?"
+        },
+        {
+          "text": "Erlebe Seelenfrieden mit dem Opel Inzahlungnahme-Service. Mit nur wenigen Klicks erhältst du eine kostenlose und professionelle Einschätzung des Wertes deines Fahrzeugs, ohne dir um versteckte Kosten Sorgen machen zu müssen. Außerdem wird die Zahlung für dein Fahrzeug sicher garantiert und von einem Opel-Händler abgewickelt."
+        },
+        {
+          "text": "Wozu verpflichte ich mich?"
+        },
+        {
+          "text": "Die Bewertung des Rücktritts von Reprise Opel ist nicht obligatorisch. Unser Vorschlag wird dir werktags innerhalb von 24 Stunden kostenlos zur Verfügung gestellt. Dies verpflichtet dich zu nichts. Wenn du möchtest, kannst du einen Termin mit unseren Opel-Spezialisten vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "footer": {
+    "tagline": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelDE"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opelde"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelDe"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Was ist mein Auto Wert? → Direkt Online Angebot von Opel ✔",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.opel-kauft-dein-auto.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Erhalte eine Fahrzeugbewertung deines Autos in wenigen Schritten |100% schnell, einfach und kostenlos",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.opel-kauft-dein-auto.de/lp/fahrzeugbewertung",
+    "medias_trouves": 6,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

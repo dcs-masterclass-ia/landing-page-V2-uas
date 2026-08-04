@@ -1,0 +1,286 @@
+{
+  "page_key": "citroen-fr-fr__lp-estimation-vehicule-auto",
+  "brand": "citroen",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.citroen.fr",
+  "slug": "/lp/estimation-vehicule-auto",
+  "source_v1": "https://www.reprise.citroen.fr/lp/estimation-vehicule-auto",
+  "meta": {
+    "title": "Estimation de voiture : la valeur de votre véhicule - Reprise Citroën",
+    "description": "Estimez la valeur de reprise de votre voiture gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité.",
+    "site_name": "Citroen FR",
+    "author": "Citroen FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "ESTIMATION DE LA VALEUR DE VOTRE VOITURE"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "ESTIMATION DE LA VALEUR DE VOTRE VOITURE",
+    "lead": "Estimez la valeur de reprise de votre voiture gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Obtenez une estimation f",
+      "anchor": "#obtenez-une-estimation-fiable-et-gratuit"
+    },
+    {
+      "label": "• Estimation gratuite, r",
+      "anchor": "#estimation-gratuite-rapide-et-sans-engag"
+    },
+    {
+      "label": "Une estimation de votre ",
+      "anchor": "#une-estimation-de-votre-voiture-au-plus-"
+    },
+    {
+      "label": "Tout savoir sur le leasi",
+      "anchor": "#tout-savoir-sur-le-leasing-social-roulez"
+    },
+    {
+      "label": "Estimez la valeur de rep",
+      "anchor": "#estimez-la-valeur-de-reprise-de-votre-vo"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenez-une-estimation-fiable-et-gratuit",
+      "h2": "Obtenez une estimation fiable et gratuite de votre véhicule",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Finie l’estimation un peu hasardeuse et subjective de votre voiture ! Avec Citroën, quelques clics suffisent pour recevoir en ligne une estimation de la valeur de votre véhicule. Celle-ci repose sur sa cote et différents critères précis, et non pas sur vos intérêts de vendeur et les intérêts de l’acheteur souvent contradictoires. Quelle que soit sa marque et son modèle, vous pouvez estimer votre voiture en indiquant directement le numéro d’immatriculation ou bien vous en remplissant notre questionnaire en seulement quelques minutes pour obtenir une estimation de notre offre de reprise de votre véhicule. Celle-ci vous sera confirmée ou sera affinée en point de vente avec un expert. Si vous l’acceptez, vous recevrez un paiement rapide et sécurisé sous 8 jours. Avec Citroën, c’est aussi simple que cela !"
+        },
+        {
+          "text": "Les plus de l’estimation et de la reprise avec Citroën :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/acfr/images/Landing_pages/Picto/Picto_citroen-serinite.png",
+      "image_alt": "Picto Citroen serenite",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimation-gratuite-rapide-et-sans-engag",
+      "h2": "• Estimation gratuite, rapide et sans engagement",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "• Valeur calculée au plus juste sur la base d’observations du marché, des transactions récentes et de l’état du véhicule"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "une-estimation-de-votre-voiture-au-plus-",
+      "h2": "Une estimation de votre voiture au plus près du prix du marché",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Nous réalisons l’estimation de votre véhicule en considérant les différents éléments influant sur sa cote. La marque, le modèle, l’année et la finition sont les critères basiques. Pour vous éviter les déconvenues, nous vous demandons des détails plus précis afin de vous faire l’offre la plus cohérente possible et en phase avec le prix du marché, et ce qui vous sera proposé en concession. Etape par étape, nous affinons l’estimation de manière objective qui ne repose pas sur une appréciation simplement globale de l’état de votre auto. Nous vous demandons des détails par exemple sur les éventuels impacts sur la carrosserie, l’état des pneus, la conservation du carnet d’entretien, la boîte de vitesses, les options qui peuvent faire la différence…"
+        },
+        {
+          "text": "Vous êtes donc certain de ne pas demander trop cher pour votre véhicule, qui risque alors de vous rester sur les bras, ou au contraire de ne pas être lésé en le vendant en-dessous de sa valeur, même s’il partira alors rapidement. Dans les deux cas, c’est un mauvais calcul pour réinvestir la somme dans un nouvel achat. Au contraire, avec la reprise par Citroën, vous savez exactement à quoi vous en tenir sans mauvaise surprise."
+        },
+        {
+          "text": "Si la cote fournie vous convainc, alors vous pourrez faire estimer au plus juste votre véhicule en prenant rendez-vous dans un point de vente du réseau Citroën. La valeur fournie en ligne est en effet indicative : l’un de nos experts ajustera l’offre de reprise et celle-ci pourra être effective immédiatement. Cette expertise gratuite n’implique aucun engagement. Si l’offre vous convient, nous vous proposerons un paiement par chèque ou un virement sous 8 jours. Le processus est entièrement sécurisé et vous ne prenez aucun risque."
+        },
+        {
+          "text": "Estimez la valeur de reprise de votre auto gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité."
+        },
+        {
+          "text": "Estimez votre voiture en quelques minutes."
+        },
+        {
+          "text": "Finalisez votre reprise dans un point de vente Citroën."
+        },
+        {
+          "text": "Paiement rapide et sécurisé sous 8 jours."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "tout-savoir-sur-le-leasing-social-roulez",
+      "h2": "Tout savoir sur le leasing social : roulez électrique à petit prix",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la prime à la conversion ?"
+        },
+        {
+          "text": "Quelles sont les offres disponibles avec l'aide à la reprise ?"
+        },
+        {
+          "text": "Quelle est la cote de ma voiture ?"
+        },
+        {
+          "text": "Comment obtenir une cote gratuite de votre auto ?"
+        },
+        {
+          "text": "Pourquoi faire racheter votre voiture par Citroën ?"
+        },
+        {
+          "text": "Quelle offre de reprise pour l'achat d'une voiture neuve ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "estimez-la-valeur-de-reprise-de-votre-vo",
+      "h2": "Estimez la valeur de reprise de votre voiture",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment bénéficier de la reprise en cash de votre véhicule ?"
+        },
+        {
+          "text": "Découvrez les avantages d'une reprise de votre véhicule diesel avec Citroën."
+        },
+        {
+          "text": "Reprise de votre Dacia."
+        },
+        {
+          "text": "Reprise de votre Renault."
+        },
+        {
+          "text": "Reprise de votre Toyota."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.citroen.fr/"
+  },
+  "footer": {
+    "tagline": "Estimez la valeur de reprise de votre voiture gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Citroen.France?fref=ts"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/CitroenFrance"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroenfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenFrance"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/showcase/citroen_france/"
+      }
+    ],
+    "columns": [],
+    "legal": "Offre réservée aux particuliers, valable pour l’achat d’un véhicule Citroën neuf, pour une commande passée avant le 31 août 2026 dans le réseau Citroën participant.",
+    "legal_expire": "2026-08-31",
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Estimation de voiture : la valeur de votre véhicule - Reprise Citroën",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Estimez la valeur de reprise de votre voiture gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.citroen.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Estimez la valeur de reprise de votre voiture gratuitement en ligne sur Reprise-Citroën.fr. Recevez une estimation de votre véhicule en quelques minutes quelle que soit sa marque, sans engagement et en toute sécurité.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.citroen.fr/lp/estimation-vehicule-auto",
+    "medias_trouves": 8,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.citroen.fr/build/img/citroen/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

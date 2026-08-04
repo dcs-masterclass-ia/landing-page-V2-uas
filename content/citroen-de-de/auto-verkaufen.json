@@ -1,0 +1,243 @@
+{
+  "page_key": "citroen-de-de__lp-auto-verkaufen",
+  "brand": "citroen",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.citroen-kauft-ihr-auto.de",
+  "slug": "/lp/auto-verkaufen",
+  "source_v1": "https://www.citroen-kauft-ihr-auto.de/lp/auto-verkaufen",
+  "meta": {
+    "title": "▷ Verkaufen Sie Ihr Auto zum besten Preis | Citroën ✔",
+    "description": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "site_name": "Citroen DE",
+    "author": "Citroen DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "Wie man sein Auto verkauft: So funktioniert's."
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "Wie man sein Auto verkauft: So funktioniert's.",
+    "lead": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "subnav": [
+    {
+      "label": "Wie man sein Auto verkau",
+      "anchor": "#wie-man-sein-auto-verkauft-deshalb-sollt"
+    },
+    {
+      "label": "Wie man sein Auto verkau",
+      "anchor": "#wie-man-sein-auto-verkauft-diese-vorteil"
+    },
+    {
+      "label": "Wie man sein Auto verkau",
+      "anchor": "#wie-man-sein-auto-verkauft-so-fangen-sie"
+    },
+    {
+      "label": "häufig gestellte Fragen",
+      "anchor": "#haufig-gestellte-fragen"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "wie-man-sein-auto-verkauft-deshalb-sollt",
+      "h2": "Wie man sein Auto verkauft: Deshalb sollten Sie sich für Citroen entscheiden",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Profitieren Sie von einem unverbindlichen Schätzwert und vermeiden Sie Risiken, die mit dem Verkauf zwischen Privatpersonen verbunden sind. Nutzen Sie ein Netzwerk und einen professionellen Service, um Betrug, verspätete Zahlungen oder lange Verhandlungen zu vermeiden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "wie-man-sein-auto-verkauft-diese-vorteil",
+      "h2": "Wie man sein Auto verkauft: Diese Vorteile erwarten Sie bei Citroen:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Erhalten Sie die Schätzung Ihres Fahrzeugs per E-Mail."
+        },
+        {
+          "text": "Treffen Sie sich mit einem unserer Händler vor Ort."
+        },
+        {
+          "text": "Einfache Terminvereinbarung."
+        },
+        {
+          "text": "Garantierte schnelle und sichere Transaktion."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "wie-man-sein-auto-verkauft-so-fangen-sie",
+      "h2": "Wie man sein Auto verkauft: So fangen sie an:",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Schritt 1: Das Teilen der Fahrzeuginformation. Um Ihnen den besten Preis für Ihr Fahrzeug zu bieten, benötigen wir einige Informationen. Füllen Sie den speziell erstellten Fragebogen in nur wenigen Minuten unkompliziert aus. Schritt 2: Die Online-Schätzung Ihres Fahrzeugs. Als Antwort auf Ihre Informationen führen wir eine Marktanalyse durch, um Ihnen den gerechtesten Preis anzubieten. Wir senden Ihnen die Schätzung sofort per E-Mail, aber Sie sind nicht verpflichtet, sie anzunehmen und Sie können den Verkaufsprozess Ihres Autos jederzeit abbrechen oder fortsetzen. Schritt 3: Treffen Sie sich mit einem unserer Händler. Der von Ihnen ausgewählte Citroen-Händler wird Sie kontaktieren, um einen Termin vor Ort zu vereinbaren, an dem er Ihr Fahrzeug inspiziert und Ihnen einen Eintauschpreis vorschlägt. Wenn Ihnen dieser Preis zusagt, können Sie uns direkt Ihr Auto verkaufen und wir erledigen danach alle notwendigen Schritte für Sie."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "haufig-gestellte-fragen",
+      "h2": "häufig gestellte Fragen",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Wie funktioniert die Berechnung des Übernahmewerts?"
+        },
+        {
+          "text": "Die Berechnung zieht in Betracht: - Einige Eigenschaften des Wagens, wie die Marke, das Modell, den Kilometerstand oder die Ausstattung. - Welche Erfahrungen unsere Mitarbeiter in letzter Zeit mit ähnlichen Modellen gemacht haben. - Die Kosten, die für uns anfallen, um das Auto wieder in Stand zu setzen. Der abgezogene Preis kann im Autohaus verhandelt werden, nachdem der tatsächliche Stand Ihres Fahrzeugs festgestellt wurde."
+        },
+        {
+          "text": "Was kann ich mir unter der Übernahme vorstellen?"
+        },
+        {
+          "text": "Finden Sie kostenlos heraus, wie viel Ihr Wagen wert ist. Sie können online unseren bereitgestellten Fragebogen in nur wenigen Minuten ausfüllen. Das Ergebnis wird Ihnen dann eine erste Schätzung bereitstellen, welche auch als E-Mail erhalten werden kann. Persönliches Treffen: Wenn sie mit dem geschätzten Preis zufrieden sind, oder sich mit einem unserer Mitarbeiter vor Ort treffen möchten, können wir Sie spätestens am darauffolgenden Tag kontaktieren, um einen Termin zu vereinbaren. Überprüfung des Wagens: Nachdem unser Experte Ihr Auto überprüft hat, wird Ihnen der finale Preis genannt. Wenn Sie damit zufrieden sind, können Sie uns Ihr Auto verkaufen"
+        },
+        {
+          "text": "Was kann ich mir unter dem Termin im Autohaus feststellen?"
+        },
+        {
+          "text": "Nachdem Sie die Schätzung für Ihren Wagen online erhalten haben, können Sie entweder darauf warten, dass sich jemand in den folgenden 24 Stunden bei Ihnen meldet. Dafür müssen Sie einfach die Postleitzahl der gewünschten Filiale nach dem Ausfüllen des Fragebogens eingeben. Wenn Sie jedoch nicht warten möchten, können Sie auch selbst bei der Filiale anrufen, indem Sie während des Anrufs ihre Kontaktdaten aus dem Online-Fragebogen wiederholen."
+        },
+        {
+          "text": "Wie erhalten Sie Ihr Geld?"
+        },
+        {
+          "text": "Wir bei Citroen garantieren Ihnen eine unkomplizierte und sichere Bezahlung. Der Verkauf ihres Wagens wird von Citroen selbst übernommen und das Geld kommt Ihnen entweder als Check oder per Banküberweisung zu."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.citroen-kauft-ihr-auto.de/"
+  },
+  "footer": {
+    "tagline": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://de-de.facebook.com/citroendeutschland/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/citroen_de"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/citroen.deutschland/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/CitroenDeutschland"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "▷ Verkaufen Sie Ihr Auto zum besten Preis",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.citroen-kauft-ihr-auto.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "howto_name": "Wie man sein Auto verkauft: So funktioniert's.",
+    "howto_description": "Unser Citroën online service macht es Ihnen noch einfacher Ihr Auto zu verkaufen. → 100% Sicher, schnell und einfach",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.citroen-kauft-ihr-auto.de/lp/auto-verkaufen",
+    "medias_trouves": 5,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.citroen-kauft-ihr-auto.de/build/img/citroen/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

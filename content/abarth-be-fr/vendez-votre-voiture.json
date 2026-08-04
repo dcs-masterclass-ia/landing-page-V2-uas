@@ -1,0 +1,315 @@
+{
+  "page_key": "abarth-be-fr__lp-vendez-votre-voiture",
+  "brand": "abarth",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.abarthbelgium.be",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://reprise.abarthbelgium.be/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture facilement avec nous | Abarth",
+    "description": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
+    "site_name": "Abarth BE",
+    "author": "Abarth BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Vendez votre voiture facilement avec Abarth"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.abarthbelgium.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.abarthbelgium.be/ "
+    },
+    {
+      "label": "Vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture facilement avec Abarth",
+    "lead": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.abarthbelgium.be/"
+  },
+  "subnav": [
+    {
+      "label": "Calculer mon offre de re",
+      "anchor": "#calculer-mon-offre-de-reprise"
+    },
+    {
+      "label": "Vendez votre voiture fac",
+      "anchor": "#vendez-votre-voiture-facilement-avec-nou"
+    },
+    {
+      "label": "Les avantages de notre s",
+      "anchor": "#les-avantages-de-notre-service-de-vente-"
+    },
+    {
+      "label": "2. Recevez votre estimat",
+      "anchor": "#2-recevez-votre-estimation-en-ligne-et-p"
+    },
+    {
+      "label": "3. Obtenez un rendez-vou",
+      "anchor": "#3-obtenez-un-rendez-vous-avec-un-profess"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "calculer-mon-offre-de-reprise",
+      "h2": "Calculer mon offre de reprise",
+      "niveau_v1": "button",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Si vous cherchez à vendre votre voiture, la reprise est une solution simple et sûre pour vous éviter les problèmes inhérents aux ventes entre particuliers."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/0f468542-ca30-4cd6-84d5-f88a91da3621",
+      "image_alt": "Les étapes simples vendez votre voiture avec Abarth",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendez-votre-voiture-facilement-avec-nou",
+      "h2": "Vendez votre voiture facilement avec nous",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "En optant pour notre service, vous bénéficiez de nombreux avantages, tels que :● Une estimation gratuite et sans engagement de la valeur de votre voiture● Une estimation envoyée en ligne et par e-mail● La possibilité de fixer un rendez-vous avec un concessionnaire près de chez vous, selon votre convenance● Un paiement rapide et sécurisé pour votre transaction"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/134/426c4226-0fd9-4e79-acf4-a388ca8f856b",
+      "image_alt": "Feu arrière rouge voiture blanche Abarth",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-avantages-de-notre-service-de-vente-",
+      "h2": "Les avantages de notre service de vente de voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour vendre votre voiture en toute simplicité, voici les étapes à suivre :Afin d'obtenir une estimation précise de la valeur de votre voiture, nous avons conçu un questionnaire facile à remplir qui vous permettra de fournir toutes les informations essentielles sur votre véhicule. Vous pouvez commencer en renseignant simplement votre numéro de plaque d'immatriculation. Cette étape est rapide et simple, et permet d'identifier facilement les principales caractéristiques de votre voiture.Une fois que vous avez rempli le formulaire avec les informations sur votre voiture, nous analysons le marché pour vous offrir une estimation juste de sa valeur. Cette estimation vous est envoyée en ligne et par e-mail."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/154/5dfe85f8-4146-4a91-a256-9a3c2900a99b",
+      "image_alt": "La vente de votre voiture en toute sécurité",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "2-recevez-votre-estimation-en-ligne-et-p",
+      "h2": "2. Recevez votre estimation en ligne et par e-mail",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Après avoir reçu votre estimation, un concessionnaire Abarth proche de chez vous prendra contact avec vous pour fixer un rendez-vous en concession. Lors de ce rendez-vous, un expert effectuera une inspection de votre véhicule et vous proposera un prix de reprise final.Si vous êtes satisfait de l'offre, nous rachetons immédiatement votre voiture, sans aucune démarche administrative de votre part."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "3-obtenez-un-rendez-vous-avec-un-profess",
+      "h2": "3. Obtenez un rendez-vous avec un professionnel",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier, vous n'avez aucune garantie et les processus administratifs sont souvent compliqués.En choisissant notre service, vous bénéficiez des avantages suivants :● Une évaluation rapide et en ligne de la valeur de votre voiture● Pas d'obligation de votre part● Une transaction sécurisée● Un accompagnement pour les démarches administratives En moins de 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes-pour-vendre-votre-v",
+      "h2": "Questions fréquentes pour vendre votre voiture",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Abarth propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du concessionnaire Abarth de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "Comment s'effectue l'évaluation d'une voiture Abarth?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du concessionnaire de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le concessionnaire et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-abarthest-a-votre-portee",
+      "h2": "L'expérience Abarthest à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre concessionnaire Abarth en sélectionnant l'adresse postale de votre choix. Votre concessionnaire Abarth vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Abarth, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du concessionnaire Abarth. En fonction du concessionnaire que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.abarthbelgium.be/"
+  },
+  "footer": {
+    "tagline": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/Abarth.belgium/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/teamabarth"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/abarth_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/teamabarth"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture facilement avec nous",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.abarthbelgium.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Chez Abarth, nous mettons tout en œuvre pour faciliter la vente de votre voiture. Notre site vous fournit une estimation gratuite et rapide.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.abarthbelgium.be/lp/vendez-votre-voiture",
+    "medias_trouves": 9,
+    "blocs_detectes": 7,
+    "notes": [
+      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/lg_brth.png",
+      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.abarthbelgium.be/build/img/abarth/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

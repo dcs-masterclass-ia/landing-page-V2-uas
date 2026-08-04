@@ -1,0 +1,154 @@
+{
+  "page_key": "ds-automobiles-es-es__faq",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/faq",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/faq",
+  "meta": {
+    "title": "Faq | Tasación DS",
+    "description": "DS Automobiles responde a todas sus preguntas sobre la venta o la tasación de su automóvil.",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "DS Automobiles responde a sus preguntas :"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "DS Automobiles responde a sus preguntas :",
+    "lead": "DS Automobiles responde a todas sus preguntas sobre la venta o la tasación de su automóvil.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Tasación DS Automobiles es un servicio online que le permite obtener una tasación de tu coche de forma gratuita. Si la valoración de su coche le conviene, solicite una cita con su concesionario DS Automobiles más cercano para obtener una tasación más precisa. La tasación se basa en: • Las características de su coche: marca, modelo, motorización, acabado, kilometraje y fecha de matriculación. • Observaciones del mercado: transacciones recientes realizadas por los profesionales en modelos equivalentes. • Estos valores se ajustarán por el concesionario en función del estado real del coche. La recompra DS es gratuita, rápida y sin ningún compromiso por su parte. Tan solo necesita unos minutos para describir su vehículo, elegir su punto de venta y descubrir la tasación de su coche. Contactaremos con usted para concretar una cita. Una vez en el punto de venta, uno de nuestros expertos examinará su vehículo para ajustar la tasación de su vehículo. Rapidez • Indique los detalles y el estado de su vehículo y reciba inmediatamente una oferta de recompra por e-mail. Tranquilidad • La Tasación oficial de vehículos DS Automobiles le propone una alternativa que le evitará sorpresas a la hora de calcular el valor de su coche. El servicio de Tasación DS Automobiles le permite evaluar su coche sobre la base de la observación del mercado automovilístico y de las transacciones recientes. Todo ello realizado por profesionales del motor de forma gratuita y sin compromiso por su parte. Seguridad • Si la valoración de su coche le conviene, solicite una cita con su concesionario DS Automobiles más cercano, y si el vehículo cumple con lo establecido en la estimación online, el concesionario se hará cargo de la recompra de su vehículo. La valoración ofrecida por Tasación DS Automobiles es sin compromiso por su parte. Recibirá nuestra oferta por e-mail. El concesionario le contactará para concertar una cita si desea obtener una tasación más precisa. Tasación DS Automobiles es un servicio totalmente gratuito. Algunos proveedores de e-mail pueden identificar el email de Tasación DS Automobiles como correo “spam”. Compruebe la carpeta de “correo no deseado/spam” y modifique los ajustes para recibirlo normalmente. Si aun así no lo recibe, puede contactarnos en el número de teléfono 91 585 19 55. Tan solo necesita rellenar nuestro formulario y elegir el concesionario. Recibirá de forma gratuita la tasación de su coche. El concesionario le contactará para concertar una cita."
+        },
+        {
+          "text": "¿Cómo vender mi coche ?"
+        },
+        {
+          "text": "¿Cómo se calcula la tasación de su coche ?"
+        },
+        {
+          "text": "¿Cómo funciona la recompra DS ?"
+        },
+        {
+          "text": "¿Cuáles son las ventajas de utilizar el servicio Tasación DS Automobiles?"
+        },
+        {
+          "text": "¿A qué le compromete la tasación de su coche?"
+        },
+        {
+          "text": "¿Es gratis?"
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "DS Automobiles responde a todas sus preguntas sobre la venta o la tasación de su automóvil.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Faq",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "DS Automobiles responde a todas sus preguntas sobre la venta o la tasación de su automóvil.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "DS Automobiles responde a todas sus preguntas sobre la venta o la tasación de su automóvil.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/faq",
+    "medias_trouves": 0,
+    "blocs_detectes": 1,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

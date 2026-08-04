@@ -1,0 +1,221 @@
+{
+  "page_key": "ds-automobiles-es-es__como-funciona",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/como-funciona",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/como-funciona",
+  "meta": {
+    "title": "Cómo se calcula el valor de su coche | Tasación DS Automobiles",
+    "description": "Describa su vehículo, elija su punto de venta y descubra nuestro servicio de tasación de automóviles.",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "¿CÓMO SE CALCULA EL VALOR?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://www.tasacion.dsautomobiles.es/"
+    },
+    {
+      "label": "Funcionamiento",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "¿CÓMO SE CALCULA EL VALOR?",
+    "lead": "Describa su vehículo, elija su punto de venta y descubra nuestro servicio de tasación de automóviles.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "Obtenga una oferta de ve",
+      "anchor": "#obtenga-una-oferta-de-venta-en-6-pasos"
+    },
+    {
+      "label": "Cálculo del valor de ven",
+      "anchor": "#calculo-del-valor-de-venta"
+    },
+    {
+      "label": "1. Serenidad",
+      "anchor": "#1-serenidad"
+    },
+    {
+      "label": "2. Velocidad",
+      "anchor": "#2-velocidad"
+    },
+    {
+      "label": "3. Seguridad",
+      "anchor": "#3-seguridad"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "obtenga-una-oferta-de-venta-en-6-pasos",
+      "h2": "Obtenga una oferta de venta en 6 pasos:",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1 - Rellene los datos del vehículo a tasar. 2 - Obtenga la tasación para su vehículo. 3 - El DS Store de su elección le contactará para concertar una cita. 4 - Un DS Expert Advisor examinará el estado de su vehículo en su presencia. 5 - Con su confirmación, nos comprometemos a la compra inmediata. 6 - El pago es inmediato, garantizado y seguro."
+        },
+        {
+          "text": "¿Por qué elegir Tasación DS ?"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.tasacion.dsautomobiles.es/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "image_alt": "/build/img/ds/DS_lease_benefits_S71-552x.png",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "calculo-del-valor-de-venta",
+      "h2": "Cálculo del valor de venta",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "El valor de adquisición se estima en euros con IVA incluido, en función del precio de mercado, las transacciones recientes y la información que haya proporcionado sobre el estado y las opciones de su vehículo. Gracias a esta información podemos hacerle una oferta de venta (el valor estimado es solo indicativo). A continuación, será contactado por un DS Store que también realizará una tasación de su vehículo para finalizar la transacción."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/092fe7f7-0fb4-417b-a05f-e82af1feac76",
+      "image_alt": "velocidad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-serenidad",
+      "h2": "1. Serenidad",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Una oferta de tasación en solo unos minutos",
+        "Sin compromiso",
+        "Formalidades simplificadas"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ab3702c2-56aa-48cd-b074-75cb04c82d05",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "2-velocidad",
+      "h2": "2. Velocidad",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Elija un punto de venta",
+        "Una tasación fácil y rápida en unos minutos"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ab3702c2-56aa-48cd-b074-75cb04c82d05",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "3-seguridad",
+      "h2": "3. Seguridad",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [],
+      "bullets": [
+        "Profesionales de confianza",
+        "Una transacción segura y rápida",
+        "Oferta ajustada"
+      ],
+      "image": "https://usine-a-sites.s3.amazonaws.com/35/ab3702c2-56aa-48cd-b074-75cb04c82d05",
+      "image_alt": "seguridad",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "Describa su vehículo, elija su punto de venta y descubra nuestro servicio de tasación de automóviles.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Cómo se calcula el valor de su coche",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Describa su vehículo, elija su punto de venta y descubra nuestro servicio de tasación de automóviles.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Describa su vehículo, elija su punto de venta y descubra nuestro servicio de tasación de automóviles.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/como-funciona",
+    "medias_trouves": 5,
+    "blocs_detectes": 5,
+    "notes": [
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

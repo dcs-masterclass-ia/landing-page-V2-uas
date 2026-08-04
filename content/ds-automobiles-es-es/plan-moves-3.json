@@ -1,0 +1,174 @@
+{
+  "page_key": "ds-automobiles-es-es__lp-plan-moves-3",
+  "brand": "ds-automobiles",
+  "market": "ES",
+  "lang": "es",
+  "locale": "es_ES",
+  "template": "shared",
+  "domain": "https://www.tasacion.dsautomobiles.es",
+  "slug": "/lp/plan-moves-3",
+  "source_v1": "https://www.tasacion.dsautomobiles.es/lp/plan-moves-3",
+  "meta": {
+    "title": "Plan Moves III | DS Automobiles",
+    "description": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
+    "site_name": "Ds Automobiles ES",
+    "author": "Ds Automobiles ES",
+    "geo_region": "ES",
+    "geo_country": "Espagne",
+    "og_image_alt": "Plan Moves III"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Tasacion gratuita en linea",
+    "h1": "Plan Moves III",
+    "lead": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
+    "cta_label": "Calcular mi oferta de recompra",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "subnav": [
+    {
+      "label": "El plan",
+      "anchor": "#el-plan"
+    },
+    {
+      "label": "Gobierno",
+      "anchor": "#gobierno"
+    },
+    {
+      "label": "Moves III",
+      "anchor": "#moves-iii"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuito",
+      "sub": "Sin compromiso"
+    },
+    {
+      "icon": "mail",
+      "label": "Tasacion en linea",
+      "sub": "Y por email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Cita a su conveniencia",
+      "sub": "En el concesionario"
+    },
+    {
+      "icon": "lock",
+      "label": "Pago seguro",
+      "sub": "Transaccion rapida"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "el-plan",
+      "h2": "El plan",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "El a la movilidad eficiente y sostenible (Plan MOVES III) puesto en marcha por el desde el 10 de abril de 2021, está y la implantación de medidas de movilidad urbana sostenible, , para adaptar la movilidad en un escenario de nuevas exigencias derivadas del período post COVID 19."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/dses/ahesto.png",
+      "image_alt": "alt bas propre",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "gobierno",
+      "h2": "Gobierno",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "dirigido a incentivar la compra de vehículos alternativos, instalar infraestructuras de recarga de vehículos eléctricos"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/dses/ahesto.png",
+      "image_alt": "alt bas propre",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "moves-iii",
+      "h2": "Moves III",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Uno de los aspectos singulares de la nueva edición del MOVES, para los casos de , es que podrán realizarse dichas adquisiciones (pedidos y matriculación) por parte del destinatario último, a partir del 18 de junio y serán elegibles. Pero para poder recibir la ayuda, ésta tendrá que solicitarse una vez se publique la convocatoria por parte de la CCAA y someterse al resto de requisitos de las Bases del programa y convocatoria autonómica."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.eu-west-1.amazonaws.com/dses/ahesto.png",
+      "image_alt": "alt bas propre",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Listo para vender?",
+    "h2": "Tase su coche ahora.",
+    "lead": "Indique su matricula o la marca de su vehiculo.",
+    "cta_label": "Tasacion gratuita",
+    "cta_href": "https://www.tasacion.dsautomobiles.es/"
+  },
+  "footer": {
+    "tagline": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Plan Moves III",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.tasacion.dsautomobiles.es",
+    "area_served": "Espagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q29",
+    "offer_description": "Descubra programa de incentivos a la movilidad eficiente y sostenible (Plan MOVES III) y benefíciese hasta 7.000€ de descuento a la compra de un E-TENSE.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.tasacion.dsautomobiles.es/plan-moves-3",
+    "medias_trouves": 2,
+    "blocs_detectes": 3,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

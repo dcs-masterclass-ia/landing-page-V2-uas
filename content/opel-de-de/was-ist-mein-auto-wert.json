@@ -1,0 +1,221 @@
+{
+  "page_key": "opel-de-de__was-ist-mein-auto-wert",
+  "brand": "opel",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.opel-kauft-dein-auto.de",
+  "slug": "/was-ist-mein-auto-wert",
+  "source_v1": "https://www.opel-kauft-dein-auto.de/was-ist-mein-auto-wert",
+  "meta": {
+    "title": "Was ist mein Auto wert? - Professionelle Beratung | Opel",
+    "description": "Nutzen Sie den Opel Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "site_name": "Opel DE",
+    "author": "Opel DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": "WAS IST MEIN AUTO WERT?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.opel-kauft-dein-auto.de/"
+    },
+    {
+      "label": "WAS IST MEIN AUTO WERT?",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "WAS IST MEIN AUTO WERT?",
+    "lead": "Nutzen Sie den Opel Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "subnav": [
+    {
+      "label": "Skip to main content",
+      "anchor": "#skip-to-main-content"
+    },
+    {
+      "label": "Terminvereinbarung",
+      "anchor": "#terminvereinbarung"
+    },
+    {
+      "label": "Profi Begutachtung",
+      "anchor": "#profi-begutachtung"
+    },
+    {
+      "label": "Zügige Abwicklung",
+      "anchor": "#zugige-abwicklung"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "skip-to-main-content",
+      "h2": "Skip to main content",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wenn du dein Auto verkaufen willst, fragst du dich sicher: Was ist mein Auto wert? Dein Opel Partner beantwortet dir diese Frage gern und zwar fair, nachvollziehbar und unkompliziert."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/88/e117c4de-5c70-4e6a-904e-20b66be9895d",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "terminvereinbarung",
+      "h2": "Terminvereinbarung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "„Was ist mein Auto wert?“ ist eine von vielen Fragen, die dich beschäftigen? Wähle bitte im Online-Formular einfach deinen bevorzugten Opel Partner aus. Nach einer ersten, unverbindlichen Online-Bewertung wird der Opel Partner dich dann kontaktieren und mit dir einen Termin zur Begutachtung deines Fahrzeugs vereinbaren. So erfährst du verbindlich, was dein Auto wert ist. Natürlich beraten dich die geprüften Automobilverkäufer und -verkäuferinnen von Opel auch gerne bei allen anderen Fragen rund um Neu-, Vorführ- und Gebrauchtwagen."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/88/0ee94aed-4a22-4ce6-b41c-715ce29049df",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "profi-begutachtung",
+      "h2": "Profi Begutachtung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Ein Opel Partner deiner Wahl begutachtet in deinem Beisein dein Fahrzeug und beantwortet dir verbindlich die Frage, was dein Auto wert ist. Bei beiderseitigem Interesse unterbreitet er dir zudem ein konkretes Ankaufangebot. Wenn ihr euch einig werdet, organisiert er die Fahrzeugübernahme und veranlasst natürlich auch die Zahlung des vereinbarten Ankaufpreises. So unkompliziert ist dein Autoverkauf mit deinem Opel Partner!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/88/b4558aa2-835c-455d-9a42-646404587aac",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "zugige-abwicklung",
+      "h2": "Zügige Abwicklung",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Wenn der Verkauf abgeschlossen ist, kümmert sich dein Opel Partner um alles Weitere. Er terminiert die Fahrzeugübergabe und stellt sicher, dass der Ankaufpreis an dich überwiesen wird. So kannst du sicher sein, dass du schnell dein Geld bekommst. So komfortabel und zügig ist der Autoverkauf an deinen Opel Partner."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.opel-kauft-dein-auto.de/"
+  },
+  "footer": {
+    "tagline": "Nutzen Sie den Opel Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelDE"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/opelde"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/opel_de/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelDe"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Was ist mein Auto wert? - Professionelle Beratung",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Nutzen Sie den Opel Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.opel-kauft-dein-auto.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Nutzen Sie den Opel Service zur Bewertung Ihres Gebrauchtwagens und erfahren Sie direkt online den möglichen Wert – kostenlos & völlig unverbindlich.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.opel-kauft-dein-auto.de/was-ist-mein-auto-wert",
+    "medias_trouves": 6,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/e117c4de-5c70-4e6a-904e-20b66be9895d",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/0ee94aed-4a22-4ce6-b41c-715ce29049df",
+      "image sans alt en V1 : https://usine-a-sites.s3.amazonaws.com/88/b4558aa2-835c-455d-9a42-646404587aac",
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.opel-kauft-dein-auto.de/build/img/opel/chevron-up-home.svg",
+      "4 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

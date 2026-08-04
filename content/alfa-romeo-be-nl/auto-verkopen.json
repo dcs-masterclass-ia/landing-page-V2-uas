@@ -1,0 +1,280 @@
+{
+  "page_key": "alfa-romeo-be-nl__lp-auto-verkopen",
+  "brand": "alfa-romeo",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.alfaromeo.be",
+  "slug": "/lp/auto-verkopen",
+  "source_v1": "https://overname.alfaromeo.be/lp/auto-verkopen",
+  "meta": {
+    "title": "Verkoop auto aan een professional | Alfa Romeo",
+    "description": "Alfa Romeo begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
+    "site_name": "Alfa Romeo BE",
+    "author": "Alfa Romeo BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Auto verkopen: waarom kiezen voor verkoop aan een professional?"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.alfaromeo.be/ "
+    },
+    {
+      "label": "Auto verkopen",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Auto verkopen: waarom kiezen voor verkoop aan een professional?",
+    "lead": "Alfa Romeo begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "subnav": [
+    {
+      "label": "Wilt u uw auto verkopen?",
+      "anchor": "#wilt-u-uw-auto-verkopen"
+    },
+    {
+      "label": "Uw auto verkopen in enke",
+      "anchor": "#uw-auto-verkopen-in-enkele-stappen"
+    },
+    {
+      "label": "Stap 2: Ontvang een onli",
+      "anchor": "#stap-2-ontvang-een-online-en-per-e-mail-"
+    },
+    {
+      "label": "Stap 3: Maak een afspraa",
+      "anchor": "#stap-3-maak-een-afspraak-met-een-profess"
+    },
+    {
+      "label": "Verkoop veilig uw auto m",
+      "anchor": "#verkoop-veilig-uw-auto-met-gemak"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "wilt-u-uw-auto-verkopen",
+      "h2": "Wilt u uw auto verkopen?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Bij Overname Alfa Romeo kunt u gratis online de inruilwaarde van uw auto schatten zonder verplichtingen. Kies voor een veilige optie met een professional van het Alfa Romeo-netwerk en gegarandeerde betaling. Zo vermijdt u vervelende verrassingen die soms optreden bij de verkoop tussen particulieren."
+        },
+        {
+          "text": "● Onze offerte is 100% gratis en vrijblijvend. ● Ontvang online en per e-mail een schatting van uw auto en beslis of het voor u geschikt is. ● Een dealer bij u in de buurt neemt contact op om een afspraak te maken wanneer het u uitkomt. ● Verkoop uw auto veilig en betrouwbaar aan een professional van het Alfa Romeo-netwerk met een snelle betaling."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "uw-auto-verkopen-in-enkele-stappen",
+      "h2": "Uw auto verkopen in enkele stappen",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Om een nauwkeurige schatting te kunnen maken, hebben we essentiële informatie nodig over uw auto. Vul onze eenvoudige en snelle vragenlijst in om deze informatie te verzamelen. Binnen vijf minuten ontvangt u de schatting van uw auto. Begin de vragenlijst door uw kenteken in te voeren. Op deze manier kunnen we de belangrijkste kenmerken van de auto die u wilt verkopen, identificeren. 1. Het is gemakkelijker: merk, model, categorie, motor en datum van eerste registratie zijn vooraf ingevuld. 2. Het vooraf identificeren van uw voertuig is sneller en bespaart u verschillende stappen in het proces, waardoor u tijd bespaart. Als u uw kenteken niet bij de hand heeft, is dat geen probleem. Beantwoord gewoon een paar vragen om uw auto te identificeren, zoals het model, bouwjaar, brandstoftype, motor, kleur, uitrusting, enzovoort."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "stap-2-ontvang-een-online-en-per-e-mail-",
+      "h2": "Stap 2: Ontvang een online en per e-mail schatting van uw auto",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Zodra u deze informatie heeft ingevuld, zullen wij de markt analyseren om u een eerlijke prijs aan te bieden. Deze prijs zal aan het einde van de vragenlijst worden weergegeven en zal ook per e-mail naar u worden verzonden. Ons aanbod is vrijblijvend, u beslist!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "stap-3-maak-een-afspraak-met-een-profess",
+      "h2": "Stap 3: Maak een afspraak met een professional van het Alfa Romeo-netwerk",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "De door u gekozen Alfa Romeo-dealer neemt contact met u op om een afspraak te maken in de showroom om uw auto te verkopen. Ter plaatse zal hij een inspectie van uw auto uitvoeren en u een definitieve inruilprijs voorstellen. Als u tevreden bent met deze prijs, kopen we uw auto onmiddellijk terug, zonder enige administratieve procedure. Wij zorgen voor alles!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "verkoop-veilig-uw-auto-met-gemak",
+      "h2": "Verkoop veilig uw auto met gemak",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Als u uw auto verkoopt aan een particulier: ● Geen garanties ● Administratieve processen zijn ingewikkeld Als u uw auto aan ons verkoopt: ● Snelle online evaluatie ● Geen verplichting ● Ondersteund door de veiligheid en betrouwbaarheid van het Abarth-netwerk ● Veilige betaling ● Wij helpen u met de administratieve procedures"
+        },
+        {
+          "text": "Binnen 5 minuten weet u hoeveel uw auto waard is!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "faq",
+      "h2": "FAQ",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Hoe verkoop ik mijn auto?"
+        },
+        {
+          "text": "Verkoop uw auto gemakkelijk: ● Ontvang een gratis schatting door onze online vragenlijst in te vullen met de informatie van uw voertuig. Binnen 5 minuten ontvangt u een schatting voor uw voertuig, ook per e-mail verzonden. ● Maak een afspraak: Zodra het formulier is ingevuld, neemt de door u gekozen dealer binnen 24 uur contact met u op. Bevalt de schatting u? Onze Alfa Romeo-professional biedt u een afspraak aan in de showroom op de dag van uw keuze om zich te bekommeren om de overname van uw auto. ● Profiteer van de expertise van Alfa Romeo: Tijdens de afspraak bespreekt een van onze experts het voertuig en de staat ervan met u en doet u een stevig overnamebod. Bevalt het bod u? Dan kopen wij uw auto gemakkelijk terug."
+        },
+        {
+          "text": "Hoe wordt de waarde van de auto die ik wil verkopen geschat?"
+        },
+        {
+          "text": "De schatting houdt rekening met: ● De kenmerken van uw auto: merk, model, motorisatie, versie, kilometerstand, datum van eerste ingebruikname. ● Waarnemingen van de markt: recente inruilacties uitgevoerd door professionals op vergelijkbare modellen. ● Een aftrek van de kosten die nodig zijn voor het in goede staat brengen van het voertuig. Deze kosten worden aangepast op basis van de werkelijke staat van het voertuig, zoals geconstateerd door de dealer."
+        },
+        {
+          "text": "Hoe maak ik een afspraak?"
+        },
+        {
+          "text": "Dit is eenvoudig. Tijdens uw online schatting kiest u een Alfa Romeo-verkooppunt bij het postadres van uw keuze. Een Alfa Romeo-dealer neemt binnen 24 uur contact met u op om samen een afspraak te maken. U kunt ook zelf contact opnemen met de dealer via de contactgegevens die bij uw schatting zijn verstrekt."
+        },
+        {
+          "text": "Hoe word ik betaald?"
+        },
+        {
+          "text": "Met het Alfa Romeo-netwerk heeft u de volledige garantie van een veilige en snelle betaling. Tijdens de transactie wordt de betaling van het voertuig gedaan door uw Alfa Romeo-dealer. Afhankelijk van de gekozen dealer wordt de betaling van het voertuig gedaan via een cheque of bankoverschrijving."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.alfaromeo.be/"
+  },
+  "footer": {
+    "tagline": "Alfa Romeo begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/alfaromeo.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/alfaromeo_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCNE8pgIrLXOj29fjq1UHIFQ"
+      }
+    ],
+    "columns": [],
+    "legal": "*Voorwaardelijke overname geldig bij aankoop van een nieuwe Alfa Romeo Giulia of Stelvio (behalve Quadrifoglio) tot 2026-7-31",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Verkoop auto aan een professional",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Alfa Romeo begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.alfaromeo.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Alfa Romeo begeleidt u op een eenvoudige manier bij de verkoop van uw auto. Verkoop uw auto gratis en zonder verplichtingen aan onze professionals",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.alfaromeo.be/lp/auto-verkopen",
+    "medias_trouves": 7,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.alfaromeo.be/build/img/alfa_romeo/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

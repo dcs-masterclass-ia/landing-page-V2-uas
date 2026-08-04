@@ -1,0 +1,254 @@
+{
+  "page_key": "fiat-be-nl__het-fiat-netwerk",
+  "brand": "fiat",
+  "market": "BE",
+  "lang": "nl",
+  "locale": "nl_BE",
+  "template": "shared",
+  "domain": "https://overname.fiat.be",
+  "slug": "/het-fiat-netwerk",
+  "source_v1": "https://overname.fiat.be/het-fiat-netwerk",
+  "meta": {
+    "title": "Geniet van professioneel advies | Overname Fiat BE",
+    "description": "Het Fiat-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "site_name": "Fiat BE",
+    "author": "Fiat BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Fiat netwerk"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiat.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Home",
+      "href": "https://overname.fiat.be/"
+    },
+    {
+      "label": "Fiat Verdelers",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Gratis online schatting",
+    "h1": "Fiat netwerk",
+    "lead": "Het Fiat-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "cta_label": "Bereken mijn inruilwaarde",
+    "cta_href": "https://overname.fiat.be/"
+  },
+  "subnav": [
+    {
+      "label": "Het Fiat netwerk",
+      "anchor": "#het-fiat-netwerk"
+    },
+    {
+      "label": "Hoe maak je een afspraak",
+      "anchor": "#hoe-maak-je-een-afspraak"
+    },
+    {
+      "label": "Gemoedsrust",
+      "anchor": "#gemoedsrust"
+    },
+    {
+      "label": "Snelheid",
+      "anchor": "#snelheid"
+    },
+    {
+      "label": "Veiligheid",
+      "anchor": "#veiligheid"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratis",
+      "sub": "Vrijblijvend"
+    },
+    {
+      "icon": "mail",
+      "label": "Online schatting",
+      "sub": "En per e-mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Afspraak wanneer het u past",
+      "sub": "Bij de dealer"
+    },
+    {
+      "icon": "lock",
+      "label": "Veilige betaling",
+      "sub": "Snelle transactie"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "het-fiat-netwerk",
+      "h2": "Het Fiat netwerk",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Het deelnemende Fiat-net staat voor je klaar om een voorstel tot overname van je wagen te doen, ongeacht het merk en de kilometerstand. Afhankelijk van je behoeften kan het Fiat-net je ook een nieuwe wagen of een tweedehandswagen aanbieden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/121/808bd088-75e3-40e5-8733-de1619aad992",
+      "image_alt": "Twee mensen schudden elkaar de hand bij een overeenkomst",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "hoe-maak-je-een-afspraak",
+      "h2": "Hoe maak je een afspraak?",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Je Fiat-verdeler neemt contact met je op om een afspraak te maken en de procedure voor overname van je wagen af te ronden."
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiat.be/build/img/fiat/content-serenity.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "gemoedsrust",
+      "h2": "Gemoedsrust",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een overnameaanbod in enkele minuten"
+        },
+        {
+          "text": "Geen engagement van jou"
+        },
+        {
+          "text": "Minder administratieve formaliteiten"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiat.be/build/img/fiat/content-fast.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "snelheid",
+      "h2": "Snelheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kies je verkooppunt"
+        },
+        {
+          "text": "Een vlotte en snelle overname"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiat.be/build/img/fiat/content-safe.jpg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "veiligheid",
+      "h2": "Veiligheid",
+      "niveau_v1": "div",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Een betrouwbare professional"
+        },
+        {
+          "text": "Een veilige en snelle transactie"
+        },
+        {
+          "text": "Een aangepast overnameaanbod"
+        }
+      ],
+      "bullets": [],
+      "image": "https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Klaar om te verkopen?",
+    "h2": "Schat uw auto nu in.",
+    "lead": "Vul uw kenteken in of geef het merk van uw voertuig op.",
+    "cta_label": "Gratis schatting",
+    "cta_href": "https://overname.fiat.be/"
+  },
+  "footer": {
+    "tagline": "Het Fiat-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiat.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus geldig op alle aankopen van nieuwe voertuigen tot 2026-7-31 in deelnemende netwerken. © 2024",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Geniet van professioneel advies",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Het Fiat-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://overname.fiat.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Het Fiat-netwerk staat tot je beschikking om je wagen te beoordelen en terug te nemen. Ze zullen je vragen beantwoorden.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://overname.fiat.be/het-fiat-netwerk",
+    "medias_trouves": 9,
+    "blocs_detectes": 5,
+    "notes": [
+      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/content-serenity.jpg",
+      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/content-fast.jpg",
+      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/content-safe.jpg",
+      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://overname.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "3 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

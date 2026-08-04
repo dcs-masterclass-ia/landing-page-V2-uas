@@ -1,0 +1,212 @@
+{
+  "page_key": "opel-pl-pl__lp-Sprzedaj-swoj-samochod",
+  "brand": "opel",
+  "market": "PL",
+  "lang": "pl",
+  "locale": "pl_PL",
+  "template": "shared",
+  "domain": "https://www.odkup.opel.pl",
+  "slug": "/lp/Sprzedaj-swoj-samochod",
+  "source_v1": "https://www.odkup.opel.pl/lp/Sprzedaj-swoj-samochod",
+  "meta": {
+    "title": "► Oferta online Opla dotycząca oceny pojazdu.",
+    "description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "site_name": "Opel PL",
+    "author": "Opel PL",
+    "geo_region": "PL",
+    "geo_country": "Pologne",
+    "og_image_alt": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Strona główna",
+      "href": "https://www.odkup.opel.pl/"
+    },
+    {
+      "label": "Sprzedaj-swoj-samochod",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Bezplatna wycena online",
+    "h1": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ",
+    "lead": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "cta_label": "Oblicz moja oferte odkupu",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "subnav": [
+    {
+      "label": "SPRZEDAŻ SAMOCHODU: DLAC",
+      "anchor": "#sprzedaz-samochodu-dlaczego-warto-zdecyd"
+    },
+    {
+      "label": "SPRZEDAJ SWÓJ SAMOCHÓD: ",
+      "anchor": "#sprzedaj-swoj-samochod-jak-to-dziaa"
+    },
+    {
+      "label": "Często zadawane pytania",
+      "anchor": "#czesto-zadawane-pytania"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% bezplatnie",
+      "sub": "Bez zobowiazan"
+    },
+    {
+      "icon": "mail",
+      "label": "Wycena online",
+      "sub": "I mailem"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin dogodny dla Ciebie",
+      "sub": "U dealera"
+    },
+    {
+      "icon": "lock",
+      "label": "Bezpieczna platnosc",
+      "sub": "Szybka transakcja"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "sprzedaz-samochodu-dlaczego-warto-zdecyd",
+      "h2": "SPRZEDAŻ SAMOCHODU: DLACZEGO WARTO ZDECYDOWAĆ SIĘ NA WYMIANĘ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Chcesz sprzedać swój samochód? Usługa wyceny Opel to narzędzie online, które pomaga obliczyć wartość wymiany samochodu bez zobowiązań. Postępuj spokojnie i wyeliminuj ryzyko negatywnych doświadczeń związanych ze sprzedażą między osobami prywatnymi. Skorzystaj z sieci i profesjonalnej usługi, aby uniknąć oszustw, oszustów lub długich negocjacji."
+        },
+        {
+          "text": "Otrzymaj wycenę swojego samochodu online i pocztą elektroniczną - Umów się na spotkanie u najbliższego dealera - Spotkanie na miejscu z ekspertem - Szybka i bezpieczna transakcja"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "etapes",
+      "id": "sprzedaj-swoj-samochod-jak-to-dziaa",
+      "h2": "SPRZEDAJ SWÓJ SAMOCHÓD: JAK TO DZIAŁA?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Krok 1: Wprowadź dane pojazdu Aby określić najbardziej wiarygodną wartość wymiany pojazdu, potrzebujemy od Ciebie pewnych informacji. W tym celu wystarczy wypełnić kwestionariusz w czasie krótszym niż 5 minut. Krok 2: Uzyskaj wycenę swojego samochodu online i e-mailem. Po przesłaniu tych informacji przeanalizujemy rynek, aby zaoferować najbardziej uczciwą cenę. Wycena ta zostanie niezwłocznie przesłana pocztą elektroniczną. Jest to niewiążące i możesz zdecydować, czy chcesz kontynuować proces sprzedaży swojego samochodu. Krok 3: Spotkanie z profesjonalistą Opel Wybrany dealer Opel skontaktuje się z Tobą w celu umówienia spotkania na miejscu. W dniu X przeprowadzi on inspekcję pojazdu i zaproponuje ostateczną cenę wymiany. Jeśli jesteś zadowolony z tej ceny, natychmiast odkupimy Twój samochód bez konieczności podejmowania jakichkolwiek kroków administracyjnych. Zajmujemy się wszystkim!"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "faq",
+      "id": "czesto-zadawane-pytania",
+      "h2": "Często zadawane pytania",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "JAK OBLICZANA JEST WARTOŚĆ POJAZDU?"
+        },
+        {
+          "text": "Wycena opiera się na: - Charakterystyce pojazdu: marce, modelu, silniku, wyposażeniu, przebiegu, dacie rejestracji. - Analiza rynku samochodowego: ostatnie transakcje przeprowadzone przez profesjonalistów z równoważnymi modelami. - Odliczenie kosztów standardowych napraw. Koszty te są regulowane w zależności od rzeczywistego stanu pojazdu określonego w salonie dealerskim."
+        },
+        {
+          "text": "CHCESZ LEPIEJ ZROZUMIEĆ PRZYJĘCIE OPEL?"
+        },
+        {
+          "text": "Bezpłatna wycena online: Uzyskaj bezpłatną wycenę online, wypełniając nasz kwestionariusz online z informacjami o swoim pojeździe na sprzedaż. W ciągu 5 minut otrzymasz wartość wymiany swojego pojazdu, która zostanie również wysłana do Ciebie e-mailem. Umów się na spotkanie: po wypełnieniu formularza wybrany dealer skontaktuje się z Tobą w ciągu 24 godzin. Czy jesteś zadowolony z podanej ceny? Umów się na spotkanie w salonie, aby sprzedać swój samochód. Skorzystaj z wiedzy ekspertów Opel: podczas spotkania jeden z naszych ekspertów sprawdzi stan pojazdu w Twojej obecności i zaoferuje Ci wiążącą cenę wymiany. Gdy tylko umowa zostanie potwierdzona, odkupimy Twój samochód."
+        },
+        {
+          "text": "JAK PRZEBIEGA WIZYTA U DEALERA?"
+        },
+        {
+          "text": "To bardzo proste. Po przesłaniu wniosku o wycenę online wybierz dealera Opel, wpisując wybrany adres pocztowy. Dealer Opel skontaktuje się z Tobą w ciągu 24 godzin, aby umówić spotkanie w dogodnym dla Ciebie terminie. Możesz również zadzwonić do niego samodzielnie, korzystając z danych kontaktowych podanych w podsumowaniu wyceny."
+        },
+        {
+          "text": "JAK DOKONYWANA JEST PŁATNOŚĆ?"
+        },
+        {
+          "text": "Dzięki sieci Opel masz gwarancję szybkiej i bezpiecznej płatności. Podczas transakcji sprzedaży samochodu, płatnością za pojazd zajmuje się dealer sieci Opel. W zależności od wybranego dealera, płatność za pojazd zostanie dokonana przelewem bankowym."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Gotowy do sprzedazy?",
+    "h2": "Wycen swoj samochod juz teraz.",
+    "lead": "Podaj numer rejestracyjny lub marke swojego pojazdu.",
+    "cta_label": "Bezplatna wycena",
+    "cta_href": "https://www.odkup.opel.pl/"
+  },
+  "footer": {
+    "tagline": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelPL"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/watch?v=LzKK4t0aMNs&list=PL-ycsZq2mnvzsrx9Q3peDW7nx7lYkKxMy"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "► Oferta online Opla dotycząca oceny pojazdu.",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.odkup.opel.pl",
+    "area_served": "Pologne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q36",
+    "offer_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "howto_name": "SPRZEDAŻ SAMOCHODU: WSZYSTKO, CO MUSISZ WIEDZIEĆ",
+    "howto_description": "Sprzedaj swój samochód w najlepszej cenie: szybka ankieta → bezpłatna wycena → bezpieczna sprzedaż",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.odkup.opel.pl/lp/sprzedaj-swoj-samochod",
+    "medias_trouves": 6,
+    "blocs_detectes": 3,
+    "notes": [
+      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.odkup.opel.pl/build/img/opel/chevron-up-home.svg",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

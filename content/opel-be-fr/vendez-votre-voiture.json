@@ -1,0 +1,302 @@
+{
+  "page_key": "opel-be-fr__lp-vendez-votre-voiture",
+  "brand": "opel",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://www.reprise.opel.be",
+  "slug": "/lp/vendez-votre-voiture",
+  "source_v1": "https://www.reprise.opel.be/lp/vendez-votre-voiture",
+  "meta": {
+    "title": "Vendez votre voiture en toute simplicité | OPEL",
+    "description": "Vendre sa voiture est facile grâce à Opel. Recevez une estimation gratuite de la valeur de votre voiture et vendez-la rapidement avec le réseau Opel ✓",
+    "site_name": "Opel BE",
+    "author": "Opel BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Vendez votre voiture en toute simplicité grâce à Opel"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "ACCUEIL",
+      "href": "https://www.reprise.opel.be/"
+    },
+    {
+      "label": "vendez votre voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Vendez votre voiture en toute simplicité grâce à Opel",
+    "lead": "Vendre sa voiture est facile grâce à Opel. Recevez une estimation gratuite de la valeur de votre voiture et vendez-la rapidement avec le réseau Opel ✓",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi choisir la repr",
+      "anchor": "#pourquoi-choisir-la-reprise-pour-vendre-"
+    },
+    {
+      "label": "Les étapes faciles pour ",
+      "anchor": "#les-etapes-faciles-pour-vendre-votre-voi"
+    },
+    {
+      "label": "1. Remplissez les caract",
+      "anchor": "#1-remplissez-les-caracteristiques-de-vot"
+    },
+    {
+      "label": "Vendre votre voiture en ",
+      "anchor": "#vendre-votre-voiture-en-toute-securite"
+    },
+    {
+      "label": "Vendre sa voiture: Quest",
+      "anchor": "#vendre-sa-voiture-questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-choisir-la-reprise-pour-vendre-",
+      "h2": "Pourquoi choisir la reprise pour vendre sa voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Vous souhaitez vendre votre voiture ? La vente avec reprise est une solution sûre et facile, vous évitant les désagréments liés aux ventes de particulier à particulier."
+        },
+        {
+          "text": "Profitez des avantages suivants :● Obtenez une estimation gratuite et sans engagement● Recevez votre estimation en ligne et par e-mail● Choisissez le point de vente le plus proche de chez vous pour fixer un rendez-vous à votre convenance● Assurez la sécurité de votre transaction grâce à un paiement rapide."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/46/ba14aebb-9649-43e7-b795-dec7456cbeb8",
+      "image_alt": "Vendre votre voiture en toute sécurité",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "les-etapes-faciles-pour-vendre-votre-voi",
+      "h2": "Les étapes faciles pour vendre votre voiture",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour vendre votre voiture, suivez les étapes suivantes :Pour obtenir une estimation précise, notre questionnaire facile à remplir vous permet de fournir toutes les informations essentielles sur votre voiture. Vous pouvez débuter le questionnaire en renseignant simplement votre numéro de plaque d'immatriculation. Cette étape est rapide et simple et permet d'identifier facilement les principales caractéristiques de votre voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "1-remplissez-les-caracteristiques-de-vot",
+      "h2": "1. Remplissez les caractéristiques de votre voiture",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Une fois que vous avez renseigné les informations sur votre voiture, nous analysons le marché pour vous offrir une estimation juste de sa valeur. Cette estimation vous est envoyée en ligne et par e-mail.Après avoir reçu votre estimation, un point de vente proche de chez vous prendra contact avec vous pour convenir d'un rendez-vous en point de vente. Lors de ce rendez-vous, un professionnel inspectera votre voiture et vous proposera un prix de reprise final. Si vous êtes satisfait de l'offre, nous rachèterons immédiatement votre voiture, sans que vous ayez à vous occuper d'aucune démarche administrative."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "vendre-votre-voiture-en-toute-securite",
+      "h2": "Vendre votre voiture en toute sécurité",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si vous vendez votre voiture à un particulier :● Vous n'avez aucune garantie● Les processus administratifs sont compliqués En choisissant notre service, vous bénéficiez des avantages suivants :● Une évaluation rapide et en ligne● Pas d'obligation● Une transaction sécurisée● Un accompagnement pour les démarches administratives."
+        },
+        {
+          "text": "En 5 minutes, vous pouvez connaître la valeur de votre voiture !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "vendre-sa-voiture-questions-frequentes",
+      "h2": "Vendre sa voiture: Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "1. Comment puis-je vendre ma voiture?"
+        },
+        {
+          "text": "Reprise Opel propose un service en ligne, qui vous permet de recevoir une évaluation gratuite de votre voiture. Si vous souhaitez réaliser cette évaluation, vous devez remplir le profil de votre voiture dans un questionnaire à remplir. Vous devrez par exemple indiquer le kilométrage, la marque et le modèle, ainsi que la version, etc. À la fin du questionnaire, vous obtiendrez une évaluation de votre voiture. 5 minutes plus tard, vous aurez l'évaluation de votre voiture directement en ligne et par courrier électronique. Vous recevrez un appel du point de vente Opel de votre choix, qui vous fixera un rendez-vous pour récupérer votre voiture. Vous aurez toujours le choix : si l'offre ne vous convient pas, vous n'êtes pas obligé de vendre votre voiture."
+        },
+        {
+          "text": "2. Comment se calcule la valeur de ma voiture?"
+        },
+        {
+          "text": "L'évaluation est établie sur la base des éléments suivants : sa version, son kilométrage, sa date d'immatriculation, sa marque, son moteur et son modèle. Les nouvelles transactions effectuées par les professionnels sur d'autres modèles similaires sont visibles. Ces frais sont ajustés pour tenir compte de l'état actuel de la voiture."
+        },
+        {
+          "text": "Caractéristiques de la voiture :"
+        },
+        {
+          "text": "Observation du marché propre :"
+        },
+        {
+          "text": "Déduction des frais liés à la reprise:"
+        },
+        {
+          "text": "3. Comment s'effectue l'évaluation d'une voiture Opel ?"
+        },
+        {
+          "text": "vous obtiendrez une évaluation en ligne gratuite en remplissant le questionnaire en ligne avec tous les détails de la voiture. En 5 minutes maximum, vous recevrez une évaluation, qui est également envoyée par courrier électronique. Après avoir rempli le formulaire, vous recevrez un appel du point de vente de votre choix et vous serez contacté dans les 24 heures. Êtes-vous satisfait de l'évaluation ? Prenez rendez-vous chez le point de vente et vous récupérerez votre voiture. : L'un de nos experts, lors du rendez-vous, vérifie l'état de la voiture en votre présence et vous donne un prix de reprise définitif. Une fois l'accord confirmé, nous achetons votre voiture."
+        },
+        {
+          "text": "Évaluation en ligne gratuite :"
+        },
+        {
+          "text": "Prenez un rendez-vous :"
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "l-experience-opel-est-a-votre-portee",
+      "h2": "L'expérience Opel est à votre portée",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "4. Comment prendre rendez-vous pour vendre ma voiture?"
+        },
+        {
+          "text": "C'est très simple. Lorsque vous effectuez une évaluation en ligne, vous choisissez votre point de vente Opel en sélectionnant l'adresse postale de votre choix. Votre point de vente Opel vous contactera dans les 24 heures et fixera un rendez-vous. Vous pouvez également les contacter, en utilisant les coordonnées incluses dans l'évaluation. De cette façon, vous obtiendrez une offre rapide basée sur l'évaluation qui a été faite de la voiture et sur le prix du marché de la voiture."
+        },
+        {
+          "text": "5. Comment vais-je recevoir mon paiement?"
+        },
+        {
+          "text": "En faisant appel au réseau Opel, vous avez la garantie d'un paiement simple et fiable, sans surprise de dernière minute. Dès le processus de reprise finalisé, vous recevez le paiement de la voiture du point de vente Opel. En fonction du point de vente que vous avez choisi, vous pouvez payer la voiture par chèque ou par tout type de virement bancaire."
+        }
+      ],
+      "bullets": [],
+      "image": "https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.opel.be/"
+  },
+  "footer": {
+    "tagline": "Vendre sa voiture est facile grâce à Opel. Recevez une estimation gratuite de la valeur de votre voiture et vendez-la rapidement avec le réseau Opel ✓",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/OpelBE"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/OpelBelgium/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/OpelBEFR?reload=9"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://fr.linkedin.com/organization-guest/company/opelbelgium?challengeId=AQFhvu8Q4DF_1wAAAXNxOh0ZCPq1gzKUgKjTktdKNEDa3iy88b7NjZc7dQEHVVonpX3KTkZWGNW0cYReZFmtb_XZLUrmBm972Q&submissionId=b0a62dee-74c2-2316-acb6-235f2c5d646e"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’une voiture neuve, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Vendez votre voiture en toute simplicité",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Vendre sa voiture est facile grâce à Opel. Recevez une estimation gratuite de la valeur de votre voiture et vendez-la rapidement avec le réseau Opel ✓",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.opel.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Vendre sa voiture est facile grâce à Opel. Recevez une estimation gratuite de la valeur de votre voiture et vendez-la rapidement avec le réseau Opel ✓",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.opel.be/lp/vendez-votre-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 6,
+    "notes": [
+      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "image sans alt en V1 : https://www.reprise.opel.be/build/img/opel/chevron-up-home.svg",
+      "2 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

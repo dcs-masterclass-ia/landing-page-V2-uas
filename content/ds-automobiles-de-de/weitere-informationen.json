@@ -1,0 +1,371 @@
+{
+  "page_key": "ds-automobiles-de-de__weitere-informationen",
+  "brand": "ds-automobiles",
+  "market": "DE",
+  "lang": "de",
+  "locale": "de_DE",
+  "template": "shared",
+  "domain": "https://www.autoankauf.dsautomobiles.de",
+  "slug": "/weitere-informationen",
+  "source_v1": "https://www.autoankauf.dsautomobiles.de/weitere-informationen",
+  "meta": {
+    "title": "Häufig gestellte Fragen zur Autobewertung - FAQ | DS",
+    "description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von DS --> jetzt informieren",
+    "site_name": "Ds Automobiles DE",
+    "author": "Ds Automobiles DE",
+    "geo_region": "DE",
+    "geo_country": "Allemagne",
+    "og_image_alt": ""
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Startseite",
+      "href": "https://www.autoankauf.dsautomobiles.de/"
+    },
+    {
+      "label": "FAQ",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Kostenlose Online-Bewertung",
+    "h1": "",
+    "lead": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von DS --> jetzt informieren",
+    "cta_label": "Mein Ankaufsangebot berechnen",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "subnav": [
+    {
+      "label": "WAS IST",
+      "anchor": "#was-ist"
+    },
+    {
+      "label": "DS KAUFT IHR AUTO",
+      "anchor": "#ds-kauft-ihr-auto"
+    },
+    {
+      "label": "Kostenlose Bewertung",
+      "anchor": "#kostenlose-bewertung"
+    },
+    {
+      "label": "Schnell",
+      "anchor": "#schnell"
+    },
+    {
+      "label": "Einfach",
+      "anchor": "#einfach"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% kostenlos",
+      "sub": "Unverbindlich"
+    },
+    {
+      "icon": "mail",
+      "label": "Online-Bewertung",
+      "sub": "Und per E-Mail"
+    },
+    {
+      "icon": "agenda",
+      "label": "Termin nach Ihrer Wahl",
+      "sub": "Beim Handler"
+    },
+    {
+      "icon": "lock",
+      "label": "Sichere Zahlung",
+      "sub": "Schnelle Abwicklung"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "was-ist",
+      "h2": "WAS IST",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "DS KAUFT IHR AUTO?"
+        },
+        {
+          "text": "ist ein kostenloser Online-Service, mit dem Sie Ihr Fahrzeug unverbindlich schätzen lassen können. Sie erhalten direkt nach der Eingabe Ihrer Daten eine unverbindliche Schätzung. Anschließend wird Sie der von Ihnen ausgewählte DS SALON/DS STORE kontaktieren, um einen Termin zur Begutachtung Ihres Fahrzeugs zu vereinbaren."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ds-kauft-ihr-auto",
+      "h2": "DS KAUFT IHR AUTO",
+      "niveau_v1": "em",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "WIE FUNKTIONIERT DER SERVICE?"
+        },
+        {
+          "text": "Sie geben online die Details und den Zustand Ihres Fahrzeugs an. Im Anschluss erhalten ein Ankaufangebot per E-Mail."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "kostenlose-bewertung",
+      "h2": "Kostenlose Bewertung",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Das Angebot sagt Ihnen zu? Der gewählte DS Partner wird Sie kontaktieren, damit Sie mit ihm einen Termin vereinbaren können."
+        },
+        {
+          "text": "Termin vereinbaren."
+        },
+        {
+          "text": "Bei dem Termin wird Ihr Fahrzeug in Ihrem Beisein von einem unserer Experten bewertet, um ein verbindliches Angebot abzugeben. Bei erzielter Einigung kauft der DS SALON/DS STORE Ihr Fahrzeug an."
+        },
+        {
+          "text": "Vom Fachwissen bei DS Automobiles profitieren."
+        },
+        {
+          "text": "WIE WIRD DER ANKAUFSWERT EINES AUTOS BERECHNET?"
+        },
+        {
+          "text": "Der Ankaufswert wird in Euro inkl. gesetzl. Mw St. und auf Basis von Marktbeobachtungen, kürzlich durchgeführten Verkäufen und den von Ihnen bereitgestellten Informationen über den Zustand berechnet."
+        },
+        {
+          "text": "Bitte beachten Sie, dass die unverbindliche Schätzung nicht den konkreten Zustand Ihres Fahrzeugs berücksichtigt. Eine verbindliche Bewertung kann nur durch Begutachtung beim Händler vor Ort erfolgen."
+        },
+        {
+          "text": "WELCHE VORTEILE BIETET DIE NUTZUNG VON DS KAUFT IHR AUTO?"
+        },
+        {
+          "text": "Mit nur wenigen Klicks erhalten Sie online eine völlig kostenlose und unverbindliche Bewertung Ihres Fahrzeugs."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "schnell",
+      "h2": "Schnell",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Mit der Nutzung von erhalten Sie eine professionelle Bewertung Ihres Fahrzeugs durch einen Autoexperten. Jedes Fahrzeug wird auf Basis von Marktbeobachtungen und kürzlich durchgeführten Verkäufen bewertet."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "einfach",
+      "h2": "Einfach",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Die Bezahlung Ihres Fahrzeugs ist garantiert und sicher. Bei der Verkaufsabwicklung ist die Bezahlung des Fahrzeugs durch den DS Partner gesichert."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "sicher",
+      "h2": "Sicher",
+      "niveau_v1": "strong",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "WOZU VERPFLICHTET MICH EINE ANKAUFANFRAGE?"
+        },
+        {
+          "text": "Das Ankaufangebot von ist unverbindlich."
+        },
+        {
+          "text": "KOSTET MICH DIESER SERVICE ETWAS?"
+        },
+        {
+          "text": "Der Service steht Ihnen völlig kostenlos zur Verfügung."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "ich-finde-mein-fahrzeug-auf-der-website-",
+      "h2": "ICH FINDE MEIN FAHRZEUG AUF DER WEBSITE NICHT",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Kontaktieren Sie uns bitte, wenn Sie Ihr Fahrzeug nicht auf unserer Website finden. Wir erstellen Ihnen gerne ein individuelles Angebot. Beachten Sie bitte, dass Fahrzeuge nicht korrekt bewertet werden können, wenn sie zu alt oder auf dem Markt zu wenig verbreitet sind."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "ich-habe-meine-bewertung-per-e-mail-nich",
+      "h2": "ICH HABE MEINE BEWERTUNG PER E-MAIL NICHT ERHALTEN",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Es ist möglich, dass die Nachricht von von Ihrem E-Mail-Anbieter fälschlicherweise als Spam klassifiziert wurde. Überprüfen Sie bitte Ihren Spamordner und markieren Sie gegebenenfalls die Nachricht als «kein Spam». Kontaktieren Sie uns bitte, wenn Sie die Nachricht weder im Posteingang noch im Spamordner finden können. Wir senden Ihnen das Ankaufangebot in diesem Falle persönlich zu."
+        },
+        {
+          "text": "WIE KANN ICH EINEN TERMIN VEREINBAREN?"
+        },
+        {
+          "text": "Nichts einfacher als das. Bei der Onlinebewertung Ihres Fahrzeugs wählen Sie Ihren bevorzugten DS SALON/DS STORE. Dieser wird Sie dann bezüglich eines Termins zur Begutachtung Ihres Fahrzeugs kontaktieren."
+        },
+        {
+          "text": "WAS MUSS ICH ZU DIESEM TERMIN MITBRINGEN?"
+        },
+        {
+          "text": "Folgende Dinge sollten Sie beim Termin mit Ihrem DS SALON/DS STORE dabeihaben:"
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "einen-ausweis-fuhrerschein-personalauswe",
+      "h2": "Einen Ausweis (Führerschein, Personalausweis oder Pass)",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Falls vorhanden: Das vollständige Benutzerhandbuch Ihres Fahrzeugs sowie das Serviceheft und sämtliche Nachweise über ausgeführte Reparaturen am Fahrzeug."
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "ihre-bankdaten",
+      "h2": "Ihre Bankdaten",
+      "niveau_v1": "span",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Sämtliche Fahrzeugschlüssel sowie den Sicherheitscode für Ersatzschlüssel."
+        },
+        {
+          "text": "Falls vorhanden: abnehmbare Front des Autoradios, Schlüssel zur Diebstahlsicherung Ihrer Räder, alle Speichermedien zum Navigationssystem und ..."
+        },
+        {
+          "text": "natürlich Ihr Fahrzeug!"
+        },
+        {
+          "text": "WIE ERHALTE ICH MEIN GELD?"
+        },
+        {
+          "text": "Nach Verkaufsabschluss kümmert sich Ihr DS SALON/DS STORE um eine zügige Überweisung, damit Sie schnell und sicher Ihren Verkaufspreis erhalten."
+        },
+        {
+          "text": "WIE KANN ICH DS KAUFT IHR AUTO KONTAKTIEREN?"
+        }
+      ],
+      "bullets": [],
+      "image": "TODO_ARBITRAGE",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    }
+  ],
+  "cta_final": {
+    "tag": "Bereit zu verkaufen?",
+    "h2": "Bewerten Sie Ihr Auto jetzt.",
+    "lead": "Geben Sie Ihr Kennzeichen oder die Marke Ihres Fahrzeugs an.",
+    "cta_label": "Kostenlose Bewertung",
+    "cta_href": "https://www.autoankauf.dsautomobiles.de/"
+  },
+  "footer": {
+    "tagline": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von DS --> jetzt informieren",
+    "social": [],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Häufig gestellte Fragen zur Autobewertung - FAQ",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von DS --> jetzt informieren",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.autoankauf.dsautomobiles.de",
+    "area_served": "Allemagne",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q183",
+    "offer_description": "Erfahren Sie alles Wichtige über den kostenlosen Service zur Fahrzeugbewertung von DS --> jetzt informieren",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.autoankauf.dsautomobiles.de/weitere-informationen",
+    "medias_trouves": 0,
+    "blocs_detectes": 10,
+    "notes": [
+      "10 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

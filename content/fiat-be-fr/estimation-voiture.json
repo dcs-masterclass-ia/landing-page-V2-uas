@@ -1,0 +1,243 @@
+{
+  "page_key": "fiat-be-fr__lp-estimation-voiture",
+  "brand": "fiat",
+  "market": "BE",
+  "lang": "fr",
+  "locale": "fr_BE",
+  "template": "shared",
+  "domain": "https://reprise.fiat.be",
+  "slug": "/lp/estimation-voiture",
+  "source_v1": "https://reprise.fiat.be/lp/estimation-voiture",
+  "meta": {
+    "title": "Estimation gratuite de votre voiture en ligne avec Fiat",
+    "description": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "site_name": "Fiat BE",
+    "author": "Fiat BE",
+    "geo_region": "BE",
+    "geo_country": "Belgique",
+    "og_image_alt": "Estimation gratuite et sans engagement de votre voiture en ligne"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.be/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": "https://reprise.fiat.be/"
+    },
+    {
+      "label": "Estimation voiture",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Estimation gratuite et sans engagement de votre voiture en ligne",
+    "lead": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://reprise.fiat.be/"
+  },
+  "subnav": [
+    {
+      "label": "Pourquoi utiliser notre ",
+      "anchor": "#pourquoi-utiliser-notre-service-pour-est"
+    },
+    {
+      "label": "Obtenez l'estimation de ",
+      "anchor": "#obtenez-l-estimation-de-votre-voiture-en"
+    },
+    {
+      "label": "Étape 3 : Prise de rende",
+      "anchor": "#etape-3-prise-de-rendez-vous-avec-un-pro"
+    },
+    {
+      "label": "Questions Fréquentes",
+      "anchor": "#questions-frequentes"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "pourquoi-utiliser-notre-service-pour-est",
+      "h2": "Pourquoi utiliser notre service pour estimer votre voiture ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "En choisissant Reprise Fiat pour estimer votre voiture, vous êtes assuré de : ● Une estimation 100% en ligne et gratuite : estimez votre voiture en moins de 5 minutes depuis chez vous, sans frais. ● Une estimation fiable, établie grâce aux observations actuelles du marché et des transactions récentes. ● La possibilité de vendre votre voiture aux professionnels du réseau Fiat, sans engagement."
+        },
+        {
+          "text": "L'estimation de votre voiture est basée sur les observations du marché et les transactions récentes réalisées par les professionnels de l'automobile. Pour obtenir une estimation la plus précise possible, nous avons besoin d'informations complètes sur votre véhicule. Renseignez simplement le profil de votre voiture en quelques minutes. Les étapes pour estimer votre voiture Avant de commencer, il vous faut : ● La carte grise de votre voiture. ● Le kilométrage de votre voiture."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3.amazonaws.com/155/7d24392f-a5a2-440f-8435-244f0227f64c",
+      "image_alt": "Les avantages de l'estimation de votre",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "etapes",
+      "id": "obtenez-l-estimation-de-votre-voiture-en",
+      "h2": "Obtenez l'estimation de votre voiture en 3 étapes :",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Pour obtenir une estimation la plus précise possible, répondez simplement à quelques questions sur votre voiture. Si vous avez son immatriculation, vous pouvez l'ajouter. Cela facilite l'identification des caractéristiques principales de votre voiture en un clic, ce qui vous fait gagner du temps. Si vous ne l'avez pas, pas de souci ! Répondez simplement à quelques questions pour nous aider à identifier votre voiture : marque, modèle, version, etc. Grâce à ces informations, nous pouvons analyser le marché et vous donner une estimation précise pour votre voiture, qui sera également envoyée par e-mail. Cette estimation et notre offre de reprise sont sans engagement, vous choisissez de continuer ou non le processus ! Après avoir obtenu votre estimation, le concessionnaire Fiat que vous avez choisi vous recontactera pour fixer un rendez-vous. Il procèdera à une estimation finale de votre véhicule. Si cette estimation vous convient, il s'occupera de la reprise de votre véhicule en toute simplicité !"
+        },
+        {
+          "text": "Étape 1 : Remplissez les caractéristiques de votre véhicule nécessaires à son estimation."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "etape-3-prise-de-rendez-vous-avec-un-pro",
+      "h2": "Étape 3 : Prise de rendez-vous avec un professionnel du réseau Fiat",
+      "niveau_v1": "u",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "● Estimation de votre voiture gratuite et entièrement en ligne : évaluez la valeur de votre voiture directement sur notre site internet. C'est gratuit et fiable avec Fiat. ● Estimation rapide de votre voiture : dès que l'identification de votre voiture est terminée, vous recevez votre estimation. ● Estimation valable pendant 10 jours : vous souhaitez réfléchir ? Vous avez le temps ! ● L'étendue du réseau Fiat pour la reprise de votre voiture partout en Belgique: avec nos nombreux points de vente, il y a forcément une concession Fiat près de chez vous !"
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "faq",
+      "id": "questions-frequentes",
+      "h2": "Questions Fréquentes",
+      "niveau_v1": "h3",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Comment est calculée l'estimation de reprise donnée à ma voiture ?"
+        },
+        {
+          "text": "L'estimation reçue est établie sur les caractéristiques du véhicule, les observations du marché sur des mêmes modèles, et les frais nécessaires à la remise en état du véhicule déduits de votre estimation."
+        },
+        {
+          "text": "Comment fonctionne la reprise d'une voiture ?"
+        },
+        {
+          "text": "Procédez à l'estimation de votre véhicule grâce à notre service de reprise en ajoutant ses caractéristiques. L'estimation de votre voiture est prête en moins de 5 minutes. Une fois votre estimation obtenue, vous êtes recontacté par le concessionnaire Fiat de votre choix dans les 24 heures. Si l'estimation vous convient, le concessionnaire vous propose un rendez-vous en point de vente pour reprendre votre véhicule. Une fois en concession, l'un de nos experts examine avec vous l'état du véhicule et vous propose alors un prix de reprise ferme. Si l'offre vous convient, le concessionnaire rachète votre véhicule."
+        },
+        {
+          "text": "Quels sont les documents et informations nécessaires pour procéder à l'estimation de ma voiture ?"
+        },
+        {
+          "text": "Afin d'évaluer votre voiture, vous aurez besoin de sa carte grise, son kilométrage, sa version/finition, et d'autres informations supplémentaires sur le véhicule telles que sa couleur, carrosserie, ses équipements, etc."
+        },
+        {
+          "text": "L'estimation de reprise de mon véhicule m'engage-t-elle ?"
+        },
+        {
+          "text": "Notre service d'estimation est sans engagement. Vous obtenez directement l'estimation de votre voiture à la fin du parcours. Le concessionnaire que vous aurez choisi vous rappelle sous 24 heures pour vous proposer un rendez-vous pour la reprise de votre véhicule. Vous décidez alors si vous souhaitez poursuivre ou non le processus."
+        }
+      ],
+      "bullets": [],
+      "image": "https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image_alt": "TODO_ARBITRAGE",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://reprise.fiat.be/"
+  },
+  "footer": {
+    "tagline": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/fiat.belgium"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/fiat_belux/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/channel/UCRVsq5hYiULw7rZ4wjznKqw"
+      }
+    ],
+    "columns": [],
+    "legal": "*Bonus valable pour tout achat d’un véhicule neuf, jusqu'au 2026-7-31, dans les réseaux participants © 2026",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Estimation gratuite de votre voiture en ligne avec Fiat",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://reprise.fiat.be",
+    "area_served": "Belgique",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q31",
+    "offer_description": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "howto_name": "Estimation gratuite et sans engagement de votre voiture en ligne",
+    "howto_description": "Obtenez une offre de reprise sans engagement de votre véhicule en quelques clics avec le service Reprise Fiat",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://reprise.fiat.be/lp/estimation-voiture",
+    "medias_trouves": 8,
+    "blocs_detectes": 4,
+    "notes": [
+      "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/separator-breadcrumb.png",
+      "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "image sans alt en V1 : https://reprise.fiat.be/build/img/fiat/chevron-up-home.svg",
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale reperee par repli multilingue — A VERIFIER",
+      "date d'expiration de la mention legale non reconnue"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}

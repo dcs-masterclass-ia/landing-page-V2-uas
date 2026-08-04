@@ -1,0 +1,201 @@
+{
+  "page_key": "ds-automobiles-fr-fr__lp-ds-reprise-pour-une-occasion",
+  "brand": "ds-automobiles",
+  "market": "FR",
+  "lang": "fr",
+  "locale": "fr_FR",
+  "template": "shared",
+  "domain": "https://www.reprise.dsautomobiles.fr",
+  "slug": "/lp/ds-reprise-pour-une-occasion",
+  "source_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-une-occasion",
+  "meta": {
+    "title": "Reprise de véhicule pour un achat d'occasion avec Reprise DS",
+    "description": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque.",
+    "site_name": "Ds Automobiles FR",
+    "author": "Ds Automobiles FR",
+    "geo_region": "FR",
+    "geo_country": "France",
+    "og_image_alt": "Reprise de votre ancien véhicule pour une occasion"
+  },
+  "header": {
+    "logo": "TODO_ARBITRAGE",
+    "logo_alt": "TODO_ARBITRAGE",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "breadcrumb": [
+    {
+      "label": "Accueil",
+      "href": null
+    }
+  ],
+  "hero": {
+    "image": "TODO_HERO_STELLANTIS",
+    "tag": "Estimation gratuite en ligne",
+    "h1": "Reprise de votre ancien véhicule pour une occasion",
+    "lead": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque.",
+    "cta_label": "Calculer mon offre de reprise",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "subnav": [
+    {
+      "label": "Un grand choix d'occasio",
+      "anchor": "#un-grand-choix-d-occasions-dans-les-nomb"
+    },
+    {
+      "label": "formulaire en ligne",
+      "anchor": "#formulaire-en-ligne"
+    },
+    {
+      "label": "Pourquoi opter pour la r",
+      "anchor": "#pourquoi-opter-pour-la-reprise-pour-une-"
+    }
+  ],
+  "trust": [
+    {
+      "icon": "check",
+      "label": "100% gratuit",
+      "sub": "Sans engagement"
+    },
+    {
+      "icon": "mail",
+      "label": "Estimation en ligne",
+      "sub": "Et par email"
+    },
+    {
+      "icon": "agenda",
+      "label": "Rendez-vous a votre convenance",
+      "sub": "En concession"
+    },
+    {
+      "icon": "lock",
+      "label": "Paiement securise",
+      "sub": "Transaction rapide"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "two_col",
+      "id": "un-grand-choix-d-occasions-dans-les-nomb",
+      "h2": "Un grand choix d'occasions dans les nombreux DS Stores ou DS Salons",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Si acheter une DS neuve ne fait pas partie de vos projets, sachez que nous reprenons également votre ancienne voiture pour l’achat d’un véhicule d’occasion. Avec un réseau idéalement implanté sur tout l’Hexagone, il y a très probablement un DS Store ou un DS salon proche de chez vous. Avec pas moins de 150 points de vente, votre future DS d’occasion n’est jamais loin de votre domicile. Découvrez-la en visitant l’un de nos DS Stores, mais aussi en ligne, afin de vous faire une première idée de votre future acquisition. En plus de la reprise de votre véhicule pour l’achat d’une occasion, votre DS Store pourra également vous proposer des solutions de financement ou de location adaptées à vos besoins et à votre budget. N’hésitez pas à simuler le montant de votre reprise à l’aide du ."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/parc-auto-ds.jpg",
+      "image_alt": "parc auto DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "right"
+    },
+    {
+      "type": "two_col",
+      "id": "formulaire-en-ligne",
+      "h2": "formulaire en ligne",
+      "niveau_v1": "a",
+      "titre_absent_en_v1": true,
+      "paragraphs": [
+        {
+          "text": "Reprise pour une occasion DS : estimation au plus juste, et transaction rapide et sans tracas. Si l’acquisition d’une DS neuve n’est pas prévue, le réseau DS Store vous fera bénéficier de la même attention lors de la reprise d’un ancien véhicule pour l’achat occasion d’une DS. Le processus est identique. Il suffit dans un premier temps de la valeur de votre véhicule pour obtenir rapidement une première estimation. Sélectionnez ensuite le DS Store ou le DS Salon de votre choix et obtenez en quelques clics un rendez-vous avec l’un de nos experts. Lors de votre visite, votre véhicule sera alors examiné physiquement et en votre présence et une offre de reprise affinée au prix le plus juste du marché automobile vous sera proposée. En cas d’accord entre les parties, nous nous engageons à reprendre votre véhicule avec un paiement rapide et sécurisé sous huit jours ouvrés."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/parc-auto-ds.jpg",
+      "image_alt": "parc auto DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    },
+    {
+      "type": "two_col",
+      "id": "pourquoi-opter-pour-la-reprise-pour-une-",
+      "h2": "Pourquoi opter pour la reprise pour une occasion ?",
+      "niveau_v1": "h2",
+      "titre_absent_en_v1": false,
+      "paragraphs": [
+        {
+          "text": "Qu’elle soit de marque DS ou non, vendre votre ancien véhicule à professionnel représente de nombreux avantages, ce, même si vous souhaitez faire une reprise pour l’achat d’une occasion. Cela évite de publier de nombreuses annonces, n’occasionne pas de perte de temps et permet surtout de bénéficier d’une estimation sure et fiable. Ce n’est généralement pas le cas lorsque l’on opte pour la vente entre particuliers où vous aurez à négocier le prix avec l’acheteur et prendre des précautions pour faire en sorte que la vente se déroule correctement. Un autre avantage de la reprise pour une occasion DS est qu’aucune formalité n’est à accomplir de votre côté, nous prenons tout en charge. Votre seule et unique tâche sera de prendre rendez-vous avec l’expert de votre choix dans l’un de nos DS Store après avoir estimé la valeur de votre voiture."
+        },
+        {
+          "text": "Saviez-vous qu’un particulier ne peut pas vendre à un autre particulier un véhicule non roulant ou sans contrôle technique valide ? Mais cela n’est pas le cas pour une revente à un professionnel. Si la validité de votre contrôle technique est échue, inutile donc de repasser par votre centre de contrôle avant de vous rendre dans votre DS Store. Même pour l’achat d’une DS d’occasion, votre véhicule est repris quels que soient son état et sa marque."
+        },
+        {
+          "text": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque."
+        }
+      ],
+      "bullets": [],
+      "image": "https://usine-a-sites.s3-eu-west-1.amazonaws.com/dsfr/images/lp/parc-auto-ds.jpg",
+      "image_alt": "parc auto DS",
+      "tag": "TODO_ARBITRAGE",
+      "image_side": "left"
+    }
+  ],
+  "cta_final": {
+    "tag": "Pret a vendre ?",
+    "h2": "Estimez votre voiture maintenant.",
+    "lead": "Renseignez votre immatriculation ou indiquez la marque de votre vehicule.",
+    "cta_label": "Estimation gratuite",
+    "cta_href": "https://www.reprise.dsautomobiles.fr/"
+  },
+  "footer": {
+    "tagline": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque.",
+    "social": [
+      {
+        "network": "facebook",
+        "href": "https://www.facebook.com/DSFranceOfficiel/"
+      },
+      {
+        "network": "x",
+        "href": "https://twitter.com/DS_fr/"
+      },
+      {
+        "network": "instagram",
+        "href": "https://www.instagram.com/dsfrance/"
+      },
+      {
+        "network": "youtube",
+        "href": "https://www.youtube.com/user/dsfranceofficiel"
+      },
+      {
+        "network": "linkedin",
+        "href": "https://www.linkedin.com/company/ds-France"
+      }
+    ],
+    "columns": [],
+    "legal": "TODO_ARBITRAGE",
+    "legal_expire": null,
+    "eco": "TODO_ARBITRAGE",
+    "eco_link_label": "TODO_ARBITRAGE",
+    "eco_link_href": "TODO_ARBITRAGE",
+    "year": "2026"
+  },
+  "jsonld": {
+    "service_name": "Reprise de véhicule pour un achat d'occasion avec Reprise DS",
+    "service_alt": [],
+    "service_type": "Reprise automobile",
+    "service_description": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque.",
+    "provider_name": "TODO_ARBITRAGE",
+    "provider_url": "https://www.reprise.dsautomobiles.fr",
+    "area_served": "France",
+    "area_wikidata": "https://www.wikidata.org/wiki/Q142",
+    "offer_description": "Bénéficiez en quelques clics d'une offre de reprise de votre ancien véhicule pour une occasion DS. Et ce, quel que soit son état, son âge ou sa marque.",
+    "howto_name": "TODO_ARBITRAGE",
+    "howto_description": "TODO_ARBITRAGE",
+    "related": []
+  },
+  "_extraction": {
+    "canonical_v1": "https://www.reprise.dsautomobiles.fr/lp/ds-reprise-pour-une-occasion",
+    "medias_trouves": 2,
+    "blocs_detectes": 3,
+    "notes": [
+      "1 bloc(s) sans titre balise en V1 — titre deduit du texte, A VERIFIER",
+      "mention legale de l'offre non trouvee"
+    ]
+  },
+  "_migration": {
+    "chrome_ui_generee": true,
+    "_note_chrome_ui": "Libelles d'interface generiques appliques depuis i18n/ui_strings.json (badge hero, CTA de repli, cartes de confiance, bloc CTA final). Pas des citations V1 -- a relire pour le ton de marque avant publication."
+  }
+}
