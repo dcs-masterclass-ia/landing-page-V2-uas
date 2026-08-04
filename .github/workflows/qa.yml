@@ -1,0 +1,28 @@
+name: QA Gate
+
+on:
+  pull_request:
+    paths: ['content/**', 'themes/**', 'templates/**', 'scripts/**']
+  push:
+    branches: [main]
+
+jobs:
+  build-and-qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install jinja2
+      - name: Build des LP
+        run: python3 scripts/build.py
+      - name: QA Gate (bloquant)
+        run: python3 scripts/qa.py
+      - name: Diff des artefacts
+        run: git diff --stat -- dist/ || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lp-v2-dist
+          path: dist/
